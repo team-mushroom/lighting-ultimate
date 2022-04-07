@@ -1,0 +1,97 @@
+{
+	"tempHash": "004E93563D0C209F",
+	"tbluHash": "007A565EE653FB02",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"d8e772b189caa890": {
+			"parent": {
+				"ref": "564600409be0d978",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "EventChannelTransmitter_bool_AD_DEBUGGER",
+			"template": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {
+				"m_rChannelToken": {
+					"type": "SEntityTemplateReference",
+					"value": "2c90c6a6bcbe95b2"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2c90c6a6bcbe95b2": {
+			"parent": {
+				"ref": "564600409be0d978",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "EventToken_DEBUG_AREADISCOVERED",
+			"template": "[assembly:/_pro/design/gamecore/events/eventtokens_props.template?/eventtoken_debug_areadiscovered.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/events/eventtokens_props.template?/eventtoken_debug_areadiscovered.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"entitySubsets": [
+				[
+					"Activatable_NormalGameplay, IEntity",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioEmitters",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioVolumetricGeom",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Gates",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Replicable",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Rooms",
+					{
+						"entities": []
+					}
+				]
+			]
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/ancestral/lighting_overrides_bulldog.brick].pc_entitytype"
+	],
+	"subType": 1,
+	"quickEntityVersion": 2.1
+}
