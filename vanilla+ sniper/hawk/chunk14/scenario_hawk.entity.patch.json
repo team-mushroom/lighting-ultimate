@@ -1,0 +1,1 @@
+{"tempHash":"00509CF8C1BBC557","tbluHash":"00F8274403D36DB8","patch":[{"op":"replace","path":"/entities/c047006b5dd027c1/properties/m_bVignetteEnabled/value","value":false},{"op":"replace","path":"/entities/c047006b5dd027c1/properties/m_fHDRBloomScale/value","value":"LN|0.4"}],"patchVersion":4}

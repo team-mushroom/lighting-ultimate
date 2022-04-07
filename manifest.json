@@ -1,0 +1,519 @@
+{
+	"id": "musicalmushr00m.LightingUltimate",
+	"name": "Lighting Ultimate",
+	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
+	"authors": ["musicalmushr00m"],
+	"frameworkVersion": "1.1.1",
+	"version": "2.0.0",
+	"loadBefore": [
+		"KevinRudd.TODChange"
+    ],
+	"options": [
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Prologue - Arrival",
+			"enabledByDefault": true,
+			"contentFolder": "classic/thefacility_arrival"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Prologue - Arrival"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Prologue - Training",
+			"enabledByDefault": true,
+			"contentFolder": "classic/thefacility_yacht"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Prologue - Training"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Prologue - The Final Test",
+			"enabledByDefault": true,
+			"contentFolder": "classic/thefacility_hangar"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Prologue - The Final Test"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Paris",
+			"enabledByDefault": true,
+			"contentFolder": "classic/paris"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Paris",
+			"contentFolder": "vanilla+ s1/paris"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Paris"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow",
+			"enabledByDefault": true,
+			"contentFolder": "classic/coastaltown_octopus"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow",
+			"contentFolder": "vanilla+ s1/coastaltown_octopus"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Sapienza - The Icon",
+			"enabledByDefault": true,
+			"contentFolder": "classic/coastaltown_copperhead"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Sapienza - The Icon",
+			"contentFolder": "vanilla+ s1/coastaltown_copperhead"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Sapienza - The Icon"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Sapienza - Landslide",
+			"enabledByDefault": true,
+			"contentFolder": "classic/coastaltown_mamba"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Sapienza - Landslide",
+			"contentFolder": "vanilla+ s1/coastaltown_mamba"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Sapienza - Landslide"
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Sapienza - The Author",
+			"enabledByDefault": true,
+			"contentFolder": "goty/coastaltown_ebola"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Sapienza - The Author",
+			"contentFolder": "vanilla+ s1/coastaltown_ebola"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Sapienza - The Author"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Marrakesh - A Gilded Cage",
+			"enabledByDefault": true,
+			"contentFolder": "classic/marrakesh_spider"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Marrakesh - A Gilded Cage",
+			"contentFolder": "vanilla+ s1/marrakesh_spider"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Marrakesh - A Gilded Cage"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Marrakesh - AHBOS",
+			"enabledByDefault": true,
+			"contentFolder": "classic/marrakesh_python"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Marrakesh - AHBOS",
+			"contentFolder": "vanilla+ s1/marrakesh_python"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Marrakesh - AHBOS"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Bangkok - Club 27",
+			"enabledByDefault": true,
+			"contentFolder": "classic/bangkok_tiger"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Bangkok - Club 27",
+			"contentFolder": "vanilla+ s1/bangkok_tiger"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Bangkok - Club 27"
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Bangkok - The Source",
+			"enabledByDefault": true,
+			"contentFolder": "goty/bangkok_zika"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Bangkok - The Source"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Colorado - Freedom Fighters",
+			"enabledByDefault": true,
+			"contentFolder": "classic/colorado_bull"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Colorado - Freedom Fighters",
+			"contentFolder": "vanilla+ s1/colorado_bull"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Colorado - Freedom Fighters"
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Colorado - The Vector",
+			"enabledByDefault": true,
+			"contentFolder": "goty/colorado_rabies"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Colorado - The Vector",
+			"contentFolder": "vanilla+ s1/colorado_rabies"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Colorado - The Vector"
+		},
+		{
+			"name": "Classic Pack",
+			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Hokkaido - Situs Inversus",
+			"enabledByDefault": true,
+			"contentFolder": "classic/hokkaido_snowcrane"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
+			"type": "select",
+			"group": "Hokkaido - Situs Inversus",
+			"contentFolder": "vanilla+ s1/hokkaido_snowcrane"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Hokkaido - Situs Inversus"
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Hokkaido - Patient Zero",
+			"enabledByDefault": true,
+			"contentFolder": "goty/hokkaido_flu"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Hokkaido - Patient Zero"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Hawke's Bay",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/sheep"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Hawke's Bay"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Miami",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/miami"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Miami"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Santa Fortuna",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/colombia"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Santa Fortuna"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Mumbai",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/mumbai"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Mumbai"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Whittleton Creek",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/skunk"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Whittleton Creek"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Isle of Sgail",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/theark"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Isle of Sgail"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "New York",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/greedy"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "New York"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Haven Island",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s2/opulent"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Haven Island"
+		},		
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Himmelstein",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ sniper/hawk"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Himmelstein"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Hantu Port",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ sniper/salty"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Hantu Port"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Siberia",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ sniper/caged"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Siberia"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Dubai",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s3/golden"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Dubai"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Dartmoor",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s3/ancestral"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Dartmoor"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Berlin",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s3/edgy"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Berlin"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Chongqing",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s3/wet"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Chongqing"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Mendoza",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s3/elegant"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Mendoza"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Carpathian Mountains",
+			"enabledByDefault": true,
+			"contentFolder": "vanilla+ s3/trapped"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"group": "Carpathian Mountains"
+		}
+	]
+}
