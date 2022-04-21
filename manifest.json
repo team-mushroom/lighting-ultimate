@@ -79,6 +79,20 @@
 			"contentFolder": "classic/coastaltown_octopus"
 		},
 		{
+			"name": "Classic Pack+",
+			"tooltip": "An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow",
+			"enabledByDefault": true,
+			"contentFolder": "classic+ s1/coastaltown_octopus",
+			"dependencies": [
+				{
+					"runtimeID": "0049E402097FE46D",
+					"toChunk": "chunk26"
+				}
+			]
+		},
+		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
@@ -315,7 +329,8 @@
 			"type": "select",
 			"group": "Miami",
 			"enabledByDefault": true,
-			"contentFolder": "vanilla+ s2/miami"
+			"contentFolder": "vanilla+ s2/miami",
+			"dependencies": []
 		},
 		{
 			"name": "Off",

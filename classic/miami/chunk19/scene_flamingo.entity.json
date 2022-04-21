@@ -1,0 +1,516 @@
+{
+	"tempHash": "00DCAD025C52A18F",
+	"tbluHash": "0056A0DB63283922",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"6b4547efec250a5b": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "ceramictiles_modern_a_colormask",
+			"template": "[assembly:/_pro/environment/materials/generic/wall/ceramictiles_modern_a_colormask.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/generic/wall/ceramictiles_modern_a_colormask.mi].pc_entityblueprint",
+			"properties": {
+				"1737952988": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"2287298018": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#a7d3eb"
+				},
+				"ConstantColorRGB_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_04_Value": {
+					"type": "float32",
+					"value": -0.97000002861022949
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 0.87000000476837158
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"93445f83d9a7bb18": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "decal_concrete_brushed_joint_a",
+			"template": "[assembly:/_pro/environment/materials/decals/ground/decal_concrete_brushed_joint_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/decals/ground/decal_concrete_brushed_joint_a.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"ConstantVector1D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 0.30000001192092896
+				},
+				"ConstantVector1D_09_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_09_Value": {
+					"type": "float32",
+					"value": 1
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4ced2f4fac44e2f": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "concrete_painted_casted_colormask_a",
+			"template": "[assembly:/_pro/environment/materials/generic/wall/concrete_painted_casted_colormask_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/generic/wall/concrete_painted_casted_colormask_a.mi].pc_entityblueprint",
+			"properties": {
+				"1737952988": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"2287298018": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"ConstantColorRGB_04_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_04_Value": {
+					"type": "SColorRGB",
+					"value": "#292929"
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"ConstantVector1D_04_Value": {
+					"type": "float32",
+					"value": 0.2800000011920929
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fa4bd7b7dfd241bb": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "miami_medieval_3mat_blend_type_a",
+			"template": "[assembly:/_pro/environment/materials/generic/wall/miami_medieval_3mat_blend_type_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/generic/wall/miami_medieval_3mat_blend_type_a.mi].pc_entityblueprint",
+			"properties": {
+				"1787395739": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"2287298018": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"ConstantVector1D_03_Value": {
+					"type": "float32",
+					"value": 0.25
+				},
+				"ConstantVector1D_04_Value": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"323a43a75e05d6c": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "trim_concrete_italy_a",
+			"template": "[assembly:/_pro/environment/materials/architecture/trims/trim_concrete_italy_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/architecture/trims/trim_concrete_italy_a.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"Texture2D_01_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2D_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00D69A45EDEDA956",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_03_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2D_03": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "007F742E2C06092F",
+						"flag": "5F"
+					}
+				},
+				"Texture2DNormal_01_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2DNormal_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00496E20EF9CC16A",
+						"flag": "5F"
+					}
+				},
+				"ConstantVector1D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 0.25
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"720e1d349ef2ca12": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "ceramictiles_modern_white_c_clean",
+			"template": "[assembly:/_pro/environment/materials/generic/wall/ceramictiles_modern_white_c_clean.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/generic/wall/ceramictiles_modern_white_c_clean.mi].pc_entityblueprint",
+			"properties": {
+				"1737952988": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"2287298018": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"ConstantVector1D_09_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_09_Value": {
+					"type": "float32",
+					"value": 1.2200000286102295
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 0.64999997615814209
+				},
+				"ConstantVector1D_04_Value": {
+					"type": "float32",
+					"value": -1.25
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"entitySubsets": [
+				["Activatable_NormalGameplay, IEntity", {
+					"entities": []
+				}],
+				["AudioEmitters", {
+					"entities": []
+				}],
+				["AudioVolumetricGeom", {
+					"entities": []
+				}],
+				["Gates", {
+					"entities": []
+				}],
+				["Replicable", {
+					"entities": []
+				}],
+				["Rooms", {
+					"entities": []
+				}]
+			]
+		},
+		"b04c584ff00bb23b": {
+			"parent": {
+				"ref": "a9ca2331238dc6e6",
+				"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+			},
+			"name": "concrete_painted_a",
+			"template": "[assembly:/_pro/environment/materials/generic/wall/concrete_painted_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/generic/wall/concrete_painted_a.mi].pc_entityblueprint",
+			"properties": {
+				"1737952988": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"2287298018": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}]
+				},
+				"ConstantVector1D_04_Value": {
+					"type": "float32",
+					"value": 0.34999999403953552
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "a9ca2331238dc6e6",
+						"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [{
+		"ref": "4b3de1ae18523bb8",
+		"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+	}, {
+		"ref": "aa6df5aebcd0e9df",
+		"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+	}],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/miami/lighting_overrides_flamingo.brick].pc_entitytype"],
+	"subType": 1,
+	"quickEntityVersion": 2.1
+}

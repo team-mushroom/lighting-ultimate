@@ -1,0 +1,677 @@
+{
+	"tempHash": "00227C1658A0BF80",
+	"tbluHash": "006F2B224F828C5B",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"entitySubsets": [
+				["Activatable_NormalGameplay, IEntity", {
+					"entities": []
+				}],
+				["AudioEmitters", {
+					"entities": []
+				}],
+				["AudioVolumetricGeom", {
+					"entities": []
+				}],
+				["Gates", {
+					"entities": []
+				}],
+				["Replicable", {
+					"entities": []
+				}],
+				["Rooms", {
+					"entities": []
+				}]
+			]
+		}
+	},
+	"propertyOverrides": [{
+		"entities": [{
+			"ref": "f347794db0661a88",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_eLightType": {
+				"type": "ILightEntity.ELightType",
+				"value": "LT_DIRECTIONAL"
+			},
+			"m_diffuseColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_bCastCSMShadows": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fDiffusePower": {
+				"type": "float32",
+				"value": 1000
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "146b29206fae314",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_mTransform": {
+				"type": "SMatrix43",
+				"value": {
+					"rotation": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"position": {
+						"x": -48.717041015625,
+						"y": 71.20594024658203,
+						"z": -1.0288339853286743
+					}
+				}
+			},
+			"m_GlobalLightFrontColor": {
+				"type": "SColorRGB",
+				"value": "#cce7ff"
+			},
+			"m_GlobalLightBackColor": {
+				"type": "SColorRGB",
+				"value": "#e0f1ff"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "fc37b35076c96cd0",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_mTransform": {
+				"type": "SMatrix43",
+				"value": {
+					"rotation": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"position": {
+						"x": 65.85529327392578,
+						"y": -67.98452758789063,
+						"z": 51.188621520996094
+					}
+				}
+			},
+			"m_fSunRadiusScale": {
+				"type": "float32",
+				"value": 2
+			},
+			"m_fSunIntensityScale": {
+				"type": "float32",
+				"value": 10000
+			},
+			"m_fRayleighHeightScale": {
+				"type": "float32",
+				"value": 5000
+			},
+			"m_fHeightAboveSeaLevel": {
+				"type": "float32",
+				"value": 200
+			},
+			"m_fMieAnisotropy": {
+				"type": "float32",
+				"value": 0.75999999046325684
+			},
+			"m_fMieHeightScale": {
+				"type": "float32",
+				"value": 1200
+			},
+			"m_eidParent": {
+				"type": "SEntityTemplateReference",
+				"value": "fffffffffffffffe"
+			},
+			"m_eRoomBehaviour": {
+				"type": "ZSpatialEntity.ERoomBehaviour",
+				"value": "ROOM_STATIC"
+			},
+			"m_bForceVisible": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bVisible": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bIsPrivate": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bVisibleInBoxReflection": {
+				"type": "bool",
+				"value": true
+			},
+			"m_RayleighColor": {
+				"type": "SColorRGB",
+				"value": "#6ea3ff"
+			},
+			"m_MieColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_fWorldScale": {
+				"type": "float32",
+				"value": 5
+			},
+			"m_fWaterPlaneHeight": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fMieDepthScale": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_fRayleighDepthScale": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_fShadowedMieDepthScale": {
+				"type": "float32",
+				"value": 4
+			},
+			"m_fShadowedInscatterIntensity": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fShadowedRange": {
+				"type": "float32",
+				"value": 80
+			},
+			"m_fWorldScale_LowQuality": {
+				"type": "float32",
+				"value": 2
+			},
+			"m_bUseLowQualitySettings": {
+				"type": "bool",
+				"value": true
+			},
+			"m_vRayleighColor_LowQuality": {
+				"type": "SColorRGB",
+				"value": "#5ca8ff"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "7c09ec4cbb5e006e",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}, {
+			"ref": "b3f6bc8f76b470be",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}, {
+			"ref": "3a651073f21f1d17",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}, {
+			"ref": "d3a1d48b3ebd6994",
+			"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_vHDRAdaptationMiddleGrayMinMax": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.10000000149011612,
+					"y": 0.5
+				}
+			},
+			"m_fHDRBrightPassMaxPercentage": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_vHDRAdaptationSpeed": {
+				"type": "SVector2",
+				"value": {
+					"x": 10,
+					"y": 10
+				}
+			},
+			"m_vHDRAdaptationLuminanceMinMax": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.05000000074505806,
+					"y": 1000
+				}
+			},
+			"m_fHDRWhitePoint": {
+				"type": "float32",
+				"value": 11
+			},
+			"m_fHDRBrightPassThreshold": {
+				"type": "float32",
+				"value": 0.05000000074505806
+			},
+			"m_bColorCorrectionEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bDistortionBarrelEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bHDRLensFlareEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fHDRBloomFalloff": {
+				"type": "float32",
+				"value": 3
+			},
+			"m_bNoiseEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bHDRGlareEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_eHDRGlareType": {
+				"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+				"value": "eFilterSunnyCross"
+			},
+			"m_bSSAOEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bFogEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDistortionBarrelScale": {
+				"type": "float32",
+				"value": 0.20000000298023224
+			},
+			"m_fFogDensity": {
+				"type": "float32",
+				"value": 0.10999999940395355
+			},
+			"m_FogColor": {
+				"type": "SColorRGB",
+				"value": "#171c21"
+			},
+			"m_bVignetteEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bDepthOfFieldEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fDepthOfFieldFocalDistance": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_fLensBlur": {
+				"type": "float32",
+				"value": 0.30000001192092896
+			},
+			"m_bGaussianBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fGaussianBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fSpatialBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fDepthOfFieldFocusEnd": {
+				"type": "float32",
+				"value": 50
+			},
+			"m_fDepthOfFieldFocalFadeNear": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_bRadialBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bSpatialBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fHDRBloomScale": {
+				"type": "float32",
+				"value": 0.2
+			},
+			"m_fDepthOfFieldFocalFadeFar": {
+				"type": "float32",
+				"value": 25
+			},
+			"m_bDistortionWobbleEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDistortionWobbleScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_vDistortionWobbleSpeed": {
+				"type": "SVector2",
+				"value": {
+					"x": 1,
+					"y": 1
+				}
+			},
+			"m_fNoiseIntensity": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fNoiseScale": {
+				"type": "float32",
+				"value": 0.75
+			},
+			"m_bFogGlobal": {
+				"type": "bool",
+				"value": false
+			},
+			"m_VignetteColor": {
+				"type": "SColorRGB",
+				"value": "#0d0d0d"
+			},
+			"m_fVignetteStrength": {
+				"type": "float32",
+				"value": 0.20000000298023224
+			},
+			"m_bDepthOfFieldUseNew": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fDepthOfFieldAperture": {
+				"type": "float32",
+				"value": 3
+			},
+			"m_vDistortionBarrel": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.2199999988079071,
+					"y": 0.05999999865889549
+				}
+			},
+			"m_bForegroundBlur": {
+				"type": "bool",
+				"value": false
+			},
+			"m_eBlurQuality": {
+				"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+				"value": "eLowRezLensBlurSoft"
+			},
+			"m_fHDRLensFlareAttenuation": {
+				"type": "float32",
+				"value": 0.56999999284744263
+			},
+			"m_vFogNearDistances": {
+				"type": "SVector2",
+				"value": {
+					"x": 0,
+					"y": 0
+				}
+			},
+			"m_bFogUseQuarterRes": {
+				"type": "bool",
+				"value": false
+			},
+			"m_vFogTurbulenceNearScale": {
+				"type": "SVector3",
+				"value": {
+					"x": 10,
+					"y": 10,
+					"z": 10
+				}
+			},
+			"m_fFogTurbulenceOpacity": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_fRadialBlurStart": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fRadialBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fRadialBlurFadeFactor": {
+				"type": "float32",
+				"value": 0.10999999940395355
+			},
+			"m_vVignetteGradientLightColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_fVignetteGradientLightSize": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_fVignetteGradientLightStrength": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fDepthOfFieldBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_vFogTurbulenceVelocity": {
+				"type": "SVector3",
+				"value": {
+					"x": 0.30000001192092896,
+					"y": 0.5,
+					"z": 0.10000000149011612
+				}
+			},
+			"m_eHDRToneMapType": {
+				"type": "ZRenderPostfilterParametersEntity.EHDRToneMapType",
+				"value": "eFilmicRGB"
+			},
+			"m_fFogTurbulenceChaos": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_bHDREnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fDepthOfFieldFocusStart": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fSSAOOcclusionRange": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_HDRColorTint": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_vSSAOStrengthNearFar": {
+				"type": "SVector2",
+				"value": {
+					"x": 0,
+					"y": 15
+				}
+			},
+			"m_vSSAODistanceNearFar": {
+				"type": "SVector2",
+				"value": {
+					"x": 0,
+					"y": 15
+				}
+			},
+			"m_vSSAOScreenSpaceRadiusLimits": {
+				"type": "SVector2",
+				"value": {
+					"x": 15,
+					"y": 100
+				}
+			},
+			"m_vRadialBlurCenter": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.5,
+					"y": 0.5
+				}
+			},
+			"m_vSpatialBlurCenter": {
+				"type": "SVector3",
+				"value": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			"m_fSpatialBlurStart": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fSpatialBlurFade": {
+				"type": "float32",
+				"value": 10
+			},
+			"BillboardTexture": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00B0143A9F1940DB",
+					"flag": "5F"
+				}
+			},
+			"m_fLabsDofAnamorphic": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fLabsDofSwirl": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_bDistortionBarrelUseRealTime": {
+				"type": "bool",
+				"value": false
+			},
+			"m_vDistortionWobbleWaveLength": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.029999999329447746,
+					"y": 0.029999999329447746
+				}
+			},
+			"m_bDistortionWobbleUseRealTime": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bDoubleVisionEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDoubleVisionStrength": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fDoubleVisionSpeed": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fDoubleVisionEyeSeparation": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fDoubleVisionSpeed1": {
+				"type": "float32",
+				"value": 147
+			},
+			"m_fDoubleVisionSpeed2": {
+				"type": "float32",
+				"value": 109
+			},
+			"m_fDoubleVisionScaleSpeed1": {
+				"type": "float32",
+				"value": 121
+			},
+			"m_fDoubleVisionScaleSpeed2": {
+				"type": "float32",
+				"value": 97
+			},
+			"m_fDoubleVisionMinScale": {
+				"type": "float32",
+				"value": 0.070000000298023224
+			},
+			"m_fDoubleVisionMaxScale": {
+				"type": "float32",
+				"value": 0.090000003576278687
+			},
+			"m_fDoubleVisionBlendSpeed": {
+				"type": "float32",
+				"value": 80
+			},
+			"m_fDoubleVisionBlendStrength": {
+				"type": "float32",
+				"value": 0.20000000298023224
+			},
+			"m_fDoubleVisionTrailStrength": {
+				"type": "float32",
+				"value": 0.05000000074505806
+			},
+			"m_HDRLensFlareColorA": {
+				"type": "SColorRGB",
+				"value": "#808cf0"
+			},
+			"m_fHDRLensFlareThresholdA": {
+				"type": "float32",
+				"value": 0.4699999988079071
+			},
+			"m_HDRLensFlareColorB": {
+				"type": "SColorRGB",
+				"value": "#806633"
+			},
+			"m_fHDRLensFlareThresholdB": {
+				"type": "float32",
+				"value": 0.43000000715255737
+			},
+			"m_HDRLensFlareColorC": {
+				"type": "SColorRGB",
+				"value": "#9361ff"
+			},
+			"m_fHDRLensFlareThresholdC": {
+				"type": "float32",
+				"value": 0.23999999463558197
+			},
+			"m_HDRLensFlareColorD": {
+				"type": "SColorRGB",
+				"value": "#66664d"
+			},
+			"m_fHDRLensFlareThresholdD": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fSSAOAngleOffset": {
+				"type": "float32",
+				"value": 0.30000001192092896
+			}
+		}
+	}],
+	"overrideDeletes": [{
+		"ref": "20fc0f0220f81c7c",
+		"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+	}, {
+		"ref": "4098103afcd305be",
+		"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+	}],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"],
+	"subType": 2,
+	"quickEntityVersion": 2.1
+}
