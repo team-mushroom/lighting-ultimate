@@ -85,12 +85,7 @@
 			"group": "Sapienza - World of Tomorrow",
 			"enabledByDefault": true,
 			"contentFolder": "classic+ s1/coastaltown_octopus",
-			"dependencies": [
-				{
-					"runtimeID": "0049E402097FE46D",
-					"toChunk": "chunk26"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"name": "Vanilla+",
