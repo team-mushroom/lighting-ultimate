@@ -95,6 +95,24 @@
 			"contentFolder": "vanilla+ s1/coastaltown_octopus"
 		},
 		{
+			"name": "TOD Change - Dawn",
+			"tooltip": "New Time of Day scenario (Dawn)",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow",
+			"enabledByDefault": true,
+			"contentFolder": "tod_change/octopus_dawn",
+			"dependencies": [
+				{
+					"runtimeID": "009F206E1EBA5F25",
+					"toChunk": "chunk26"
+				},
+				{
+					"runtimeID": "0026D710EAF1BFEE",
+					"toChunk": "chunk26"
+				}
+			]
+		},
+		{
 			"name": "Off",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow"
