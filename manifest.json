@@ -213,6 +213,28 @@
 			"contentFolder": "vanilla+ s1/marrakesh_python"
 		},
 		{
+			"name": "TOD Change - Midnight",
+			"tooltip": "New Time of Day scenario (Midnight)",
+			"type": "select",
+			"group": "Marrakesh - AHBOS",
+			"enabledByDefault": true,
+			"contentFolder": "tod_change/python_goty",
+			"dependencies": [
+				{
+					"runtimeID": "001083CD8A6BB32D",
+					"toChunk": "chunk25"
+				},
+				{
+					"runtimeID": "0007716AA9A95AA4",
+					"toChunk": "chunk25"
+				},
+				{
+					"runtimeID": "00A39A1D0DAE8FE4",
+					"toChunk": "chunk25"
+				}
+			]
+		},
+		{
 			"name": "Off",
 			"type": "select",
 			"group": "Marrakesh - AHBOS"

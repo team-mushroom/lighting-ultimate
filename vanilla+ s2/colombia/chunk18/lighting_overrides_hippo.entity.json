@@ -1,0 +1,99 @@
+{
+	"tempHash": "00F9EAFB1AD1A9B2",
+	"tbluHash": "00A35B82E8E59373",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"entitySubsets": [
+				[
+					"Activatable_NormalGameplay, IEntity",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioEmitters",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioVolumetricGeom",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Gates",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Replicable",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Rooms",
+					{
+						"entities": []
+					}
+				]
+			]
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "11195a915c9429c5",
+					"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+				},
+				{
+					"ref": "9d1c3b13f74d55f9",
+					"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+				},
+				{
+					"ref": "100162015e9eea89",
+					"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fHDRBloomScale": {
+					"type": "float32",
+					"value": 0.2
+				}
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	],
+	"subType": 2,
+	"quickEntityVersion": 2.1
+}
