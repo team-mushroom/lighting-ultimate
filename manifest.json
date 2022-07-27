@@ -5,8 +5,9 @@
 	"authors": [
 		"musicalmushr00m"
 	],
-	"frameworkVersion": "1.4.1",
+	"frameworkVersion": "1.4.0",
 	"version": "2.1.0",
+        "updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
 	"loadAfter": [
 		"KevinRudd.TODChange"
 	],
