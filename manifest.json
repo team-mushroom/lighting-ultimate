@@ -16,12 +16,12 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Prologue - Arrival",
-			"enabledByDefault": true,
 			"contentFolder": "classic/thefacility_arrival"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+			"enabledByDefault": true,
 			"group": "Prologue - Arrival"
 		},
 		{
@@ -29,12 +29,12 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Prologue - Training",
-			"enabledByDefault": true,
 			"contentFolder": "classic/thefacility_yacht"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+			"enabledByDefault": true,
 			"group": "Prologue - Training"
 		},
 		{
@@ -42,12 +42,12 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Prologue - The Final Test",
-			"enabledByDefault": true,
 			"contentFolder": "classic/thefacility_hangar"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+			"enabledByDefault": true,
 			"group": "Prologue - The Final Test"
 		},
 		{
@@ -55,7 +55,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Paris",
-			"enabledByDefault": true,
 			"contentFolder": "classic/paris"
 		},
 		{
@@ -68,6 +67,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+			"enabledByDefault": true,
 			"group": "Paris"
 		},
 		{
@@ -75,7 +75,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"enabledByDefault": true,
 			"contentFolder": "classic/coastaltown_octopus"
 		},
 		{
@@ -83,7 +82,6 @@
 			"tooltip": "An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"enabledByDefault": true,
 			"contentFolder": "classic+ s1/coastaltown_octopus",
 			"dependencies": []
 		},
@@ -99,7 +97,6 @@
 			"tooltip": "New Time of Day scenario (Dawn)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"enabledByDefault": true,
 			"contentFolder": "tod_change/octopus_dawn",
 			"dependencies": [
 				{
@@ -115,6 +112,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+			"enabledByDefault": true,
 			"group": "Sapienza - World of Tomorrow"
 		},
 		{
@@ -566,6 +564,19 @@
 			"name": "Off",
 			"type": "select",
 			"group": "Carpathian Mountains"
+		},
+		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Ambrose Island",
+			"contentFolder": "vanilla+ s3/rocky"
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Ambrose Island"
 		}
 	]
 }
