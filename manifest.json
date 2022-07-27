@@ -5,9 +5,9 @@
 	"authors": [
 		"musicalmushr00m"
 	],
-	"frameworkVersion": "1.1.1",
-	"version": "2.0.0",
-	"loadBefore": [
+	"frameworkVersion": "1.4.1",
+	"version": "2.1.0",
+	"loadAfter": [
 		"KevinRudd.TODChange"
 	],
 	"options": [
@@ -82,8 +82,7 @@
 			"tooltip": "An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolder": "classic+ s1/coastaltown_octopus",
-			"dependencies": []
+			"contentFolder": "classic+ s1/coastaltown_octopus"
 		},
 		{
 			"name": "Vanilla+",
@@ -94,18 +93,18 @@
 		},
 		{
 			"name": "TOD Change - Dawn",
-			"tooltip": "New Time of Day scenario (Dawn)",
+			"tooltip": "EXPERIMENTAL - New Time of Day scenario (Dawn)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
 			"contentFolder": "tod_change/octopus_dawn",
 			"dependencies": [
 				{
 					"runtimeID": "009F206E1EBA5F25",
-					"toChunk": "chunk26"
+					"toChunk": "26"
 				},
 				{
 					"runtimeID": "0026D710EAF1BFEE",
-					"toChunk": "chunk26"
+					"toChunk": "26"
 				}
 			]
 		},
@@ -120,7 +119,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Icon",
-			"enabledByDefault": true,
 			"contentFolder": "classic/coastaltown_copperhead"
 		},
 		{
@@ -133,6 +131,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Sapienza - The Icon"
 		},
 		{
@@ -140,7 +139,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"enabledByDefault": true,
 			"contentFolder": "classic/coastaltown_mamba"
 		},
 		{
@@ -153,6 +151,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Sapienza - Landslide"
 		},
 		{
@@ -160,7 +159,6 @@
 			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Author",
-			"enabledByDefault": true,
 			"contentFolder": "goty/coastaltown_ebola"
 		},
 		{
@@ -173,6 +171,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Sapienza - The Author"
 		},
 		{
@@ -180,7 +179,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
-			"enabledByDefault": true,
 			"contentFolder": "classic/marrakesh_spider"
 		},
 		{
@@ -193,6 +191,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Marrakesh - A Gilded Cage"
 		},
 		{
@@ -200,7 +199,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - AHBOS",
-			"enabledByDefault": true,
 			"contentFolder": "classic/marrakesh_python"
 		},
 		{
@@ -211,30 +209,9 @@
 			"contentFolder": "vanilla+ s1/marrakesh_python"
 		},
 		{
-			"name": "TOD Change - Midnight",
-			"tooltip": "New Time of Day scenario (Midnight)",
-			"type": "select",
-			"group": "Marrakesh - AHBOS",
-			"enabledByDefault": true,
-			"contentFolder": "tod_change/python_goty",
-			"dependencies": [
-				{
-					"runtimeID": "001083CD8A6BB32D",
-					"toChunk": "chunk25"
-				},
-				{
-					"runtimeID": "0007716AA9A95AA4",
-					"toChunk": "chunk25"
-				},
-				{
-					"runtimeID": "00A39A1D0DAE8FE4",
-					"toChunk": "chunk25"
-				}
-			]
-		},
-		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Marrakesh - AHBOS"
 		},
 		{
@@ -242,7 +219,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"enabledByDefault": true,
 			"contentFolder": "classic/bangkok_tiger"
 		},
 		{
@@ -255,6 +231,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Bangkok - Club 27"
 		},
 		{
@@ -262,12 +239,12 @@
 			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - The Source",
-			"enabledByDefault": true,
 			"contentFolder": "goty/bangkok_zika"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Bangkok - The Source"
 		},
 		{
@@ -275,7 +252,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"enabledByDefault": true,
 			"contentFolder": "classic/colorado_bull"
 		},
 		{
@@ -288,6 +264,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Colorado - Freedom Fighters"
 		},
 		{
@@ -295,7 +272,6 @@
 			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - The Vector",
-			"enabledByDefault": true,
 			"contentFolder": "goty/colorado_rabies"
 		},
 		{
@@ -308,6 +284,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Colorado - The Vector"
 		},
 		{
@@ -315,7 +292,6 @@
 			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"enabledByDefault": true,
 			"contentFolder": "classic/hokkaido_snowcrane"
 		},
 		{
@@ -328,6 +304,7 @@
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Hokkaido - Situs Inversus"
 		},
 		{
@@ -335,12 +312,12 @@
 			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Patient Zero",
-			"enabledByDefault": true,
 			"contentFolder": "goty/hokkaido_flu"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Hokkaido - Patient Zero"
 		},
 		{
@@ -348,12 +325,12 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Hawke's Bay",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/sheep"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Hawke's Bay"
 		},
 		{
@@ -361,13 +338,12 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Miami",
-			"enabledByDefault": true,
-			"contentFolder": "vanilla+ s2/miami",
-			"dependencies": []
+			"contentFolder": "vanilla+ s2/miami"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Miami"
 		},
 		{
@@ -375,12 +351,12 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Santa Fortuna",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/colombia"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Santa Fortuna"
 		},
 		{
@@ -388,12 +364,12 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Mumbai",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/mumbai"
 		},
 		{
 			"name": "Off",
 			"type": "select",
+            "enabledByDefault": true,
 			"group": "Mumbai"
 		},
 		{
@@ -401,169 +377,169 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Whittleton Creek",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/skunk"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Whittleton Creek"
+            "enabledByDefault": true,
+			"group":"Whittleton Creek"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Isle of Sgail",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/theark"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Isle of Sgail"
+            "enabledByDefault": true,
+			"group":"Isle of Sgail"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "New York",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/greedy"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "New York"
+            "enabledByDefault": true,
+			"group":"New York"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Haven Island",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s2/opulent"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Haven Island"
+            "enabledByDefault": true,
+			"group":"Haven Island"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Himmelstein",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ sniper/hawk"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Himmelstein"
+            "enabledByDefault": true,
+			"group":"Himmelstein"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Hantu Port",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ sniper/salty"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Hantu Port"
+            "enabledByDefault": true,
+			"group":"Hantu Port"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Siberia",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ sniper/caged"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Siberia"
+            "enabledByDefault": true,
+			"group":"Siberia"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Dubai",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s3/golden"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Dubai"
+            "enabledByDefault": true,
+			"group":"Dubai"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Dartmoor",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s3/ancestral"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Dartmoor"
+            "enabledByDefault": true,
+			"group":"Dartmoor"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Berlin",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s3/edgy"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Berlin"
+            "enabledByDefault": true,
+			"group":"Berlin"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Chongqing",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s3/wet"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Chongqing"
+            "enabledByDefault": true,
+			"group":"Chongqing"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Mendoza",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s3/elegant"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Mendoza"
+            "enabledByDefault": true,
+			"group":"Mendoza"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Carpathian Mountains",
-			"enabledByDefault": true,
 			"contentFolder": "vanilla+ s3/trapped"
 		},
 		{
 			"name": "Off",
 			"type": "select",
-			"group": "Carpathian Mountains"
+            "enabledByDefault": true,
+			"group":"Carpathian Mountains"
 		},
 		{
 			"name": "Vanilla+",
