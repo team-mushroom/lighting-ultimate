@@ -57,10 +57,39 @@
 			"m_bVignetteEnabled": {
 				"type": "bool",
 				"value": false
-			},
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "4f4472d69ca100cf",
+			"externalScene": "[assembly:/_pro/scenes/missions/rocky/scenario_dugong.brick].pc_entitytype"
+		}],
+		"properties": {
 			"m_fHDRBloomScale": {
 				"type": "float32",
-				"value": 0.25
+				"value": 0.4
+			}
+		}
+	},{
+		"entities": [{
+			"ref": "4e714ac73faf88b1",
+			"externalScene": "[assembly:/_pro/scenes/missions/rocky/scenario_dugong.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_fHDRBloomScale": {
+				"type": "float32",
+				"value": 0.3
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "ce930feeb4e7dfaf",
+			"externalScene": "[assembly:/_pro/scenes/missions/rocky/scenario_dugong.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_fHDRBloomScale": {
+				"type": "float32",
+				"value": 0.2
 			}
 		}
 	}],
