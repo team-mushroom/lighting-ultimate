@@ -1,0 +1,12 @@
+{
+    "tempHash": "000EDA83617783CF",
+    "tbluHash": "00E666719C0EBD29",
+    "patch": [
+        {
+            "op": "add",
+            "path": "/externalScenes/-",
+            "value": "[assembly:/_pro/scenes/missions/mumbai/lighting_overrides_mongoose.brick].pc_entitytype"
+        }
+    ],
+    "patchVersion": 4
+}
