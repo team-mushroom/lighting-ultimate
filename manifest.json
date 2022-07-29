@@ -5,7 +5,7 @@
 	"authors": [
 		"musicalmushr00m"
 	],
-	"frameworkVersion": "2.0.0",
+	"frameworkVersion": "1.5.5",
 	"version": "2.1.0",
         "updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
 	"loadAfter": [
@@ -101,11 +101,11 @@
 			"dependencies": [
 				{
 					"runtimeID": "009F206E1EBA5F25",
-					"toChunk": 26
+					"toChunk": "chunk26"
 				},
 				{
 					"runtimeID": "0026D710EAF1BFEE",
-					"toChunk": 26
+					"toChunk": "chunk26"
 				}
 			]
 		},
