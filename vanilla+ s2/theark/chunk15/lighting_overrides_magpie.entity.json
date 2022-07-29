@@ -36,14 +36,11 @@
 	},
 	"propertyOverrides": [{
 		"entities": [{
-			"ref": "6b34b760d7573591",
-			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+			"ref": "afeabf1aa8e75e2b",
+			"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
 		}, {
-			"ref": "d380235fa754e8eb",
-			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
-		}, {
-			"ref": "b674baa9cf10fa8c",
-			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+			"ref": "e3baaf9e9de64dd6",
+			"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
 		}],
 		"properties": {
 			"m_bHDRLensFlareEnabled": {
@@ -61,34 +58,31 @@
 		}
 	}, {
 		"entities": [{
-			"ref": "6b34b760d7573591",
-			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
-		}, {
-			"ref": "b674baa9cf10fa8c",
-			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+			"ref": "afeabf1aa8e75e2b",
+			"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
 		}],
 		"properties": {
 			"m_fHDRBloomScale": {
 				"type": "float32",
-				"value": 0.1
+				"value": 0.35
 			}
 		}
 	}, {
 		"entities": [{
-			"ref": "d380235fa754e8eb",
-			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+			"ref": "e3baaf9e9de64dd6",
+			"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
 		}],
 		"properties": {
 			"m_fHDRBloomScale": {
 				"type": "float32",
-				"value": 0.3
+				"value": 0.2
 			}
 		}
 	}],
 	"overrideDeletes": [],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
-	"externalScenes": ["[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"],
 	"subType": 2,
 	"quickEntityVersion": 2.1
 }
