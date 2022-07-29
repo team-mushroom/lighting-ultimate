@@ -1,0 +1,12 @@
+{
+    "tempHash": "00493496F045C73D",
+    "tbluHash": "00BF961D4429B654",
+    "patch": [
+        {
+            "op": "add",
+            "path": "/externalScenes/-",
+            "value": "[assembly:/_pro/scenes/missions/colombia/lighting_overrides_hippo.brick].pc_entitytype"
+        }
+    ],
+    "patchVersion": 4
+}
