@@ -1,0 +1,91 @@
+{
+	"tempHash": "000A894C7A53AA6E",
+	"tbluHash": "000E38FADD326553",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"entitySubsets": [
+				[
+					"Activatable_NormalGameplay, IEntity",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioEmitters",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioVolumetricGeom",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Gates",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Replicable",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Rooms",
+					{
+						"entities": []
+					}
+				]
+			]
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "c047006b5dd027c1",
+					"externalScene": "[assembly:/_pro/scenes/missions/hawk/scenario_hawk.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fHDRBloomScale": {
+					"type": "float32",
+					"value": 0.35
+				}
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/hawk/scenario_hawk.brick].pc_entitytype"
+	],
+	"subType": 2,
+	"quickEntityVersion": 2.1
+}
