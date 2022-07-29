@@ -132,7 +132,6 @@
 
 00C6509A0687A8B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entitytemplate
 00BEF55C28E00799.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entityblueprint
-
 ```
 
 ## ELEGANT
