@@ -161,7 +161,6 @@
 
 00E2228E7EB36E19.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entitytemplate
 004B95EDF0B3E441.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entityblueprint
-
 ```
 
 ## TRAPPED
