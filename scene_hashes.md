@@ -11,7 +11,35 @@
 
 0070618948D80BB7.TEMP [assembly:/_pro/scenes/missions/sheep/scene_adonis.entity].pc_entitytemplate
 00D28C5094B34EF9.TBLU [assembly:/_pro/scenes/missions/sheep/scene_adonis.entity].pc_entityblueprint
+```
 
+## MIAMI
+
+```
+00DCAD025C52A18F.TEMP [assembly:/_pro/scenes/missions/miami/scene_flamingo.entity].pc_entitytemplate
+0056A0DB63283922.TBLU [assembly:/_pro/scenes/missions/miami/scene_flamingo.entity].pc_entityblueprint
+
+00AC85A2AA837088.TEMP [assembly:/_pro/scenes/missions/miami/scene_cottonmouth.entity].pc_entitytemplate
+0010A91C5E1842DA.TBLU [assembly:/_pro/scenes/missions/miami/scene_cottonmouth.entity].pc_entityblueprint
+
+00AE37D7CBFC7DD4.TEMP [assembly:/_pro/scenes/missions/miami/scene_et_sambuca.entity].pc_entitytemplate
+008748DA102370BC.TBLU [assembly:/_pro/scenes/missions/miami/scene_et_sambuca.entity].pc_entityblueprint
+```
+
+## COLOMBIA
+
+```
+005B0626FB1445EA.TEMP [assembly:/_pro/scenes/missions/colombia/scene_hippo.entity].pc_entitytemplate
+00CB3DB64C2B3654.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo.entity].pc_entityblueprint
+
+00493496F045C73D.TEMP [assembly:/_pro/scenes/missions/colombia/scene_anaconda.entity].pc_entitytemplate
+00BF961D4429B654.TBLU [assembly:/_pro/scenes/missions/colombia/scene_anaconda.entity].pc_entityblueprint
+
+007289404B1AAA7A.TEMP [assembly:/_pro/scenes/missions/colombia/scene_hippo_calluna.entity].pc_entitytemplate
+003EBFDF3898A354.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo_calluna.entity].pc_entityblueprint
+
+0043DAFEEECF37D2.TEMP [assembly:/_pro/scenes/missions/colombia/scene_hippo_rafflesia.entity].pc_entitytemplate
+001505DFE44E3EB8.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo_rafflesia.entity].pc_entityblueprint
 ```
 
 # Season 3
