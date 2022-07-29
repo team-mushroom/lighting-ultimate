@@ -1,6 +1,6 @@
 {
-	"tempHash": "00F9EAFB1AD1A9B2",
-	"tbluHash": "00A35B82E8E59373",
+	"tempHash": "00DCA20AED5D49DC",
+	"tbluHash": "000EA525694A3AA8",
 	"rootEntity": "fffffffffffffffe",
 	"entities": {
 		"fffffffffffffffe": {
@@ -56,16 +56,8 @@
 		{
 			"entities": [
 				{
-					"ref": "11195a915c9429c5",
-					"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
-				},
-				{
-					"ref": "9d1c3b13f74d55f9",
-					"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
-				},
-				{
-					"ref": "100162015e9eea89",
-					"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+					"ref": "11f39ddb896b0a25",
+					"externalScene": "[assembly:/_pro/scenes/missions/caged/mission_falcon/scenario_falcon.brick].pc_entitytype"
 				}
 			],
 			"properties": {
@@ -92,7 +84,7 @@
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": [
-		"[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		"[assembly:/_pro/scenes/missions/caged/mission_falcon/scenario_falcon.brick].pc_entitytype"
 	],
 	"subType": 2,
 	"quickEntityVersion": 2.1
