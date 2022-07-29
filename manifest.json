@@ -14,7 +14,7 @@
 	"options": [
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Prologue - Arrival",
 			"contentFolder": "classic/thefacility_arrival"
@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Prologue - Training",
 			"contentFolder": "classic/thefacility_yacht"
@@ -40,7 +40,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Prologue - The Final Test",
 			"contentFolder": "classic/thefacility_hangar"
@@ -53,7 +53,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Paris",
 			"contentFolder": "classic/paris"
@@ -73,14 +73,14 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
 			"contentFolder": "classic/coastaltown_octopus"
 		},
 		{
 			"name": "Classic Pack+",
-			"tooltip": "An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "EXPERIMENTAL - An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
 			"contentFolder": "classic+ s1/coastaltown_octopus"
@@ -101,11 +101,11 @@
 			"dependencies": [
 				{
 					"runtimeID": "009F206E1EBA5F25",
-					"toChunk": "26"
+					"toChunk": 26
 				},
 				{
 					"runtimeID": "0026D710EAF1BFEE",
-					"toChunk": "26"
+					"toChunk": 26
 				}
 			]
 		},
@@ -117,7 +117,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Icon",
 			"contentFolder": "classic/coastaltown_copperhead"
@@ -137,7 +137,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - Landslide",
 			"contentFolder": "classic/coastaltown_mamba"
@@ -157,7 +157,7 @@
 		},
 		{
 			"name": "GOTY Pack",
-			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Author",
 			"contentFolder": "goty/coastaltown_ebola"
@@ -177,7 +177,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
 			"contentFolder": "classic/marrakesh_spider"
@@ -197,7 +197,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - AHBOS",
 			"contentFolder": "classic/marrakesh_python"
@@ -217,7 +217,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - Club 27",
 			"contentFolder": "classic/bangkok_tiger"
@@ -237,7 +237,7 @@
 		},
 		{
 			"name": "GOTY Pack",
-			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - The Source",
 			"contentFolder": "goty/bangkok_zika"
@@ -250,7 +250,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
 			"contentFolder": "classic/colorado_bull"
@@ -270,7 +270,7 @@
 		},
 		{
 			"name": "GOTY Pack",
-			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - The Vector",
 			"contentFolder": "goty/colorado_rabies"
@@ -290,7 +290,7 @@
 		},
 		{
 			"name": "Classic Pack",
-			"tooltip": "Restores the classic lighting from the original release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
 			"contentFolder": "classic/hokkaido_snowcrane"
@@ -310,7 +310,7 @@
 		},
 		{
 			"name": "GOTY Pack",
-			"tooltip": "Restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Patient Zero",
 			"contentFolder": "goty/hokkaido_flu"

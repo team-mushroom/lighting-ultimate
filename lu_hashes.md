@@ -4,11 +4,11 @@
 000A894C7A53AA6E.TEMP  [assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entitytype
 000E38FADD326553.TBLU  [assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entityblueprint
 
-006CE3C65629E5AE.TEMP  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.entity].pc_entitytype
-006B9871CB370368.TBLU  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.entity].pc_entitytemplate
+000B420C71623537.TEMP  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entitytype
+00071EE80D475681.TBLU  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entitytemplate
 
-00714355093B9AD4.TEMP  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.entity].pc_entitytype
-004C17BC38E64ABC.TBLU  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.entity].pc_entitytemplate
+00DCA20AED5D49DC.TEMP  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entitytype
+000EA525694A3AA8.TBLU  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entitytemplate
 ```
 
 # Season 2

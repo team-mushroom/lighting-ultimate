@@ -5,7 +5,7 @@
         {
             "op": "add",
             "path": "/externalScenes/-",
-            "value": "[assembly:/_pro/scenes/missions/colombia/lighting_overrides_hippo.brick].pc_entitytype"
+            "value": "[assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.entity].pc_entitytype"
         }
     ],
     "patchVersion": 4
