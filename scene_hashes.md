@@ -1,16 +1,31 @@
---- GOLDEN ---
-scene_gecko_basic.entity [DONE]
+# Season 3
 
-scene_gecko_sheepsorrel.entity
-scene_gecko_desertrose.entity
-scene_gecko_lunaria.entity
-scene_gecko_angelica.entity
+## GOLDEN
 
-scene_gibson.entity (ET)
+```
+00E300E2823DFBF2.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic.entity].pc_entitytemplate
+00BDE456FCB7267F.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic.entity].pc_entityblueprint
 
---- ANCESTRAL ---
+0058895D77186C0D.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_sheepsorrel.entity].pc_entitytemplate
+0013A45C2215A603.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_sheepsorrel.entity].pc_entityblueprint
+
+00439C16F2DF7200.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_desertrose.entity].pc_entitytemplate
+00797B1757403463.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_desertrose.entity].pc_entityblueprint
+
+00F1B08540AED22A.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_lunaria.entity].pc_entitytemplate
+0030343D0406BC17.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_lunaria.entity].pc_entityblueprint
+
+00C15424C4091EB5.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_angelica.entity].pc_entitytemplate
+006171F44C0ADDF9.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_angelica.entity].pc_entityblueprint
+
+00124012DB16C406.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gibson.entity].pc_entitytemplate
+00BEB37F1095D5CE.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gibson.entity].pc_entityblueprint
+```
+
+## ANCESTRAL
 scene_bulldog.entity [DONE]
 
+```
 intelcpudemo.entity
 scene_bulldog_fern.entity
 scene_smoothsnake.entity
@@ -19,6 +34,7 @@ scene_hollyhock.entity
 
 scene_ancestral_vesper.entity (ET)
 (bramble doesn't have a scene lol)
+```
 
 --- EDGY ---
 scene_fox_basic.entity [DONE]
