@@ -250,3 +250,10 @@
 003AF7114BD21403.TEMP [assembly:/_pro/scenes/missions/trapped/scene_bellflower.entity].pc_entitytemplate
 0062F6BDAB6C0C0A.TBLU [assembly:/_pro/scenes/missions/trapped/scene_bellflower.entity].pc_entityblueprint
 ```
+
+## ROCKY
+
+```
+00B7B5592597273D.TEMP [assembly:/_pro/scenes/missions/rocky/scene_dugong.entity].pc_entitytemplate
+009C17436E55A2CA.TBLU [assembly:/_pro/scenes/missions/rocky/scene_dugong.entity].pc_entityblueprint
+```
