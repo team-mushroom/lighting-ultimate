@@ -1,3 +1,16 @@
+# Sniper Assassin
+
+```
+000A894C7A53AA6E.TEMP  [assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entitytype
+000E38FADD326553.TBLU  [assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entityblueprint
+
+006CE3C65629E5AE.TEMP  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.entity].pc_entitytype
+006B9871CB370368.TBLU  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.entity].pc_entitytemplate
+
+00714355093B9AD4.TEMP  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.entity].pc_entitytype
+004C17BC38E64ABC.TBLU  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.entity].pc_entitytemplate
+```
+
 # Season 2
 
 ```
@@ -27,6 +40,7 @@
 ```
 
 # Season 3
+Dubai uses its own postfilter brick, so as with S1 there is no lighting_overides brick necessary.
 
 ```
 00AA0076585D4A07.TEMP  [assembly:/_pro/scenes/missions/ancestral/lighting_overrides_bulldog.brick].pc_entitytype
