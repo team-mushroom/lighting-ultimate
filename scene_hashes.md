@@ -1,3 +1,19 @@
+# Season 2
+
+## SHEEP
+
+```
+00BF2670C110F0D2.TEMP [assembly:/_pro/scenes/missions/sheep/scene_sheep.entity].pc_entitytemplate
+00F20CD96EF48C12.TBLU [assembly:/_pro/scenes/missions/sheep/scene_sheep.entity].pc_entityblueprint
+
+004DEC0476CFF564.TEMP [assembly:/_pro/scenes/missions/sheep/scene_opuntia.entity].pc_entitytemplate
+00EED69E22691D88.TBLU [assembly:/_pro/scenes/missions/sheep/scene_opuntia.entity].pc_entityblueprint
+
+0070618948D80BB7.TEMP [assembly:/_pro/scenes/missions/sheep/scene_adonis.entity].pc_entitytemplate
+00D28C5094B34EF9.TBLU [assembly:/_pro/scenes/missions/sheep/scene_adonis.entity].pc_entityblueprint
+
+```
+
 # Season 3
 
 ## GOLDEN
@@ -68,6 +84,29 @@
 0054BA93907956A7.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_radler.entity].pc_entityblueprint
 ```
 
+## WET
+
+```
+005158D3748783AB.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity].pc_entitytemplate
+002803AA54819DB0.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity].pc_entityblueprint
+
+0035809A914765B3.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity].pc_entitytemplate
+00DE761EDBD9B678.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity].pc_entityblueprint
+
+005ED73CA27969B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_ginseng.entity].pc_entitytemplate
+00AAE79C8BB1169D.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_ginseng.entity].pc_entityblueprint
+
+009A5828EB0E63C1.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity].pc_entitytemplate
+00336BA8BCCD2BF5.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity].pc_entityblueprint
+
+0016DAC9061F0883.TEMP [assembly:/_pro/scenes/missions/wet/scene_magnolia.entity].pc_entitytemplate
+00733CDCA5351B5E.TBLU [assembly:/_pro/scenes/missions/wet/scene_magnolia.entity].pc_entityblueprint
+
+00C6509A0687A8B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entitytemplate
+00BEF55C28E00799.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entityblueprint
+
+```
+
 ## ELEGANT
 
 ```
@@ -94,29 +133,6 @@
 
 00E2228E7EB36E19.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entitytemplate
 004B95EDF0B3E441.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entityblueprint
-
-```
-
-## WET
-
-```
-005158D3748783AB.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity].pc_entitytemplate
-002803AA54819DB0.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity].pc_entityblueprint
-
-0035809A914765B3.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity].pc_entitytemplate
-00DE761EDBD9B678.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity].pc_entityblueprint
-
-005ED73CA27969B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_ginseng.entity].pc_entitytemplate
-00AAE79C8BB1169D.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_ginseng.entity].pc_entityblueprint
-
-009A5828EB0E63C1.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity].pc_entitytemplate
-00336BA8BCCD2BF5.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity].pc_entityblueprint
-
-0016DAC9061F0883.TEMP [assembly:/_pro/scenes/missions/wet/scene_magnolia.entity].pc_entitytemplate
-00733CDCA5351B5E.TBLU [assembly:/_pro/scenes/missions/wet/scene_magnolia.entity].pc_entityblueprint
-
-00C6509A0687A8B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entitytemplate
-00BEF55C28E00799.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entityblueprint
 
 ```
 
