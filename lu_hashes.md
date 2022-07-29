@@ -5,10 +5,10 @@
 000E38FADD326553.TBLU  [assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entityblueprint
 
 000B420C71623537.TEMP  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entitytype
-00071EE80D475681.TBLU  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entitytemplate
+00071EE80D475681.TBLU  [assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entityblueprint
 
 00DCA20AED5D49DC.TEMP  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entitytype
-000EA525694A3AA8.TBLU  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entitytemplate
+000EA525694A3AA8.TBLU  [assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entityblueprint
 ```
 
 # Season 2
@@ -33,7 +33,7 @@
 00DA6AE9364D65B7.TBLU  [assembly:/_pro/scenes/missions/theark/lighting_overrides_magpie.brick].pc_entityblueprint
 
 00F46A8C7D46247B.TEMP  [assembly:/_pro/scenes/missions/greedy/mission_raccoon/lighting_overrides_raccoon.brick].pc_entitytype
-00E746E3EDC46B3B.TBLU  [assembly:/_pro/scenes/missions/greedy/mission_raccoon/lighting_overrides_raccoon.brick].pc_entitytemplate
+0093D17A37A325BA.TBLU  [assembly:/_pro/scenes/missions/greedy/mission_raccoon/lighting_overrides_raccoon.brick].pc_entityblueprint
 
 00344B4435867597.TEMP  [assembly:/_pro/scenes/missions/opulent/mission_stingray/lighting_overrides_stingray.brick].pc_entitytype
 00F0BFD73A25E480.TBLU  [assembly:/_pro/scenes/missions/opulent/mission_stingray/lighting_overrides_stingray.brick].pc_entityblueprint
@@ -53,7 +53,7 @@ Dubai uses its own postfilter brick, so as with S1 there is no lighting_overides
 00DBC4C3277DD054.TBLU  [assembly:/_pro/scenes/missions/wet/lighting_overrides_rat.brick].pc_entityblueprint
 
 00E9CF8F767D5632.TEMP  [assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytype
-00C505F0F9CFABBF.TBLU  [assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytemplate
+00C505F0F9CFABBF.TBLU  [assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entityblueprint
 
 009F7734B46E9040.TEMP  [assembly:/_pro/scenes/missions/trapped/lighting_overrides_wolverine.brick].pc_entitytype
 000617EC9050C143.TBLU  [assembly:/_pro/scenes/missions/trapped/lighting_overrides_wolverine.brick].pc_entityblueprint
