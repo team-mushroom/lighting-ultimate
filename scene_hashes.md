@@ -23,17 +23,28 @@
 ```
 
 ## ANCESTRAL
-scene_bulldog.entity [DONE]
 
 ```
-intelcpudemo.entity
-scene_bulldog_fern.entity
-scene_smoothsnake.entity
-scene_ancestral_harebell.entity
-scene_hollyhock.entity
+004E93563D0C209F.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_bulldog.entity].pc_entitytemplate
+007A565EE653FB02.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_bulldog.entity].pc_entityblueprint
 
-scene_ancestral_vesper.entity (ET)
-(bramble doesn't have a scene lol)
+00C147285C2B6137.TEMP [assembly:/_pro/scenes/demo/intel2020/intelcpudemo.entity].pc_entitytemplate
+0067116BF85A25CD.TBLU [assembly:/_pro/scenes/demo/intel2020/intelcpudemo.entity].pc_entityblueprint
+
+001FD51F87EBDC31.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_bulldog_fern.entity].pc_entitytemplate
+004E396F2FDB6816.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_bulldog_fern.entity].pc_entityblueprint
+
+008E7EEAABDF4E3A.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_smoothsnake.entity].pc_entitytemplate
+009A5584BE146628.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_smoothsnake.entity].pc_entityblueprint
+
+0058922182D7A833.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_harebell.entity].pc_entitytemplate
+00C085D3B9913D6B.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_harebell.entity].pc_entityblueprint
+
+005F9AF935EDFA82.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_hollyhock.entity].pc_entitytemplate
+00F884351B894F23.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_hollyhock.entity].pc_entityblueprint
+
+00BA2C9E003DCF92.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_vesper.entity].pc_entitytemplate
+00A6B8872B49F645.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_vesper.entity].pc_entityblueprint
 ```
 
 --- EDGY ---
