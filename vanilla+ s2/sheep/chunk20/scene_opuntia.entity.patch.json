@@ -1,0 +1,12 @@
+{
+    "tempHash": "004DEC0476CFF564",
+    "tbluHash": "00EED69E22691D88",
+    "patch": [
+        {
+            "op": "add",
+            "path": "/externalScenes/-",
+            "value": "[assembly:/_pro/scenes/missions/sheep/lighting_overrides_sheep.brick].pc_entitytype"
+        }
+    ],
+    "patchVersion": 4
+}
