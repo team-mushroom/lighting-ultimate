@@ -42,6 +42,19 @@
 001505DFE44E3EB8.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo_rafflesia.entity].pc_entityblueprint
 ```
 
+## MUMBAI
+
+```
+000EDA83617783CF.TEMP [assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate
+00E666719C0EBD29.TBLU [assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entityblueprint
+
+005D7F5C3AB501D0.TEMP [assembly:/_pro/scenes/missions/mumbai/scene_kingcobra.entity].pc_entitytemplate
+00A855377B141049.TBLU [assembly:/_pro/scenes/missions/mumbai/scene_kingcobra.entity].pc_entityblueprint
+
+008B0F2C9F22E751.TEMP [assembly:/_pro/scenes/missions/mumbai/_scene_mongoose_ashoka.entity].pc_entitytemplate
+00568C15AFBFBCD9.TBLU [assembly:/_pro/scenes/missions/mumbai/_scene_mongoose_ashoka.entity].pc_entityblueprint
+```
+
 # Season 3
 
 ## GOLDEN
