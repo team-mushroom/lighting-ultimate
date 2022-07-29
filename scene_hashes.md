@@ -1,3 +1,26 @@
+# Sniper Assassin
+
+## HAWK
+
+```
+00D55EECEED49BB6.TEMP [assembly:/_pro/scenes/missions/hawk/scene_hawk.entity].pc_entitytemplate
+00EEDAECCC09279D.TBLU [assembly:/_pro/scenes/missions/hawk/scene_hawk.entity].pc_entityblueprint
+```
+
+## SALTY
+
+```
+00D0EA44F6999F2B.TEMP [assembly:/_pro/scenes/missions/salty/mission_seagull/scene_seagull.entity].pc_entitytemplate
+003CE705029D3125.TBLU [assembly:/_pro/scenes/missions/salty/mission_seagull/scene_seagull.entity].pc_entityblueprint
+```
+
+## CAGED
+
+```
+00939786A2259BA0.TEMP [assembly:/_pro/scenes/missions/caged/mission_falcon/scene_falcon_sniper.entity].pc_entitytemplate
+00409C7DE7A4CF05.TBLU [assembly:/_pro/scenes/missions/caged/mission_falcon/scene_falcon_sniper.entity].pc_entityblueprint
+```
+
 # Season 2
 
 ## SHEEP
@@ -53,6 +76,49 @@
 
 008B0F2C9F22E751.TEMP [assembly:/_pro/scenes/missions/mumbai/_scene_mongoose_ashoka.entity].pc_entitytemplate
 00568C15AFBFBCD9.TBLU [assembly:/_pro/scenes/missions/mumbai/_scene_mongoose_ashoka.entity].pc_entityblueprint
+```
+
+## SKUNK
+
+```
+00C18C63D3E2E1E1.TEMP [assembly:/_pro/scenes/missions/skunk/scene_skunk.entity].pc_entitytemplate
+0010AFE7E85F2D38.TBLU [assembly:/_pro/scenes/missions/skunk/scene_skunk.entity].pc_entityblueprint
+
+007775946A5BCE1C.TEMP [assembly:/_pro/scenes/missions/skunk/scene_gartersnake.entity].pc_entitytemplate
+003AE9B5AE283E40.TBLU [assembly:/_pro/scenes/missions/skunk/scene_gartersnake.entity].pc_entityblueprint
+```
+
+## MAGPIE
+
+```
+00B91E821FD1D373.TEMP [assembly:/_pro/scenes/missions/theark/scene_magpie.entity].pc_entitytemplate
+0013A8BAB5744E94.TBLU [assembly:/_pro/scenes/missions/theark/scene_magpie.entity].pc_entityblueprint
+
+009A5B5421E2719B.TEMP [assembly:/_pro/scenes/missions/theark/_scene_magpie_pansy.entity].pc_entitytemplate
+00F404700E920CF9.TBLU [assembly:/_pro/scenes/missions/theark/_scene_magpie_pansy.entity].pc_entityblueprint
+
+001ADE762247B2B0.TEMP [assembly:/_pro/scenes/missions/theark/_scene_magpie_lotus.entity].pc_entitytemplate
+009EA840404EEA6D.TBLU [assembly:/_pro/scenes/missions/theark/_scene_magpie_lotus.entity].pc_entityblueprint
+```
+
+## GREEDY
+
+```
+00CBAACEE868D00C.TEMP [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic.entity].pc_entitytemplate
+009A00BB6AAA7ABF.TBLU [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic.entity].pc_entityblueprint
+
+00BA9996118369A4.TEMP [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic_dandelion.entity].pc_entitytemplate
+0087F218DDFE8A5C.TBLU [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic_dandelion.entity].pc_entityblueprint
+```
+
+## OPULENT
+
+```
+00CB3A6734232790.TEMP [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_basic.entity].pc_entitytemplate
+00755B16C36D8E88.TBLU [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_basic.entity].pc_entityblueprint
+
+003E88E704CFEDF4.TEMP [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_arcticthyme.entity].pc_entitytemplate
+00CF28C2543553E7.TBLU [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_arcticthyme.entity].pc_entityblueprint
 ```
 
 # Season 3
