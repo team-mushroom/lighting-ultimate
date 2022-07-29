@@ -71,29 +71,53 @@
 ## ELEGANT
 
 ```
-scene_llama.entity [DONE]
+00A02A0F55CA9088.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama.entity].pc_entitytemplate
+00BC7531B4FC26E7.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama.entity].pc_entityblueprint
 
-scene_whitedryas.entity
-scene_whitedryas_level2.entity
-scene_whitedryas_level3.entity
-scene_llama_jacaranda.entity
-scene_frangipani.entity
+0044A4179ED33F9A.TEMP [assembly:/_pro/scenes/missions/elegant/scene_whitedryas.entity].pc_entitytemplate
+001FA7F2D3C6426D.TBLU [assembly:/_pro/scenes/missions/elegant/scene_whitedryas.entity].pc_entityblueprint
 
-scene_llama_elusive_jockeyclub.entity (ET)
-scene_llama_elusive_clerico.entity (ET)
+00A6D05767A4ACDB.TEMP [assembly:/_pro/scenes/missions/elegant/scene_whitedryas_level2.entity].pc_entitytemplate
+001708D1D98A8146.TBLU [assembly:/_pro/scenes/missions/elegant/scene_whitedryas_level2.entity].pc_entityblueprint
+
+00BB8E1EB8198BA1.TEMP [assembly:/_pro/scenes/missions/elegant/scene_whitedryas_level3.entity].pc_entitytemplate
+00153C14A823133A.TBLU [assembly:/_pro/scenes/missions/elegant/scene_whitedryas_level3.entity].pc_entityblueprint
+
+00BD143DF6E17595.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama_jacaranda.entity].pc_entitytemplate
+00DE8637E7423556.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama_jacaranda.entity].pc_entityblueprint
+
+0051BED232E66F2C.TEMP [assembly:/_pro/scenes/missions/elegant/scene_frangipani.entity].pc_entitytemplate
+002A7DA439F87B86.TBLU [assembly:/_pro/scenes/missions/elegant/scene_frangipani.entity].pc_entityblueprint
+
+00C897BF31E7255F.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_jockeyclub.entity].pc_entitytemplate
+00C88D3EED6CEF65.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_jockeyclub.entity].pc_entityblueprint
+
+00E2228E7EB36E19.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entitytemplate
+004B95EDF0B3E441.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entityblueprint
+
 ```
 
 ## WET
 
 ```
-scene_rat_basic.entity [DONE]
+005158D3748783AB.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity].pc_entitytemplate
+002803AA54819DB0.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity].pc_entityblueprint
 
-scene_wet_makoyana.entity
-scene_rat_ginseng.entity
-scene_Wet_azalea.entity
-scene_magnolia.entity
+0035809A914765B3.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity].pc_entitytemplate
+00DE761EDBD9B678.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity].pc_entityblueprint
 
-scene_rat_elusive_redsnapper.entity (ET)
+005ED73CA27969B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_ginseng.entity].pc_entitytemplate
+00AAE79C8BB1169D.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_ginseng.entity].pc_entityblueprint
+
+009A5828EB0E63C1.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity].pc_entitytemplate
+00336BA8BCCD2BF5.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity].pc_entityblueprint
+
+0016DAC9061F0883.TEMP [assembly:/_pro/scenes/missions/wet/scene_magnolia.entity].pc_entitytemplate
+00733CDCA5351B5E.TBLU [assembly:/_pro/scenes/missions/wet/scene_magnolia.entity].pc_entityblueprint
+
+00C6509A0687A8B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entitytemplate
+00BEF55C28E00799.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entityblueprint
+
 ```
 
 ## TRAPPED
