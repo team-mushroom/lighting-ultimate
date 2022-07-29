@@ -47,17 +47,30 @@
 00A6B8872B49F645.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_vesper.entity].pc_entityblueprint
 ```
 
---- EDGY ---
-scene_fox_basic.entity [DONE]
+## EDGY
+```
+00A4E261F399FD45.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic.entity].pc_entitytemplate
+00041BF5EA2D31A7.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic.entity].pc_entityblueprint
 
-scene_fox_contractcreation.entity
-scene_grasssnake.entity
-scene_fox_cornflower.entity
-scene_ambrosia.entity
+00F048A85645B263.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_contractcreation.entity].pc_entitytemplate
+002E9363B1584F03.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_contractcreation.entity].pc_entityblueprint
 
-scene_radler.entity (ET)
+000BE8DA00598FF9.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_grasssnake.entity].pc_entitytemplate
+0079EF76A89F69AF.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_grasssnake.entity].pc_entityblueprint
 
---- ELEGANT ---
+00F98531E2276BD2.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_cornflower.entity].pc_entitytemplate
+006EED49BBDCF002.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_cornflower.entity].pc_entityblueprint
+
+00C5539A49863056.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_ambrosia.entity].pc_entitytemplate
+00D74D65BCE1BEF2.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_ambrosia.entity].pc_entityblueprint
+
+000FF9AD5BB6FD96.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_radler.entity].pc_entitytemplate
+0054BA93907956A7.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_radler.entity].pc_entityblueprint
+```
+
+## ELEGANT
+
+```
 scene_llama.entity [DONE]
 
 scene_whitedryas.entity
@@ -68,8 +81,11 @@ scene_frangipani.entity
 
 scene_llama_elusive_jockeyclub.entity (ET)
 scene_llama_elusive_clerico.entity (ET)
+```
 
---- WET ---
+## WET
+
+```
 scene_rat_basic.entity [DONE]
 
 scene_wet_makoyana.entity
@@ -78,8 +94,15 @@ scene_Wet_azalea.entity
 scene_magnolia.entity
 
 scene_rat_elusive_redsnapper.entity (ET)
+```
 
---- TRAPPED ---
-scene_wolverine.entity [DONE]
+## TRAPPED
 
-scene_bellflower.entity
+```
+0041D175EF6E6552.TEMP [assembly:/_pro/scenes/missions/trapped/scene_wolverine.entity].pc_entitytemplate
+006D1432F61A4FFC.TBLU [assembly:/_pro/scenes/missions/trapped/scene_wolverine.entity].pc_entityblueprint
+
+003AF7114BD21403.TEMP [assembly:/_pro/scenes/missions/trapped/scene_bellflower.entity].pc_entitytemplate
+0062F6BDAB6C0C0A.TBLU [assembly:/_pro/scenes/missions/trapped/scene_bellflower.entity].pc_entityblueprint
+
+```
