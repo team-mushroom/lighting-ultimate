@@ -61,3 +61,10 @@ Dubai uses its own postfilter brick, so as with S1 there is no lighting_overides
 003CF3BC873D18E2.TEMP  [assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entitytype
 00E19FE574258D19.TBLU  [assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entityblueprint
 ```
+
+## TOD Changes (S3)
+
+```
+005A9C9598FE95C6.TEMP  [assembly:/_pro/scenes/missions/ancestral/lighting_overrides_dark_bulldog.brick].pc_entitytype
+00EC30B164DC3DB8.TBLU  [assembly:/_pro/scenes/missions/ancestral/lighting_overrides_dark_bulldog.brick].pc_entityblueprint
+```

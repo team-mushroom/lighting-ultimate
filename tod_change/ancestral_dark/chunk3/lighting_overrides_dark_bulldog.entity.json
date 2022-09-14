@@ -1,0 +1,6306 @@
+{
+	"tempHash": "005A9C9598FE95C6",
+	"tbluHash": "00EC30B164DC3DB8",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"entitySubsets": [
+				[
+					"Activatable_NormalGameplay, IEntity",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioEmitters",
+					{
+						"entities": []
+					}
+				],
+				[
+					"AudioVolumetricGeom",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Gates",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Replicable",
+					{
+						"entities": []
+					}
+				],
+				[
+					"Rooms",
+					{
+						"entities": []
+					}
+				]
+			]
+		},
+		"898eb0d05335bc73": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -22.262399673461914,
+							"y": 27.008399963378906,
+							"z": 20.231000900268555
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.954040050506592,
+						"y": 1.0669000148773193,
+						"z": 4.562290191650391
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a6d2ddb4214e6b72": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_DiningRoom (47696)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 32.49209976196289,
+							"y": 39.04710006713867,
+							"z": 7.285999774932861
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 12.105400085449219,
+						"y": 4.101069927215576,
+						"z": 7.012179851531982
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f9e161c6f7e90dd9": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -45
+						},
+						"position": {
+							"x": -21.18829917907715,
+							"y": 26.82699966430664,
+							"z": 21.195199966430664
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.612030029296875,
+						"y": 3.335819959640503,
+						"z": 6.567780017852783
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c578f422c7d3a3b4": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Foyer_B (19153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.0034484900534152985,
+							"y": -2.3068599700927734,
+							"z": 14.286800384521484
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 14.678500175476074,
+						"y": 5.784729957580566,
+						"z": 6.89201021194458
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6be35eb16b6081e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_TrophyRoom (43819)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -44.054500579833984,
+							"y": 46.997398376464844,
+							"z": 7.3153300285339355
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 4.908760070800781,
+						"y": 9.567970275878906,
+						"z": 6.69350004196167
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f1936d60aa79109b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Library (48141)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 45.00008210444375
+						},
+						"position": {
+							"x": -31.37030029296875,
+							"y": 6.9320502281188965,
+							"z": 10.66819953918457
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.409890174865723,
+						"y": 4.462279796600342,
+						"z": 13.758500099182129
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b4727a7b2808dbc0": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Hallway_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 2,
+							"y": 9,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.028820037841797,
+						"y": 14.985699653625488,
+						"z": 6.915308952331543
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a0a01705c5cac8da": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -135
+						},
+						"position": {
+							"x": -21.288700103759766,
+							"y": 27.28700065612793,
+							"z": 21.195199966430664
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.587030053138733,
+						"y": 3.0592401027679443,
+						"z": 6.567780017852783
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c16a2a2c1fd8eada": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_TrophyRoom (43819)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -44.214500427246094,
+							"y": 50.444400787353516,
+							"z": 7.3153300285339355
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.228950023651123,
+						"y": 2.6740200519561768,
+						"z": 6.69350004196167
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7ec2d675c9d6980e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Foyer_B (19153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -45.08256811873253
+						},
+						"position": {
+							"x": 2.506659984588623,
+							"y": -8.459500312805176,
+							"z": 14.310400009155273
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 3.272200107574463,
+						"y": 4.439889907836914,
+						"z": 6.6755499839782715
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d44d43f610473658": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Hallway_E (44355)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -14.827899932861328,
+							"y": 37.76430130004883,
+							"z": 14.15779972076416
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.736599922180176,
+						"y": 16.22760009765625,
+						"z": 7.14070987701416
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cac9dd25fea33d79": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_AlexasBathroom (45069)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -20.25659942626953,
+							"y": 11.013299942016602,
+							"z": 19.8164005279541
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.4995700120925903,
+						"y": 2.4993700981140137,
+						"z": 3.966279983520508
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7b055aca27d78d06": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Hallway_F",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.096599578857422,
+						"y": 17.48744010925293,
+						"z": 6.873941898345947
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d107be9ccf83548a": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Bathroom_B (31787)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -14.555000305175781,
+							"y": 52.48440170288086,
+							"z": 12.0201997756958
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9182320237159729,
+						"y": 0.7458080053329468,
+						"z": 0.9931660294532776
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2ff68a28ca2cc9a0": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -10.99530029296875,
+							"y": 57.229801177978516,
+							"z": 13.078300476074219
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0460699796676636,
+						"y": 1.1049400568008423,
+						"z": 4.184169769287109
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"606491456d6978cc": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Buttlers_Office",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.146469593048096,
+						"y": 9.894298553466797,
+						"z": 6.8604021072387695
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ef7b33a450f54568": {
+			"parent": "5734136bd8b247e8",
+			"name": "HitmanRainWetLogic",
+			"template": "00FDB8565FFAA61A",
+			"blueprint": "00609605E8B31DA5",
+			"properties": {},
+			"postInitProperties": {
+				"DryVolumes": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "83911b18f32878f3",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "7476fe48840547dd",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "412881d8d6005130",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "64a304472ada3d8",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "25ab8870e5bb57a1",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "9656fd551eea134a",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "7ec2d675c9d6980e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f20a74488e406e4a",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "362e4f52f5e9cc6f",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "c578f422c7d3a3b4",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d3406b2419eb5f72",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "9bb4db5a69ac50b4",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "77660c1ec11ea30a",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "334041aa6cb127a4",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "1a5239764d6f47e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "69855fb19b7d0c87",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "15f05ced6a5ac113",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "c149b0ee18e3ce67",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d107be9ccf83548a",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "92b5a2662839f15b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "606491456d6978cc",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "36d2cfd112742341",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "be751edfb296f854",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "3a23635fa7195c0b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "efa090b763708078",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "bbdbd12d43b05f23",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "74e5553ecfc8cee2",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "7829217e99fa57b7",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "a830097289d42a4f",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "ff605f1f355f9853",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "bd5b49563d15c188",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6a382b5076b865b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "7e6983af45e4ac0e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "b4e161416a6efb6b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "468df175ed416b31",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "5d4ee376c88f7e01",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "ac40cfa69b84fe49",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "ea5bc218f2a2ffa8",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "aec7d1f6d7e032fc",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "ff4b2381aa73ca0f",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "3d17cf616ec143",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f32c5c00456467ab",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "e77d60332a0b6968",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "c16a2a2c1fd8eada",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "fd0094458aa85f63",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6be35eb16b6081e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6f62e3c689298e03",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "320fbee8f416f2a8",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "994dbd9bd36dd5d6",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "947ae3053c995b8f",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "b7fe5451a6e3d975",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "8312824e32bb092b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "a0a01705c5cac8da",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f9e161c6f7e90dd9",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "898eb0d05335bc73",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "1b3ec421ceb65dd1",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "cf5e033d52c91869",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d44d43f610473658",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "c231680198bf603b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "7b055aca27d78d06",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "5b4493507a0fbbaf",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "cac9dd25fea33d79",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "43172eb981b4eff4",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "94d372f0008c1768",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "4716f331ef0bcf65",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "3375dafcc936b067",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "cf9da03041645c3b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "cbe2ad662badfea5",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "630439bdabb80e68",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "b4727a7b2808dbc0",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "c0809bdfd7af00b7",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d4918ac6b033ae14",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "7eb5673dac882f39",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f1ce0b1501476a9e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "c980904af85aa93d",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "39115bb0260a1895",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "8f411da2b2a5d516",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "a6d2ddb4214e6b72",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "9995c95cdd9c279",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6cb50b8c16f369db",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "b6540be14b5de4f6",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "5e2006683b4710f7",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d351c06fe6a92697",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "2ff68a28ca2cc9a0",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6fbd6466772115cb",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "3c7438871a78757a",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "1ea0e0791e38c707",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "42a368f5fe324bc4",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6c36cb82c8d918d0",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "e80aad90ef0f15ec",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d54b592bfbc62f3e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "1c4b9f5ad8f72e3d",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "48c7c1acc97b4c04",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "4849118b57274d38",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "562d78eb5e8a9acc",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f1936d60aa79109b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "e3dbd028e87ca29e",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "6f68b494d9778b37",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "d645c1bf6c53387b",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f8848e12a1b51e06",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "f7cddd5ae4ce218a",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "b7664817160ba0d5",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						},
+						{
+							"ref": "89048ef285ad0cfa",
+							"externalScene": null,
+							"exposedEntity": "NotInRain"
+						}
+					]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bbdbd12d43b05f23": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_SecretRoom_A (35693)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 45.295794644426195
+						},
+						"position": {
+							"x": -7.887909889221191,
+							"y": 34.2765998840332,
+							"z": 21.24519920349121
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.3544600009918213,
+						"y": 8.098409652709961,
+						"z": 6.551109790802002
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cbe2ad662badfea5": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_ArchiveRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 10.547249794006348,
+						"y": 12.455709457397461,
+						"z": 7.127460479736328
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b7664817160ba0d5": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_GuestBedroom_B (48204)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -21.453699111938477,
+							"y": 47.50559997558594,
+							"z": 11.842100143432617
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9829180240631104,
+						"y": 1.6817599534988403,
+						"z": 1.8185399770736694
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"77660c1ec11ea30a": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_StaffRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.137129783630371,
+						"y": 15.544599533081055,
+						"z": 6.72349214553833
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"48c7c1acc97b4c04": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Library (48141)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -31.965299606323242,
+							"y": 8.942580223083496,
+							"z": 10.787799835205078
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.5272698402404785,
+						"y": 4.184850215911865,
+						"z": 13.997699737548828
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7eb5673dac882f39": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_AlexasBedroom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 20.75589942932129,
+						"y": 15.377098083496094,
+						"z": 7.562400817871094
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"630439bdabb80e68": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_ArchiveRoom (46269)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 39.638999938964844,
+							"y": 20.95240020751953,
+							"z": 13.82919979095459
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 4.140160083770752,
+						"y": 4.475890159606934,
+						"z": 5.583489894866943
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"468df175ed416b31": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Hallway_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 12.931549072265625,
+						"y": 17.799999237060547,
+						"z": 20.680400848388672
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1c4b9f5ad8f72e3d": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Library",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 2,
+							"y": 9,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 19.34109878540039,
+						"y": 20.78083038330078,
+						"z": 14.0287446975708
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"562d78eb5e8a9acc": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Library (48141)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -44.99987925817096
+						},
+						"position": {
+							"x": -30.053199768066406,
+							"y": 9.866089820861816,
+							"z": 10.455400466918945
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.5619797706604,
+						"y": 4.337309837341309,
+						"z": 14.174200057983398
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5734136bd8b247e8": {
+			"parent": "fffffffffffffffe",
+			"name": "Rain Effects",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d54b592bfbc62f3e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -59.99998897448494
+						},
+						"position": {
+							"x": -2.1619598865509033,
+							"y": 63.88719940185547,
+							"z": 10.803000450134277
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.144040107727051,
+						"y": 4.06003999710083,
+						"z": 13.765399932861328
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f20a74488e406e4a": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Foyer_B (19153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -135
+						},
+						"position": {
+							"x": -2.3865299224853516,
+							"y": -8.358269691467285,
+							"z": 14.310400009155273
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 3.694390058517456,
+						"y": 3.6995298862457275,
+						"z": 6.6755499839782715
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3a23635fa7195c0b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_SecretRoom_A (35693)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 91.52676935293054
+						},
+						"position": {
+							"x": -8.341070175170898,
+							"y": 34.51649856567383,
+							"z": 21.23189926147461
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.232230186462402,
+						"y": 6.884439945220947,
+						"z": 6.578909873962402
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1ea0e0791e38c707": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -30.00006313415642
+						},
+						"position": {
+							"x": -3.6590099334716797,
+							"y": 62.22420120239258,
+							"z": 10.751500129699707
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.59867000579834,
+						"y": 4.364170074462891,
+						"z": 13.868399620056152
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bd5b49563d15c188": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_SecretRoom_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 4.932100296020508,
+						"y": 16.423789978027344,
+						"z": 7.105000019073486
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"92b5a2662839f15b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Foyer_Staircase_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 2,
+							"y": 9,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 8.066650390625,
+						"y": 13.066309928894043,
+						"z": 7.123908042907715
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c980904af85aa93d": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_AlexasBedroom (47489)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -6.45635986328125,
+							"y": 14.560799598693848,
+							"z": 19.005300521850586
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.7320499420166016,
+						"y": 1.7896000146865845,
+						"z": 2.1048500537872314
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5e2006683b4710f7": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_GuestBedroom_A (47965)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 30.364500045776367,
+							"y": 11.75,
+							"z": 14.307600021362305
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.796730041503906,
+						"y": 3.4964799880981445,
+						"z": 6.7153000831604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"36d2cfd112742341": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Bathroom_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 8.556490898132324,
+						"y": 5.9576005935668945,
+						"z": 7.225409984588623
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"362e4f52f5e9cc6f": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Foyer_B (19153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.013469699770212173,
+							"y": -6.424789905548096,
+							"z": 14.286800384521484
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 10.18589973449707,
+						"y": 3.6035399436950684,
+						"z": 6.89201021194458
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d4918ac6b033ae14": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Kitchen",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 11.8722505569458,
+						"y": 19.665128707885742,
+						"z": 6.7589921951293945
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ea5bc218f2a2ffa8": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_KitchenStorage",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.002500534057617,
+						"y": 7.095500946044922,
+						"z": 6.880313396453857
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"aec7d1f6d7e032fc": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_AlexasCloset",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.072700500488281,
+						"y": 8.833800315856934,
+						"z": 7.111899375915527
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9bb4db5a69ac50b4": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_SecretRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -13,
+							"y": 28,
+							"z": 11
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 4.583759784698486,
+						"y": 8.273770332336426,
+						"z": 6.669206619262695
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b4e161416a6efb6b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Hallway_D (41921)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -16.992300033569336,
+							"y": 53.49409866333008,
+							"z": 7.234869956970215
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.048190116882324,
+						"y": 1.9983099699020386,
+						"z": 6.678199768066406
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3c7438871a78757a": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 10.989299774169922,
+							"y": 57.229801177978516,
+							"z": 13.078300476074219
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.038450002670288,
+						"y": 1.1049400568008423,
+						"z": 4.184169769287109
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f32c5c00456467ab": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_TrophyRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 21.68360137939453,
+						"y": 13.612430572509766,
+						"z": 6.7589921951293945
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5d4ee376c88f7e01": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Hallway_B (42189)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 15.506699562072754,
+							"y": 10.388400077819824,
+							"z": 14.461199760437012
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.02977991104126,
+						"y": 18.510299682617188,
+						"z": 6.970200061798096
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fd0094458aa85f63": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_TrophyRoom (43819)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -45.449501037597656,
+							"y": 43.69559860229492,
+							"z": 7.3153300285339355
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.7355198860168457,
+						"y": 3.0611300468444824,
+						"z": 6.69350004196167
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e80aad90ef0f15ec": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.03546620160341263,
+							"y": 59.854801177978516,
+							"z": 10.823599815368652
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 15.043800354003906,
+						"y": 5.827310085296631,
+						"z": 14.012499809265137
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"83911b18f32878f3": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_SecretRoom_C",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 11.436399459838867,
+						"y": 4.646900177001953,
+						"z": 7.234320163726807
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d351c06fe6a92697": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_LivingRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -7,
+							"y": 52,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 27.126399993896484,
+						"y": 20.54313850402832,
+						"z": 13.885441780090332
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f7cddd5ae4ce218a": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_GuestBedroom_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 16.236797332763672,
+						"y": 13.657360076904297,
+						"z": 6.995680332183838
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"15f05ced6a5ac113": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_SecretRoom_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.0553998947143555,
+						"y": 3.8236799240112305,
+						"z": 6.597198486328125
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"39115bb0260a1895": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_AlexasBedroom (47489)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.15338100492954254,
+							"y": 15.958800315856934,
+							"z": 21.270999908447266
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.363239765167236,
+						"y": 5.991940021514893,
+						"z": 6.636159896850586
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e77d60332a0b6968": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_TrophyRoom (43819)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -29.999399185180664,
+							"y": 54.397701263427734,
+							"z": 7.221670150756836
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.562469959259033,
+						"y": 3.8055601119995117,
+						"z": 6.651810169219971
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8f411da2b2a5d516": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_DiningRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 24.926660537719727,
+						"y": 13.07367992401123,
+						"z": 6.824711799621582
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"25ab8870e5bb57a1": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Foyer_B (19153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -11.666999816894531,
+							"y": 8.77163028717041,
+							"z": 14.286800384521484
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.6783900260925293,
+						"y": 17.572399139404297,
+						"z": 6.89201021194458
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6f62e3c689298e03": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_Hallway_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 37.4364013671875,
+						"y": 8.143210411071777,
+						"z": 14.048399925231934
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ff605f1f355f9853": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Bathroom_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 8.45159912109375,
+						"y": 6.438819885253906,
+						"z": 6.878817558288574
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7476fe48840547dd": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Hallway_C",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 1,
+							"y": 1,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.534799575805664,
+						"y": 10.20319938659668,
+						"z": 7.098109722137451
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4849118b57274d38": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Library (48141)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -12.105500221252441,
+							"y": 11.748600006103516,
+							"z": 7.309329986572266
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.2439600229263306,
+						"y": 20.15019989013672,
+						"z": 6.765850067138672
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c149b0ee18e3ce67": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Bathroom_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.071800231933594,
+						"y": 8.789898872375488,
+						"z": 7.112579822540283
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c231680198bf603b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Hallway_E (44355)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -21.122400283813477,
+							"y": 33.515499114990234,
+							"z": 13.239299774169922
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.4065799713134766,
+						"y": 1.0509400367736816,
+						"z": 5.303699970245361
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"74e5553ecfc8cee2": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Hallway_E",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 11.476480484008789,
+						"y": 6.99714994430542,
+						"z": 6.833221912384033
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b7fe5451a6e3d975": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -1.269260048866272,
+							"y": 26.99690055847168,
+							"z": 25.3262996673584
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 42.53129959106445,
+						"y": 8.46129035949707,
+						"z": 0.9797210097312927
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f8848e12a1b51e06": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Hallway_B (48153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 19.664600372314453,
+							"y": 33.593101501464844,
+							"z": 7.166140079498291
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 15.659799575805664,
+						"y": 6.930220127105713,
+						"z": 6.921140193939209
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9995c95cdd9c279": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_DiningRoom (47696)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 32.00529861450195,
+							"y": 55.97010040283203,
+							"z": 7.2807698249816895
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 14.694700241088867,
+						"y": 5.6798200607299805,
+						"z": 7.001709938049316
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5b4493507a0fbbaf": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_AlexasBathroom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.233001708984375,
+						"y": 12.960800170898438,
+						"z": 7.164198875427246
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4716f331ef0bcf65": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_AlexasOffice_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 22.665300369262695,
+						"y": 23.43724822998047,
+						"z": 28.42559814453125
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6a382b5076b865b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Entrance",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.3206329941749573,
+							"y": -10.233380317687988,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 10.000269889831543,
+						"y": 11.837530136108398,
+						"z": 7.2660932540893555
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6fbd6466772115cb": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -149.99993686584358
+						},
+						"position": {
+							"x": 2.547990083694458,
+							"y": 61.32550048828125,
+							"z": 10.803000450134277
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.157130241394043,
+						"y": 4.597650051116943,
+						"z": 13.765399932861328
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ff4b2381aa73ca0f": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Foyer_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 2,
+							"y": 9,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 23.096450805664063,
+						"y": 17.0627384185791,
+						"z": 7.064804553985596
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"334041aa6cb127a4": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_AlexasPrivateRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.596600532531738,
+						"y": 9.73769760131836,
+						"z": 6.904701232910156
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8312824e32bb092b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 45
+						},
+						"position": {
+							"x": -21.38789939880371,
+							"y": 26.64299964904785,
+							"z": 20.211700439453125
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 4.396679878234863,
+						"y": 1.0749499797821045,
+						"z": 4.600860118865967
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"994dbd9bd36dd5d6": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -21.286399841308594,
+							"y": 27.01259994506836,
+							"z": 21.195199966430664
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9506360292434692,
+						"y": 3.910559892654419,
+						"z": 6.567780017852783
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"64a304472ada3d8": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Foyer_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 23.543399810791016,
+						"y": 30.252239227294922,
+						"z": 7.3052802085876465
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d3406b2419eb5f72": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Foyer_Staircase_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 2.0999999046325684,
+							"y": 9,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 8.159889221191406,
+						"y": 12.558900833129883,
+						"z": 7.132841110229492
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1a5239764d6f47e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Hallway_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.73684024810791,
+						"y": 7.020659923553467,
+						"z": 7.112020492553711
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3d17cf616ec143": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Foyer_A (43534)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.0014560200506821275,
+							"y": -2.656169891357422,
+							"z": 7.295209884643555
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 14.595600128173828,
+						"y": 6.213290214538574,
+						"z": 6.849130153656006
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3375dafcc936b067": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_AlexasOffice_A (45784)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.002998349955305457,
+							"y": 55.8583984375,
+							"z": 28.25629997253418
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.041230201721191,
+						"y": 3.1997199058532715,
+						"z": 6.604529857635498
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c0809bdfd7af00b7": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Hallway_A (46319)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.0213019996881485,
+							"y": 33.61259841918945,
+							"z": 7.272729873657227
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 23.09819984436035,
+						"y": 6.941679954528809,
+						"z": 7.13431978225708
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"320fbee8f416f2a8": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.05498889833688736,
+							"y": 22.092599868774414,
+							"z": 21.126699447631836
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.593490123748779,
+						"y": 6.404940128326416,
+						"z": 7.016610145568848
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9e1bd5fcdad93e2a": {
+			"parent": "5734136bd8b247e8",
+			"name": "FX_E_Rain",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/fx_e_rain.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/fx_e_rain.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"RainWindMultiplier": {
+					"type": "float32",
+					"value": 1.2000000476837158
+				},
+				"GroundSplashAlpha": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"RainMinimumSize": {
+					"type": "float32",
+					"value": 0.80000001192092896
+				},
+				"RainMaximumSize": {
+					"type": "float32",
+					"value": 1.5
+				},
+				"RainMotionStretchFactor": {
+					"type": "float32",
+					"value": 5
+				},
+				"RainReflectivity": {
+					"type": "float32",
+					"value": 0.80000001192092896
+				},
+				"m_fCameraFadeNearDistance": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fCameraFadeFarDistance": {
+					"type": "float32",
+					"value": 2
+				},
+				"RainParticlesPerSecond": {
+					"type": "float32",
+					"value": 4000
+				},
+				"RainRefraction": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_fCameraFadeSizeFactor": {
+					"type": "float32",
+					"value": 100
+				},
+				"RainSplashesFlatGroundEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"InfinityRadius": {
+					"type": "float32",
+					"value": 10
+				}
+			},
+			"postInitProperties": {
+				"ParentHitman": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "87d826a814078bff",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e3dbd028e87ca29e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Library (48141)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -16.994199752807617,
+							"y": 21.411500930786133,
+							"z": 7.309329986572266
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 3.496730089187622,
+						"y": 1.4271299839019775,
+						"z": 6.765850067138672
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"42a368f5fe324bc4": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -120.00001102551505
+						},
+						"position": {
+							"x": 1.9922399520874023,
+							"y": 62.986900329589844,
+							"z": 10.676799774169922
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.783060073852539,
+						"y": 4.520740032196045,
+						"z": 14.017900466918945
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6f68b494d9778b37": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Hallway_B",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 18,
+							"y": 9,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.109973907470703,
+						"y": 35.57740020751953,
+						"z": 7.152078151702881
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cf5e033d52c91869": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Hallway_E",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.622699737548828,
+						"y": 24.19379997253418,
+						"z": 7.140870094299316
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7829217e99fa57b7": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_StaffRoom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.541698455810547,
+						"y": 7.855600357055664,
+						"z": 6.792799949645996
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"69855fb19b7d0c87": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Hallway_D",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.717400550842285,
+						"y": 18.326229095458984,
+						"z": 7.150000095367432
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ac40cfa69b84fe49": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Hallway_B (42189)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 16.246999740600586,
+							"y": 28.075000762939453,
+							"z": 14.44890022277832
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.617730140686035,
+						"y": 17.75,
+						"z": 6.9946699142456055
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1b3ec421ceb65dd1": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -45
+						},
+						"position": {
+							"x": -21.579700469970703,
+							"y": 27.58049964904785,
+							"z": 20.211700439453125
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 3.8240199089050293,
+						"y": 1.042580008506775,
+						"z": 4.600860118865967
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9656fd551eea134a": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_Foyer_B (19153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.12902800738811493,
+							"y": -7.833740234375,
+							"z": 14.286800384521484
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 4.928500175476074,
+						"y": 5.784510135650635,
+						"z": 6.89201021194458
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"412881d8d6005130": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Hallway_C (17275)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -16.411399841308594,
+							"y": 33.69810104370117,
+							"z": 7.394410133361816
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 10.179200172424316,
+						"y": 6.650780200958252,
+						"z": 6.894889831542969
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f1ce0b1501476a9e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_AlexasBedroom (47489)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.014331799931824207,
+							"y": -0.8743289709091187,
+							"z": 21.288799285888672
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.086259841918945,
+						"y": 5.23121976852417,
+						"z": 6.671800136566162
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"89048ef285ad0cfa": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_GuestBedroom_B (48204)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -29.988800048828125,
+							"y": 54.89849853515625,
+							"z": 14.324199676513672
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.582859992980957,
+						"y": 2.768939971923828,
+						"z": 6.782639980316162
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a830097289d42a4f": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Bathroom_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 8.547609329223633,
+						"y": 6.533029556274414,
+						"z": 6.740920543670654
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6cb50b8c16f369db": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_Hallway_C",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 26.029897689819336,
+						"y": 7.023530006408691,
+						"z": 7.0501298904418945
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"be751edfb296f854": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F2_SecretRoom_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.308799743652344,
+						"y": 7.042701721191406,
+						"z": 6.941099166870117
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"947ae3053c995b8f": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_Hallway_A (44125)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -22.465599060058594,
+							"y": 26.982500076293945,
+							"z": 21.195199966430664
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9962310194969177,
+						"y": 1.6661900281906128,
+						"z": 6.567780017852783
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7e6983af45e4ac0e": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F0_Hallway_D",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -17,
+							"y": 25,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.017290115356445,
+						"y": 16.98940086364746,
+						"z": 6.702291011810303
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cf9da03041645c3b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_AlexasOffice_A (45784)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0.0006904599722474813,
+							"y": 57.98849868774414,
+							"z": 21.2903995513916
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.615099906921387,
+						"y": 6.960400104522705,
+						"z": 6.685780048370361
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"43172eb981b4eff4": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_BrothersBedroom",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 20.052980422973633,
+						"y": 12.69081974029541,
+						"z": 15.885169982910156
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6c36cb82c8d918d0": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_LivingRoom (48112)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -90
+						},
+						"position": {
+							"x": 0.09768389910459518,
+							"y": 64.28690338134766,
+							"z": 10.803000450134277
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.677120208740234,
+						"y": 5.1163201332092285,
+						"z": 13.765399932861328
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"efa090b763708078": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F2_SecretRoom_A (35693)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -15.996000289916992,
+							"y": 34.49209976196289,
+							"z": 18.975500106811523
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.6466399431228638,
+						"y": 7.975729942321777,
+						"z": 4.431660175323486
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d645c1bf6c53387b": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F0_Hallway_B (48153)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 14.96560001373291,
+							"y": 10.266599655151367,
+							"z": 7.121469974517822
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.971030235290527,
+						"y": 17.44029998779297,
+						"z": 7.126800060272217
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b6540be14b5de4f6": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For F1_GuestBedroom_A",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 36,
+							"y": 34,
+							"z": 4
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 15.794880867004395,
+						"y": 12.45370101928711,
+						"z": 7.170640468597412
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"94d372f0008c1768": {
+			"parent": "5734136bd8b247e8",
+			"name": "RainKillBox For Room Include for F1_BrothersBedroom (45572)",
+			"template": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/liquid/fx_liquid.template?/rainkillbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 31.69849967956543,
+							"y": 41.032100677490234,
+							"z": 14.104100227355957
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 13.44540023803711,
+						"y": 8.097189903259277,
+						"z": 6.527830123901367
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbf45cf5bf16e": {
+			"parent": {
+				"ref": "8db168ccb78b59e4",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Sky_Sunset_v2_036",
+			"template": "00C5C4A186733575",
+			"blueprint": "0068899EFA41C86B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -78.9845955107048
+						},
+						"position": {
+							"x": 5.0348381996154785,
+							"y": -68.35446166992188,
+							"z": -193.94569396972656
+						}
+					}
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 1
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#0869d1"
+				},
+				"ConstantVector1D_02_Value": {
+					"type": "float32",
+					"value": 0.80000001192092896
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc9a3a70d1979": {
+			"parent": {
+				"ref": "aff994cc4a72c41f",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "fx_plane_500m",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_500m.prim].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -60.26558782793956,
+							"y": 14.942211813245038,
+							"z": 111.38994500358008
+						},
+						"position": {
+							"x": -66.9210205078125,
+							"y": -68.6192398071289,
+							"z": 4.715171813964844
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 45,
+						"y": 45,
+						"z": 1
+					}
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_bForceVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bDisablePAC": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDisableNavmeshExport": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5ea461787f7e": {
+			"parent": "abcdc9a3a70d1979",
+			"name": "fx_custom_moon",
+			"template": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entityblueprint",
+			"properties": {
+				"142001717": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"277986898": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"748147322": {
+					"type": "float32",
+					"value": 90
+				},
+				"974143070": {
+					"type": "float32",
+					"value": 200000
+				},
+				"2932013595": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"4004151359": {
+					"type": "SColorRGB",
+					"value": "#f5f9ff"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -121.9581925566404,
+							"y": 42.373904821010825,
+							"z": 22.069168395169083
+						},
+						"position": {
+							"x": 42.9256591796875,
+							"y": 536.087890625,
+							"z": 1784.7469482421875
+						}
+					}
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2D_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/textures/backdrop/sky/moon_a.texture?/diffuse_e.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_01_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"abcdc9a3a70d1979"
+					]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc9a3a70d1979"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd836d46558da0": {
+			"parent": {
+				"ref": "5a82ce87158f180c",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Bearbounce 2",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -22.53793420936504,
+							"y": -51.485628534401165,
+							"z": 100.01854362993784
+						},
+						"position": {
+							"x": -78.92225646972656,
+							"y": 12.262140274047852,
+							"z": 4.549654960632324
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_OMNI"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 3.7364699840545654,
+						"y": 7.816470146179199
+					}
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.2205899953842163,
+						"y": 0.99617999792099
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 4
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fAreaQuadViewFactorThreshold": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 20
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.651060104370117,
+						"y": 15.819600105285645,
+						"z": 25.665800094604492
+					}
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5320960283279419,
+						"y": 3.693619966506958,
+						"z": 4.042870044708252
+					}
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.2137099504470825,
+						"y": 2.5889298915863037,
+						"z": 4.7828898429870605
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#498ef5"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "d77cae32ad9286f1",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdcb5d51fa302a": {
+			"parent": {
+				"ref": "39614f4152e093ad",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Bounce",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.02174137800464792,
+							"y": 55.303316615986304,
+							"z": 0.011373962207349434
+						},
+						"position": {
+							"x": -13.681360244750977,
+							"y": 24.19487953186035,
+							"z": 3.3305439949035645
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fa8252"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 4.110000133514404,
+						"y": 11.539999961853027
+					}
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 4
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.10000000149011612,
+						"y": 1.0753979682922363
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "831ad8d256189f4e",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6a19f31ac723": {
+			"parent": {
+				"ref": "4c4965d0656b6a17",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Bounce",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 1.604376911987958,
+							"z": 0
+						},
+						"position": {
+							"x": -3.3222219944000244,
+							"y": -6.801030158996582,
+							"z": 2.927639961242676
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#a3dfff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.0399999618530273,
+						"y": 9.270000457763672
+					}
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_OMNI"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 3
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.10000000149011612,
+						"y": 1.0753979682922363
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "cbb4fbbd0c3e41bb",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd291792a0e70f": {
+			"parent": {
+				"ref": "39614f4152e093ad",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Bounce 2",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -9.232078734836135,
+							"y": 83.14865642421914,
+							"z": -169.26389354592115
+						},
+						"position": {
+							"x": 10.228249549865723,
+							"y": 24.567779541015625,
+							"z": 3.62945294380188
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fa8252"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 4.130000114440918,
+						"y": 11.949999809265137
+					}
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 4
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.10000000149011612,
+						"y": 1.0753979682922363
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "831ad8d256189f4e",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd49a4c5f0e9ff": {
+			"parent": {
+				"ref": "ad2421de5541b2f7",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Light_Windows_Key_05",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.009225903008930648,
+							"y": -0.9552795102980806,
+							"z": 14.50454835546973
+						},
+						"position": {
+							"x": -34.274539947509766,
+							"y": -1.2041499614715576,
+							"z": 11.4964599609375
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_OMNI"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.359999895095825,
+						"y": 17.010000228881836
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": -1.0571810007095337,
+						"y": 0.9053850173950195
+					}
+				},
+				"m_fAspectXByY": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "c940cd99d9ac65ee",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#a2c8f5"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "2b4409dc55cf2476",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd74132a8b72e5": {
+			"parent": {
+				"ref": "ad2421de5541b2f7",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "Light_Windows_Key_08",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.009225903008930648,
+							"y": -0.9552795102980806,
+							"z": 14.50454835546973
+						},
+						"position": {
+							"x": -26.361379623413086,
+							"y": -2.922544002532959,
+							"z": 10.615030288696289
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_OMNI"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.4299999475479126,
+						"y": 17.010000228881836
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": -1.0571810007095337,
+						"y": 0.9053850173950195
+					}
+				},
+				"m_fAspectXByY": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "c940cd99d9ac65ee",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#a2c8f5"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "2b4409dc55cf2476",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "9c20f8ff7f5d9c0d",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "2ac6d23951c4ccf0",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "ee8fd398f89f6c75",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "7bc9ad3719ffc156",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "2601500d848bbd60",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "ad6ee3b5b92b6844",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_Color": {
+					"type": "SColorRGB",
+					"value": "#bfdbff"
+				},
+				"m_fColorIntensity": {
+					"type": "float32",
+					"value": 1.5
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "1cab4a6238bcde63",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#add5ff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.80000001192092896
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "71d20fe7a618722d",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "6f20dbd61acee12a",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "604688ded4d952c4",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bVisible": {
+					"type": "bool",
+					"value": false
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "2414597e9299b4a5",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#d1edff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.60000002384185791
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 17.489999771118164,
+						"y": 29.329999923706055
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "2819eb0b4ca47eec",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"ColorCorrectionTextureHDR": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00DFB0D8BC29D607",
+						"flag": "5F"
+					}
+				},
+				"m_HDRColorTint": {
+					"type": "SColorRGB",
+					"value": "#ccfeff"
+				},
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bColorCorrectionEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vHDRAdaptationLuminanceMinMax": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.10000000149011612,
+						"y": 0.20000000298023224
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "204835738035d29",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#b5d8ff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 23.09000015258789,
+						"y": 45.2599983215332
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "ef2b26b998fe0432",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fGlobalLightBackIntensity": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fGlobalLightFrontIntensity": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "55420381edbd7bc7",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#d6f5ff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1.5
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 16.30190086364746,
+						"y": 30.6299991607666
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "c2c64e04d0001feb",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#b5d4ff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 4.210000038146973,
+						"y": 13
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "7f5168b3aced1b10",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"ColorCorrectionTextureHDR": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00DFB0D8BC29D607",
+						"flag": "5F"
+					}
+				},
+				"m_HDRColorTint": {
+					"type": "SColorRGB",
+					"value": "#ccfeff"
+				},
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bColorCorrectionEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vHDRAdaptationLuminanceMinMax": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.20000000298023224
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "8e5b2d5779be6101",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"ColorCorrectionTextureHDR": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00DFB0D8BC29D607",
+						"flag": "5F"
+					}
+				},
+				"m_HDRColorTint": {
+					"type": "SColorRGB",
+					"value": "#ccfeff"
+				},
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bColorCorrectionEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vHDRAdaptationLuminanceMinMax": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.20000000298023224
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "319e8aecb1dd4c4e",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.80000001192092896
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "f678ed895201bb0e",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#c6def7"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.30000001192092896
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 8.960000038146973,
+						"y": 11.029999732971191
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "c2d609c1ab9932c4",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fRayleighHeightScale": {
+					"type": "float32",
+					"value": 4000
+				},
+				"m_fSunIntensityScale": {
+					"type": "float32",
+					"value": 200
+				},
+				"m_fSunRadiusScale": {
+					"type": "float32",
+					"value": 2.5
+				},
+				"m_fWorldScale": {
+					"type": "float32",
+					"value": 4
+				},
+				"m_MieColor": {
+					"type": "SColorRGB",
+					"value": "#44a3e3"
+				},
+				"m_RayleighColor": {
+					"type": "SColorRGB",
+					"value": "#508ef2"
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "c46e2b98a293b829",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#c4deff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1.7000000476837158
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 6.640471955726503,
+							"y": 60.5729892552194,
+							"z": 22.16843189544723
+						},
+						"position": {
+							"x": -35.43621826171875,
+							"y": -8.46634292602539,
+							"z": 4.354286193847656
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 254.41000366210938,
+						"y": 375.6130065917969,
+						"z": 341.22601318359375
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "81bcecf21805b471",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "7ee11df629aca6f",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "575a754f109ba840",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#add5ff"
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "4183b939a4c23fcf",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_Tags": {
+					"type": "ZString",
+					"value": "DustB"
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "b49a67469abd9cc1",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"ConstantVector1D_14_Value": {
+					"type": "float32",
+					"value": 0
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "7488e7dc808abf45",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "eca06ea870dbbf1d",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "28c6a84ecb551b11",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "4601f074ed813f69",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_Color": {
+					"type": "SColorRGB",
+					"value": "#78b6f5"
+				},
+				"m_fColorIntensity": {
+					"type": "float32",
+					"value": 2.5999999046325684
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "d876891f68400877",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.69999998807907104
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -8.544716088475532,
+							"y": 68.95176206540148,
+							"z": -1.3089359184714577
+						},
+						"position": {
+							"x": -10.266519546508789,
+							"y": -12.5625,
+							"z": 4.174814224243164
+						}
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.1599999964237213,
+						"y": 0.5
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 8.334030151367188,
+						"y": 13.92300033569336
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "d73aa978aa3e2580",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 2
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "8f40a719b5d69f10",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "f19082808eeb5ea5",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#bfd7ff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.5
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "a3476a8dee119e19",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 4
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "133f1d88a19ab050",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				},
+				{
+					"ref": "8e2e8d04dee8d11c",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_Color": {
+					"type": "SColorRGB",
+					"value": "#75b8ff"
+				},
+				"m_fColorIntensity": {
+					"type": "float32",
+					"value": 2
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "83077c5454d91b19",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#b6e1fa"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.40000000596046448
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "1f3fb69ecce15247",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#dbf2ff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1.3999999761581421
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 50.14257667395179,
+							"y": 87.51021398806365,
+							"z": 18.16172724141534
+						},
+						"position": {
+							"x": 16.773759841918945,
+							"y": 7.284671783447266,
+							"z": 9.588968276977539
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 12.8818998336792,
+						"y": 17.760000228881836
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "eb3b836662986a46",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "4b85e0f3cbd00f08",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#b0deff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 3
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "67f8f0d6c9f91f10",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#9dd4f5"
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_OMNI"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.30000001192092896
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 90,
+							"z": 0
+						},
+						"position": {
+							"x": -30.878150939941406,
+							"y": -0.279805988073349,
+							"z": 2.772779941558838
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 11.865900039672852,
+						"y": 19.004899978637695
+					}
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.33000001311302185
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "a397c293e67c92c",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fParticlesPerSecond": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fParticlesPerSecondMax": {
+					"type": "float32",
+					"value": 550
+				},
+				"m_fSpeedMax": {
+					"type": "float32",
+					"value": -0.0010000000474974513
+				},
+				"m_fSpeedMin": {
+					"type": "float32",
+					"value": -0.00019999999494757503
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "91a8223db6e52d92",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f59090"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 15
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "4e1bd654e1f8699d",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.60000002384185791
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 22.6299991607666,
+						"y": 28.860000610351563
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "c940cd99d9ac65ee",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#a8d9ff"
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "5fbabd4663865dc7",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#c7e8ff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.60000002384185791
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 14.970000267028809,
+						"y": 24.1200008392334
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "25a1812dd7219a10",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": -0.44999998807907104,
+						"y": 0.5953999757766724
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 18.84000015258789,
+						"y": 25.440000534057617
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "aff994cc4a72c41f",
+					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fGlobalLightOverrideBackIntensity": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fGlobalLightOverrideFrontIntensity": {
+					"type": "float32",
+					"value": 0
+				}
+			}
+		}
+	],
+	"overrideDeletes": [
+		{
+			"ref": "7a56fa1e4e8f1375",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		},
+		{
+			"ref": "aab7ee8c37bf2884",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		},
+		{
+			"ref": "9fbd34f381392712",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		},
+		{
+			"ref": "4e1bd654e1f8699d",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		},
+		{
+			"ref": "604688ded4d952c4",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		},
+		{
+			"ref": "99459555ea73156e",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}
+	],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	],
+	"subType": 2,
+	"quickEntityVersion": 2.1
+}

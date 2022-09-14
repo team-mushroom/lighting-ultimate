@@ -485,6 +485,27 @@
 			"contentFolder": "vanilla+ s3/ancestral"
 		},
 		{
+			"name": "TOD Change - Rainy Night",
+			"tooltip": "EXPERIMENTAL - New Time of Day scenario for Death in the Family (Rainy Night)",
+			"type": "select",
+			"group": "Dartmoor",
+			"contentFolder": "tod_change/ancestral_dark",
+			"dependencies": [
+				{
+					"runtimeID": "00D167B329091046",
+					"toChunk": "chunk0"
+				},
+				{
+					"runtimeID": "00FDB8565FFAA61A",
+					"toChunk": "chunk0"
+				},
+				{
+					"runtimeID": "008DA82DE27F8837",
+					"toChunk": "chunk0"
+				}
+			]
+		},
+		{
 			"name": "Off",
 			"type": "select",
             "enabledByDefault": true,
