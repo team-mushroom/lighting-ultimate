@@ -2,6 +2,7 @@
 
 ## PARIS
 
+### FashionShowHit_01 / Peacock
 ```
 00A29AD0B46C7795.TEMP [assembly:/_pro/scenes/missions/paris/_scene_paris.entity].pc_entitytemplate
 006BE9D37FF173D4.TBLU [assembly:/_pro/scenes/missions/paris/_scene_paris.entity].pc_entityblueprint
@@ -9,14 +10,52 @@
 0011E323C2A9568F.TEMP [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity].pc_entitytemplate
 001EAE67E7BAA6CC.TBLU [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity].pc_entityblueprint
 
-00D49E2BE1BE4EDC.TEMP [assembly:/_pro/scenes/missions/paris/_scene_paris_torenia.entity].pc_entitytemplate
-00847B46BEBAF71D.TBLU [assembly:/_pro/scenes/missions/paris/_scene_paris_torenia.entity].pc_entityblueprint
-
 00911C01301519B6.TEMP [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_amd.entity].pc_entitytemplate
 00A4B0C2FDBA83FA.TBLU [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_amd.entity].pc_entityblueprint
 
 0087821FA5503DD5.TEMP [assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_entitytemplate
 0003DD433EC98AF1.TBLU [assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_entityblueprint
+```
+
+### Torenia
+```
+00D49E2BE1BE4EDC.TEMP [assembly:/_pro/scenes/missions/paris/_scene_paris_torenia.entity].pc_entitytemplate
+00847B46BEBAF71D.TBLU [assembly:/_pro/scenes/missions/paris/_scene_paris_torenia.entity].pc_entityblueprint
+```
+
+## COASTALTOWN
+
+### Mission01 / Octopus
+```
+003FCA2D355765F6.TEMP [assembly:/_pro/scenes/missions/coastaltown/mission01.entity].pc_entitytemplate
+0054408EDD396721.TBLU [assembly:/_pro/scenes/missions/coastaltown/mission01.entity].pc_entityblueprint
+
+00E4D6951CC4089E.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity].pc_entitytemplate
+0003EC9B38524000.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity].pc_entityblueprint
+```
+
+### Copperhead
+```
+004E41EA4574E6F1.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_mission_copperhead.entity].pc_entitytemplate
+003399279246150E.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_mission_copperhead.entity].pc_entityblueprint
+
+0066F0E706869F2E.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_copperhead.entity].pc_entitytemplate
+003D8300B03D2663.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_copperhead.entity].pc_entityblueprint
+```
+
+### Mamba
+```
+00E849806992CB33.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba.entity].pc_entitytemplate
+00D91D61135420AC.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba.entity].pc_entityblueprint
+
+00FD4FC867F311FE.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_mamba.entity].pc_entitytemplate
+00AE73CC3F041490.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_mamba.entity].pc_entityblueprint
+```
+
+### Ebola
+```
+00E35B73AB0A3FCD.TEMP [assembly:/_pro/scenes/missions/coastaltown/scene_ebola.entity].pc_entitytemplate
+00BD9DC3893137B7.TBLU [assembly:/_pro/scenes/missions/coastaltown/scene_ebola.entity].pc_entityblueprint
 ```
 
 # Sniper Assassin
