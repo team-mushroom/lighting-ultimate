@@ -61,7 +61,7 @@
 			},
 			"m_fHDRBloomScale": {
 				"type": "float32",
-				"value": 0.1
+				"value": 0.25
 			}
 		}
 	}],

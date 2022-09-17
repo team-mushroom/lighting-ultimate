@@ -1,3 +1,24 @@
+# Season 1
+
+## PARIS
+
+```
+00A29AD0B46C7795.TEMP [assembly:/_pro/scenes/missions/paris/_scene_paris.entity].pc_entitytemplate
+006BE9D37FF173D4.TBLU [assembly:/_pro/scenes/missions/paris/_scene_paris.entity].pc_entityblueprint
+
+0011E323C2A9568F.TEMP [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity].pc_entitytemplate
+001EAE67E7BAA6CC.TBLU [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity].pc_entityblueprint
+
+00D49E2BE1BE4EDC.TEMP [assembly:/_pro/scenes/missions/paris/_scene_paris_torenia.entity].pc_entitytemplate
+00847B46BEBAF71D.TBLU [assembly:/_pro/scenes/missions/paris/_scene_paris_torenia.entity].pc_entityblueprint
+
+00911C01301519B6.TEMP [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_amd.entity].pc_entitytemplate
+00A4B0C2FDBA83FA.TBLU [assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_amd.entity].pc_entityblueprint
+
+0087821FA5503DD5.TEMP [assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_entitytemplate
+0003DD433EC98AF1.TBLU [assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_entityblueprint
+```
+
 # Sniper Assassin
 
 ## HAWK
