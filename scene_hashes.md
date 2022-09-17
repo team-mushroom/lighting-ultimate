@@ -78,7 +78,7 @@
 00DEB3FD94EB9DB3.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_python.entity].pc_entityblueprint
 ```
 
-### Python Hellebore
+### Hellebore
 ```
 00083E8FD06A2836.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_python_hellebore.entity].pc_entitytemplate
 00EA9EADD5E3BC0D.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_python_hellebore.entity].pc_entityblueprint
@@ -99,6 +99,52 @@
 ```
 0001589D95EDC6D8.TEMP [assembly:/_pro/scenes/missions/bangkok/scene_zika.entity].pc_entitytemplate
 004E76A67298034D.TBLU [assembly:/_pro/scenes/missions/bangkok/scene_zika.entity].pc_entityblueprint
+```
+
+## COLORADO 2
+
+### Bull
+```
+00B8C8111EF26413.TEMP [assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity].pc_entitytemplate
+0090F789544BBBC0.TBLU [assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity].pc_entityblueprint
+
+00B97B26F128F1F8.TEMP [assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity].pc_entitytemplate
+004C083348783D78.TBLU [assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity].pc_entityblueprint
+```
+
+### Rabies
+```
+00C0C172788C3B1D.TEMP [assembly:/_pro/scenes/missions/colorado_2/scene_rabies.entity].pc_entitytemplate
+00C2EA467F706282.TBLU [assembly:/_pro/scenes/missions/colorado_2/scene_rabies.entity].pc_entityblueprint
+```
+
+## HOKKAIDO
+
+### Snowcrane
+```
+008167E46937D17C.TEMP [assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity].pc_entitytemplate
+00C02B71938DC4B1.TBLU [assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity].pc_entityblueprint
+
+002B042582E21F8F.TEMP [assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity].pc_entitytemplate
+00A9B7EC59FBFE44.TBLU [assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity].pc_entityblueprint
+```
+
+### Tumbleweed
+```
+0062FD2C277634E4.TEMP [assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane_tumbleweed.entity].pc_entitytemplate
+003FA007FCFE1EE3.TBLU [assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane_tumbleweed.entity].pc_entityblueprint
+```
+
+### Mamushi
+```
+00E139CEC06E5C62.TEMP [assembly:/_pro/scenes/missions/hokkaido/scene_mamushi.entity].pc_entitytemplate
+00451E9EABBE0E83.TBLU [assembly:/_pro/scenes/missions/hokkaido/scene_mamushi.entity].pc_entityblueprint
+```
+
+### Flu
+```
+001722CB49DCFF66.TEMP [assembly:/_pro/scenes/missions/hokkaido/_scene_flu.entity].pc_entitytemplate
+00F8203D8FF20933.TBLU [assembly:/_pro/scenes/missions/hokkaido/_scene_flu.entity].pc_entityblueprint
 ```
 
 # Sniper Assassin
