@@ -2,7 +2,7 @@
 
 ## PARIS
 
-### FashionShowHit_01 / Peacock
+### FashionShowHit 01 / Peacock
 ```
 00A29AD0B46C7795.TEMP [assembly:/_pro/scenes/missions/paris/_scene_paris.entity].pc_entitytemplate
 006BE9D37FF173D4.TBLU [assembly:/_pro/scenes/missions/paris/_scene_paris.entity].pc_entityblueprint
@@ -56,6 +56,49 @@
 ```
 00E35B73AB0A3FCD.TEMP [assembly:/_pro/scenes/missions/coastaltown/scene_ebola.entity].pc_entitytemplate
 00BD9DC3893137B7.TBLU [assembly:/_pro/scenes/missions/coastaltown/scene_ebola.entity].pc_entityblueprint
+```
+
+## MARRAKESH
+
+### Spider
+```
+00CCB0BC5BBCEB64.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity].pc_entitytemplate
+002D3445A6F70E26.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity].pc_entityblueprint
+
+006506CDA429836C.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_spider.entity].pc_entitytemplate
+00E828F5E62E0326.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_spider.entity].pc_entityblueprint
+```
+
+### Python
+```
+00651D18449B04B0.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python.entity].pc_entitytemplate
+00035CFCAE6E7D50.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python.entity].pc_entityblueprint
+
+00CDA4F4AA40871A.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_python.entity].pc_entitytemplate
+00DEB3FD94EB9DB3.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_python.entity].pc_entityblueprint
+```
+
+### Python Hellebore
+```
+00083E8FD06A2836.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_python_hellebore.entity].pc_entitytemplate
+00EA9EADD5E3BC0D.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_python_hellebore.entity].pc_entityblueprint
+```
+
+## BANGKOK
+
+### Tiger
+```
+000CE1E7168604DA.TEMP [assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity].pc_entitytemplate
+00DD32D31B2DD3D5.TBLU [assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity].pc_entityblueprint
+
+00F0765D340DF1DE.TEMP [assembly:/_pro/scenes/missions/bangkok/_scene_tiger.entity].pc_entitytemplate
+00A71EDA4F7FB1E3.TBLU [assembly:/_pro/scenes/missions/bangkok/_scene_tiger.entity].pc_entityblueprint
+```
+
+### Zika
+```
+0001589D95EDC6D8.TEMP [assembly:/_pro/scenes/missions/bangkok/scene_zika.entity].pc_entitytemplate
+004E76A67298034D.TBLU [assembly:/_pro/scenes/missions/bangkok/scene_zika.entity].pc_entityblueprint
 ```
 
 # Sniper Assassin
