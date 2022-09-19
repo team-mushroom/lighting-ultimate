@@ -7,7 +7,7 @@
 	],
 	"frameworkVersion": "1.5.5",
 	"version": "2.1.0",
-        "updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
+    "updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
 	"loadAfter": [
 		"KevinRudd.TODChange"
 	],
@@ -86,6 +86,13 @@
 			"contentFolder": "classic+ s1/coastaltown_octopus"
 		},
 		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow",
+			"contentFolder": "goty/coastaltown_octopus"
+		},
+		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
@@ -101,11 +108,11 @@
 			"dependencies": [
 				{
 					"runtimeID": "009F206E1EBA5F25",
-					"toChunk": "chunk26"
+					"toChunk": 26
 				},
 				{
 					"runtimeID": "0026D710EAF1BFEE",
-					"toChunk": "chunk26"
+					"toChunk": 26
 				}
 			]
 		},
@@ -254,6 +261,13 @@
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
 			"contentFolder": "classic/colorado_bull"
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Colorado - Freedom Fighters",
+			"contentFolder": "goty/colorado_bull"
 		},
 		{
 			"name": "Vanilla+",
@@ -493,15 +507,15 @@
 			"dependencies": [
 				{
 					"runtimeID": "00D167B329091046",
-					"toChunk": "chunk0"
+					"toChunk": 0
 				},
 				{
 					"runtimeID": "00FDB8565FFAA61A",
-					"toChunk": "chunk0"
+					"toChunk": 0
 				},
 				{
 					"runtimeID": "008DA82DE27F8837",
-					"toChunk": "chunk0"
+					"toChunk": 0
 				}
 			]
 		},
