@@ -1,0 +1,139 @@
+{
+	"tempHash": "0025FEC39F92541E",
+	"tbluHash": "000D8E7D84D05B7A",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"473b596505ab452e": {
+			"parent": {
+				"ref": "afa2f12ed6a77d8f",
+				"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype"
+			},
+			"name": "Sky_Clear_B",
+			"template": "[assembly:/_pro/environment/templates/backdrop/sky/sky_clear.template?/sky_clear_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/backdrop/sky/sky_clear.template?/sky_clear_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -75.11776733398438,
+							"y": 23.53845977783203,
+							"z": 7.661059856414795
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"ConstantVector1D_02_Value": {
+					"type": "float32",
+					"value": 0.89999997615814209
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 5
+				},
+				"ConstantVector1D_10_Value": {
+					"type": "float32",
+					"value": 1
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 1
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 0.74000000953674316
+				},
+				"ConstantColorRGB_03_Value": {
+					"type": "SColorRGB",
+					"value": "#dfe2e6"
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#c2ddff"
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#d6e8ff"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		}
+	},
+	"propertyOverrides": [{
+		"entities": [{
+			"ref": "4415e278e0debeb7",
+			"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"BillboardTexture": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00B0AF2EC737628B",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "405741dabc897f8d",
+			"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_diffuseColor": {
+				"type": "SColorRGB",
+				"value": "#ffe4cf"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "8c30a905aba0bc83",
+			"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_fWorldScale": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_RayleighColor": {
+				"type": "SColorRGB",
+				"value": "#459cff"
+			}
+		}
+	}],
+	"overrideDeletes": [{
+		"ref": "5f3dcc3fca80f382",
+		"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype"
+	}],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/coastaltown/location.brick].pc_entitytype"],
+	"subType": 2,
+	"quickEntityVersion": 2.2
+}
