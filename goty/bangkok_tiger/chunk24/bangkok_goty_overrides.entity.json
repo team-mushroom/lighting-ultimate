@@ -1,0 +1,2339 @@
+{
+	"tempHash": "00329D0912B762CC",
+	"tbluHash": "001760BC5525295E",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"7b66fb1620becc96": {
+			"parent": {
+				"ref": "bcd4748156c0abee",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "PostfilterParameters_Indoor",
+			"template": "[modules:/zrenderpostfilterparametersentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint",
+			"properties": {
+				"m_bColorCorrectionEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDistortionBarrelEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bHDRGlareEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fHDRBrightPassThreshold": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fNoiseScale": {
+					"type": "float32",
+					"value": 0.75
+				},
+				"m_bSSAOEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fSSAOOcclusionRange": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_bDepthOfFieldEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bFogEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fFogDensity": {
+					"type": "float32",
+					"value": 0.10999999940395355
+				},
+				"m_FogColor": {
+					"type": "SColorRGB",
+					"value": "#171c21"
+				},
+				"m_bGaussianBlurEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fDepthOfFieldBlurriness": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fHDRLensFlareThresholdA": {
+					"type": "float32",
+					"value": 0.4699999988079071
+				},
+				"m_fHDRLensFlareAttenuation": {
+					"type": "float32",
+					"value": 0.56999999284744263
+				},
+				"m_fHDRBloomScale": {
+					"type": "float32",
+					"value": 0.30000001192092896
+				},
+				"m_fDistortionBarrelScale": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fNoiseIntensity": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fHDRLensFlareThresholdB": {
+					"type": "float32",
+					"value": 0.43000000715255737
+				},
+				"m_fHDRLensFlareThresholdC": {
+					"type": "float32",
+					"value": 0.23999999463558197
+				},
+				"m_fHDRLensFlareThresholdD": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_HDRLensFlareColorC": {
+					"type": "SColorRGB",
+					"value": "#9361ff"
+				},
+				"m_fDepthOfFieldFocusEnd": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_bFogGlobal": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fFogTurbulenceOpacity": {
+					"type": "float32",
+					"value": 0.80000001192092896
+				},
+				"m_fDepthOfFieldFocalFadeFar": {
+					"type": "float32",
+					"value": 25
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fVignetteStrength": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_VignetteColor": {
+					"type": "SColorRGB",
+					"value": "#0d0d0d"
+				},
+				"m_bSpatialBlurEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRadialBlurEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fRadialBlurriness": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bDistortionWobbleEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bDistortionWobbleUseRealTime": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fDistortionWobbleScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fGaussianBlurriness": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_vRadialBlurCenter": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				"m_fRadialBlurStart": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fRadialBlurFadeFactor": {
+					"type": "float32",
+					"value": 0.10999999940395355
+				},
+				"m_vSpatialBlurCenter": {
+					"type": "SVector3",
+					"value": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					}
+				},
+				"m_fSpatialBlurStart": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fSpatialBlurFade": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_fSpatialBlurriness": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fDepthOfFieldFocusStart": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fDepthOfFieldFocalFadeNear": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_vDistortionBarrel": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.2199999988079071,
+						"y": 0.05999999865889549
+					}
+				},
+				"m_bDistortionBarrelUseRealTime": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vDistortionWobbleWaveLength": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.029999999329447746,
+						"y": 0.029999999329447746
+					}
+				},
+				"m_vDistortionWobbleSpeed": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 1
+					}
+				},
+				"m_vFogTurbulenceNearScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 10,
+						"y": 10,
+						"z": 10
+					}
+				},
+				"m_vFogTurbulenceVelocity": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.30000001192092896,
+						"y": 0.5,
+						"z": 0.10000000149011612
+					}
+				},
+				"m_fFogTurbulenceChaos": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_vHDRAdaptationSpeed": {
+					"type": "SVector2",
+					"value": {
+						"x": 4,
+						"y": 8
+					}
+				},
+				"m_HDRLensFlareColorA": {
+					"type": "SColorRGB",
+					"value": "#808cf0"
+				},
+				"m_HDRLensFlareColorB": {
+					"type": "SColorRGB",
+					"value": "#806633"
+				},
+				"m_HDRLensFlareColorD": {
+					"type": "SColorRGB",
+					"value": "#66664d"
+				},
+				"m_vVignetteGradientLightColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fVignetteGradientLightStrength": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_bDepthOfFieldUseNew": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fDepthOfFieldFocalDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_fDepthOfFieldAperture": {
+					"type": "float32",
+					"value": 3
+				},
+				"m_bDoubleVisionEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fDoubleVisionStrength": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fDoubleVisionSpeed": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fDoubleVisionEyeSeparation": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fDoubleVisionSpeed1": {
+					"type": "float32",
+					"value": 147
+				},
+				"m_fDoubleVisionSpeed2": {
+					"type": "float32",
+					"value": 109
+				},
+				"m_fDoubleVisionScaleSpeed1": {
+					"type": "float32",
+					"value": 121
+				},
+				"m_fDoubleVisionScaleSpeed2": {
+					"type": "float32",
+					"value": 97
+				},
+				"m_fDoubleVisionMinScale": {
+					"type": "float32",
+					"value": 0.070000000298023224
+				},
+				"m_fDoubleVisionMaxScale": {
+					"type": "float32",
+					"value": 0.090000003576278687
+				},
+				"m_fDoubleVisionBlendSpeed": {
+					"type": "float32",
+					"value": 80
+				},
+				"m_fDoubleVisionBlendStrength": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_fDoubleVisionTrailStrength": {
+					"type": "float32",
+					"value": 0.05000000074505806
+				},
+				"m_fHDRBloomFalloff": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_eHDRToneMapType": {
+					"type": "ZRenderPostfilterParametersEntity.EHDRToneMapType",
+					"value": "eFilmicRGB"
+				},
+				"m_vHDRAdaptationMiddleGrayMinMax": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.10000000149011612,
+						"y": 0.5
+					}
+				},
+				"m_nParameterId": {
+					"type": "int32",
+					"value": 0
+				},
+				"m_HDRAdaptionMiddleGrayCurveEntity": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "fa9d169d4ba2975e",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00F5F790B3F35D8F",
+						"flag": "5F"
+					}
+				},
+				"m_vHDRAdaptationLuminanceMinMax": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.10000000149011612,
+						"y": 1000
+					}
+				},
+				"m_vSSAOStrengthNearFar": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 15
+					}
+				},
+				"m_vSSAODistanceNearFar": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 15
+					}
+				},
+				"m_vSSAOScreenSpaceRadiusLimits": {
+					"type": "SVector2",
+					"value": {
+						"x": 10,
+						"y": 500
+					}
+				},
+				"m_fLensBlur": {
+					"type": "float32",
+					"value": 0.40000000596046448
+				},
+				"m_eBlurQuality": {
+					"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+					"value": "eLowRezLensBlurSoft"
+				},
+				"m_bForegroundBlur": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fLabsDofAnamorphic": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fLabsDofSwirl": {
+					"type": "float32",
+					"value": 0
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"f0decbcb8dcc3997": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN09",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 62.49903869628906,
+							"y": -50.366580963134766,
+							"z": 73.3665771484375
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"dd5fb4ca108da4a6": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN10",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.8362332631328915,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 68.24146270751953,
+							"y": -85.050537109375,
+							"z": 80.95166778564453
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"cdb81dea6949cd88": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN16",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0086300373077393,
+						"y": 1.378190040588379,
+						"z": 2.2431800365448
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 69.26248931884766,
+							"y": -41.64741134643555,
+							"z": 59.78290939331055
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2174540013074875,
+						"y": 0.3397260010242462,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"331502d17fb0032a": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN15",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 68.28556060791016,
+							"y": 6.0343708992004395,
+							"z": 80.33370971679688
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"ee5c25e77543041": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN13",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 68.24146270751953,
+							"y": -22.913650512695313,
+							"z": 80.95166778564453
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"7fbc40029045da04": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN07",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9776500463485718,
+						"y": 2.8159899711608887,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -139.9498419342335
+						},
+						"position": {
+							"x": 1.805938959121704,
+							"y": -39.126708984375,
+							"z": 57.11199951171875
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"ff6cb930fc29d7a3": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN02",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 310.9419860839844,
+						"y": 43.424400329589844,
+						"z": 344.2980041503906
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 116.08499908447266,
+						"y": 11.525300025939941,
+						"z": 67.23159790039063
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 91.29713564639212,
+							"y": -4.8291606450161915,
+							"z": -39.945237508095374
+						},
+						"position": {
+							"x": -292.0185852050781,
+							"y": -330.8429870605469,
+							"z": 69.82029724121094
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 45.16379928588867,
+						"y": 6.89739990234375,
+						"z": 113.01200103759766
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"4054e23ca93c107b": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN04",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9776500463485718,
+						"y": 2.0905098915100098,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -139.9498419342335
+						},
+						"position": {
+							"x": 12.08014965057373,
+							"y": -34.735469818115234,
+							"z": 50.368648529052734
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"platformSpecificPropertyValues": []
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"d7cb6904d19ed725": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN05",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9776500463485718,
+						"y": 2.8159899711608887,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -139.9498419342335
+						},
+						"position": {
+							"x": 11.02196979522705,
+							"y": -39.29330062866211,
+							"z": 56.408729553222656
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"c7835aa098709d34": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN17",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0086300373077393,
+						"y": 1.378190040588379,
+						"z": 2.2431800365448
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 69.26248931884766,
+							"y": -36.84672927856445,
+							"z": 59.78290939331055
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2174540013074875,
+						"y": 0.3397260010242462,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"428dcf7eb607ecb0": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN12",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 62.96331024169922,
+							"y": -28.11948013305664,
+							"z": 73.74272155761719
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"5b0e1d4afc63afa8": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN08",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.29702088983487,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 68.28556060791016,
+							"y": -56.102500915527344,
+							"z": 80.33370971679688
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"8467417818391341": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Sky_Sunset_E",
+			"template": "[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_e.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_e.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 68.9999962285227
+						},
+						"position": {
+							"x": -2.7853550910949707,
+							"y": -1.6622519493103027,
+							"z": -6.360730171203613
+						}
+					}
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 5
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantVector1D_02_Value": {
+					"type": "float32",
+					"value": 0.89999997615814209
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"4e25259405a6f061": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN14",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 62.49903869628906,
+							"y": 11.77029037475586,
+							"z": 73.3665771484375
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"a64ec2da6a58b54": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN11",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.103260040283203,
+						"y": 3.7555201053619385,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.8362332631328915,
+							"z": -124.94980509674521
+						},
+						"position": {
+							"x": 62.96331024169922,
+							"y": -90.25634002685547,
+							"z": 73.74272155761719
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"ddcb7ff894c8078e": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN03",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9776500463485718,
+						"y": 2.0905098915100098,
+						"z": 2.572269916534424
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -139.9498419342335
+						},
+						"position": {
+							"x": 12.255629539489746,
+							"y": -43.5406494140625,
+							"z": 50.67076873779297
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.658515989780426,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		},
+		"73ae3d7146b1e80e": {
+			"parent": {
+				"ref": "6a581227a64ab720",
+				"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+			},
+			"name": "Light_Facke_BG_SUN06",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_DIRECTIONAL"
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9776500463485718,
+						"y": 2.4447100162506104,
+						"z": 2.1870899200439453
+					}
+				},
+				"m_bCrowdCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5033919811248779,
+						"y": 0.344307005405426,
+						"z": 0.7738860249519348
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 61.297048872243366,
+							"y": -4.836175855916572,
+							"z": -139.9498419342335
+						},
+						"position": {
+							"x": 0.7405139803886414,
+							"y": -43.764801025390625,
+							"z": 50.84585952758789
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.9428480267524719,
+						"y": 0.5988640189170837,
+						"z": 0.47851601243019104
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffba85"
+				},
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "e0c4ef30a4673ad1",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"postInitProperties": {},
+			"platformSpecificPropertyValues": []
+		}
+	},
+	"propertyOverrides": [{
+		"entities": [{
+			"ref": "d025aa04aecbe9d9",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}, {
+			"ref": "2c4b745d449feb79",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_diffuseColor": {
+				"type": "SColorRGB",
+				"value": "#ffdba1"
+			},
+			"m_fDiffusePower": {
+				"type": "float32",
+				"value": 2
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "dbdcd674916f9e23",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}, {
+			"ref": "a10a5f2756bf01e3",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"DiffuseColor": {
+				"type": "SColorRGB",
+				"value": "#ffb5a1"
+			},
+			"DiffusePower": {
+				"type": "float32",
+				"value": 1000
+			},
+			"m_vFarAttenuation": {
+				"type": "SVector2",
+				"value": {
+					"x": 2.8499999046325684,
+					"y": 6.298369884490967
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "b1fc2eff1c6290c0",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_bGlobalLightOverrideEnable": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bLuminanceOverrideEnable": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fGlobalLightOverrideBackIntensity": {
+				"type": "float32",
+				"value": 50
+			},
+			"m_fGlobalLightOverrideFrontIntensity": {
+				"type": "float32",
+				"value": 50
+			},
+			"m_fMiddleGrayMultiplier": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_GlobalLightOverrideBackColor": {
+				"type": "SColorRGB",
+				"value": "#ffc76e"
+			},
+			"m_GlobalLightOverrideFrontColor": {
+				"type": "SColorRGB",
+				"value": "#ffca7a"
+			},
+			"m_PostfilterParametersID": {
+				"type": "int32",
+				"value": 99
+			},
+			"m_vLuminanceMinMax": {
+				"type": "SVector2",
+				"value": {
+					"x": 5,
+					"y": 5
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "1eab1d013a84eeb8",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_diffuseColor": {
+				"type": "SColorRGB",
+				"value": "#ffb75e"
+			},
+			"m_mTransform": {
+				"type": "SMatrix43",
+				"value": {
+					"rotation": {
+						"x": 91.29713564639212,
+						"y": -4.829218480045889,
+						"z": -74.9451868579569
+					},
+					"position": {
+						"x": -1011.708984375,
+						"y": -1222.449951171875,
+						"z": 288.84869384765625
+					}
+				}
+			},
+			"m_vBoxFadeNeg": {
+				"type": "SVector3",
+				"value": {
+					"x": 0,
+					"y": 16.256799697875977,
+					"z": 430.0199890136719
+				}
+			},
+			"m_vBoxFadePos": {
+				"type": "SVector3",
+				"value": {
+					"x": 45.16379928588867,
+					"y": 102.8949966430664,
+					"z": 113.01200103759766
+				}
+			},
+			"m_vBoxSize": {
+				"type": "SVector3",
+				"value": {
+					"x": 1094,
+					"y": 297.34600830078125,
+					"z": 1092.8800048828125
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "884ddaf4f0ec518a",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"DiffuseColor": {
+				"type": "SColorRGB",
+				"value": "#fcb177"
+			},
+			"m_vFarAttenuation": {
+				"type": "SVector2",
+				"value": {
+					"x": 6.309999942779541,
+					"y": 16.528369903564453
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "44d38d70457571b1",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"BillboardTexture": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00EE21E9007D39E4",
+					"flag": "5F"
+				}
+			},
+			"m_bColorCorrectionEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fHDRBloomFalloff": {
+				"type": "float32",
+				"value": 1.5
+			},
+			"m_fHDRBloomScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_nParameterId": {
+				"type": "int32",
+				"value": 99
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "2876e90c5601a693",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}, {
+			"ref": "44ed70dd1334f18a",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"DiffuseColor": {
+				"type": "SColorRGB",
+				"value": "#fcb177"
+			},
+			"m_vFarAttenuation": {
+				"type": "SVector2",
+				"value": {
+					"x": 6.309999942779541,
+					"y": 18.658369064331055
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "ba70dd3d299fa7a2",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_fInscatterIntensity": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_fMieAnisotropy": {
+				"type": "float32",
+				"value": 0.76999998092651367
+			},
+			"m_fShadowedInscatterIntensity": {
+				"type": "float32",
+				"value": 20
+			},
+			"m_fShadowedMieDepthScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fShadowedRange": {
+				"type": "float32",
+				"value": 100
+			},
+			"m_fShadowedRayleighDepthScale": {
+				"type": "float32",
+				"value": 2
+			},
+			"m_fSunIntensityScale": {
+				"type": "float32",
+				"value": 500
+			},
+			"m_fSunRadiusScale": {
+				"type": "float32",
+				"value": 2.5
+			},
+			"m_fWorldScale": {
+				"type": "float32",
+				"value": 3
+			},
+			"m_MieColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_RayleighColor": {
+				"type": "SColorRGB",
+				"value": "#75a8ff"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "18c4741e75c2c3d3",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_bGlobalLightOverrideEnable": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fGlobalLightOverrideBackIntensity": {
+				"type": "float32",
+				"value": 20
+			},
+			"m_fGlobalLightOverrideFrontIntensity": {
+				"type": "float32",
+				"value": 20
+			},
+			"m_fMiddleGrayMultiplier": {
+				"type": "float32",
+				"value": 0.69999998807907104
+			},
+			"m_GlobalLightOverrideBackColor": {
+				"type": "SColorRGB",
+				"value": "#ffd6a3"
+			},
+			"m_GlobalLightOverrideFrontColor": {
+				"type": "SColorRGB",
+				"value": "#ffd6a3"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "1594d25b1d3f1789",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_GlobalLightBackColor": {
+				"type": "SColorRGB",
+				"value": "#9dcdeb"
+			},
+			"m_GlobalLightFrontColor": {
+				"type": "SColorRGB",
+				"value": "#b5e3ff"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "4f95125a109e9132",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"DiffuseColor": {
+				"type": "SColorRGB",
+				"value": "#fcb177"
+			},
+			"m_vFarAttenuation": {
+				"type": "SVector2",
+				"value": {
+					"x": 6.309999942779541,
+					"y": 14.038370132446289
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "3f140128a48495f5",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_fGlobalLightOverrideBackIntensity": {
+				"type": "float32",
+				"value": 5
+			},
+			"m_fGlobalLightOverrideFrontIntensity": {
+				"type": "float32",
+				"value": 5
+			},
+			"m_fMiddleGrayMultiplier": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_GlobalLightOverrideBackColor": {
+				"type": "SColorRGB",
+				"value": "#a0c8e8"
+			},
+			"m_GlobalLightOverrideFrontColor": {
+				"type": "SColorRGB",
+				"value": "#bae0ff"
+			},
+			"m_PostfilterParametersID": {
+				"type": "int32",
+				"value": 99
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "75bceef8d61a0627",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"EmissiveColor_Front": {
+				"type": "SColorRGB",
+				"value": "#ffd991"
+			},
+			"EmissivePower_Front": {
+				"type": "float32",
+				"value": 70
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "a16b9cca8a6f91b4",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_diffuseColor": {
+				"type": "SColorRGB",
+				"value": "#ffb75e"
+			}
+		}
+	}],
+	"overrideDeletes": [{
+		"ref": "ec6513e67b6132eb",
+		"externalScene": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype"
+	}],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"],
+	"subType": 2,
+	"quickEntityVersion": 2.2
+}

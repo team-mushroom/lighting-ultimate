@@ -230,6 +230,13 @@
 			"contentFolder": "classic/bangkok_tiger"
 		},
 		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Bangkok - Club 27",
+			"contentFolder": "goty/bangkok_tiger"
+		},
+		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
