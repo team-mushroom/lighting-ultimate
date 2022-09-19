@@ -59,6 +59,13 @@
 			"contentFolder": "classic/paris"
 		},
 		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Paris",
+			"contentFolder": "goty/paris"
+		},
+		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
@@ -188,6 +195,13 @@
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
 			"contentFolder": "classic/marrakesh_spider"
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Marrakesh - A Gilded Cage",
+			"contentFolder": "goty/marrakesh_spider"
 		},
 		{
 			"name": "Vanilla+",
