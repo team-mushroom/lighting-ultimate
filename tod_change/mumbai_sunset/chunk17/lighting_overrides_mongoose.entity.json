@@ -1,1 +1,178 @@
-{"tempHash":"007B09F43BA39500","tbluHash":"00D1B93C0AD5CA3B","rootEntity":"fffffffffffffffe","entities":{"fffffffffffffffe":{"parent":null,"name":"Scene","template":"[modules:/zspatialentity.class].pc_entitytype","blueprint":"[modules:/zspatialentity.class].pc_entityblueprint"},"feed648726d81634":{"parent":"fffffffffffffffe","name":"Sunlight Overrides","template":"[modules:/zentity.class].pc_entitytype","blueprint":"[modules:/zentity.class].pc_entityblueprint"},"feed3162ff3e9af0":{"parent":"feed648726d81634","name":"GlobalLight","template":"[modules:/zgloballightentity.class].pc_entitytype","blueprint":"[modules:/zgloballightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":0},"position":{"x":9.95519733428955,"y":-20.788349151611328,"z":4.885564804077148}}},"m_fGlobalLightFrontIntensity":{"type":"float32","value":0.20000000298023224},"m_fGlobalLightBackIntensity":{"type":"float32","value":0.15000000596046448},"m_GlobalLightFrontColor":{"type":"SColorRGB","value":"#d9f0ff"},"m_GlobalLightBackColor":{"type":"SColorRGB","value":"#def0ff"},"m_bVisible":{"type":"bool","value":true},"m_vGlobalLightDirection":{"type":"SVector3","value":{"x":0.800000011920929,"y":1,"z":1}},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}},"feed942258caced0":{"parent":"feed648726d81634","name":"RenderAtmosphericScattering","template":"[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype","blueprint":"[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":0},"position":{"x":2.1465530395507813,"y":-26.64472007751465,"z":6.180830001831055}}},"m_fSunRadiusScale":{"type":"float32","value":3},"m_fSunIntensityScale":{"type":"float32","value":1000},"m_bVisible":{"type":"bool","value":true},"m_fWorldScale":{"type":"float32","value":12},"m_fRayleighHeightScale":{"type":"float32","value":5000},"m_fRayleighDepthScale":{"type":"float32","value":2.759999990463257},"m_fInscatterIntensity":{"type":"float32","value":0.6000000238418579},"m_fShadowedMieDepthScale":{"type":"float32","value":3},"m_fShadowedInscatterIntensity":{"type":"float32","value":1},"m_fShadowedRange":{"type":"float32","value":20},"m_fHeightAboveSeaLevel":{"type":"float32","value":2000},"m_RayleighColor":{"type":"SColorRGB","value":"#a2cdfc"},"m_fWorldScale_LowQuality":{"type":"float32","value":3},"m_vMieColor_LowQuality":{"type":"SColorRGB","value":"#332d28"},"m_vRayleighColor_LowQuality":{"type":"SColorRGB","value":"#91c6ff"},"m_bUseLowQualitySettings":{"type":"bool","value":true},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}}},"propertyOverrides":[{"entities":[{"ref":"3d6492c0651007b5","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"},{"ref":"3bc75086bded761b","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"},{"ref":"4adbfe4921ddd960","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"}],"properties":{"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_bNoiseEnabled":{"type":"bool","value":false},"m_bVignetteEnabled":{"type":"bool","value":false},"m_fHDRBloomScale":{"type":"float32","value":0.2},"BillboardTexture":{"type":"ZRuntimeResourceID","value":{"resource":"0013A6E43BAED87A","flag":"5F"}}}},{"entities":[{"ref":"a3b2a637b6b73897","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"}],"properties":{"m_diffuseColor":{"type":"SColorRGB","value":"#ffffff"},"m_bCastCSMShadows":{"type":"bool","value":true},"m_fShadowBlurWidth":{"type":"float32","value":0.20999999344348907},"m_fDiffusePower":{"type":"float32","value":700},"m_bVisible":{"type":"bool","value":true},"m_bCastShadows":{"type":"bool","value":true}}}],"overrideDeletes":[{"ref":"f5a4dab47c891e0e","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"},{"ref":"5a79b0a6de707805","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"},{"ref":"f21c78bd8145f9a8","externalScene":"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"}],"pinConnectionOverrides":[],"pinConnectionOverrideDeletes":[],"externalScenes":["[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"],"subType":"brick","quickEntityVersion":3,"extraFactoryDependencies":["0013A6E43BAED87A"],"extraBlueprintDependencies":[],"comments":[]}
+{
+  "tempHash": "007B09F43BA39500",
+  "tbluHash": "00D1B93C0AD5CA3B",
+  "rootEntity": "fffffffffffffffe",
+  "entities": {
+    "fffffffffffffffe": {
+      "parent": null,
+      "name": "Scene",
+      "template": "[modules:/zspatialentity.class].pc_entitytype",
+      "blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+    },
+    "feed648726d81634": {
+      "parent": "fffffffffffffffe",
+      "name": "Sunlight Overrides",
+      "template": "[modules:/zentity.class].pc_entitytype",
+      "blueprint": "[modules:/zentity.class].pc_entityblueprint"
+    },
+    "feed3162ff3e9af0": {
+      "parent": "feed648726d81634",
+      "name": "GlobalLight",
+      "template": "[modules:/zgloballightentity.class].pc_entitytype",
+      "blueprint": "[modules:/zgloballightentity.class].pc_entityblueprint",
+      "properties": {
+        "m_mTransform": {
+          "type": "SMatrix43",
+          "value": {
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "position": {
+              "x": 9.95519733428955,
+              "y": -20.788349151611328,
+              "z": 4.885564804077148
+            }
+          }
+        },
+        "m_fGlobalLightFrontIntensity": {
+          "type": "float32",
+          "value": 0.20000000298023224
+        },
+        "m_fGlobalLightBackIntensity": {
+          "type": "float32",
+          "value": 0.15000000596046448
+        },
+        "m_GlobalLightFrontColor": { "type": "SColorRGB", "value": "#d9f0ff" },
+        "m_GlobalLightBackColor": { "type": "SColorRGB", "value": "#def0ff" },
+        "m_bVisible": { "type": "bool", "value": true },
+        "m_vGlobalLightDirection": {
+          "type": "SVector3",
+          "value": { "x": 0.800000011920929, "y": 1, "z": 1 }
+        },
+        "m_eidParent": {
+          "type": "SEntityTemplateReference",
+          "value": "fffffffffffffffe",
+          "postInit": true
+        }
+      }
+    },
+    "feed942258caced0": {
+      "parent": "feed648726d81634",
+      "name": "RenderAtmosphericScattering",
+      "template": "[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype",
+      "blueprint": "[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint",
+      "properties": {
+        "m_mTransform": {
+          "type": "SMatrix43",
+          "value": {
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "position": {
+              "x": 2.1465530395507813,
+              "y": -26.64472007751465,
+              "z": 6.180830001831055
+            }
+          }
+        },
+        "m_fSunRadiusScale": { "type": "float32", "value": 3 },
+        "m_fSunIntensityScale": { "type": "float32", "value": 1000 },
+        "m_bVisible": { "type": "bool", "value": true },
+        "m_fWorldScale": { "type": "float32", "value": 12 },
+        "m_fRayleighHeightScale": { "type": "float32", "value": 5000 },
+        "m_fRayleighDepthScale": {
+          "type": "float32",
+          "value": 2.759999990463257
+        },
+        "m_fInscatterIntensity": {
+          "type": "float32",
+          "value": 0.6000000238418579
+        },
+        "m_fShadowedMieDepthScale": { "type": "float32", "value": 3 },
+        "m_fShadowedInscatterIntensity": { "type": "float32", "value": 1 },
+        "m_fShadowedRange": { "type": "float32", "value": 20 },
+        "m_fHeightAboveSeaLevel": { "type": "float32", "value": 2000 },
+        "m_RayleighColor": { "type": "SColorRGB", "value": "#a2cdfc" },
+        "m_fWorldScale_LowQuality": { "type": "float32", "value": 3 },
+        "m_vMieColor_LowQuality": { "type": "SColorRGB", "value": "#332d28" },
+        "m_vRayleighColor_LowQuality": {
+          "type": "SColorRGB",
+          "value": "#91c6ff"
+        },
+        "m_bUseLowQualitySettings": { "type": "bool", "value": true },
+        "m_eidParent": {
+          "type": "SEntityTemplateReference",
+          "value": "fffffffffffffffe",
+          "postInit": true
+        }
+      }
+    }
+  },
+  "propertyOverrides": [
+    {
+      "entities": [
+        {
+          "ref": "3d6492c0651007b5",
+          "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+        },
+        {
+          "ref": "3bc75086bded761b",
+          "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+        },
+        {
+          "ref": "4adbfe4921ddd960",
+          "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+        }
+      ],
+      "properties": {
+        "m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+        "m_bNoiseEnabled": { "type": "bool", "value": false },
+        "m_bVignetteEnabled": { "type": "bool", "value": false },
+        "m_fHDRBloomScale": { "type": "float32", "value": 0.2 },
+        "BillboardTexture": {
+          "type": "ZRuntimeResourceID",
+          "value": { "resource": "0013A6E43BAED87A", "flag": "5F" }
+        }
+      }
+    },
+    {
+      "entities": [
+        {
+          "ref": "a3b2a637b6b73897",
+          "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+        }
+      ],
+      "properties": {
+        "m_diffuseColor": { "type": "SColorRGB", "value": "#ffffff" },
+        "m_bCastCSMShadows": { "type": "bool", "value": true },
+        "m_fShadowBlurWidth": {
+          "type": "float32",
+          "value": 0.20999999344348907
+        },
+        "m_fDiffusePower": { "type": "float32", "value": 700 },
+        "m_bVisible": { "type": "bool", "value": true },
+        "m_bCastShadows": { "type": "bool", "value": true }
+      }
+    }
+  ],
+  "overrideDeletes": [
+    {
+      "ref": "f5a4dab47c891e0e",
+      "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+    },
+    {
+      "ref": "5a79b0a6de707805",
+      "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+    },
+    {
+      "ref": "f21c78bd8145f9a8",
+      "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+    }
+  ],
+  "pinConnectionOverrides": [],
+  "pinConnectionOverrideDeletes": [],
+  "externalScenes": [
+    "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+  ],
+  "subType": "brick",
+  "quickEntityVersion": 3,
+  "extraFactoryDependencies": ["0013A6E43BAED87A"],
+  "extraBlueprintDependencies": [],
+  "comments": []
+}
