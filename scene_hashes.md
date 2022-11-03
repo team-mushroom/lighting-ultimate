@@ -15,6 +15,12 @@
 
 0087821FA5503DD5.TEMP [assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_entitytemplate
 0003DD433EC98AF1.TBLU [assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_entityblueprint
+
+00A253096D93422B.TEMP [assembly:/_pro/scenes/missions/paris/scene_peacock_hot_craps.entity].pc_entitytemplate
+00B6CE1734EFC665.TBLU [assembly:/_pro/scenes/missions/paris/scene_peacock_hot_craps.entity].pc_entityblueprint
+
+0074C54DEDDE9A7A.TEMP [assembly:/_pro/scenes/missions/paris/scene_peacock_mild_craps.entity].pc_entitytemplate
+00A7CAC9BAE72F2D.TBLU [assembly:/_pro/scenes/missions/paris/scene_peacock_mild_craps.entity].pc_entityblueprint
 ```
 
 ### Torenia
@@ -32,6 +38,12 @@
 
 00E4D6951CC4089E.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity].pc_entitytemplate
 0003EC9B38524000.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity].pc_entityblueprint
+
+0092976042C186C9.TEMP [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_hot_bingo.entity].pc_entitytemplate
+00EDAB865290BFCA.TBLU [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_hot_bingo.entity].pc_entityblueprint
+
+004B6755A8F753FA.TEMP [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_mild_bingo.entity].pc_entitytemplate
+00B134321DA7A03C.TBLU [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_mild_bingo.entity].pc_entityblueprint
 ```
 
 ### Copperhead
@@ -67,6 +79,12 @@
 
 006506CDA429836C.TEMP [assembly:/_pro/scenes/missions/marrakesh/_scene_spider.entity].pc_entitytemplate
 00E828F5E62E0326.TBLU [assembly:/_pro/scenes/missions/marrakesh/_scene_spider.entity].pc_entityblueprint
+
+008240A1593CCE32.TEMP [assembly:/_pro/scenes/missions/marrakesh/scene_spider_hot_mancala.entity].pc_entitytemplate
+0006529C8ECC6151.TBLU [assembly:/_pro/scenes/missions/marrakesh/scene_spider_hot_mancala.entity].pc_entityblueprint
+
+00CFB992491F397C.TEMP [assembly:/_pro/scenes/missions/marrakesh/scene_spider_mild_mancala.entity].pc_entitytemplate
+00372E15AFF8C26E.TBLU [assembly:/_pro/scenes/missions/marrakesh/scene_spider_mild_mancala.entity].pc_entityblueprint
 ```
 
 ### Python
@@ -93,6 +111,12 @@
 
 00F0765D340DF1DE.TEMP [assembly:/_pro/scenes/missions/bangkok/_scene_tiger.entity].pc_entitytemplate
 00A71EDA4F7FB1E3.TBLU [assembly:/_pro/scenes/missions/bangkok/_scene_tiger.entity].pc_entityblueprint
+
+0026F206296AFCF2.TEMP [assembly:/_pro/scenes/missions/bangkok/scene_tiger_hot_sicbo.entity].pc_entitytemplate
+003B2F63489AED46.TBLU [assembly:/_pro/scenes/missions/bangkok/scene_tiger_hot_sicbo.entity].pc_entityblueprint
+
+00CE178F04B99E6E.TEMP [assembly:/_pro/scenes/missions/bangkok/scene_tiger_mild_sicbo.entity].pc_entitytemplate
+008EA634F5C1A413.TBLU [assembly:/_pro/scenes/missions/bangkok/scene_tiger_mild_sicbo.entity].pc_entityblueprint
 ```
 
 ### Zika
@@ -110,6 +134,12 @@
 
 00B97B26F128F1F8.TEMP [assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity].pc_entitytemplate
 004C083348783D78.TBLU [assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity].pc_entityblueprint
+
+00315546FBBDA565.TEMP [assembly:/_pro/scenes/missions/colorado_2/scene_bull_hot_spades.entity].pc_entitytemplate
+009C821B6C23DD32.TBLU [assembly:/_pro/scenes/missions/colorado_2/scene_bull_hot_spades.entity].pc_entityblueprint
+
+004F725288D61798.TEMP [assembly:/_pro/scenes/missions/colorado_2/scene_bull_mild_spades.entity].pc_entitytemplate
+000A63FD0811B718.TBLU [assembly:/_pro/scenes/missions/colorado_2/scene_bull_mild_spades.entity].pc_entityblueprint
 ```
 
 ### Rabies
@@ -127,6 +157,12 @@
 
 002B042582E21F8F.TEMP [assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity].pc_entitytemplate
 00A9B7EC59FBFE44.TBLU [assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity].pc_entityblueprint
+
+00E369E26027DEA4.TEMP [assembly:/_pro/scenes/missions/hokkaido/scene_snowcrane_hot_shogi.entity].pc_entitytemplate
+00A1FF95F4374F4C.TBLU [assembly:/_pro/scenes/missions/hokkaido/scene_snowcrane_hot_shogi.entity].pc_entityblueprint
+
+00DAC05E7AF4B6E0.TEMP [assembly:/_pro/scenes/missions/hokkaido/scene_snowcrane_mild_shogi.entity].pc_entitytemplate
+00EF82CF66F4D7EF.TBLU [assembly:/_pro/scenes/missions/hokkaido/scene_snowcrane_mild_shogi.entity].pc_entityblueprint
 ```
 
 ### Tumbleweed
@@ -196,6 +232,12 @@
 
 00AE37D7CBFC7DD4.TEMP [assembly:/_pro/scenes/missions/miami/scene_et_sambuca.entity].pc_entitytemplate
 008748DA102370BC.TBLU [assembly:/_pro/scenes/missions/miami/scene_et_sambuca.entity].pc_entityblueprint
+
+000B15D29325A23F.TEMP [assembly:/_pro/scenes/missions/miami/scene_flamingo_hot_pinochle.entity].pc_entitytemplate
+0074C0CC5514CBFD.TBLU [assembly:/_pro/scenes/missions/miami/scene_flamingo_hot_pinochle.entity].pc_entityblueprint
+
+0017CB8C7D1C65D8.TEMP [assembly:/_pro/scenes/missions/miami/scene_flamingo_mild_pinochle.entity].pc_entitytemplate
+0041898C22FDA10A.TEMP [assembly:/_pro/scenes/missions/miami/scene_flamingo_mild_pinochle.entity].pc_entityblueprint
 ```
 
 ## COLOMBIA
@@ -212,6 +254,12 @@
 
 0043DAFEEECF37D2.TEMP [assembly:/_pro/scenes/missions/colombia/scene_hippo_rafflesia.entity].pc_entitytemplate
 001505DFE44E3EB8.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo_rafflesia.entity].pc_entityblueprint
+
+000D46440A431296.TEMP [assembly:/_pro/scenes/missions/colombia/scene_hippo_mild_trompo.entity].pc_entitytemplate
+000C61E7B83BE45D.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo_mild_trompo.entity].pc_entityblueprint
+
+00819EC80A774632.TEMP [assembly:/_pro/scenes/missions/colombia/scene_hippo_hot_trompo.entity].pc_entitytemplate
+00F7E61602B0E8E4.TBLU [assembly:/_pro/scenes/missions/colombia/scene_hippo_hot_trompo.entity].pc_entityblueprint
 ```
 
 ## MUMBAI
@@ -225,6 +273,12 @@
 
 008B0F2C9F22E751.TEMP [assembly:/_pro/scenes/missions/mumbai/_scene_mongoose_ashoka.entity].pc_entitytemplate
 00568C15AFBFBCD9.TBLU [assembly:/_pro/scenes/missions/mumbai/_scene_mongoose_ashoka.entity].pc_entityblueprint
+
+005867F42AD9288F.TEMP [assembly:/_pro/scenes/missions/mumbai/scene_mongoose_hot_ludo.entity].pc_entitytemplate
+00EF358A49EE394E.TBLU [assembly:/_pro/scenes/missions/mumbai/scene_mongoose_hot_ludo.entity].pc_entityblueprint
+
+0090306D8E645E2E.TEMP [assembly:/_pro/scenes/missions/mumbai/scene_mongoose_mild_ludo.entity].pc_entitytemplate
+00473A4AC8069CFB.TBLU [assembly:/_pro/scenes/missions/mumbai/scene_mongoose_mild_ludo.entity].pc_entityblueprint
 ```
 
 ## SKUNK
@@ -235,9 +289,15 @@
 
 007775946A5BCE1C.TEMP [assembly:/_pro/scenes/missions/skunk/scene_gartersnake.entity].pc_entitytemplate
 003AE9B5AE283E40.TBLU [assembly:/_pro/scenes/missions/skunk/scene_gartersnake.entity].pc_entityblueprint
+
+00C48C8FE142BE7F.TEMP [assembly:/_pro/scenes/missions/skunk/scene_skunk_hot_solitaire.entity].pc_entitytemplate
+006C8E794B599A1D.TBLU [assembly:/_pro/scenes/missions/skunk/scene_skunk_hot_solitaire.entity].pc_entityblueprint
+
+00ACF2242E22C7CA.TEMP [assembly:/_pro/scenes/missions/skunk/scene_skunk_mild_solitaire.entity].pc_entitytemplate
+0000144506A2EBE7.TBLU [assembly:/_pro/scenes/missions/skunk/scene_skunk_mild_solitaire.entity].pc_entityblueprint
 ```
 
-## MAGPIE
+## THE ARK
 
 ```
 00B91E821FD1D373.TEMP [assembly:/_pro/scenes/missions/theark/scene_magpie.entity].pc_entitytemplate
@@ -248,6 +308,12 @@
 
 001ADE762247B2B0.TEMP [assembly:/_pro/scenes/missions/theark/_scene_magpie_lotus.entity].pc_entitytemplate
 009EA840404EEA6D.TBLU [assembly:/_pro/scenes/missions/theark/_scene_magpie_lotus.entity].pc_entityblueprint
+
+00E93DD7EEFB7481.TEMP [assembly:/_pro/scenes/missions/theark/scene_magpie_hot_whist.entity].pc_entitytemplate
+007F7F1F671DAA1E.TBLU [assembly:/_pro/scenes/missions/theark/scene_magpie_hot_whist.entity].pc_entityblueprint
+
+005763E69CFB5AA6.TEMP [assembly:/_pro/scenes/missions/theark/scene_magpie_mild_whist.entity].pc_entitytemplate
+0013C4405F7A9127.TBLU [assembly:/_pro/scenes/missions/theark/scene_magpie_mild_whist.entity].pc_entityblueprint
 ```
 
 ## GREEDY
@@ -258,6 +324,12 @@
 
 00BA9996118369A4.TEMP [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic_dandelion.entity].pc_entitytemplate
 0087F218DDFE8A5C.TBLU [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic_dandelion.entity].pc_entityblueprint
+
+00A012003324DCDF.TEMP [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_hot_blackjack.entity].pc_entitytemplate
+00853BBC8543D499.TBLU [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_hot_blackjack.entity].pc_entityblueprint
+
+002ADCDAD7A232C0.TEMP [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_mild_blackjack.entity].pc_entitytemplate
+00F08325651C1D73.TBLU [assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_mild_blackjack.entity].pc_entityblueprint
 ```
 
 ## OPULENT
@@ -268,6 +340,12 @@
 
 003E88E704CFEDF4.TEMP [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_arcticthyme.entity].pc_entitytemplate
 00CF28C2543553E7.TBLU [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_arcticthyme.entity].pc_entityblueprint
+
+00E2F7B520C9074C.TEMP [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_opulent_mild_hilo.entity].pc_entitytemplate
+00EE456959B14ED8.TBLU [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_opulent_mild_hilo.entity].pc_entityblueprint
+
+0033074CBF17B2F7.TEMP [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_opulent_hot_hilo.entity].pc_entitytemplate
+00640E246D68DC56.TBLU [assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_opulent_hot_hilo.entity].pc_entityblueprint
 ```
 
 # Season 3
@@ -292,6 +370,12 @@
 
 00124012DB16C406.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gibson.entity].pc_entitytemplate
 00BEB37F1095D5CE.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gibson.entity].pc_entityblueprint
+
+0098AFE06F1C7246.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_golden_hot_chess.entity].pc_entitytemplate
+00C97E758B76EEEA.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_golden_hot_chess.entity].pc_entityblueprint
+
+00AE8BB177E31C93.TEMP [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_golden_mild_chess.entity].pc_entitytemplate
+00FBADF833914808.TBLU [assembly:/_pro/scenes/missions/golden/mission_gecko/scene_golden_mild_chess.entity].pc_entityblueprint
 ```
 
 ## ANCESTRAL
@@ -317,9 +401,15 @@
 
 00BA2C9E003DCF92.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_vesper.entity].pc_entitytemplate
 00A6B8872B49F645.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_vesper.entity].pc_entityblueprint
+
+007A3439FFD302E7.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_mild_bridge.entity].pc_entitytemplate
+00A6B8CCC59DF317.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_mild_bridge.entity].pc_entityblueprint
+
+00FA365F09EE0A37.TEMP [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_hot_bridge.entity].pc_entitytemplate
+006605756999F8ED.TBLU [assembly:/_pro/scenes/missions/ancestral/scene_ancestral_hot_bridge.entity].pc_entityblueprint
 ```
 
-## EDGY
+## EDGY / SNUG
 ```
 00A4E261F399FD45.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic.entity].pc_entitytemplate
 00041BF5EA2D31A7.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic.entity].pc_entityblueprint
@@ -338,6 +428,21 @@
 
 000FF9AD5BB6FD96.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_radler.entity].pc_entitytemplate
 0054BA93907956A7.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_radler.entity].pc_entityblueprint
+
+00D745FBE780A3E5.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_hot_meyer.entity].pc_entitytemplate
+00E3735E2257DA05.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_hot_meyer.entity].pc_entityblueprint
+
+00936AA76E8251D3.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_mild_meyer.entity].pc_entitytemplate
+004F8E1EA1496CEA.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_mild_meyer.entity].pc_entityblueprint
+
+00F766FFFAFA4298.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_day.brick].pc_entitytype
+0091EB2844E7D05B.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_day.brick].pc_entityblueprint
+
+00E27DFAAEC4D8FE.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_morning.brick].pc_entitytype
+0029717E09A34983.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_morning.brick].pc_entityblueprint
+
+001A36D7D6641F2F.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_night.brick].pc_entitytype
+0022CD0B82D318BD.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_night.brick].pc_entityblueprint
 ```
 
 ## WET
@@ -360,6 +465,12 @@
 
 00C6509A0687A8B2.TEMP [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entitytemplate
 00BEF55C28E00799.TBLU [assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity].pc_entityblueprint
+
+00E4691BD97E440C.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_mild_mahjong.entity].pc_entitytemplate
+0004E49101268772.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_mild_mahjong.entity].pc_entityblueprint
+
+00CFD19241C40CBC.TEMP [assembly:/_pro/scenes/missions/wet/scene_wet_hot_mahjong.entity].pc_entitytemplate
+006FEFA9B039E8B3.TBLU [assembly:/_pro/scenes/missions/wet/scene_wet_hot_mahjong.entity].pc_entityblueprint
 ```
 
 ## ELEGANT
@@ -388,6 +499,12 @@
 
 00E2228E7EB36E19.TEMP [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entitytemplate
 004B95EDF0B3E441.TBLU [assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity].pc_entityblueprint
+
+00A78BBA890E79CD.TEMP [assembly:/_pro/scenes/missions/elegant/scene_elegant_hot_sapo.entity].pc_entitytemplate
+0069C3FBB9A0A4BA.TBLU [assembly:/_pro/scenes/missions/elegant/scene_elegant_hot_sapo.entity].pc_entityblueprint
+
+0079D32DFC2202F8.TEMP [assembly:/_pro/scenes/missions/elegant/scene_elegant_mild_sapo.entity].pc_entitytemplate
+00B3C80E13ED9E0D.TBLU [assembly:/_pro/scenes/missions/elegant/scene_elegant_mild_sapo.entity].pc_entityblueprint
 ```
 
 ## TRAPPED
@@ -405,4 +522,10 @@
 ```
 00B7B5592597273D.TEMP [assembly:/_pro/scenes/missions/rocky/scene_dugong.entity].pc_entitytemplate
 009C17436E55A2CA.TBLU [assembly:/_pro/scenes/missions/rocky/scene_dugong.entity].pc_entityblueprint
+
+00697161FAECCF11.TEMP [assembly:/_pro/scenes/missions/rocky/scene_rocky_hot_poker.entity].pc_entitytemplate
+001EBFC95B4F7309.TBLU [assembly:/_pro/scenes/missions/rocky/scene_rocky_hot_poker.entity].pc_entityblueprint
+
+0083E8004D67AF65.TEMP [assembly:/_pro/scenes/missions/rocky/scene_rocky_mild_poker.entity].pc_entitytemplate
+00507EAA3CBD08C3.TBLU [assembly:/_pro/scenes/missions/rocky/scene_rocky_mild_poker.entity].pc_entityblueprint
 ```
