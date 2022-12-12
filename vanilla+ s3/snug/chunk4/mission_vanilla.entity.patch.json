@@ -1,0 +1,32 @@
+{
+  "tempHash": "00A9B93A825F5BDC",
+  "tbluHash": "005BA5CA6AC00627",
+  "patch": [
+    {
+      "op": "replace",
+      "path": "/entities/65cb0f19f187d34f/properties/m_bHDRLensFlareEnabled/value",
+      "value": false
+    },
+    {
+      "op": "replace",
+      "path": "/entities/65cb0f19f187d34f/properties/m_bNoiseEnabled/value",
+      "value": false
+    },
+    {
+      "op": "replace",
+      "path": "/entities/65cb0f19f187d34f/properties/m_bVignetteEnabled/value",
+      "value": false
+    },
+    {
+      "op": "replace",
+      "path": "/entities/65cb0f19f187d34f/properties/m_fHDRBloomScale/value",
+      "value": 0.4
+    },
+    {
+      "op": "replace",
+      "path": "/entities/65cb0f19f187d34f/properties/m_fNoiseScale/value",
+      "value": 0
+    }
+  ],
+  "patchVersion": 5
+}

@@ -4,7 +4,7 @@
 	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
 	"authors": ["musicalmushr00m"],
 	"frameworkVersion": "2.0.0",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
 	"loadAfter": ["KevinRudd.TODChange"],
 	"options": [
@@ -294,6 +294,19 @@
 			"contentFolders": ["vanilla+ s1/colorado_bull"]
 		},
 		{
+			"name": "TOD Change - Night",
+			"tooltip": "tod change night",
+			"type": "select",
+			"group": "Colorado - Freedom Fighters",
+			"dependencies": [
+				{
+					"runtimeID": "00DBD0E72CCCB165",
+					"toChunk": 21
+				}
+			],
+			"contentFolders": ["tod_change/bull_night"]
+		},
+		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
@@ -397,19 +410,6 @@
 			"type": "select",
 			"group": "Mumbai",
 			"contentFolders": ["vanilla+ s2/mumbai"]
-		},
-		{
-			"name": "TOD CHANGE - Sunset",
-			"tooltip": "EXPERIMENTAL - New Time of Day scenario (Sunset)",
-			"type": "select",
-			"group": "Mumbai",
-			"dependencies": [
-				{
-					"runtimeID": "0013A6E43BAED87A",
-					"toChunk": 8
-				}
-			],
-			"contentFolders": ["tod_change/mumbai_sunset"]
 		},
 		{
 			"name": "Off",
@@ -527,27 +527,6 @@
 			"type": "select",
 			"group": "Dartmoor",
 			"contentFolders": ["vanilla+ s3/ancestral"]
-		},
-		{
-			"name": "TOD Change - Rainy Night",
-			"tooltip": "EXPERIMENTAL - New Time of Day scenario for Death in the Family (Rainy Night)",
-			"type": "select",
-			"group": "Dartmoor",
-			"dependencies": [
-				{
-					"runtimeID": "00D167B329091046",
-					"toChunk": 0
-				},
-				{
-					"runtimeID": "00FDB8565FFAA61A",
-					"toChunk": 0
-				},
-				{
-					"runtimeID": "008DA82DE27F8837",
-					"toChunk": 0
-				}
-			],
-			"contentFolders": ["tod_change/ancestral_dark"]
 		},
 		{
 			"name": "Off",

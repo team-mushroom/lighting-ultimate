@@ -39,11 +39,11 @@
 00E4D6951CC4089E.TEMP [assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity].pc_entitytemplate
 0003EC9B38524000.TBLU [assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity].pc_entityblueprint
 
-0092976042C186C9.TEMP [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_hot_bingo.entity].pc_entitytemplate
-00EDAB865290BFCA.TBLU [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_hot_bingo.entity].pc_entityblueprint
+0092976042C186C9.TEMP [assembly:/_pro/scenes/missions/coastaltown/scene_costaltown_hot_bingo.entity].pc_entitytemplate
+00EDAB865290BFCA.TBLU [assembly:/_pro/scenes/missions/coastaltown/scene_costaltown_hot_bingo.entity].pc_entityblueprint
 
-004B6755A8F753FA.TEMP [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_mild_bingo.entity].pc_entitytemplate
-00B134321DA7A03C.TBLU [assembly:/_pro/scenes/Missions/CoastalTown/scene_costaltown_mild_bingo.entity].pc_entityblueprint
+004B6755A8F753FA.TEMP [assembly:/_pro/scenes/missions/coastaltown/scene_costaltown_mild_bingo.entity].pc_entitytemplate
+00B134321DA7A03C.TBLU [assembly:/_pro/scenes/missions/coastaltown/scene_costaltown_mild_bingo.entity].pc_entityblueprint
 ```
 
 ### Copperhead
@@ -430,19 +430,19 @@
 0054BA93907956A7.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_radler.entity].pc_entityblueprint
 
 00D745FBE780A3E5.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_hot_meyer.entity].pc_entitytemplate
-00E3735E2257DA05.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_hot_meyer.entity].pc_entityblueprint
+00E3735E2257DA05.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_hot_meyer.entity].pc_entityblueprint
 
 00936AA76E8251D3.TEMP [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_mild_meyer.entity].pc_entitytemplate
 004F8E1EA1496CEA.TBLU [assembly:/_pro/scenes/missions/edgy/mission_fox/scene_edgy_mild_meyer.entity].pc_entityblueprint
 
 00F766FFFAFA4298.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_day.brick].pc_entitytype
-0091EB2844E7D05B.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_day.brick].pc_entityblueprint
+0091EB2844E7D05B.TBLU [assembly:/_pro/scenes/missions/snug/tod_vanilla_day.brick].pc_entityblueprint
 
 00E27DFAAEC4D8FE.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_morning.brick].pc_entitytype
-0029717E09A34983.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_morning.brick].pc_entityblueprint
+0029717E09A34983.TBLU [assembly:/_pro/scenes/missions/snug/tod_vanilla_morning.brick].pc_entityblueprint
 
 001A36D7D6641F2F.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_night.brick].pc_entitytype
-0022CD0B82D318BD.TEMP [assembly:/_pro/scenes/missions/snug/tod_vanilla_night.brick].pc_entityblueprint
+0022CD0B82D318BD.TBLU [assembly:/_pro/scenes/missions/snug/tod_vanilla_night.brick].pc_entityblueprint
 ```
 
 ## WET
