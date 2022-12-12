@@ -1,6 +1,18 @@
 {
 	"tempHash": "0000C3CE492807D2",
 	"tbluHash": "002EA1AFC127657D",
-	"patch": [{ "op": "remove", "path": "/externalScenes/64" }],
-	"patchVersion": 4
+	"patch": [
+		{
+			"op": "replace",
+			"path": "/externalScenes/64",
+			"value": "0064FE1090FB2775"
+		},
+		{
+			"op": "replace",
+			"path": "/externalScenes/65",
+			"value": "0036D64700F55065"
+		},
+		{ "op": "remove", "path": "/externalScenes/66" }
+	],
+	"patchVersion": 5
 }

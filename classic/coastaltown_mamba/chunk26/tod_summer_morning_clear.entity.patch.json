@@ -5,105 +5,93 @@
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/2/6",
-			"value": "LN|0.019026031717658043"
+			"value": 0.019026031717658043
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/1",
-			"value": "LN|0.031146666035056114"
+			"value": 0.031146666035056114
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/6",
-			"value": "LN|0.02963961660861969"
+			"value": 0.02963961660861969
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/7",
-			"value": "LN|0.031146666035056114"
+			"value": 0.031146666035056114
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/1",
-			"value": "LN|0.060786280781030655"
+			"value": 0.060786280781030655
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/6",
-			"value": "LN|0.06372913718223572"
+			"value": 0.06372913718223572
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/7",
-			"value": "LN|0.060786280781030655"
+			"value": 0.060786280781030655
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/0",
-			"value": "LN|-0.35897165536880493"
+			"value": -0.35897165536880493
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/1",
-			"value": "LN|0.12451542168855667"
+			"value": 0.12451542168855667
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/6",
-			"value": "LN|0.02758079580962658"
+			"value": 0.02758079580962658
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/7",
-			"value": "LN|0.12451542168855667"
+			"value": 0.12451542168855667
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/0",
-			"value": "LN|0.17870856821537018"
+			"value": 0.17870856821537018
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/1",
-			"value": "LN|0.1520962119102478"
+			"value": 0.1520962119102478
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/6",
-			"value": "LN|0.01738905720412731"
+			"value": 0.01738905720412731
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/7",
-			"value": "LN|0.1520962119102478"
+			"value": 0.1520962119102478
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/0",
-			"value": "LN|1.386784315109253"
+			"value": 1.386784315109253
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/1",
-			"value": "LN|0.16948527097702026"
+			"value": 0.16948527097702026
 		},
 		{
 			"op": "replace",
 			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/7",
-			"value": "LN|0.16948527097702026"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/fffffffffffffffe/entitySubsets/1"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/fffffffffffffffe/entitySubsets/1"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/fffffffffffffffe/entitySubsets/2"
+			"value": 0.16948527097702026
 		}
 	],
-	"patchVersion": 4
+	"patchVersion": 5
 }

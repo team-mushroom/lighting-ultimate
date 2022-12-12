@@ -2,82 +2,10 @@
 	"tempHash": "008283CF0906D94D",
 	"tbluHash": "004C67BF2BDC5B03",
 	"patch": [
-		{ "op": "remove", "path": "/entities/ff2152d93e22ba0c" },
 		{
 			"op": "replace",
 			"path": "/entities/1eab1d013a84eeb8/properties/m_diffuseColor/value",
 			"value": "#ffcfab"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/44d38d70457571b1/properties/m_fHDRExposureMeteringSize"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/44d38d70457571b1/properties/m_eHDRGlareType"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/44d38d70457571b1/properties/m_fHDRStarScale"
-		},
-		{
-			"op": "remove",
-			"path": "/entities/44d38d70457571b1/properties/m_HDRColorTint"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_bHDRLensFlareEnabled/value",
-			"value": false
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_fNoiseScale/value",
-			"value": "LN|0.75"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_bDepthOfFieldEnabled/value",
-			"value": true
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_fHDRLensFlareAttenuation/value",
-			"value": "LN|0.56999999284744263"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_fHDRBloomScale/value",
-			"value": "LN|0.30000001192092896"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_fNoiseIntensity/value",
-			"value": "LN|0.10000000149011612"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_fHDRLensFlareThresholdC/value",
-			"value": "LN|0.23999999463558197"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_fHDRLensFlareThresholdD/value",
-			"value": "LN|0.10000000149011612"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_HDRLensFlareColorC/value",
-			"value": "#9361ff"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_vHDRAdaptationSpeed/value/x",
-			"value": "LN|4"
-		},
-		{
-			"op": "replace",
-			"path": "/entities/44d38d70457571b1/properties/m_vHDRAdaptationSpeed/value/y",
-			"value": "LN|8"
 		},
 		{
 			"op": "replace",
@@ -91,36 +19,96 @@
 		},
 		{
 			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_HDRLensFlareColorC/value",
+			"value": "#9361ff"
+		},
+		{
+			"op": "replace",
 			"path": "/entities/44d38d70457571b1/properties/m_HDRLensFlareColorD/value",
 			"value": "#66664d"
 		},
 		{
 			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_bDepthOfFieldEnabled/value",
+			"value": true
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
 			"path": "/entities/44d38d70457571b1/properties/m_fHDRBloomFalloff/value",
-			"value": "LN|2"
+			"value": 2
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_fHDRBloomScale/value",
+			"value": 0.30000001192092896
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_fHDRLensFlareAttenuation/value",
+			"value": 0.5699999928474426
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_fHDRLensFlareThresholdC/value",
+			"value": 0.23999999463558197
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_fHDRLensFlareThresholdD/value",
+			"value": 0.10000000149011612
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_fNoiseIntensity/value",
+			"value": 0.10000000149011612
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_fNoiseScale/value",
+			"value": 0.75
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_vHDRAdaptationSpeed/value/x",
+			"value": 4
+		},
+		{
+			"op": "replace",
+			"path": "/entities/44d38d70457571b1/properties/m_vHDRAdaptationSpeed/value/y",
+			"value": 8
 		},
 		{
 			"op": "remove",
-			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+			"path": "/entities/44d38d70457571b1/properties/m_HDRColorTint"
 		},
 		{
 			"op": "remove",
-			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+			"path": "/entities/44d38d70457571b1/properties/m_eHDRGlareType"
 		},
 		{
 			"op": "remove",
-			"path": "/entities/fffffffffffffffe/entitySubsets/2"
+			"path": "/entities/44d38d70457571b1/properties/m_fHDRExposureMeteringSize"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/44d38d70457571b1/properties/m_fHDRStarScale"
 		},
 		{
 			"op": "replace",
 			"path": "/entities/657b1fbeeb6300b4/properties/m_fSpeedTreeStrength/value",
-			"value": "LN|0.05000000074505806"
+			"value": 0.05000000074505806
 		},
 		{
 			"op": "replace",
 			"path": "/entities/a16b9cca8a6f91b4/properties/m_diffuseColor/value",
 			"value": "#ffcfab"
-		}
+		},
+		{ "op": "remove", "path": "/entities/ff2152d93e22ba0c" }
 	],
-	"patchVersion": 4
+	"patchVersion": 5
 }
