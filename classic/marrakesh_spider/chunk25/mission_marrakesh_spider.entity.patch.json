@@ -1,1 +1,6 @@
-{"tempHash":"00A0AF5FC89FF2BE","tbluHash":"0052E4A4935EEF6E","patch":[{"op":"remove","path":"/externalScenes/31"}],"patchVersion":4}
+{
+	"tempHash": "00A0AF5FC89FF2BE",
+	"tbluHash": "0052E4A4935EEF6E",
+	"patch": [{ "op": "remove", "path": "/externalScenes/31" }],
+	"patchVersion": 4
+}

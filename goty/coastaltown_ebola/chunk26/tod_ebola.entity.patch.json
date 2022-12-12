@@ -1,1 +1,546 @@
-{"tempHash":"008DAD11D7EEBE74","tbluHash":"00C4B2072242D8F4","patch":[{"op":"remove","path":"/entities/4e264269f4ca589e"},{"op":"remove","path":"/entities/d6eacbc24485ba2c/editorOnly"},{"op":"remove","path":"/entities/8d2819973ed9cb02/editorOnly"},{"op":"remove","path":"/entities/49ae2088b79ba56b/editorOnly"},{"op":"remove","path":"/entities/20d9f753bd23c4dd/editorOnly"},{"op":"remove","path":"/entities/17db60fbc3ec44ad/editorOnly"},{"op":"remove","path":"/entities/5c03b077df736683/editorOnly"},{"op":"remove","path":"/entities/616ebe24c19c7fc9/editorOnly"},{"op":"remove","path":"/entities/13b03052c9ff9913/editorOnly"},{"op":"remove","path":"/entities/225b2257deba66d9/editorOnly"},{"op":"remove","path":"/entities/65fde5c28374359c/editorOnly"},{"op":"remove","path":"/entities/cacebdcb26169fa4/editorOnly"},{"op":"remove","path":"/entities/81d35a0243f78d94/editorOnly"},{"op":"remove","path":"/entities/1bf48099b644b211/editorOnly"},{"op":"remove","path":"/entities/7dd90bad82abadee/editorOnly"},{"op":"remove","path":"/entities/8b6e3b370f00cb7e/editorOnly"},{"op":"remove","path":"/entities/9de77624b1736d8d/editorOnly"},{"op":"remove","path":"/entities/6e9e9584eceec16c/editorOnly"},{"op":"remove","path":"/entities/d7bf09588c48f17b/editorOnly"},{"op":"remove","path":"/entities/afebd563fe701a68/editorOnly"},{"op":"remove","path":"/entities/b78af59ee563001b/editorOnly"},{"op":"remove","path":"/entities/6dc8b2d208fa9a3/editorOnly"},{"op":"remove","path":"/entities/2ccdfd1199314ce3/editorOnly"},{"op":"remove","path":"/entities/40a61f665b8aaa6f/editorOnly"},{"op":"remove","path":"/entities/468e43ed67bc6c31/editorOnly"},{"op":"remove","path":"/entities/d7e85fe076896e82/editorOnly"},{"op":"remove","path":"/entities/13198aef2e12b64f/editorOnly"},{"op":"remove","path":"/entities/9e6d8ead63ed2058/editorOnly"},{"op":"remove","path":"/entities/2d4e4ac6dbddbe96/editorOnly"},{"op":"remove","path":"/entities/2d8ec54c9bdcee21/editorOnly"},{"op":"remove","path":"/entities/a337a6a46b35f37/editorOnly"},{"op":"remove","path":"/entities/c3632b2d4fef07ff/editorOnly"},{"op":"remove","path":"/entities/b673081f35ef112c/editorOnly"},{"op":"remove","path":"/entities/e29f8a2e856654bb/editorOnly"},{"op":"remove","path":"/entities/e477a3dec4c8d80c/editorOnly"},{"op":"remove","path":"/entities/217787acc1b81bb4/editorOnly"},{"op":"remove","path":"/entities/a3772a6e293bac14/editorOnly"},{"op":"remove","path":"/entities/3f4a39c6dfdc29ee/editorOnly"},{"op":"remove","path":"/entities/7a2d08735917378f/editorOnly"},{"op":"remove","path":"/entities/75b9940f464f4b07/editorOnly"},{"op":"remove","path":"/entities/8ee7fba58f27890a/editorOnly"},{"op":"remove","path":"/entities/e56db25e739c569c/editorOnly"},{"op":"remove","path":"/entities/ac4b10a676a5ba79/editorOnly"},{"op":"remove","path":"/entities/cba5bce99aafbd74/editorOnly"},{"op":"remove","path":"/entities/4a5a089932b8a2ce/editorOnly"},{"op":"remove","path":"/entities/ac855497f1bf82ec/editorOnly"},{"op":"remove","path":"/entities/ac855497f1bf82ec/properties/m_eHDRGlareType"},{"op":"remove","path":"/entities/ac855497f1bf82ec/properties/m_vHDRBloomMinFalloffDistanceMinMax"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_fHDRBloomFalloff/value","value":"LN|2"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_fHDRBloomScale/value","value":"LN|5"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_fNoiseIntensity/value","value":"LN|0.5"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_fHDRStarScale/value","value":"LN|1"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_fHDRBrightPassThreshold/value","value":"LN|0.079999998211860657"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/ac855497f1bf82ec/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/860d228f730c44ff/editorOnly"},{"op":"remove","path":"/entities/3bd4576004317b0e/editorOnly"},{"op":"remove","path":"/entities/f018708e11017246/editorOnly"},{"op":"remove","path":"/entities/c87014e5e408a502/editorOnly"},{"op":"remove","path":"/entities/247334c6953b7748/editorOnly"},{"op":"remove","path":"/entities/5041800782380b98/editorOnly"},{"op":"remove","path":"/entities/8d7286671d175fce/editorOnly"},{"op":"remove","path":"/entities/abf0104027a6d044/editorOnly"},{"op":"remove","path":"/entities/6fe782153df4ade3/editorOnly"},{"op":"remove","path":"/entities/497241064c89009e/editorOnly"},{"op":"remove","path":"/entities/42a39113b5263bdc/editorOnly"},{"op":"remove","path":"/entities/b67adc65557d0efd/editorOnly"},{"op":"remove","path":"/entities/75905bfffa76a61b/editorOnly"},{"op":"remove","path":"/entities/a51f1903aeaf20cd/editorOnly"},{"op":"remove","path":"/entities/b8f2c889e5b14639/editorOnly"},{"op":"remove","path":"/entities/31f9c4f2c687482a/editorOnly"},{"op":"remove","path":"/entities/bbd28c9430ff23e/editorOnly"},{"op":"remove","path":"/entities/5621d386660b98a2/editorOnly"},{"op":"remove","path":"/entities/71d97e1513b294eb/editorOnly"},{"op":"remove","path":"/entities/3c74db5ed622ece5/editorOnly"},{"op":"remove","path":"/entities/4f0490d651670656/editorOnly"},{"op":"remove","path":"/entities/9c198989fc7e1e27/editorOnly"},{"op":"remove","path":"/entities/1738a1939cec6731/editorOnly"},{"op":"remove","path":"/entities/c8ed9052cc3e7724/editorOnly"},{"op":"remove","path":"/entities/e168f523e6127ce3/editorOnly"},{"op":"remove","path":"/entities/c9d7b7aacdae9b3c/editorOnly"},{"op":"remove","path":"/entities/406377a40661d6b2/editorOnly"},{"op":"remove","path":"/entities/c8f157bb8202db2f/editorOnly"},{"op":"remove","path":"/entities/ae9f21666233ee5b/editorOnly"},{"op":"remove","path":"/entities/776c841453c6ed83/editorOnly"},{"op":"remove","path":"/entities/96ee1095a2ed19c9/editorOnly"},{"op":"remove","path":"/entities/d69b6e3e2b95f270/editorOnly"},{"op":"remove","path":"/entities/381b40da770306af/editorOnly"},{"op":"remove","path":"/entities/fd85926c97b353b2/editorOnly"},{"op":"remove","path":"/entities/e9c8f4e89dc2f39f/editorOnly"},{"op":"remove","path":"/entities/d6cd4372da39a840/editorOnly"},{"op":"remove","path":"/entities/8712fc349583acd8/editorOnly"},{"op":"remove","path":"/entities/3cc69cdd261dcab1/editorOnly"},{"op":"remove","path":"/entities/e9d2ff8052b138f8/editorOnly"},{"op":"remove","path":"/entities/1c597d1898ffbc16/editorOnly"},{"op":"remove","path":"/entities/b2a58924e295c45b/editorOnly"},{"op":"remove","path":"/entities/24c793bcaf6b8ad5/editorOnly"},{"op":"remove","path":"/entities/ea626e326e24b21f/editorOnly"},{"op":"remove","path":"/entities/df525b43c682ff69/editorOnly"},{"op":"remove","path":"/entities/17acc504f915a4d7/editorOnly"},{"op":"remove","path":"/entities/ca38a81500c7c5c0/editorOnly"},{"op":"remove","path":"/entities/de42b76f4b860336/editorOnly"},{"op":"remove","path":"/entities/8a7286237e4f1c34/editorOnly"},{"op":"remove","path":"/entities/c06ce94b8d9295cf/editorOnly"},{"op":"remove","path":"/entities/60a87ac3ea6ca3c1/editorOnly"},{"op":"remove","path":"/entities/73e8d01737ebaa42/editorOnly"},{"op":"remove","path":"/entities/2b885e90af8a008/editorOnly"},{"op":"remove","path":"/entities/c383ea7ebd59c3f7/editorOnly"},{"op":"remove","path":"/entities/dd0289a4563ce673/editorOnly"},{"op":"remove","path":"/entities/e52179e1cdbaf57e/editorOnly"},{"op":"remove","path":"/entities/e1188c98ec66e0ba/editorOnly"},{"op":"remove","path":"/entities/e1188c98ec66e0ba/properties/GlowPower"},{"op":"remove","path":"/entities/1c71143f69c584e1/editorOnly"},{"op":"remove","path":"/entities/7fde90547763efe0/editorOnly"},{"op":"remove","path":"/entities/8568662bd2b1e19c/editorOnly"},{"op":"remove","path":"/entities/d39419166adf7233/editorOnly"},{"op":"remove","path":"/entities/3e321e44abf317aa/editorOnly"},{"op":"remove","path":"/entities/95253ea687637d89/editorOnly"},{"op":"remove","path":"/entities/bb72d739703c75f/editorOnly"},{"op":"remove","path":"/entities/ea013cb7f427e84b/editorOnly"},{"op":"remove","path":"/entities/88811a5bc10712f9/editorOnly"},{"op":"remove","path":"/entities/7e0c4c13c1c247c2/editorOnly"},{"op":"remove","path":"/entities/b0bd767cdadd6049/editorOnly"},{"op":"remove","path":"/entities/c91eae03cf7d2cbb/editorOnly"},{"op":"remove","path":"/entities/eb6a90430935e4b6/editorOnly"},{"op":"add","path":"/entities/eb6a90430935e4b6/properties/m_bEnableTAA","value":{"type":"bool","value":true}},{"op":"remove","path":"/entities/b2f3aed0d15a2f1e/editorOnly"},{"op":"remove","path":"/entities/803c3077a4985fb1/editorOnly"},{"op":"remove","path":"/entities/dc5e85950e466e7b/editorOnly"},{"op":"remove","path":"/entities/874c0b090147b660/editorOnly"},{"op":"remove","path":"/entities/4314cbe8b4e50c9a/editorOnly"},{"op":"remove","path":"/entities/5c365dee827c786c/editorOnly"},{"op":"remove","path":"/entities/a255d66ca9d45dfa/editorOnly"},{"op":"remove","path":"/entities/c079caca7c47eb8f/editorOnly"},{"op":"remove","path":"/entities/f7eba42269466f9e/editorOnly"},{"op":"remove","path":"/entities/9b48fede107c568a/editorOnly"},{"op":"remove","path":"/entities/4c1e2a8a37230a1e/editorOnly"},{"op":"remove","path":"/entities/36d13f7e06c6374d/editorOnly"},{"op":"remove","path":"/entities/b3c509b0ff99ad5d/editorOnly"},{"op":"remove","path":"/entities/5cf33309e80a830a/editorOnly"},{"op":"remove","path":"/entities/a6104e65cca84a7e/editorOnly"},{"op":"remove","path":"/entities/4bb270fe6006b516/editorOnly"},{"op":"remove","path":"/entities/fe84fcb08bfa1c31/editorOnly"},{"op":"remove","path":"/entities/1d1e9f215512c575/editorOnly"},{"op":"remove","path":"/entities/5caa27a90a8f20da/editorOnly"},{"op":"remove","path":"/entities/fdd04cf028f6a18/editorOnly"},{"op":"remove","path":"/entities/7a8b0aa3f9016103/editorOnly"},{"op":"remove","path":"/entities/5c5b345ebc4fad17/editorOnly"},{"op":"remove","path":"/entities/dd83eb8217043dc6/editorOnly"},{"op":"remove","path":"/entities/5c1b50d5144feed6/editorOnly"},{"op":"remove","path":"/entities/b95f66507077e413/editorOnly"},{"op":"remove","path":"/entities/ce043b91b7796200/editorOnly"},{"op":"remove","path":"/entities/9b88d0bca4c8aa5c/editorOnly"},{"op":"remove","path":"/entities/65cd59eb6945a1ab/editorOnly"},{"op":"remove","path":"/entities/9f51dd221b4fda2f/editorOnly"},{"op":"remove","path":"/entities/e8e6cef5534521e5/editorOnly"},{"op":"remove","path":"/entities/a9c11a79af22b483/editorOnly"},{"op":"remove","path":"/entities/95bbfab8c745a288/editorOnly"},{"op":"remove","path":"/entities/f7e1749dba6857a8/editorOnly"},{"op":"remove","path":"/entities/55979536b7b9a7d5/editorOnly"},{"op":"remove","path":"/entities/bbabd8d95a53672d/editorOnly"},{"op":"remove","path":"/entities/4df814baee61a3cd/editorOnly"},{"op":"remove","path":"/entities/41cc5dc831c431/editorOnly"},{"op":"remove","path":"/entities/901f42321d44f2bd/editorOnly"},{"op":"remove","path":"/entities/ff22e81d5edb174b/editorOnly"},{"op":"remove","path":"/entities/e78ca6e0f54c6279/editorOnly"},{"op":"remove","path":"/entities/e074f66e09cad921/editorOnly"},{"op":"remove","path":"/entities/abc035db25a9d8b/editorOnly"},{"op":"remove","path":"/entities/16f011a8985a5366/editorOnly"},{"op":"remove","path":"/entities/e1a4bf99c2b792ab/editorOnly"},{"op":"remove","path":"/entities/8ccd1efd29e5fabf/editorOnly"},{"op":"remove","path":"/entities/4485391679628ea3/editorOnly"},{"op":"remove","path":"/entities/a15b83aeaa8e1759/editorOnly"},{"op":"remove","path":"/entities/f54129ed6bd705a4/editorOnly"},{"op":"remove","path":"/entities/53824a19e8330c58/editorOnly"},{"op":"remove","path":"/entities/e61719b028f1b2ff/editorOnly"},{"op":"remove","path":"/entities/35a5c0181ed3df0a/editorOnly"},{"op":"remove","path":"/entities/702740f4717caa9c/editorOnly"},{"op":"remove","path":"/entities/d4ec8115e10fe81f/editorOnly"},{"op":"remove","path":"/entities/23f3b30ad015e90a/editorOnly"},{"op":"remove","path":"/entities/75667bd1e314fbd6/editorOnly"},{"op":"remove","path":"/entities/8454cf63c77717c5/editorOnly"},{"op":"remove","path":"/entities/8ce0f69477f6dbca/editorOnly"},{"op":"remove","path":"/entities/d157d1659b239ed9/editorOnly"},{"op":"remove","path":"/entities/9ba6f10578c8e0db/editorOnly"},{"op":"remove","path":"/entities/12ff009d2ef8d096/editorOnly"},{"op":"remove","path":"/entities/814be8eff3a7354b/editorOnly"},{"op":"remove","path":"/entities/5ca5f4f6bd2cf05a/editorOnly"},{"op":"remove","path":"/entities/46a1f06158c7dfff/editorOnly"},{"op":"remove","path":"/entities/24289807853ad045/editorOnly"},{"op":"remove","path":"/entities/676e90ab1326a8f3/editorOnly"},{"op":"remove","path":"/entities/2c920494d18827ec/editorOnly"},{"op":"remove","path":"/entities/59f41175ad9fc3/editorOnly"},{"op":"remove","path":"/entities/e8d0734784bf82da/editorOnly"},{"op":"remove","path":"/entities/9ff89e879babdb6b/editorOnly"},{"op":"remove","path":"/entities/d93476656c05c7f3/editorOnly"},{"op":"remove","path":"/entities/c468c79796efef43/editorOnly"},{"op":"remove","path":"/entities/c5a275f65b37c519/editorOnly"},{"op":"remove","path":"/entities/e117065963632cb0/editorOnly"},{"op":"remove","path":"/entities/517812fb0ff0eebf/editorOnly"},{"op":"remove","path":"/entities/717d2aab115dae64/editorOnly"},{"op":"remove","path":"/entities/643234a633d44f21/editorOnly"},{"op":"remove","path":"/entities/e7c640c169f91e48/editorOnly"},{"op":"replace","path":"/entities/e7c640c169f91e48/properties/ConstantColorRGB_01_Value/value","value":"#c2d4ff"},{"op":"remove","path":"/entities/462c21a106e84727/editorOnly"},{"op":"remove","path":"/entities/f61430aae335afe7/editorOnly"},{"op":"remove","path":"/entities/64b0e7be76efdb3d/editorOnly"},{"op":"remove","path":"/entities/d5c2a2fa4b80ea9f/editorOnly"},{"op":"remove","path":"/entities/6aa656417214c735/editorOnly"},{"op":"remove","path":"/entities/12cb0755b6ab52fd/editorOnly"},{"op":"remove","path":"/entities/c064764a57cc8ecf/editorOnly"},{"op":"remove","path":"/entities/5b4b3e50d100031e/editorOnly"},{"op":"remove","path":"/entities/469dacb147d405f9/editorOnly"},{"op":"remove","path":"/entities/9c4399f0ac924cb4/editorOnly"},{"op":"remove","path":"/entities/c7755c85c85dcdc9/editorOnly"},{"op":"remove","path":"/entities/e34d22ebeec8dea2/editorOnly"},{"op":"remove","path":"/entities/f32711d4a0eaeaae/editorOnly"},{"op":"remove","path":"/entities/1b90c2536cb1b65e/editorOnly"},{"op":"remove","path":"/entities/9cb99d2bff3ca585/editorOnly"},{"op":"remove","path":"/entities/c8353cfec2374f6e/editorOnly"},{"op":"remove","path":"/entities/53d11e73f1386da/editorOnly"},{"op":"remove","path":"/entities/9e42b1bd6811b4cf/editorOnly"},{"op":"remove","path":"/entities/840b50c204473534/editorOnly"},{"op":"remove","path":"/entities/862a03f42d9e67f4/editorOnly"},{"op":"remove","path":"/entities/ef47ef20699d6b5e/editorOnly"},{"op":"remove","path":"/entities/fb1415f8fbde6a8a/editorOnly"},{"op":"remove","path":"/entities/c02905b2385b2ef7/editorOnly"},{"op":"remove","path":"/entities/53f65155987897b6/editorOnly"},{"op":"remove","path":"/entities/72824270bee51fe5/editorOnly"},{"op":"remove","path":"/entities/186e5e1f5bd9a8f5/editorOnly"},{"op":"remove","path":"/entities/7601ee2c0e7f68e6/editorOnly"},{"op":"remove","path":"/entities/d2a4cbdf5beb2674/editorOnly"},{"op":"remove","path":"/entities/f97cf837c22f3ffe/editorOnly"},{"op":"remove","path":"/entities/208618c8081b0160/editorOnly"},{"op":"remove","path":"/entities/61f998004ee4ce46/editorOnly"},{"op":"remove","path":"/entities/6ed42af3187b46c6/editorOnly"},{"op":"remove","path":"/entities/6a04e4f5f25ef2b2/editorOnly"},{"op":"remove","path":"/entities/f79039804ecf5335/editorOnly"},{"op":"remove","path":"/entities/45d5ab74b193f0ce/editorOnly"},{"op":"remove","path":"/entities/4635beff9bb76a41/editorOnly"},{"op":"remove","path":"/entities/1f32476b225f295e/editorOnly"},{"op":"remove","path":"/entities/6a2017a7d6c521b3/editorOnly"},{"op":"remove","path":"/entities/539d01cbfcb29024/editorOnly"},{"op":"remove","path":"/entities/11133b99128ccf52/editorOnly"},{"op":"remove","path":"/entities/6a10e9b884ba4714/editorOnly"},{"op":"remove","path":"/entities/406d100c85ac9294/editorOnly"},{"op":"remove","path":"/entities/2ea4b255734687f8/editorOnly"},{"op":"remove","path":"/entities/a5b1a843402dfaef/editorOnly"},{"op":"remove","path":"/entities/c6256eb5a8ab6a35/editorOnly"},{"op":"remove","path":"/entities/5a62e950ab085626/editorOnly"},{"op":"remove","path":"/entities/40c1ceac64a37a13/editorOnly"},{"op":"remove","path":"/entities/2c0f34c0d6da1480/editorOnly"},{"op":"remove","path":"/entities/2e166e444305891e/editorOnly"},{"op":"remove","path":"/entities/780d8e2e45d7c4c9/editorOnly"},{"op":"remove","path":"/entities/af7ee28f1130a952/editorOnly"},{"op":"remove","path":"/entities/7995fb5b470adcfb/editorOnly"},{"op":"remove","path":"/entities/130c077f5f2592b2/editorOnly"},{"op":"remove","path":"/entities/130c077f5f2592b2/properties/m_pEmitter"},{"op":"add","path":"/entities/130c077f5f2592b2/postInitProperties/m_pEmitter","value":{"type":"SEntityTemplateReference","value":"7995fb5b470adcfb"}},{"op":"remove","path":"/entities/ec324cd3b5e32fd6/editorOnly"},{"op":"remove","path":"/entities/65281af29fcf333e/editorOnly"},{"op":"remove","path":"/entities/467bb0c68594cdb/editorOnly"},{"op":"remove","path":"/entities/ef5b76a7c2ad7df4/editorOnly"},{"op":"remove","path":"/entities/7c090bcb06212f65/editorOnly"},{"op":"remove","path":"/entities/f89338eba9bf5e2d/editorOnly"},{"op":"remove","path":"/entities/c3f9cdb4ef7ded71/editorOnly"},{"op":"remove","path":"/entities/c3f9cdb4ef7ded71/properties/GlowPower"},{"op":"remove","path":"/entities/85e2e3c6a6ae8f8b/editorOnly"},{"op":"remove","path":"/entities/93e228d1e7550713/editorOnly"},{"op":"remove","path":"/entities/ad47b695ae3f636/editorOnly"},{"op":"remove","path":"/entities/44778873a882618f/editorOnly"},{"op":"remove","path":"/entities/6e688d409897aa6d/editorOnly"},{"op":"remove","path":"/entities/2b6ea69268bfaab7/editorOnly"},{"op":"remove","path":"/entities/b47b549d7ed4a11f/editorOnly"},{"op":"remove","path":"/entities/8b819dceaca13da5/editorOnly"},{"op":"remove","path":"/entities/7dc343fe1a90dc71/editorOnly"},{"op":"remove","path":"/entities/27ce4680597939dc/editorOnly"},{"op":"remove","path":"/entities/38061bfb4661768/editorOnly"},{"op":"remove","path":"/entities/d4d2f61da99d06ec/editorOnly"},{"op":"remove","path":"/entities/42c9946cae8f7dd/editorOnly"},{"op":"remove","path":"/entities/669c8f721277bf04/editorOnly"},{"op":"remove","path":"/entities/7410453e91c759af/editorOnly"},{"op":"remove","path":"/entities/df2f64d257126dc1/editorOnly"},{"op":"remove","path":"/entities/86c4ca462dd0af3/editorOnly"},{"op":"remove","path":"/entities/f121baabd25a6c38/editorOnly"},{"op":"remove","path":"/entities/d8601e3d0d2db039/editorOnly"},{"op":"remove","path":"/entities/fd047e5932a7df6c/editorOnly"},{"op":"remove","path":"/entities/14463e98dfb5774c/editorOnly"},{"op":"remove","path":"/entities/f51e2a80d3d39d9c/editorOnly"},{"op":"remove","path":"/entities/4c4d1f548c4385f1/editorOnly"},{"op":"remove","path":"/entities/5df58d9b87cc0bd0/editorOnly"},{"op":"remove","path":"/entities/e97395c6aede8517/editorOnly"},{"op":"remove","path":"/entities/a27df06285eb41f1/editorOnly"},{"op":"remove","path":"/entities/fffffffffffffffe/editorOnly"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/1"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/1"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/2"},{"op":"remove","path":"/entities/dbc3d744505ce1e0/editorOnly"},{"op":"remove","path":"/entities/596d582a7fd7816c/editorOnly"},{"op":"remove","path":"/entities/e06df105d4e3d7d0/editorOnly"},{"op":"remove","path":"/entities/c111bc01899d6ab3/editorOnly"},{"op":"remove","path":"/entities/c111bc01899d6ab3/properties/m_eHDRGlareType"},{"op":"remove","path":"/entities/c111bc01899d6ab3/properties/m_vHDRBloomMinFalloffDistanceMinMax"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRBrightPassThreshold/value","value":"LN|0.079999998211860657"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRLensFlareThresholdA/value","value":"LN|0.55000001192092896"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRLensFlareThresholdC/value","value":"LN|0.44999998807907104"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/c111bc01899d6ab3/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/30ac4d88557777f4/editorOnly"},{"op":"remove","path":"/entities/d4c8cb4aa728264b/editorOnly"},{"op":"remove","path":"/entities/d8191d62dbeda213/editorOnly"},{"op":"remove","path":"/entities/b5b1cdbfb8a71168/editorOnly"},{"op":"remove","path":"/entities/3a890affe5e74ccd/editorOnly"},{"op":"remove","path":"/entities/34e67bb519af0079/editorOnly"},{"op":"remove","path":"/entities/8e04bfb537870d1f/editorOnly"},{"op":"remove","path":"/entities/4f55d94146e26c34/editorOnly"},{"op":"remove","path":"/entities/e36fb209d3f0db13/editorOnly"},{"op":"remove","path":"/entities/48dd9653f41e7166/editorOnly"},{"op":"remove","path":"/entities/2aba02c07c03cb58/editorOnly"},{"op":"remove","path":"/entities/35bfc7915a44fd06/editorOnly"},{"op":"remove","path":"/entities/a0fc927655b3bf2c/editorOnly"},{"op":"remove","path":"/entities/2b70a92e77c04bf2/editorOnly"},{"op":"remove","path":"/entities/ce1ff4795e03ff9d/editorOnly"},{"op":"remove","path":"/entities/ee931c791e2b8c9/editorOnly"},{"op":"remove","path":"/entities/629d790233b2a92f/editorOnly"},{"op":"remove","path":"/entities/232f29c9b18e32a9/editorOnly"},{"op":"remove","path":"/entities/97fc000f76543168/editorOnly"},{"op":"remove","path":"/entities/97fc000f76543168/properties/m_eHDRGlareType"},{"op":"remove","path":"/entities/97fc000f76543168/properties/m_vHDRBloomMinFalloffDistanceMinMax"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRLensFlareAttenuation/value","value":"LN|1"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRBrightPassThreshold/value","value":"LN|0.079999998211860657"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRLensFlareThresholdA/value","value":"LN|0.55000001192092896"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRLensFlareThresholdC/value","value":"LN|0.44999998807907104"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/97fc000f76543168/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/76e19dd0d5835a2c/editorOnly"},{"op":"remove","path":"/entities/961733eb518a5524/editorOnly"},{"op":"remove","path":"/entities/961733eb518a5524/properties/m_eHDRGlareType"},{"op":"remove","path":"/entities/961733eb518a5524/properties/m_vHDRBloomMinFalloffDistanceMinMax"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRBrightPassThreshold/value","value":"LN|0.079999998211860657"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRLensFlareThresholdA/value","value":"LN|0.55000001192092896"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRLensFlareThresholdC/value","value":"LN|0.44999998807907104"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/961733eb518a5524/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/9046b5aad0c7b546/editorOnly"},{"op":"remove","path":"/entities/79e6490d6eaa88d5/editorOnly"},{"op":"remove","path":"/entities/b19aa7f612373fc/editorOnly"},{"op":"remove","path":"/entities/4e579e9fb210832b/editorOnly"},{"op":"remove","path":"/entities/f6fa56908dbd4a4c/editorOnly"},{"op":"remove","path":"/entities/d6437e76c894fd5c/editorOnly"},{"op":"remove","path":"/entities/45efc8ed611776a1/editorOnly"},{"op":"remove","path":"/entities/152a5b3890edad50/editorOnly"},{"op":"remove","path":"/entities/af736830d2809361/editorOnly"},{"op":"remove","path":"/entities/a0b5374640449bf6/editorOnly"},{"op":"remove","path":"/entities/b3ed7e271144474f/editorOnly"},{"op":"remove","path":"/entities/5e6e2cccab03983c/editorOnly"},{"op":"remove","path":"/entities/da9a29fd73c32208/editorOnly"},{"op":"remove","path":"/entities/35fbca27e8abfdc1/editorOnly"},{"op":"remove","path":"/entities/427855fdd42e4aff/editorOnly"},{"op":"remove","path":"/entities/5762e87e4f48f09c/editorOnly"},{"op":"remove","path":"/entities/da48463a286a9247/editorOnly"},{"op":"remove","path":"/entities/1df28ff1fc064c2e/editorOnly"},{"op":"remove","path":"/entities/2e96fa6db619e284/editorOnly"},{"op":"remove","path":"/entities/4d0c9244bcb7cc63/editorOnly"},{"op":"remove","path":"/entities/4d0c9244bcb7cc63/properties/m_pEmitter"},{"op":"add","path":"/entities/4d0c9244bcb7cc63/postInitProperties/m_pEmitter","value":{"type":"SEntityTemplateReference","value":"2e96fa6db619e284"}},{"op":"remove","path":"/entities/fd0c369f47df532/editorOnly"},{"op":"remove","path":"/entities/62e596121cc5583d/editorOnly"},{"op":"remove","path":"/entities/890263101ca807b1/editorOnly"},{"op":"remove","path":"/entities/d654b331fde53fa2/editorOnly"},{"op":"remove","path":"/entities/555a021f952ae74b/editorOnly"},{"op":"remove","path":"/entities/f740b7d8c5d3a2e1/editorOnly"},{"op":"remove","path":"/entities/5d6f12053a9b4814/editorOnly"},{"op":"remove","path":"/entities/b65711ed83ad926c/editorOnly"},{"op":"remove","path":"/entities/4bf18ae9cd87f654/editorOnly"},{"op":"remove","path":"/entities/b6d15e3eea26e21c/editorOnly"},{"op":"remove","path":"/entities/237557466d879deb/editorOnly"},{"op":"remove","path":"/entities/9348c6956889648d/editorOnly"},{"op":"remove","path":"/entities/9a9672440c1b741f/editorOnly"},{"op":"remove","path":"/entities/41e97ac9352e763b/editorOnly"},{"op":"remove","path":"/entities/fc632487befe76bf/editorOnly"},{"op":"remove","path":"/entities/41339fe0f6417109/editorOnly"},{"op":"remove","path":"/entities/b311d896dd007558/editorOnly"},{"op":"remove","path":"/entities/b22a2f7d7a787441/editorOnly"},{"op":"remove","path":"/entities/241b82f00e3a4157/editorOnly"},{"op":"remove","path":"/entities/b2bf01afbcce09f8/editorOnly"},{"op":"remove","path":"/entities/72ae699417578a8/editorOnly"},{"op":"remove","path":"/entities/65d53954c5c5fb65/editorOnly"},{"op":"remove","path":"/entities/c3941e7dd055441b/editorOnly"},{"op":"remove","path":"/entities/f05a59cc545cab8c/editorOnly"},{"op":"remove","path":"/entities/d6668e4b63e32ab6/editorOnly"},{"op":"remove","path":"/entities/3a4d485125bb1b5b/editorOnly"},{"op":"remove","path":"/entities/d387b9326ca71c52/editorOnly"},{"op":"remove","path":"/entities/9d2a7cc75a086095/editorOnly"},{"op":"remove","path":"/entities/c927bc3d8b3b74ed/editorOnly"},{"op":"remove","path":"/entities/d26bf4cc094febd0/editorOnly"},{"op":"remove","path":"/entities/e3b61b10d2c28aab/editorOnly"},{"op":"add","path":"/entities/e3b61b10d2c28aab/properties/m_eidParent","value":{"type":"SEntityTemplateReference","value":"fffffffffffffffe"}},{"op":"remove","path":"/entities/e3b61b10d2c28aab/postInitProperties/m_eidParent"},{"op":"remove","path":"/entities/755505f4019e0a4a/editorOnly"},{"op":"remove","path":"/entities/19d41a65ec4c6b5c/editorOnly"},{"op":"remove","path":"/entities/554dd4d82899c69a/editorOnly"},{"op":"remove","path":"/entities/99ba0466c995a165/editorOnly"},{"op":"remove","path":"/entities/269a4341368988ac/editorOnly"},{"op":"remove","path":"/entities/8669a03074469735/editorOnly"},{"op":"remove","path":"/entities/36ec8bbbc96ffee7/editorOnly"},{"op":"remove","path":"/entities/36ec8bbbc96ffee7/properties/m_pEmitter"},{"op":"add","path":"/entities/36ec8bbbc96ffee7/postInitProperties/m_pEmitter","value":{"type":"SEntityTemplateReference","value":"8669a03074469735"}},{"op":"remove","path":"/entities/f86aed1899017109/editorOnly"},{"op":"remove","path":"/entities/4a0d4803ad0e474a/editorOnly"},{"op":"remove","path":"/entities/de9b5847f06552b/editorOnly"},{"op":"remove","path":"/entities/d9db25371821cdcb/editorOnly"},{"op":"remove","path":"/entities/40228397c4dda30a/editorOnly"},{"op":"remove","path":"/entities/ae37923c4f22b987/editorOnly"},{"op":"remove","path":"/entities/9555d38f13c17093/editorOnly"},{"op":"remove","path":"/entities/b8563cd44f06c6c5/editorOnly"},{"op":"remove","path":"/entities/46d6e02c92c41b66/editorOnly"},{"op":"remove","path":"/entities/368ef7513cb64ea7/editorOnly"},{"op":"remove","path":"/entities/b91cba556e779cf2/editorOnly"},{"op":"remove","path":"/entities/428637c7a3f7def7/editorOnly"},{"op":"remove","path":"/entities/b11ee186010e36d4/editorOnly"},{"op":"remove","path":"/entities/2022b473cfc70fbe/editorOnly"},{"op":"remove","path":"/entities/b493ae4e9edda8ce/editorOnly"},{"op":"remove","path":"/entities/2a0f9cf2bfa62a2a/editorOnly"},{"op":"remove","path":"/entities/9848ae561ef471bf/editorOnly"},{"op":"remove","path":"/entities/4afe13e1a70dedc6/editorOnly"},{"op":"remove","path":"/entities/9869ffced6717074/editorOnly"},{"op":"remove","path":"/entities/22d6ac122642baff/editorOnly"},{"op":"add","path":"/entities/22d6ac122642baff/properties/m_eidParent","value":{"type":"SEntityTemplateReference","value":"fffffffffffffffe"}},{"op":"remove","path":"/entities/22d6ac122642baff/postInitProperties/m_eidParent"},{"op":"remove","path":"/entities/dcc0cdfe7855b2dd/editorOnly"},{"op":"remove","path":"/entities/1aaa578d3d1dee81/editorOnly"},{"op":"remove","path":"/entities/b0aaaac8b6cc0141/editorOnly"},{"op":"remove","path":"/entities/f5e0fd130138d9c3/editorOnly"},{"op":"remove","path":"/entities/4a96225c06555f5a/editorOnly"},{"op":"remove","path":"/entities/88db8246ad255a88/editorOnly"},{"op":"remove","path":"/entities/bd65da6c947a2a6d/editorOnly"},{"op":"add","path":"/entities/bd65da6c947a2a6d/properties/m_eidParent","value":{"type":"SEntityTemplateReference","value":"fffffffffffffffe"}},{"op":"remove","path":"/entities/bd65da6c947a2a6d/postInitProperties/m_eidParent"},{"op":"remove","path":"/entities/ac124d88ced65a15/editorOnly"},{"op":"remove","path":"/entities/cdd1467e5c701255/editorOnly"},{"op":"remove","path":"/entities/c9b8029ac577061b/editorOnly"},{"op":"remove","path":"/entities/d91c1ec4fb59a746/editorOnly"},{"op":"remove","path":"/entities/e129122732f342df/editorOnly"},{"op":"remove","path":"/entities/4fc672eadc85a435/editorOnly"},{"op":"remove","path":"/entities/80b6f1cbd917913a/editorOnly"},{"op":"remove","path":"/entities/28149cc5aef6a243/editorOnly"},{"op":"remove","path":"/entities/6ed65c886e6ee071/editorOnly"},{"op":"remove","path":"/entities/2e8fb327ca8f45a/editorOnly"},{"op":"remove","path":"/entities/1c04cd05dbd73c92/editorOnly"},{"op":"remove","path":"/entities/e8f346e084ed1c7/editorOnly"},{"op":"remove","path":"/entities/2ff0e1344d52b2c4/editorOnly"},{"op":"remove","path":"/entities/34560b666e20448f/editorOnly"},{"op":"remove","path":"/entities/3c48cc1a72c7a549/editorOnly"},{"op":"remove","path":"/entities/1915082bd73de6e9/editorOnly"},{"op":"remove","path":"/entities/4784704585d281a6/editorOnly"},{"op":"remove","path":"/entities/96fb466c2b48222/editorOnly"},{"op":"remove","path":"/entities/5f1e9c11fed4ce1b/editorOnly"},{"op":"remove","path":"/entities/38adf68e58f2f1c0/editorOnly"},{"op":"remove","path":"/entities/f914c199aff68a61/editorOnly"},{"op":"remove","path":"/entities/54952c0b94a950fd/editorOnly"},{"op":"remove","path":"/entities/54952c0b94a950fd/properties/m_eHDRGlareType"},{"op":"remove","path":"/entities/54952c0b94a950fd/properties/m_vHDRBloomMinFalloffDistanceMinMax"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRBrightPassThreshold/value","value":"LN|0.079999998211860657"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRLensFlareThresholdA/value","value":"LN|0.55000001192092896"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRLensFlareThresholdC/value","value":"LN|0.44999998807907104"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/54952c0b94a950fd/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/4805bbfe935a0693/editorOnly"},{"op":"remove","path":"/entities/a1154eccdd115c44/editorOnly"},{"op":"remove","path":"/entities/6ee0e298775afdf6/editorOnly"},{"op":"remove","path":"/entities/6398aa43cf7e87/editorOnly"},{"op":"remove","path":"/entities/92de4a4cd35d8fa7/editorOnly"},{"op":"remove","path":"/entities/269bc547e7fb6952/editorOnly"},{"op":"remove","path":"/entities/5ec2f5771e1abb6e/editorOnly"},{"op":"remove","path":"/entities/3b7b03cbec0dc100/editorOnly"},{"op":"remove","path":"/entities/4e04e8535f9264a8/editorOnly"},{"op":"remove","path":"/entities/aa230e1211cbf5f7/editorOnly"},{"op":"remove","path":"/entities/45a2edafc24f6181/editorOnly"},{"op":"remove","path":"/entities/9d9aaf657e9482a2/editorOnly"},{"op":"remove","path":"/entities/8004039abd833a9b/editorOnly"},{"op":"remove","path":"/entities/8c37bbacbcb6591d/editorOnly"},{"op":"remove","path":"/entities/4ced99026169b841/editorOnly"},{"op":"remove","path":"/entities/7e0439f3040be03d/editorOnly"},{"op":"remove","path":"/entities/a7af9c14616da771/editorOnly"},{"op":"remove","path":"/entities/57015c7e69dca441/editorOnly"},{"op":"remove","path":"/entities/facfc4fd19930ebd/editorOnly"},{"op":"remove","path":"/entities/4ab921c6dca76b25/editorOnly"},{"op":"remove","path":"/entities/6aefb5d50d19ec1/editorOnly"},{"op":"remove","path":"/entities/94ea10bd96fd9c72/editorOnly"},{"op":"remove","path":"/entities/fb34c2129d989402/editorOnly"},{"op":"remove","path":"/entities/9b9d96c7acdb67ee/editorOnly"},{"op":"remove","path":"/entities/ea7ba376d3f01488/editorOnly"},{"op":"remove","path":"/entities/c292e4d70ebaa654/editorOnly"},{"op":"remove","path":"/entities/2eb57e2f69ed5286/editorOnly"},{"op":"remove","path":"/entities/2eb57e2f69ed5286/properties/m_pEmitter"},{"op":"add","path":"/entities/2eb57e2f69ed5286/postInitProperties/m_pEmitter","value":{"type":"SEntityTemplateReference","value":"c292e4d70ebaa654"}},{"op":"remove","path":"/entities/e7a79bb9547dbcc7/editorOnly"},{"op":"remove","path":"/entities/a63e15fd2a1665e5/editorOnly"},{"op":"remove","path":"/entities/5bd686a0718a0699/editorOnly"},{"op":"remove","path":"/entities/411212185d2cef03/editorOnly"},{"op":"remove","path":"/entities/82c4a4d223889dd0/editorOnly"},{"op":"remove","path":"/entities/9d3470e176349854/editorOnly"},{"op":"remove","path":"/entities/5941b87508633b63/editorOnly"},{"op":"remove","path":"/entities/5941b87508633b63/properties/m_diffuseColor"},{"op":"replace","path":"/entities/5941b87508633b63/properties/m_fDiffusePower/value","value":"LN|10000"},{"op":"remove","path":"/entities/7eb81e3ce72da119/editorOnly"},{"op":"remove","path":"/entities/18a643fa085a2e48/editorOnly"},{"op":"remove","path":"/entities/3b4d890c4b49a631/editorOnly"},{"op":"remove","path":"/entities/685a25c69cca000f/editorOnly"},{"op":"remove","path":"/entities/4373deec37c31f7a/editorOnly"},{"op":"remove","path":"/entities/76b5e1254ebb7d2e/editorOnly"},{"op":"remove","path":"/entities/31f19350e25f5977/editorOnly"},{"op":"remove","path":"/entities/ebb81a84d38c19f2/editorOnly"},{"op":"remove","path":"/entities/d5f05ab6766f6b96/editorOnly"},{"op":"add","path":"/propertyOverrides/2/properties/LampColor","value":{"type":"SColorRGB","value":"#3f618f"}},{"op":"add","path":"/propertyOverrides/2/properties/m_vAngularAttenuation","value":{"type":"SVector2","value":{"x":0.050999999046325684,"y":1.4215960502624512}}},{"op":"add","path":"/propertyOverrides/33/properties/m_vAngularAttenuation","value":{"type":"SVector2","value":{"x":1,"y":1.100000023841858}}},{"op":"replace","path":"/propertyOverrides/91/properties/DiffusePower/value","value":"LN|9"},{"op":"add","path":"/propertyOverrides/119/properties/m_vAngularAttenuation","value":{"type":"SVector2","value":{"x":1,"y":1.100000023841858}}},{"op":"replace","path":"/propertyOverrides/169/properties/3048720800/value/resource","value":"009E7898393E93D8"},{"op":"replace","path":"/propertyOverrides/232/properties/Texture2D_02/value/resource","value":"009E7898393E93D8"},{"op":"replace","path":"/propertyOverrides/235/properties/GlowPower/value","value":"LN|170"},{"op":"add","path":"/propertyOverrides/249/properties/m_vAngularAttenuation","value":{"type":"SVector2","value":{"x":1,"y":1.100000023841858}}},{"op":"add","path":"/propertyOverrides/264/properties/SlaveVisible","value":{"type":"bool","value":false}},{"op":"remove","path":"/propertyOverrides/268/properties/DiffusePower"},{"op":"replace","path":"/propertyOverrides/290/properties/DiffusePower/value","value":"LN|9"},{"op":"replace","path":"/propertyOverrides/303/properties/3048720800/value/resource","value":"009E7898393E93D8"}],"patchVersion":4}
+{
+	"tempHash": "008DAD11D7EEBE74",
+	"tbluHash": "00C4B2072242D8F4",
+	"patch": [
+		{
+			"op": "remove",
+			"path": "/entities/ac855497f1bf82ec/properties/m_eHDRGlareType"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/ac855497f1bf82ec/properties/m_vHDRBloomMinFalloffDistanceMinMax"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_fHDRBloomFalloff/value",
+			"value": "LN|2"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_fHDRBloomScale/value",
+			"value": "LN|5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_fNoiseIntensity/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_fHDRStarScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_fHDRBrightPassThreshold/value",
+			"value": "LN|0.079999998211860657"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/ac855497f1bf82ec/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/e1188c98ec66e0ba/properties/GlowPower"
+		},
+		{
+			"op": "add",
+			"path": "/entities/eb6a90430935e4b6/properties/m_bEnableTAA",
+			"value": { "type": "bool", "value": true }
+		},
+		{
+			"op": "replace",
+			"path": "/entities/e7c640c169f91e48/properties/ConstantColorRGB_01_Value/value",
+			"value": "#c2d4ff"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/130c077f5f2592b2/properties/m_pEmitter"
+		},
+		{
+			"op": "add",
+			"path": "/entities/130c077f5f2592b2/postInitProperties/m_pEmitter",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "7995fb5b470adcfb"
+			}
+		},
+		{
+			"op": "remove",
+			"path": "/entities/c3f9cdb4ef7ded71/properties/GlowPower"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/2"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/c111bc01899d6ab3/properties/m_eHDRGlareType"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/c111bc01899d6ab3/properties/m_vHDRBloomMinFalloffDistanceMinMax"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRBrightPassThreshold/value",
+			"value": "LN|0.079999998211860657"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRLensFlareThresholdA/value",
+			"value": "LN|0.55000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRLensFlareThresholdC/value",
+			"value": "LN|0.44999998807907104"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/c111bc01899d6ab3/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/97fc000f76543168/properties/m_eHDRGlareType"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/97fc000f76543168/properties/m_vHDRBloomMinFalloffDistanceMinMax"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRLensFlareAttenuation/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRBrightPassThreshold/value",
+			"value": "LN|0.079999998211860657"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRLensFlareThresholdA/value",
+			"value": "LN|0.55000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRLensFlareThresholdC/value",
+			"value": "LN|0.44999998807907104"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/97fc000f76543168/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/961733eb518a5524/properties/m_eHDRGlareType"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/961733eb518a5524/properties/m_vHDRBloomMinFalloffDistanceMinMax"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRBrightPassThreshold/value",
+			"value": "LN|0.079999998211860657"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRLensFlareThresholdA/value",
+			"value": "LN|0.55000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRLensFlareThresholdC/value",
+			"value": "LN|0.44999998807907104"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/961733eb518a5524/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/4d0c9244bcb7cc63/properties/m_pEmitter"
+		},
+		{
+			"op": "add",
+			"path": "/entities/4d0c9244bcb7cc63/postInitProperties/m_pEmitter",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "2e96fa6db619e284"
+			}
+		},
+		{
+			"op": "add",
+			"path": "/entities/e3b61b10d2c28aab/properties/m_eidParent",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "fffffffffffffffe"
+			}
+		},
+		{
+			"op": "remove",
+			"path": "/entities/e3b61b10d2c28aab/postInitProperties/m_eidParent"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/36ec8bbbc96ffee7/properties/m_pEmitter"
+		},
+		{
+			"op": "add",
+			"path": "/entities/36ec8bbbc96ffee7/postInitProperties/m_pEmitter",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "8669a03074469735"
+			}
+		},
+		{
+			"op": "add",
+			"path": "/entities/22d6ac122642baff/properties/m_eidParent",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "fffffffffffffffe"
+			}
+		},
+		{
+			"op": "remove",
+			"path": "/entities/22d6ac122642baff/postInitProperties/m_eidParent"
+		},
+		{
+			"op": "add",
+			"path": "/entities/bd65da6c947a2a6d/properties/m_eidParent",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "fffffffffffffffe"
+			}
+		},
+		{
+			"op": "remove",
+			"path": "/entities/bd65da6c947a2a6d/postInitProperties/m_eidParent"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/54952c0b94a950fd/properties/m_eHDRGlareType"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/54952c0b94a950fd/properties/m_vHDRBloomMinFalloffDistanceMinMax"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRBrightPassThreshold/value",
+			"value": "LN|0.079999998211860657"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRLensFlareThresholdA/value",
+			"value": "LN|0.55000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRLensFlareThresholdC/value",
+			"value": "LN|0.44999998807907104"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/54952c0b94a950fd/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/2eb57e2f69ed5286/properties/m_pEmitter"
+		},
+		{
+			"op": "add",
+			"path": "/entities/2eb57e2f69ed5286/postInitProperties/m_pEmitter",
+			"value": {
+				"type": "SEntityTemplateReference",
+				"value": "c292e4d70ebaa654"
+			}
+		},
+		{
+			"op": "remove",
+			"path": "/entities/5941b87508633b63/properties/m_diffuseColor"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/5941b87508633b63/properties/m_fDiffusePower/value",
+			"value": "LN|10000"
+		},
+		{
+			"op": "add",
+			"path": "/propertyOverrides/2/properties/LampColor",
+			"value": { "type": "SColorRGB", "value": "#3f618f" }
+		},
+		{
+			"op": "add",
+			"path": "/propertyOverrides/2/properties/m_vAngularAttenuation",
+			"value": {
+				"type": "SVector2",
+				"value": { "x": 0.050999999046325684, "y": 1.4215960502624512 }
+			}
+		},
+		{
+			"op": "add",
+			"path": "/propertyOverrides/33/properties/m_vAngularAttenuation",
+			"value": {
+				"type": "SVector2",
+				"value": { "x": 1, "y": 1.100000023841858 }
+			}
+		},
+		{
+			"op": "replace",
+			"path": "/propertyOverrides/91/properties/DiffusePower/value",
+			"value": "LN|9"
+		},
+		{
+			"op": "add",
+			"path": "/propertyOverrides/119/properties/m_vAngularAttenuation",
+			"value": {
+				"type": "SVector2",
+				"value": { "x": 1, "y": 1.100000023841858 }
+			}
+		},
+		{
+			"op": "replace",
+			"path": "/propertyOverrides/169/properties/3048720800/value/resource",
+			"value": "009E7898393E93D8"
+		},
+		{
+			"op": "replace",
+			"path": "/propertyOverrides/232/properties/Texture2D_02/value/resource",
+			"value": "009E7898393E93D8"
+		},
+		{
+			"op": "replace",
+			"path": "/propertyOverrides/235/properties/GlowPower/value",
+			"value": "LN|170"
+		},
+		{
+			"op": "add",
+			"path": "/propertyOverrides/249/properties/m_vAngularAttenuation",
+			"value": {
+				"type": "SVector2",
+				"value": { "x": 1, "y": 1.100000023841858 }
+			}
+		},
+		{
+			"op": "add",
+			"path": "/propertyOverrides/264/properties/SlaveVisible",
+			"value": { "type": "bool", "value": false }
+		},
+		{
+			"op": "remove",
+			"path": "/propertyOverrides/268/properties/DiffusePower"
+		},
+		{
+			"op": "replace",
+			"path": "/propertyOverrides/290/properties/DiffusePower/value",
+			"value": "LN|9"
+		},
+		{
+			"op": "replace",
+			"path": "/propertyOverrides/303/properties/3048720800/value/resource",
+			"value": "009E7898393E93D8"
+		}
+	],
+	"patchVersion": 4
+}
