@@ -1,1 +1,109 @@
-{"tempHash":"007B86AD8C886AE7","tbluHash":"00C7B8D493334459","patch":[{"op":"remove","path":"/entities/2d3f77fa06a39756"},{"op":"remove","path":"/entities/ca0ce1045d774d6f/editorOnly"},{"op":"remove","path":"/entities/16f2317bd255900c/editorOnly"},{"op":"remove","path":"/entities/12be4f86b0ca4542/editorOnly"},{"op":"remove","path":"/entities/3798c1a3a19a7bb0/editorOnly"},{"op":"remove","path":"/entities/461887829f2215f6/editorOnly"},{"op":"remove","path":"/entities/f00ed79d29c933fd/editorOnly"},{"op":"remove","path":"/entities/1c499bf5f3452171/editorOnly"},{"op":"remove","path":"/entities/febc2181965f7394/editorOnly"},{"op":"remove","path":"/entities/1bbd5f2403b6b8a9/editorOnly"},{"op":"remove","path":"/entities/e24d745135385888/editorOnly"},{"op":"remove","path":"/entities/e343ed45644d6e4e/editorOnly"},{"op":"remove","path":"/entities/b7d1fd993f724b6a/editorOnly"},{"op":"remove","path":"/entities/4de824d74a754e6e/editorOnly"},{"op":"remove","path":"/entities/6b3f0b0eed41908c/editorOnly"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/2/6","value":"LN|0.019026031717658043"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/1","value":"LN|0.031146666035056114"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/6","value":"LN|0.02963961660861969"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/7","value":"LN|0.031146666035056114"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/1","value":"LN|0.060786280781030655"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/6","value":"LN|0.06372913718223572"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/7","value":"LN|0.060786280781030655"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/0","value":"LN|-0.35897165536880493"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/1","value":"LN|0.12451542168855667"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/6","value":"LN|0.02758079580962658"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/7","value":"LN|0.12451542168855667"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/0","value":"LN|0.17870856821537018"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/1","value":"LN|0.1520962119102478"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/6","value":"LN|0.01738905720412731"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/7","value":"LN|0.1520962119102478"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/0","value":"LN|1.386784315109253"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/1","value":"LN|0.16948527097702026"},{"op":"replace","path":"/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/7","value":"LN|0.16948527097702026"},{"op":"remove","path":"/entities/fffffffffffffffe/editorOnly"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/1"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/1"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/2"},{"op":"remove","path":"/entities/3972a28c3f40e262/editorOnly"},{"op":"remove","path":"/entities/101d57bb28b9bd61/editorOnly"}],"patchVersion":4}
+{
+	"tempHash": "007B86AD8C886AE7",
+	"tbluHash": "00C7B8D493334459",
+	"patch": [
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/2/6",
+			"value": "LN|0.019026031717658043"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/1",
+			"value": "LN|0.031146666035056114"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/6",
+			"value": "LN|0.02963961660861969"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/3/7",
+			"value": "LN|0.031146666035056114"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/1",
+			"value": "LN|0.060786280781030655"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/6",
+			"value": "LN|0.06372913718223572"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/4/7",
+			"value": "LN|0.060786280781030655"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/0",
+			"value": "LN|-0.35897165536880493"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/1",
+			"value": "LN|0.12451542168855667"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/6",
+			"value": "LN|0.02758079580962658"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/5/7",
+			"value": "LN|0.12451542168855667"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/0",
+			"value": "LN|0.17870856821537018"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/1",
+			"value": "LN|0.1520962119102478"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/6",
+			"value": "LN|0.01738905720412731"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/6/7",
+			"value": "LN|0.1520962119102478"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/0",
+			"value": "LN|1.386784315109253"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/1",
+			"value": "LN|0.16948527097702026"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/6b3f0b0eed41908c/properties/m_Remap/value/data/7/7",
+			"value": "LN|0.16948527097702026"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/2"
+		}
+	],
+	"patchVersion": 4
+}

@@ -11,7 +11,6 @@
       "op": "remove",
       "path": "/entities/1ed332627621f88c/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/1ed332627621f88c/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/26ebfe0ea53413d/properties/m_fDiffusePower/value",
@@ -21,7 +20,6 @@
       "op": "remove",
       "path": "/entities/26ebfe0ea53413d/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/26ebfe0ea53413d/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/36eafb9d0a0b3bd0/properties/m_fDiffusePower/value",
@@ -31,7 +29,6 @@
       "op": "remove",
       "path": "/entities/36eafb9d0a0b3bd0/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/36eafb9d0a0b3bd0/editorOnly" },
     {
       "op": "add",
       "path": "/entities/3d413b3b575fd3e0/properties/m_bEnableLightSimplification",
@@ -42,7 +39,6 @@
       "path": "/entities/3d413b3b575fd3e0/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/3d413b3b575fd3e0/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/46bfd1b2d466266/properties/m_fDiffusePower/value",
@@ -52,7 +48,6 @@
       "op": "remove",
       "path": "/entities/46bfd1b2d466266/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/46bfd1b2d466266/editorOnly" },
     {
       "op": "add",
       "path": "/entities/51f29b67568cdd30/properties/m_bEnableLightSimplification",
@@ -63,7 +58,6 @@
       "path": "/entities/51f29b67568cdd30/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/51f29b67568cdd30/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/57690852f62bdd62/properties/m_fDiffusePower/value",
@@ -73,7 +67,6 @@
       "op": "remove",
       "path": "/entities/57690852f62bdd62/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/57690852f62bdd62/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/655d4672b55928a9/properties/m_fDiffusePower/value",
@@ -83,7 +76,6 @@
       "op": "remove",
       "path": "/entities/655d4672b55928a9/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/655d4672b55928a9/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/7ccca4004d5da8c4/properties/m_fDiffusePower/value",
@@ -93,7 +85,6 @@
       "op": "remove",
       "path": "/entities/7ccca4004d5da8c4/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/7ccca4004d5da8c4/editorOnly" },
     {
       "op": "add",
       "path": "/entities/8e39857f9460be22/properties/m_bEnableLightSimplification",
@@ -104,7 +95,6 @@
       "path": "/entities/8e39857f9460be22/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/8e39857f9460be22/editorOnly" },
     {
       "op": "add",
       "path": "/entities/9212a6c487dbd70a/properties/m_bEnableLightSimplification",
@@ -115,7 +105,6 @@
       "path": "/entities/9212a6c487dbd70a/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/9212a6c487dbd70a/editorOnly" },
     {
       "op": "add",
       "path": "/entities/a3c177e71e2e98ed/properties/m_bEnableLightSimplification",
@@ -126,8 +115,6 @@
       "path": "/entities/a3c177e71e2e98ed/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/a3c177e71e2e98ed/editorOnly" },
-    { "op": "remove", "path": "/entities/a4eabfa81420ea81/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/b18a64d01eec057e/properties/m_fDiffusePower/value",
@@ -137,8 +124,6 @@
       "op": "remove",
       "path": "/entities/b18a64d01eec057e/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/b18a64d01eec057e/editorOnly" },
-    { "op": "remove", "path": "/entities/b82031ac20c6d63e/editorOnly" },
     {
       "op": "add",
       "path": "/entities/bf80628647f55673/properties/m_bEnableLightSimplification",
@@ -149,7 +134,6 @@
       "path": "/entities/bf80628647f55673/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/bf80628647f55673/editorOnly" },
     {
       "op": "add",
       "path": "/entities/c210893893d4a155/properties/m_bEnableLightSimplification",
@@ -160,7 +144,6 @@
       "path": "/entities/c210893893d4a155/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/c210893893d4a155/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/c6fcfb8ec2755256/properties/m_fDiffusePower/value",
@@ -170,7 +153,6 @@
       "op": "remove",
       "path": "/entities/c6fcfb8ec2755256/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/c6fcfb8ec2755256/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/c9a6235f5c7c4ad3/properties/m_fDiffusePower/value",
@@ -180,7 +162,6 @@
       "op": "remove",
       "path": "/entities/c9a6235f5c7c4ad3/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/c9a6235f5c7c4ad3/editorOnly" },
     {
       "op": "add",
       "path": "/entities/e1072dc9f99c5d99/properties/m_bEnableLightSimplification",
@@ -191,7 +172,6 @@
       "path": "/entities/e1072dc9f99c5d99/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/e1072dc9f99c5d99/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/eaafe26f4534d390/properties/m_fDiffusePower/value",
@@ -201,7 +181,6 @@
       "op": "remove",
       "path": "/entities/eaafe26f4534d390/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/eaafe26f4534d390/editorOnly" },
     {
       "op": "replace",
       "path": "/entities/eedf09f56172edd9/properties/m_fDiffusePower/value",
@@ -211,7 +190,6 @@
       "op": "remove",
       "path": "/entities/eedf09f56172edd9/properties/m_bVisible"
     },
-    { "op": "remove", "path": "/entities/eedf09f56172edd9/editorOnly" },
     {
       "op": "add",
       "path": "/entities/f4368b6d0478ce81/properties/m_bEnableLightSimplification",
@@ -222,7 +200,6 @@
       "path": "/entities/f4368b6d0478ce81/properties/m_fLightSimplificationLength",
       "value": { "type": "float32", "value": 0 }
     },
-    { "op": "remove", "path": "/entities/f4368b6d0478ce81/editorOnly" },
     {
       "op": "remove",
       "path": "/entities/fc00547a0646c18d/properties/m_GlobalLightOverrideBackColor"

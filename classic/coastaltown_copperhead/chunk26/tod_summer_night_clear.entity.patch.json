@@ -1,1 +1,345 @@
-{"tempHash":"00229AA6BC900212","tbluHash":"00C59CDA43A6B434","patch":[{"op":"remove","path":"/entities/fd8a6ef8057eaef1"},{"op":"remove","path":"/entities/8850f08df5276275/editorOnly"},{"op":"remove","path":"/entities/7953b3807b9e2251/editorOnly"},{"op":"remove","path":"/entities/c7059b60337b1f4b/editorOnly"},{"op":"remove","path":"/entities/3e7f5b9a2e6e7219/editorOnly"},{"op":"remove","path":"/entities/ae313dc579c851af/editorOnly"},{"op":"remove","path":"/entities/b3c3483948e98cde/editorOnly"},{"op":"remove","path":"/entities/6409b83277d480ee/editorOnly"},{"op":"remove","path":"/entities/75e530011a5c656d/editorOnly"},{"op":"remove","path":"/entities/305e32af6f9cfed4/editorOnly"},{"op":"remove","path":"/entities/5a39f45362b27f86/editorOnly"},{"op":"remove","path":"/entities/6a5ad182e10ae30b/editorOnly"},{"op":"remove","path":"/entities/13b0dc2b952b27ad/editorOnly"},{"op":"remove","path":"/entities/6a5750d4130dfab0/editorOnly"},{"op":"remove","path":"/entities/a4fb2d822d9669e8/editorOnly"},{"op":"remove","path":"/entities/d79c7200c9541551/editorOnly"},{"op":"remove","path":"/entities/f5977eefbfff2afb/editorOnly"},{"op":"remove","path":"/entities/607dc8f2adbb8b70/editorOnly"},{"op":"remove","path":"/entities/69266115f1523a06/editorOnly"},{"op":"replace","path":"/entities/69266115f1523a06/properties/m_fHeightAboveSeaLevel/value","value":"LN|200"},{"op":"remove","path":"/entities/87127919ae19048f/editorOnly"},{"op":"remove","path":"/entities/718b7d238679ae50/editorOnly"},{"op":"remove","path":"/entities/72538baf177d0542/editorOnly"},{"op":"remove","path":"/entities/ac63b77f44638b17/editorOnly"},{"op":"remove","path":"/entities/88e2579d83bd5591/editorOnly"},{"op":"remove","path":"/entities/bbedcb8449a9b100/editorOnly"},{"op":"remove","path":"/entities/5a6ae8b7d2979f69/editorOnly"},{"op":"remove","path":"/entities/2310a95b419b593b/editorOnly"},{"op":"remove","path":"/entities/14521372cf5c7ae8/editorOnly"},{"op":"remove","path":"/entities/2eb89d330f03bd64/editorOnly"},{"op":"remove","path":"/entities/a61b92f64e2c1f40/editorOnly"},{"op":"remove","path":"/entities/3fe92a63a0b8e77/editorOnly"},{"op":"remove","path":"/entities/3404cc4e3651a35a/editorOnly"},{"op":"remove","path":"/entities/8e77ab45762ad8c4/editorOnly"},{"op":"remove","path":"/entities/fb931126246d37b6/editorOnly"},{"op":"remove","path":"/entities/daa1c2e6e530791e/editorOnly"},{"op":"remove","path":"/entities/e511b464c2f0e169/editorOnly"},{"op":"remove","path":"/entities/75a72aa20daf64bb/editorOnly"},{"op":"remove","path":"/entities/75a72aa20daf64bb/properties/m_fHDRExposureMeteringSize"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_fHDRBloomFalloff/value","value":"LN|2"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_bNoiseEnabled/value","value":true},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_eHDRGlareType/value","value":"eCinecamVerticalSlits"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_fNoiseScale/value","value":"LN|0.80000001192092896"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_vHDRAdaptationSpeed/value/x","value":"LN|1"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_vHDRAdaptationSpeed/value/y","value":"LN|1"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/75a72aa20daf64bb/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/bad9904fdbf479bf/editorOnly"},{"op":"remove","path":"/entities/a969a059cf13d58e/editorOnly"},{"op":"remove","path":"/entities/3b03d908cef0b8a7/editorOnly"},{"op":"remove","path":"/entities/a3d3cb601d946e5b/editorOnly"},{"op":"remove","path":"/entities/bdd3cba789e3a392/editorOnly"},{"op":"remove","path":"/entities/24f0d7867233bb65/editorOnly"},{"op":"remove","path":"/entities/fffffffffffffffe/editorOnly"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/1"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/1"},{"op":"remove","path":"/entities/fffffffffffffffe/entitySubsets/2"},{"op":"remove","path":"/entities/7ea2f72739169df6/editorOnly"},{"op":"remove","path":"/entities/c5d0be5ad75e5ecf/editorOnly"},{"op":"remove","path":"/entities/b146a1cf0601cb87/editorOnly"},{"op":"remove","path":"/entities/b146a1cf0601cb87/properties/m_fHDRExposureMeteringSize"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fHDRBloomFalloff/value","value":"LN|2"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_bNoiseEnabled/value","value":true},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_eHDRGlareType/value","value":"eCinecamVerticalSlits"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fNoiseScale/value","value":"LN|0.80000001192092896"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fHDRLensFlareAttenuation/value","value":"LN|1"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_vHDRAdaptationSpeed/value/x","value":"LN|1"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_vHDRAdaptationSpeed/value/y","value":"LN|1"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/b146a1cf0601cb87/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/92f50c33e5da45ec/editorOnly"},{"op":"remove","path":"/entities/725511a30c27044d/editorOnly"},{"op":"remove","path":"/entities/725511a30c27044d/properties/m_fHDRExposureMeteringSize"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fHDRBloomFalloff/value","value":"LN|2"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_bNoiseEnabled/value","value":true},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_eHDRGlareType/value","value":"eCinecamVerticalSlits"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fNoiseScale/value","value":"LN|0.80000001192092896"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fHDRLensFlareAttenuation/value","value":"LN|1"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_vHDRAdaptationSpeed/value/x","value":"LN|1"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_vHDRAdaptationSpeed/value/y","value":"LN|1"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/725511a30c27044d/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/7cd79c79164f767f/editorOnly"},{"op":"remove","path":"/entities/56c9c705f41caa9f/editorOnly"},{"op":"remove","path":"/entities/28448388e87b0e07/editorOnly"},{"op":"remove","path":"/entities/28448388e87b0e07/properties/m_fHDRExposureMeteringSize"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_bHDRLensFlareEnabled/value","value":false},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_bNoiseEnabled/value","value":true},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_eHDRGlareType/value","value":"eCinecamVerticalSlits"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_fHDRBloomScale/value","value":"LN|1"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_fNoiseScale/value","value":"LN|0.80000001192092896"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_fHDRStarScale/value","value":"LN|0.5"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_fHDRBrightPassMaxPercentage/value","value":"LN|50"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_vHDRAdaptationSpeed/value/x","value":"LN|1"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_vHDRAdaptationSpeed/value/y","value":"LN|1"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_HDRLensFlareColorA/value","value":"#808cf0"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_HDRLensFlareColorB/value","value":"#806633"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_HDRLensFlareColorC/value","value":"#6633cc"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_HDRLensFlareColorD/value","value":"#66664d"},{"op":"replace","path":"/entities/28448388e87b0e07/properties/m_fHDRLensFlareThresholdD/value","value":"LN|0.40000000596046448"},{"op":"remove","path":"/entities/6279ba2c9a1e2a94/editorOnly"},{"op":"remove","path":"/entities/bbf28872ffdab3ab/editorOnly"},{"op":"remove","path":"/entities/d52477f1fe9aa636/editorOnly"},{"op":"remove","path":"/entities/56203617d32eafde/editorOnly"},{"op":"remove","path":"/entities/624005c333412fec/editorOnly"},{"op":"remove","path":"/entities/f667ea09e0f8c9eb/editorOnly"},{"op":"remove","path":"/entities/fe998efd82716550/editorOnly"},{"op":"remove","path":"/entities/fae88bdf4f60d6f7/editorOnly"}],"patchVersion":4}
+{
+	"tempHash": "00229AA6BC900212",
+	"tbluHash": "00C59CDA43A6B434",
+	"patch": [
+		{
+			"op": "replace",
+			"path": "/entities/69266115f1523a06/properties/m_fHeightAboveSeaLevel/value",
+			"value": "LN|200"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fHDRExposureMeteringSize"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fHDRBloomFalloff/value",
+			"value": "LN|2"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_bNoiseEnabled/value",
+			"value": true
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_eHDRGlareType/value",
+			"value": "eCinecamVerticalSlits"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fNoiseScale/value",
+			"value": "LN|0.80000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_vHDRAdaptationSpeed/value/x",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_vHDRAdaptationSpeed/value/y",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/75a72aa20daf64bb/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/1"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/fffffffffffffffe/entitySubsets/2"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRExposureMeteringSize"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRBloomFalloff/value",
+			"value": "LN|2"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_bNoiseEnabled/value",
+			"value": true
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_eHDRGlareType/value",
+			"value": "eCinecamVerticalSlits"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fNoiseScale/value",
+			"value": "LN|0.80000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRLensFlareAttenuation/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_vHDRAdaptationSpeed/value/x",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_vHDRAdaptationSpeed/value/y",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/b146a1cf0601cb87/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRExposureMeteringSize"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRBloomFalloff/value",
+			"value": "LN|2"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_bNoiseEnabled/value",
+			"value": true
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_eHDRGlareType/value",
+			"value": "eCinecamVerticalSlits"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fNoiseScale/value",
+			"value": "LN|0.80000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRLensFlareAttenuation/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_vHDRAdaptationSpeed/value/x",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_vHDRAdaptationSpeed/value/y",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/725511a30c27044d/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		},
+		{
+			"op": "remove",
+			"path": "/entities/28448388e87b0e07/properties/m_fHDRExposureMeteringSize"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_bHDRLensFlareEnabled/value",
+			"value": false
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_bNoiseEnabled/value",
+			"value": true
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_eHDRGlareType/value",
+			"value": "eCinecamVerticalSlits"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_fHDRBloomScale/value",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_fNoiseScale/value",
+			"value": "LN|0.80000001192092896"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_fHDRStarScale/value",
+			"value": "LN|0.5"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_fHDRBrightPassMaxPercentage/value",
+			"value": "LN|50"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_vHDRAdaptationSpeed/value/x",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_vHDRAdaptationSpeed/value/y",
+			"value": "LN|1"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_HDRLensFlareColorA/value",
+			"value": "#808cf0"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_HDRLensFlareColorB/value",
+			"value": "#806633"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_HDRLensFlareColorC/value",
+			"value": "#6633cc"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_HDRLensFlareColorD/value",
+			"value": "#66664d"
+		},
+		{
+			"op": "replace",
+			"path": "/entities/28448388e87b0e07/properties/m_fHDRLensFlareThresholdD/value",
+			"value": "LN|0.40000000596046448"
+		}
+	],
+	"patchVersion": 4
+}
