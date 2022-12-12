@@ -1,6 +1,1 @@
-{
-	"tempHash": "00B465A0A9523F64",
-	"tbluHash": "0096E8C5FA5494F2",
-	"patch": [{ "op": "remove", "path": "/externalScenes/6" }],
-	"patchVersion": 4
-}
+{"tempHash":"00B465A0A9523F64","tbluHash":"0096E8C5FA5494F2","patch":[{"op":"replace","path":"/externalScenes/6","value":"[assembly:/_pro/scenes/missions/hokkaido/mapcontent_hokkaido.brick].pc_entitytype"},{"op":"remove","path":"/externalScenes/7"}],"patchVersion":5}
