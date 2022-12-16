@@ -48,6 +48,13 @@
 			"group": "Prologue - The Final Test"
 		},
 		{
+			"name": "Vintage Pack",
+			"tooltip": "A modern take on the original art direction of the 2015 HITMAN Closed Alpha.",
+			"type": "select",
+			"group": "Paris",
+			"contentFolders": ["alpha/paris"]
+		},
+		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
