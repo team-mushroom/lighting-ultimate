@@ -1,0 +1,41 @@
+{
+	"tempHash": "00C936C78D76ABF4",
+	"tbluHash": "00412E6A53D56147",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"feed7e1b27f1f20f": {
+			"parent": "fffffffffffffffe",
+			"name": "Scenario_Portraits",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/kamikaze_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/kirroyal_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/margarita_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/sakini_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/shandy_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/tequilasunrise_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/whiterussian_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/lumumba_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/mojito_outfits.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/noel_outfits.brick].pc_entitytype"
+	],
+	"subType": "scene",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
