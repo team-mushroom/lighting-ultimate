@@ -1,18 +1,1 @@
-{
-	"tempHash": "0000C3CE492807D2",
-	"tbluHash": "002EA1AFC127657D",
-	"patch": [
-		{
-			"op": "replace",
-			"path": "/externalScenes/64",
-			"value": "0064FE1090FB2775"
-		},
-		{
-			"op": "replace",
-			"path": "/externalScenes/65",
-			"value": "0036D64700F55065"
-		},
-		{ "op": "remove", "path": "/externalScenes/66" }
-	],
-	"patchVersion": 5
-}
+{"tempHash":"0000C3CE492807D2","tbluHash":"002EA1AFC127657D","patch":[{"RemoveExternalScene":"00329D0912B762CC"}],"patchVersion":6}

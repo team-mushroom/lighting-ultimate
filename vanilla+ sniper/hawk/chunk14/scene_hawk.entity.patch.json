@@ -1,12 +1,1 @@
-{
-    "tempHash": "00D55EECEED49BB6",
-    "tbluHash": "00EEDAECCC09279D",
-    "patch": [
-        {
-            "op": "add",
-            "path": "/externalScenes/-",
-            "value": "[assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entitytype"
-        }
-    ],
-    "patchVersion": 5
-}
+{"tempHash":"00D55EECEED49BB6","tbluHash":"00EEDAECCC09279D","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/hawk/lighting_overrides_hawk.brick].pc_entitytype"}],"patchVersion":6}

@@ -1,12 +1,1 @@
-{
-    "tempHash": "00A4E261F399FD45",
-    "tbluHash": "00041BF5EA2D31A7",
-    "patch": [
-        {
-            "op": "add",
-            "path": "/externalScenes/-",
-            "value": "[assembly:/_pro/scenes/missions/edgy/mission_fox/lighting_overrides_fox.brick].pc_entitytype"
-        }
-    ],
-    "patchVersion": 5
-}
+{"tempHash":"00A4E261F399FD45","tbluHash":"00041BF5EA2D31A7","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/edgy/mission_fox/lighting_overrides_fox.brick].pc_entitytype"}],"patchVersion":6}

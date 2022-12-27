@@ -1,1 +1,1 @@
-{"tempHash":"0025DD895C349D17","tbluHash":"005DCC9549CC6B1B","patch":[{"op":"remove","path":"/entities/61a0ba96321fb124/subsets"},{"op":"remove","path":"/entities/ef5cf6c487bfe20f/subsets"}],"patchVersion":5}
+{"tempHash":"0025DD895C349D17","tbluHash":"005DCC9549CC6B1B","patch":[{"SubEntityOperation":["ef5cf6c487bfe20f",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["61a0ba96321fb124",{"RemoveAllSubsetsFor":"AudioEmitters"}]}],"patchVersion":6}

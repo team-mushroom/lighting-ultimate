@@ -1,1 +1,1 @@
-{"tempHash":"00B97B26F128F1F8","tbluHash":"004C083348783D78","patch":[{"op":"remove","path":"/externalScenes/3"}],"patchVersion":5}
+{"tempHash":"00B97B26F128F1F8","tbluHash":"004C083348783D78","patch":[{"RemoveExternalScene":"007320FB8D53170A"}],"patchVersion":6}

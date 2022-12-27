@@ -1,12 +1,1 @@
-{
-    "tempHash": "003AF7114BD21403",
-    "tbluHash": "0062F6BDAB6C0C0A",
-    "patch": [
-        {
-            "op": "add",
-            "path": "/externalScenes/-",
-            "value": "[assembly:/_pro/scenes/missions/trapped/lighting_overrides_wolverine.brick].pc_entitytype"
-        }
-    ],
-    "patchVersion": 5
-}
+{"tempHash":"003AF7114BD21403","tbluHash":"0062F6BDAB6C0C0A","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/trapped/lighting_overrides_wolverine.brick].pc_entitytype"}],"patchVersion":6}

@@ -1,12 +1,1 @@
-{
-    "tempHash": "0043DAFEEECF37D2",
-    "tbluHash": "001505DFE44E3EB8",
-    "patch": [
-        {
-            "op": "add",
-            "path": "/externalScenes/-",
-            "value": "[assembly:/_pro/scenes/missions/colombia/lighting_overrides_hippo.brick].pc_entitytype"
-        }
-    ],
-    "patchVersion": 5
-}
+{"tempHash":"0043DAFEEECF37D2","tbluHash":"001505DFE44E3EB8","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/colombia/lighting_overrides_hippo.brick].pc_entitytype"}],"patchVersion":6}

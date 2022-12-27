@@ -1,12 +1,1 @@
-{
-    "tempHash": "00A02A0F55CA9088",
-    "tbluHash": "00BC7531B4FC26E7",
-    "patch": [
-        {
-            "op": "add",
-            "path": "/externalScenes/-",
-            "value": "[assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytype"
-        }
-    ],
-    "patchVersion": 5
-}
+{"tempHash":"00A02A0F55CA9088","tbluHash":"00BC7531B4FC26E7","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytype"}],"patchVersion":6}
