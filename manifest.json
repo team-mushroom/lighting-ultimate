@@ -117,23 +117,6 @@
 			"contentFolders": ["vanilla+ s1/coastaltown_octopus"]
 		},
 		{
-			"name": "TOD Change - Dawn",
-			"tooltip": "EXPERIMENTAL - New Time of Day scenario (Dawn)",
-			"type": "select",
-			"group": "Sapienza - World of Tomorrow",
-			"dependencies": [
-				{
-					"runtimeID": "009F206E1EBA5F25",
-					"toChunk": 26
-				},
-				{
-					"runtimeID": "0026D710EAF1BFEE",
-					"toChunk": 26
-				}
-			],
-			"contentFolders": ["tod_change/octopus_dawn"]
-		},
-		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
@@ -549,6 +532,13 @@
 			"group": "Dartmoor"
 		},
 		{
+			"name": "Hollywood",
+			"tooltip": "A more intense and cinematic setting, taking inspiration from classic and modern movies, including emulation of 35mm film stock.",
+			"type": "select",
+			"group": "Berlin",
+			"contentFolders": ["hollywood/edgy"]
+		},		
+		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
@@ -561,6 +551,13 @@
 			"enabledByDefault": true,
 			"group": "Berlin"
 		},
+		{
+			"name": "Hollywood",
+			"tooltip": "A more intense and cinematic setting, taking inspiration from classic and modern movies, including emulation of 35mm film stock.",
+			"type": "select",
+			"group": "Chongqing",
+			"contentFolders": ["hollywood/wet"]
+		},		
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",

@@ -1,0 +1,83 @@
+{
+	"tempHash": "002498E408503103",
+	"tbluHash": "00A6BF86BB9B3C03",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "26021049b8da67ad",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				},
+				{
+					"ref": "20ce6aa839490e56",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_bVignetteEnabled": { "type": "bool", "value": false },
+				"m_bNoiseEnabled": { "type": "bool", "value": false },
+				"m_bColorCorrectionEnabled": { "type": "bool", "value": true },
+				"m_fHDRBloomScale": { "type": "float32", "value": 1 },
+				"ColorCorrectionTextureHDR": {
+					"type": "ZRuntimeResourceID",
+					"value": { "resource": "009D44CD68C20A66", "flag": "5F" }
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "4d958ec668d3d844",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				}
+			],
+			"properties": { "m_fDiffusePower": { "type": "float32", "value": 5 } }
+		},
+		{
+			"entities": [
+				{
+					"ref": "e71c3a7004c380be",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"ConstantVector1D_02_Value": { "type": "float32", "value": 0.45 },
+				"ConstantVector1D_07_Value": { "type": "float32", "value": 1.5 }
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "4798ee6ad0af7e47",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"zOffset": { "type": "float32", "value": 200000 },
+				"MaxIntensity": { "type": "float32", "value": 100 },
+				"MoonColor": { "type": "SColorRGB", "value": "#e6f7ff" }
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+	],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
