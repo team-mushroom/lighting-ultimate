@@ -23,6 +23,17 @@
 					]
 				}
 			]
+		},
+		{
+			"SubEntityOperation": [
+				"62553c2077e235a7",
+				{
+					"AddProperty": [
+						"m_eRoomBehaviour",
+						{ "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }
+					]
+				}
+			]
 		}
 	],
 	"patchVersion": 6
