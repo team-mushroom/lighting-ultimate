@@ -86,35 +86,35 @@
 			"tooltip": "A modern take on the original art direction of the 2015 HITMAN Closed Alpha.",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["alpha/coastaltown_octopus"]
+			"contentFolders": ["alpha/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["classic/coastaltown_octopus"]
+			"contentFolders": ["classic/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack+",
 			"tooltip": "EXPERIMENTAL - An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["classic+ s1/coastaltown_octopus"]
+			"contentFolders": ["classic+ s1/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["goty/coastaltown_octopus"]
+			"contentFolders": ["goty/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["vanilla+ s1/coastaltown_octopus"]
+			"contentFolders": ["vanilla+ s1/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
 			"name": "Off",
@@ -127,14 +127,14 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Icon",
-			"contentFolders": ["classic/coastaltown_copperhead"]
+			"contentFolders": ["classic/coastaltown_copperhead", "_shared/coastaltown"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - The Icon",
-			"contentFolders": ["vanilla+ s1/coastaltown_copperhead"]
+			"contentFolders": ["vanilla+ s1/coastaltown_copperhead", "_shared/coastaltown"]
 		},
 		{
 			"name": "Off",
@@ -147,14 +147,14 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"contentFolders": ["classic/coastaltown_mamba"]
+			"contentFolders": ["classic/coastaltown_mamba", "_shared/coastaltown"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"contentFolders": ["vanilla+ s1/coastaltown_mamba"]
+			"contentFolders": ["vanilla+ s1/coastaltown_mamba", "_shared/coastaltown"]
 		},
 		{
 			"name": "Off",
@@ -167,14 +167,14 @@
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Author",
-			"contentFolders": ["goty/coastaltown_ebola"]
+			"contentFolders": ["goty/coastaltown_ebola", "_shared/coastaltown"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - The Author",
-			"contentFolders": ["vanilla+ s1/coastaltown_ebola"]
+			"contentFolders": ["vanilla+ s1/coastaltown_ebola", "_shared/coastaltown"]
 		},
 		{
 			"name": "Off",
