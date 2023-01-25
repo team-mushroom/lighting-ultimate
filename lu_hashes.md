@@ -48,9 +48,11 @@ Dubai uses its own postfilter brick, so as with S1 there is no lighting_overides
 
 002498E408503103.TEMP  [assembly:/_pro/scenes/missions/edgy/mission_fox/lighting_overrides_fox.brick].pc_entitytype
 00A6BF86BB9B3C03.TBLU  [assembly:/_pro/scenes/missions/edgy/mission_fox/lighting_overrides_fox.brick].pc_entityblueprint
+009D44CD68C20A66.TEXT  [assembly:/_pro/effects/textures/lut/lut_edgy_cinematic.texture?/diffuse_a.tex](ascolormap).pc_tex
 
 00E30E2C96287A22.TEMP  [assembly:/_pro/scenes/missions/wet/lighting_overrides_rat.brick].pc_entitytype
 00DBC4C3277DD054.TBLU  [assembly:/_pro/scenes/missions/wet/lighting_overrides_rat.brick].pc_entityblueprint
+00CFD2947B9A15DC.TEXT  [assembly:/_pro/effects/textures/lut/lut_wet_cinematic.texture?/diffuse_a.tex](ascolormap).pc_tex
 
 00E9CF8F767D5632.TEMP  [assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytype
 00C505F0F9CFABBF.TBLU  [assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entityblueprint
