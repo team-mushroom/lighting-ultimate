@@ -9,6 +9,19 @@
 	"loadAfter": ["KevinRudd.TODChange"],
 	"options": [
 		{
+			"name": "Vanilla+",
+			"tooltip": "A cleaner and clearer version of the vanilla lighting",
+			"type": "select",
+			"group": "Safehouse",
+			"contentFolders": ["vanilla+ s3/snug"]
+		},
+		{
+			"name": "Off",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Safehouse"
+		},
+		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
@@ -52,14 +65,14 @@
 			"tooltip": "A modern take on the original art direction of the 2015 HITMAN Closed Alpha.",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["alpha/paris"]
+			"contentFolders": ["alpha/paris", "_shared/paris"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["classic/paris"]
+			"contentFolders": ["classic/paris", "_shared/paris"]
 		},
 		{
 			"name": "GOTY Pack",

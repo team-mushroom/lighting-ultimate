@@ -1,6 +1,6 @@
 {
-	"tempHash": "000EDA83617783CF",
-	"tbluHash": "00E666719C0EBD29",
+	"tempHash": "005867F42AD9288F",
+	"tbluHash": "00EF358A49EE394E",
 	"patch": [
 		{
 			"AddExternalScene": "[assembly:/_pro/scenes/missions/mumbai/lighting_overrides_mongoose.brick].pc_entitytype"

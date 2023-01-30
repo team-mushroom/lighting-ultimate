@@ -1,0 +1,10 @@
+{
+	"tempHash": "00A012003324DCDF",
+	"tbluHash": "00853BBC8543D499",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/lighting_overrides_raccoon.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,0 +1,10 @@
+{
+	"tempHash": "00D745FBE780A3E5",
+	"tbluHash": "00E3735E2257DA05",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/lighting_overrides_fox.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

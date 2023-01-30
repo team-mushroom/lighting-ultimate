@@ -1,0 +1,10 @@
+{
+	"tempHash": "00E4691BD97E440C",
+	"tbluHash": "0004E49101268772",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/wet/lighting_overrides_rat.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,0 +1,10 @@
+{
+	"tempHash": "0033074CBF17B2F7",
+	"tbluHash": "00640E246D68DC56",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/lighting_overrides_stingray.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

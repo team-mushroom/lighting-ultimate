@@ -1,0 +1,10 @@
+{
+    "tempHash": "00ACF2242E22C7CA",
+    "tbluHash": "0000144506A2EBE7",
+    "patch": [
+        {
+            "AddExternalScene": "[assembly:/_pro/scenes/missions/skunk/lighting_overrides_skunk.brick].pc_entitytype"
+        }
+    ],
+    "patchVersion": 6
+}
