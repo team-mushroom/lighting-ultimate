@@ -549,14 +549,14 @@
 			"tooltip": "A more intense and cinematic setting, taking inspiration from classic and modern movies, including emulation of 35mm film stock.",
 			"type": "select",
 			"group": "Berlin",
-			"contentFolders": ["hollywood/edgy"]
+			"contentFolders": ["hollywood/edgy", "_shared/edgy"]
 		},		
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Berlin",
-			"contentFolders": ["vanilla+ s3/edgy"]
+			"contentFolders": ["vanilla+ s3/edgy", "_shared/edgy"]
 		},
 		{
 			"name": "Off",
@@ -569,14 +569,14 @@
 			"tooltip": "A more intense and cinematic setting, taking inspiration from classic and modern movies, including emulation of 35mm film stock.",
 			"type": "select",
 			"group": "Chongqing",
-			"contentFolders": ["hollywood/wet"]
+			"contentFolders": ["hollywood/wet", "_shared/wet"]
 		},		
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Chongqing",
-			"contentFolders": ["vanilla+ s3/wet"]
+			"contentFolders": ["vanilla+ s3/wet", "_shared/wet"]
 		},
 		{
 			"name": "Off",
