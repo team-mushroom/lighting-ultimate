@@ -1,1 +1,81 @@
-{"tempHash":"00BC7FE3A3978A3E","tbluHash":"00A8935D3B27EBF7","patch":[{"SubEntityOperation":["23c462dd5b442be2",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["23c462dd5b442be2",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.15}}]},{"SubEntityOperation":["23c462dd5b442be2",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["1da7c4f7375506d",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["1da7c4f7375506d",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.15}}]},{"SubEntityOperation":["1da7c4f7375506d",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["7b16737ef646d48e",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["7b16737ef646d48e",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.15}}]},{"SubEntityOperation":["7b16737ef646d48e",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]}],"patchVersion":6}
+{
+	"tempHash": "00BC7FE3A3978A3E",
+	"tbluHash": "00A8935D3B27EBF7",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"23c462dd5b442be2",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"23c462dd5b442be2",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.15 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"23c462dd5b442be2",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1da7c4f7375506d",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1da7c4f7375506d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.15 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1da7c4f7375506d",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"7b16737ef646d48e",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"7b16737ef646d48e",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.15 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"7b16737ef646d48e",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+        {
+			"AddEntity": [
+				"7cf77d186e9107d0",
+				{
+					"parent": "156476ea676a0718",
+					"name": "BoxReflectionCache",
+					"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+					"properties": {
+						"m_pBoxReflectionCache": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.boxc].pc_boxc",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
