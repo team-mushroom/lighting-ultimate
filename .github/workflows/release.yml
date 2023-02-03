@@ -42,7 +42,13 @@ jobs:
               id: firstCommit
               run: echo "FIRST_COMMIT=$(git rev-list --date-order main | tail -1)" >> $GITHUB_OUTPUT
 
+            - uses: mukunku/tag-exists-action@v1.2.0
+              id: checkTag
+              with:
+                tag: "0.1.0"
+
             - name: Create tag
+              if: ${{ steps.checkTag.outputs.exists == 'false' }}
               uses: tvdias/github-tagger@v0.0.2
               with:
                   repo-token: ${{ secrets.GITHUB_TOKEN }}
