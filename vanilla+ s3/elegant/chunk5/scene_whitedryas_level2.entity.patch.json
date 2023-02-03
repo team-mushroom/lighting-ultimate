@@ -1,1 +1,8 @@
-{"tempHash":"00A6D05767A4ACDB","tbluHash":"001708D1D98A8146","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00A6D05767A4ACDB",
+	"tbluHash": "001708D1D98A8146",
+	"patch": [
+		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/elegant/lighting_overrides_llama.brick].pc_entitytype" }
+	],
+	"patchVersion": 6
+}

@@ -6,10 +6,7 @@
 			"SubEntityOperation": [
 				"61e9a7bdcbaa32a9",
 				{
-					"AddProperty": [
-						"m_eRoomBehaviour",
-						{ "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }
-					]
+					"AddProperty": ["m_eRoomBehaviour", { "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }]
 				}
 			]
 		},
@@ -17,10 +14,7 @@
 			"SubEntityOperation": [
 				"e4d7e41ef9dfecc1",
 				{
-					"AddProperty": [
-						"m_eRoomBehaviour",
-						{ "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }
-					]
+					"AddProperty": ["m_eRoomBehaviour", { "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }]
 				}
 			]
 		},
@@ -28,10 +22,7 @@
 			"SubEntityOperation": [
 				"62553c2077e235a7",
 				{
-					"AddProperty": [
-						"m_eRoomBehaviour",
-						{ "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }
-					]
+					"AddProperty": ["m_eRoomBehaviour", { "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" }]
 				}
 			]
 		}

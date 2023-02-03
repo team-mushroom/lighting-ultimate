@@ -1,1 +1,822 @@
-{"tempHash":"00AA49AA0B182E73","tbluHash":"003D90A4A10F10A0","patch":[{"RemoveEntityByID":"e1b55351f1545223"},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_eHDRGlareType"}]},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_HDRColorTint"}]},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_vHDRAdaptationLuminanceMinMax"}]},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["744d32cb1d886154",{"RemovePropertyByName":"m_fVignetteMin"}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdA","value":0.4699999988079071}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.30000001192092896}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdB","value":0.4300000071525574}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.20000000298023224}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#0d0d0d"}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["744d32cb1d886154",{"SetPropertyValue":{"property_name":"m_fHDRBrightPassMaxPercentage","value":20}}]},{"SubEntityOperation":["96e26137a20c330d",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["96e26137a20c330d",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["96e26137a20c330d",{"RemovePropertyByName":"m_HDRColorTint"}]},{"SubEntityOperation":["96e26137a20c330d",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_eHDRGlareType","value":"eFilterSunnyCross"}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.30000001192092896}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.20000000298023224}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#0d0d0d"}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["96e26137a20c330d",{"SetPropertyValue":{"property_name":"m_fHDRBrightPassMaxPercentage","value":20}}]},{"SubEntityOperation":["ddac641c54afe185",{"RemovePropertyByName":"m_MieColor"}]},{"SubEntityOperation":["ddac641c54afe185",{"SetPropertyValue":{"property_name":"m_fSunIntensityScale","value":1000}}]},{"SubEntityOperation":["ddac641c54afe185",{"SetPropertyValue":{"property_name":"m_fWorldScale","value":12}}]},{"SubEntityOperation":["ddac641c54afe185",{"SetPropertyValue":{"property_name":"m_RayleighColor","value":"#a2cdfc"}}]},{"SubEntityOperation":["ddac641c54afe185",{"RemovePlatformSpecificPropertiesForPlatform":"VR_PS4"}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_eHDRGlareType","value":"eFilterSunnyCross"}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["e8c8deea4cfe1d9a",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["53922f63e425b2f",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["53922f63e425b2f",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["53922f63e425b2f",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_eHDRGlareType","value":"eFilterSunnyCross"}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["53922f63e425b2f",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["5e285d21184576b",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["5e285d21184576b",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["5e285d21184576b",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_eHDRGlareType","value":"eFilterSunnyCross"}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.30000001192092896}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["5e285d21184576b",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["2ec2999db858d200",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["2ec2999db858d200",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["2ec2999db858d200",{"RemovePropertyByName":"m_HDRColorTint"}]},{"SubEntityOperation":["2ec2999db858d200",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_eHDRGlareType","value":"eFilterSunnyCross"}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.30000001192092896}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["2ec2999db858d200",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"RemovePropertyOverride":{"entities":[{"ref":"ddd55188deb67384","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"29bb6fd0ed43d46","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":5},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":5},"m_fMiddleGrayMultiplier":{"type":"float32","value":0.5},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"}}}},{"RemovePropertyOverride":{"entities":[{"ref":"a42f2866421edd1b","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"76e1d47cf1174dc","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"dd72bcda1b81bed4","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"6b1586e13971b28c","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"204f2e8193d8ef5b","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"GlowPower":{"type":"float32","value":300}}}},{"AddPropertyOverride":{"entities":[{"ref":"ddd55188deb67384","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"25b06edc7ff9b77c","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"29bb6fd0ed43d46","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"dc9dc12f840ddf01","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"},{"ref":"158426225ad4ec5c","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":50},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":10},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"}}}},{"AddPropertyOverride":{"entities":[{"ref":"dd0a896b2028ebe5","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_vGlobalLightOverrideDirection":{"type":"SVector3","value":{"x":0.5,"y":-0.5,"z":2}},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#ffd9cc"},"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":10},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":20}}}},{"AddPropertyOverride":{"entities":[{"ref":"9e7ff32767dc846e","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":20},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"},"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":30}}}},{"AddPropertyOverride":{"entities":[{"ref":"ac4a8e214a71dd08","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":20},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":10},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#ffccfb"},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"}}}},{"AddPropertyOverride":{"entities":[{"ref":"1e3d0be489846c60","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":1},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":1},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#ff6a57"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#ff7d7d"}}}},{"AddPropertyOverride":{"entities":[{"ref":"dc2c4dac9db6e725","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":0.5},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":0.5},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#b1dffa"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#ccfff1"}}}},{"AddPropertyOverride":{"entities":[{"ref":"d1fdefee43f92296","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":20},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":10},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"}}}},{"AddPropertyOverride":{"entities":[{"ref":"99f7d088ea8a6765","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":10},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":10},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"}}}},{"AddPropertyOverride":{"entities":[{"ref":"4df975b10a48c20c","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":10},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":20},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"}}}},{"AddPropertyOverride":{"entities":[{"ref":"20adbdaeee3cf5ba","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":5},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":20},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fae2b1"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#cceeff"}}}}],"patchVersion":6}
+{
+	"tempHash": "00AA49AA0B182E73",
+	"tbluHash": "003D90A4A10F10A0",
+	"patch": [
+		{ "RemoveEntityByID": "e1b55351f1545223" },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_HDRColorTint" }] },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_vHDRAdaptationLuminanceMinMax" }] },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{ "SubEntityOperation": ["744d32cb1d886154", { "RemovePropertyByName": "m_fVignetteMin" }] },
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdA", "value": 0.4699999988079071 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.30000001192092896 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdB", "value": 0.4300000071525574 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"744d32cb1d886154",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassMaxPercentage", "value": 20 } }
+			]
+		},
+		{ "SubEntityOperation": ["96e26137a20c330d", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["96e26137a20c330d", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["96e26137a20c330d", { "RemovePropertyByName": "m_HDRColorTint" }] },
+		{ "SubEntityOperation": ["96e26137a20c330d", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.30000001192092896 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"96e26137a20c330d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassMaxPercentage", "value": 20 } }
+			]
+		},
+		{ "SubEntityOperation": ["ddac641c54afe185", { "RemovePropertyByName": "m_MieColor" }] },
+		{
+			"SubEntityOperation": [
+				"ddac641c54afe185",
+				{ "SetPropertyValue": { "property_name": "m_fSunIntensityScale", "value": 1000 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ddac641c54afe185",
+				{ "SetPropertyValue": { "property_name": "m_fWorldScale", "value": 12 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ddac641c54afe185",
+				{ "SetPropertyValue": { "property_name": "m_RayleighColor", "value": "#a2cdfc" } }
+			]
+		},
+		{ "SubEntityOperation": ["ddac641c54afe185", { "RemovePlatformSpecificPropertiesForPlatform": "VR_PS4" }] },
+		{ "SubEntityOperation": ["e8c8deea4cfe1d9a", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["e8c8deea4cfe1d9a", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["e8c8deea4cfe1d9a", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e8c8deea4cfe1d9a",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{ "SubEntityOperation": ["53922f63e425b2f", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["53922f63e425b2f", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["53922f63e425b2f", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"53922f63e425b2f",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{ "SubEntityOperation": ["5e285d21184576b", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["5e285d21184576b", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["5e285d21184576b", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.30000001192092896 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"5e285d21184576b",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{ "SubEntityOperation": ["2ec2999db858d200", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["2ec2999db858d200", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["2ec2999db858d200", { "RemovePropertyByName": "m_HDRColorTint" }] },
+		{ "SubEntityOperation": ["2ec2999db858d200", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.30000001192092896 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2ec2999db858d200",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{
+			"RemovePropertyOverride": {
+				"entities": [
+					{
+						"ref": "ddd55188deb67384",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "29bb6fd0ed43d46",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 5 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 5 },
+					"m_fMiddleGrayMultiplier": { "type": "float32", "value": 0.5 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
+				}
+			}
+		},
+		{
+			"RemovePropertyOverride": {
+				"entities": [
+					{
+						"ref": "a42f2866421edd1b",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "76e1d47cf1174dc",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "dd72bcda1b81bed4",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "6b1586e13971b28c",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "204f2e8193d8ef5b",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": { "GlowPower": { "type": "float32", "value": 300 } }
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "ddd55188deb67384",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "25b06edc7ff9b77c",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "29bb6fd0ed43d46",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "dc9dc12f840ddf01",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					},
+					{
+						"ref": "158426225ad4ec5c",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 50 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "dd0a896b2028ebe5",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_vGlobalLightOverrideDirection": { "type": "SVector3", "value": { "x": 0.5, "y": -0.5, "z": 2 } },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ffd9cc" },
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 10 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "9e7ff32767dc846e",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" },
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 30 }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "ac4a8e214a71dd08",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 20 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ffccfb" },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "1e3d0be489846c60",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 1 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 1 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#ff6a57" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ff7d7d" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "dc2c4dac9db6e725",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 0.5 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 0.5 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#b1dffa" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ccfff1" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "d1fdefee43f92296",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 20 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "99f7d088ea8a6765",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 10 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "4df975b10a48c20c",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 10 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "20adbdaeee3cf5ba",
+						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 5 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

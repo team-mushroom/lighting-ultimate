@@ -1,1 +1,10 @@
-{"tempHash":"00BA9996118369A4","tbluHash":"0087F218DDFE8A5C","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/greedy/mission_raccoon/lighting_overrides_raccoon.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00BA9996118369A4",
+	"tbluHash": "0087F218DDFE8A5C",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/lighting_overrides_raccoon.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

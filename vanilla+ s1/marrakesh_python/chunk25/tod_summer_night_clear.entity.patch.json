@@ -1,1 +1,151 @@
-{"tempHash":"001769B67BF98D12","tbluHash":"00AFFDC5A64E1218","patch":[{"SubEntityOperation":["73982d0b20a21f52",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["73982d0b20a21f52",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["73982d0b20a21f52",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["73982d0b20a21f52",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["689ce185a0c629ec",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["689ce185a0c629ec",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["689ce185a0c629ec",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["689ce185a0c629ec",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["de8bdd67609f9912",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["de8bdd67609f9912",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["de8bdd67609f9912",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["de8bdd67609f9912",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["130c35fe52f8e8e3",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["130c35fe52f8e8e3",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["130c35fe52f8e8e3",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["130c35fe52f8e8e3",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["ec9d8f94f6617e49",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["ec9d8f94f6617e49",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["ec9d8f94f6617e49",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["ec9d8f94f6617e49",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["3599a93e526854f3",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["3599a93e526854f3",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["3599a93e526854f3",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["3599a93e526854f3",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]}],"patchVersion":6}
+{
+	"tempHash": "001769B67BF98D12",
+	"tbluHash": "00AFFDC5A64E1218",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"73982d0b20a21f52",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"73982d0b20a21f52",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"73982d0b20a21f52",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"73982d0b20a21f52",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"689ce185a0c629ec",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"689ce185a0c629ec",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"689ce185a0c629ec",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"689ce185a0c629ec",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"de8bdd67609f9912",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"de8bdd67609f9912",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"de8bdd67609f9912",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"de8bdd67609f9912",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"130c35fe52f8e8e3",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"130c35fe52f8e8e3",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"130c35fe52f8e8e3",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"130c35fe52f8e8e3",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ec9d8f94f6617e49",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ec9d8f94f6617e49",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ec9d8f94f6617e49",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ec9d8f94f6617e49",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"3599a93e526854f3",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"3599a93e526854f3",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"3599a93e526854f3",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"3599a93e526854f3",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		}
+	],
+	"patchVersion": 6
+}

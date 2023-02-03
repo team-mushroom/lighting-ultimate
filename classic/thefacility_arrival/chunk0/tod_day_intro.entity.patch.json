@@ -1,1 +1,217 @@
-{"tempHash":"0090F15A1A9C276C","tbluHash":"00B6FA8BA14ABDFC","patch":[{"RemoveEntityByID":"db039c6e42d49791"},{"SubEntityOperation":["aa8cb6a592f1ed22",{"RemovePropertyByName":"m_eHDRGlareType"}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"RemovePropertyByName":"m_HDRColorTint"}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.699999988079071}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.20000000298023224}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#0d0d0d"}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"BillboardTexture","value":{"resource":"002839724421C298","flag":"00"}}}]},{"SubEntityOperation":["aa8cb6a592f1ed22",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationLuminanceMinMax","value":{"x":0.10000000149011612,"y":1000}}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"RemovePropertyByName":"m_eHDRGlareType"}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"RemovePropertyByName":"m_HDRColorTint"}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_bHDRGlareEnabled","value":false}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.20000000298023224}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#0d0d0d"}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":4,"y":8}}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["dfc6ee28eb551d62",{"SetPropertyValue":{"property_name":"BillboardTexture","value":{"resource":"009DAC08CED4BB65","flag":"00"}}}]}],"patchVersion":6}
+{
+	"tempHash": "0090F15A1A9C276C",
+	"tbluHash": "00B6FA8BA14ABDFC",
+	"patch": [
+		{ "RemoveEntityByID": "db039c6e42d49791" },
+		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_HDRColorTint" }] },
+		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.699999988079071 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{
+					"SetPropertyValue": {
+						"property_name": "BillboardTexture",
+						"value": { "resource": "002839724421C298", "flag": "00" }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"aa8cb6a592f1ed22",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_vHDRAdaptationLuminanceMinMax",
+						"value": { "x": 0.10000000149011612, "y": 1000 }
+					}
+				}
+			]
+		},
+		{ "SubEntityOperation": ["dfc6ee28eb551d62", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["dfc6ee28eb551d62", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["dfc6ee28eb551d62", { "RemovePropertyByName": "m_HDRColorTint" }] },
+		{ "SubEntityOperation": ["dfc6ee28eb551d62", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_bHDRGlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"dfc6ee28eb551d62",
+				{
+					"SetPropertyValue": {
+						"property_name": "BillboardTexture",
+						"value": { "resource": "009DAC08CED4BB65", "flag": "00" }
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,1 +1,50 @@
-{"tempHash":"00227C1658A0BF80","tbluHash":"006F2B224F828C5B","rootEntity":"fffffffffffffffe","entities":{"fffffffffffffffe":{"parent":null,"name":"Scene","factory":"[modules:/zspatialentity.class].pc_entitytype","blueprint":"[modules:/zspatialentity.class].pc_entityblueprint"}},"propertyOverrides":[{"entities":[{"ref":"7c09ec4cbb5e006e","externalScene":"[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"},{"ref":"b3f6bc8f76b470be","externalScene":"[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"},{"ref":"3a651073f21f1d17","externalScene":"[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"},{"ref":"d3a1d48b3ebd6994","externalScene":"[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"}],"properties":{"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_bNoiseEnabled":{"type":"bool","value":false},"m_bVignetteEnabled":{"type":"bool","value":false},"m_fHDRBloomScale":{"type":"float32","value":0.1}}}],"overrideDeletes":[],"pinConnectionOverrides":[],"pinConnectionOverrideDeletes":[],"externalScenes":["[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"],"subType":"brick","quickEntityVersion":3.1,"extraFactoryDependencies":[],"extraBlueprintDependencies":[],"comments":[]}
+{
+	"tempHash": "00227C1658A0BF80",
+	"tbluHash": "006F2B224F828C5B",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "7c09ec4cbb5e006e",
+					"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "b3f6bc8f76b470be",
+					"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "3a651073f21f1d17",
+					"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "d3a1d48b3ebd6994",
+					"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_bNoiseEnabled": { "type": "bool", "value": false },
+				"m_bVignetteEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomScale": { "type": "float32", "value": 0.1 }
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

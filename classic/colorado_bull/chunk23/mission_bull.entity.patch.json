@@ -1,1 +1,6 @@
-{"tempHash":"0008BECCC6D182B2","tbluHash":"0068094EB59D54F2","patch":[{"RemoveExternalScene":"007320FB8D53170A"}],"patchVersion":6}
+{
+	"tempHash": "0008BECCC6D182B2",
+	"tbluHash": "0068094EB59D54F2",
+	"patch": [{ "RemoveExternalScene": "007320FB8D53170A" }],
+	"patchVersion": 6
+}

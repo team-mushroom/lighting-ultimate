@@ -1,1 +1,401 @@
-{"tempHash":"00CD308847615F61","tbluHash":"002D61B40D514129","patch":[{"SubEntityOperation":["4c2205c586d7c95b",{"SetPropertyValue":{"property_name":"m_Remap","value":{"data":[[-5.5689520835876465,0.007641185075044632,0,0,0,0,0.00602375715970993,0.007641185075044632],[-2.9935874938964844,0.013664942234754562,0,0,0,0,0.002074485644698143,0.013664942234754562],[-1.9920704364776611,0.015739427879452705,0,0,0,0,0.006806027144193649,0.015739427879452705],[-0.7365027666091919,0.022545455023646355,0,0,0,0,0.02182813733816147,0.022545455023646355],[0.02846931666135788,0.04437359422445297,0,0,0,0,0.23830319941043854,0.04437359422445297],[1.0065537691116333,0.2826767861843109,0,0,0,0,0.15836577117443085,0.2826767861843109],[2.1726832389831543,0.44104254245758057,0,0,0,0,0.05244901031255722,0.44104254245758057],[3.4492881298065186,0.4934915602207184,0,0,0,0,0,0.4934915602207184]]}}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"RemovePropertyByName":"m_eHDRGlareType"}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRBrightPassThreshold","value":1}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_bDepthOfFieldEnabled","value":true}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":2}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#0d0d0d"}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.20000000298023224}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRBrightPassMaxPercentage","value":10}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_HDRColorTint","value":"#ffffff"}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":10,"y":10}}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationLuminanceMinMax","value":{"x":0.05000000074505806,"y":1000}}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["c2d23cf2759dd1fd",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["2f8ea54af286365",{"RemovePropertyByName":"m_eHDRGlareType"}]},{"SubEntityOperation":["2f8ea54af286365",{"RemovePropertyByName":"m_fHDRExposureMeteringSize"}]},{"SubEntityOperation":["2f8ea54af286365",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["2f8ea54af286365",{"RemovePropertyByName":"m_fVignetteMin"}]},{"SubEntityOperation":["2f8ea54af286365",{"RemovePropertyByName":"m_fVignetteMax"}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_bDepthOfFieldEnabled","value":true}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":1}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#0d0d0d"}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.20000000298023224}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fHDRBrightPassMaxPercentage","value":10}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_HDRColorTint","value":"#ffffff"}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":10,"y":10}}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdC","value":0.23999999463558197}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["2f8ea54af286365",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["59054ad16583f56a",{"SetPropertyValue":{"property_name":"m_diffuseColor","value":"#ffe6f7"}}]},{"SubEntityOperation":["59054ad16583f56a",{"SetPropertyValue":{"property_name":"m_fDiffusePower","value":50}}]},{"SubEntityOperation":["59054ad16583f56a",{"AddProperty":["m_bEnableLightSimplification",{"type":"bool","value":false}]}]},{"SubEntityOperation":["59054ad16583f56a",{"AddProperty":["m_fLightSimplificationDistance",{"type":"float32","value":0}]}]},{"SubEntityOperation":["59054ad16583f56a",{"AddProperty":["m_fLightSimplificationLength",{"type":"float32","value":10}]}]},{"SubEntityOperation":["e539e8b481c559db",{"SetPropertyValue":{"property_name":"m_fHeightAboveSeaLevel","value":200}}]},{"SubEntityOperation":["e539e8b481c559db",{"SetPropertyValue":{"property_name":"m_fWorldScale","value":30}}]},{"SubEntityOperation":["e539e8b481c559db",{"RemovePlatformSpecificPropertiesForPlatform":"VR_PS4"}]},{"RemovePropertyOverride":{"entities":[{"ref":"ba2995a5e1b8c035","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"DiffusePower":{"type":"float32","value":90},"GlowPower":{"type":"float32","value":20}}}},{"RemovePropertyOverride":{"entities":[{"ref":"dbdec10bc3601b28","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"m_fDiffusePower":{"type":"float32","value":500}}}},{"RemovePropertyOverride":{"entities":[{"ref":"b826924694c353a8","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":1},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":1},"m_fMiddleGrayMultiplier":{"type":"float32","value":1},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#e8f4ff"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#e8f4ff"}}}},{"AddPropertyOverride":{"entities":[{"ref":"b826924694c353a8","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"m_fMiddleGrayMultiplier":{"type":"float32","value":1.100000023841858},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":1},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#e8f4ff"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#e8f4ff"},"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":1}}}}],"patchVersion":6}
+{
+	"tempHash": "00CD308847615F61",
+	"tbluHash": "002D61B40D514129",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"4c2205c586d7c95b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_Remap",
+						"value": {
+							"data": [
+								[
+									-5.5689520835876465, 0.007641185075044632, 0, 0, 0, 0, 0.00602375715970993,
+									0.007641185075044632
+								],
+								[
+									-2.9935874938964844, 0.013664942234754562, 0, 0, 0, 0, 0.002074485644698143,
+									0.013664942234754562
+								],
+								[
+									-1.9920704364776611, 0.015739427879452705, 0, 0, 0, 0, 0.006806027144193649,
+									0.015739427879452705
+								],
+								[
+									-0.7365027666091919, 0.022545455023646355, 0, 0, 0, 0, 0.02182813733816147,
+									0.022545455023646355
+								],
+								[
+									0.02846931666135788, 0.04437359422445297, 0, 0, 0, 0, 0.23830319941043854,
+									0.04437359422445297
+								],
+								[
+									1.0065537691116333, 0.2826767861843109, 0, 0, 0, 0, 0.15836577117443085,
+									0.2826767861843109
+								],
+								[
+									2.1726832389831543, 0.44104254245758057, 0, 0, 0, 0, 0.05244901031255722,
+									0.44104254245758057
+								],
+								[3.4492881298065186, 0.4934915602207184, 0, 0, 0, 0, 0, 0.4934915602207184]
+							]
+						}
+					}
+				}
+			]
+		},
+		{ "SubEntityOperation": ["c2d23cf2759dd1fd", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["c2d23cf2759dd1fd", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["c2d23cf2759dd1fd", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_bDepthOfFieldEnabled", "value": true } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassMaxPercentage", "value": 10 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_HDRColorTint", "value": "#ffffff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 10, "y": 10 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_vHDRAdaptationLuminanceMinMax",
+						"value": { "x": 0.05000000074505806, "y": 1000 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c2d23cf2759dd1fd",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fVignetteMin" }] },
+		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_bDepthOfFieldEnabled", "value": true } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassMaxPercentage", "value": 10 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_HDRColorTint", "value": "#ffffff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 10, "y": 10 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2f8ea54af286365",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"59054ad16583f56a",
+				{ "SetPropertyValue": { "property_name": "m_diffuseColor", "value": "#ffe6f7" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"59054ad16583f56a",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 50 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"59054ad16583f56a",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"59054ad16583f56a",
+				{ "AddProperty": ["m_fLightSimplificationDistance", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"59054ad16583f56a",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 10 }] }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e539e8b481c559db",
+				{ "SetPropertyValue": { "property_name": "m_fHeightAboveSeaLevel", "value": 200 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e539e8b481c559db",
+				{ "SetPropertyValue": { "property_name": "m_fWorldScale", "value": 30 } }
+			]
+		},
+		{ "SubEntityOperation": ["e539e8b481c559db", { "RemovePlatformSpecificPropertiesForPlatform": "VR_PS4" }] },
+		{
+			"RemovePropertyOverride": {
+				"entities": [
+					{
+						"ref": "ba2995a5e1b8c035",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"DiffusePower": { "type": "float32", "value": 90 },
+					"GlowPower": { "type": "float32", "value": 20 }
+				}
+			}
+		},
+		{
+			"RemovePropertyOverride": {
+				"entities": [
+					{
+						"ref": "dbdec10bc3601b28",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				],
+				"properties": { "m_fDiffusePower": { "type": "float32", "value": 500 } }
+			}
+		},
+		{
+			"RemovePropertyOverride": {
+				"entities": [
+					{
+						"ref": "b826924694c353a8",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 1 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 1 },
+					"m_fMiddleGrayMultiplier": { "type": "float32", "value": 1 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#e8f4ff" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#e8f4ff" }
+				}
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "b826924694c353a8",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_fMiddleGrayMultiplier": { "type": "float32", "value": 1.100000023841858 },
+					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 1 },
+					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#e8f4ff" },
+					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#e8f4ff" },
+					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 1 }
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

@@ -5,7 +5,7 @@
 	"authors": ["musicalmushr00m"],
 	"frameworkVersion": "2.0.0",
 	"version": "2.3.0",
-	"updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
+	"updateCheck": "https://github.com/team-mushroom/lighting-ultimate/releases/latest/download/updates.json",
 	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
 	"options": [
 		{

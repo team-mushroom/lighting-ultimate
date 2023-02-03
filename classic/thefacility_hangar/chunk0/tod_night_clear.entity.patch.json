@@ -1,1 +1,78 @@
-{"tempHash":"00D5B0933AD77167","tbluHash":"0028FB586ECCD26A","patch":[{"SubEntityOperation":["172cd1b7a0a04b7d",{"RemovePropertyByName":"m_HDRLensFlareColorA"}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"RemovePropertyByName":"m_HDRLensFlareColorB"}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"RemovePropertyByName":"m_HDRLensFlareColorC"}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"RemovePropertyByName":"m_HDRLensFlareColorD"}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"RemovePropertyByName":"m_fHDRLensFlareThresholdD"}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"RemovePropertyByName":"m_fHDRLensFlareThresholdC"}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_fHDRBloomFalloff","value":2}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_eHDRGlareType","value":"eCinecamVerticalSlits"}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":1}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.800000011920929}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":1}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_fHDRStarScale","value":0.5}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"m_fHDRBrightPassThreshold","value":1}}]},{"SubEntityOperation":["172cd1b7a0a04b7d",{"SetPropertyValue":{"property_name":"BillboardTexture","value":{"resource":"009F0159672A3644","flag":"00"}}}]},{"SubEntityOperation":["6a8449026080141e",{"SetPropertyValue":{"property_name":"ConstantColorRGB_02_Value","value":"#2a414c"}}]}],"patchVersion":6}
+{
+	"tempHash": "00D5B0933AD77167",
+	"tbluHash": "0028FB586ECCD26A",
+	"patch": [
+		{ "SubEntityOperation": ["172cd1b7a0a04b7d", { "RemovePropertyByName": "m_HDRLensFlareColorA" }] },
+		{ "SubEntityOperation": ["172cd1b7a0a04b7d", { "RemovePropertyByName": "m_HDRLensFlareColorB" }] },
+		{ "SubEntityOperation": ["172cd1b7a0a04b7d", { "RemovePropertyByName": "m_HDRLensFlareColorC" }] },
+		{ "SubEntityOperation": ["172cd1b7a0a04b7d", { "RemovePropertyByName": "m_HDRLensFlareColorD" }] },
+		{ "SubEntityOperation": ["172cd1b7a0a04b7d", { "RemovePropertyByName": "m_fHDRLensFlareThresholdD" }] },
+		{ "SubEntityOperation": ["172cd1b7a0a04b7d", { "RemovePropertyByName": "m_fHDRLensFlareThresholdC" }] },
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eCinecamVerticalSlits" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.800000011920929 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRStarScale", "value": 0.5 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"172cd1b7a0a04b7d",
+				{
+					"SetPropertyValue": {
+						"property_name": "BillboardTexture",
+						"value": { "resource": "009F0159672A3644", "flag": "00" }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"6a8449026080141e",
+				{ "SetPropertyValue": { "property_name": "ConstantColorRGB_02_Value", "value": "#2a414c" } }
+			]
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,1 +1,8 @@
-{"tempHash":"00B7B5592597273D","tbluHash":"009C17436E55A2CA","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00B7B5592597273D",
+	"tbluHash": "009C17436E55A2CA",
+	"patch": [
+		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entitytype" }
+	],
+	"patchVersion": 6
+}

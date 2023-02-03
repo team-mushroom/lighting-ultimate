@@ -1,1 +1,31 @@
-{"tempHash":"0047AC0CABCB3978","tbluHash":"0076CA6C3435EED7","patch":[{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.3}}]}],"patchVersion":6}
+{
+	"tempHash": "0047AC0CABCB3978",
+	"tbluHash": "0076CA6C3435EED7",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.3 } }
+			]
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,1 +1,8 @@
-{"tempHash":"00BA2C9E003DCF92","tbluHash":"00A6B8872B49F645","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/ancestral/lighting_overrides_bulldog.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00BA2C9E003DCF92",
+	"tbluHash": "00A6B8872B49F645",
+	"patch": [
+		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/ancestral/lighting_overrides_bulldog.brick].pc_entitytype" }
+	],
+	"patchVersion": 6
+}

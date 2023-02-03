@@ -1,1 +1,180 @@
-{"tempHash":"0047AC0CABCB3978","tbluHash":"0076CA6C3435EED7","patch":[{"SubEntityOperation":["f4ca57c6ab407fbc",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["f4ca57c6ab407fbc",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["217274c3f836e46b",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["217274c3f836e46b",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["14b94a68e0ef9d7c",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["14b94a68e0ef9d7c",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["bf6d20649b537a3b",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["bf6d20649b537a3b",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["1db42102b6fd3e0",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["1db42102b6fd3e0",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["f5cdeb57f58fe22e",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["f5cdeb57f58fe22e",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["86b345cb01766263",{"RemovePropertyByName":"m_eHDRGlareType"}]},{"SubEntityOperation":["86b345cb01766263",{"RemovePropertyByName":"m_fHDRStarScale"}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_bNoiseEnabled","value":false}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.5}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fNoiseIntensity","value":0.10000000149011612}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fNoiseScale","value":0.75}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_VignetteColor","value":"#000000"}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fVignetteStrength","value":0.5}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareAttenuation","value":0.5699999928474426}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_HDRColorTint","value":"#ffffff"}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationSpeed","value":{"x":10,"y":10}}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_vHDRAdaptationLuminanceMinMax","value":{"x":7,"y":15}}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorA","value":"#808cf0"}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorB","value":"#806633"}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorC","value":"#9361ff"}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_HDRLensFlareColorD","value":"#66664d"}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fHDRLensFlareThresholdD","value":0.10000000149011612}}]},{"SubEntityOperation":["86b345cb01766263",{"SetPropertyValue":{"property_name":"m_fHDRExposureMeteringSize","value":0.20000000298023224}}]},{"SubEntityOperation":["d0ee131d45db8c4",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["d0ee131d45db8c4",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["c0b7e11b7aa90635",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["c0b7e11b7aa90635",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["137a8f795544ea99",{"SetPropertyValue":{"property_name":"m_diffuseColor","value":"#fff5ed"}}]},{"SubEntityOperation":["137a8f795544ea99",{"AddProperty":["m_bEnableLightSimplification",{"type":"bool","value":false}]}]},{"SubEntityOperation":["137a8f795544ea99",{"AddProperty":["m_fLightSimplificationDistance",{"type":"float32","value":0}]}]},{"SubEntityOperation":["137a8f795544ea99",{"AddProperty":["m_fLightSimplificationLength",{"type":"float32","value":10}]}]},{"SubEntityOperation":["128c91e54c12c299",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["128c91e54c12c299",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"SubEntityOperation":["7e49244dc3743919",{"RemovePropertyByName":"m_vAngularAttenuation"}]},{"SubEntityOperation":["7e49244dc3743919",{"RemoveAllSubsetsFor":"AudioEmitters"}]},{"RemovePropertyOverride":{"entities":[{"ref":"5c1d8c296adfc09","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"m_fWaterReflectionAndRefractionCullDistance":{"type":"float32","value":500}}}},{"AddPropertyOverride":{"entities":[{"ref":"5c1d8c296adfc09","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"m_fWaterReflectionAndRefractionCullDistance":{"type":"float32","value":500},"m_fProjectedAreaCullingShadows":{"type":"float32","value":0.009999999776482582}}}}],"patchVersion":6}
+{
+	"tempHash": "0047AC0CABCB3978",
+	"tbluHash": "0076CA6C3435EED7",
+	"patch": [
+		{ "SubEntityOperation": ["f4ca57c6ab407fbc", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["f4ca57c6ab407fbc", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["217274c3f836e46b", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["217274c3f836e46b", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["14b94a68e0ef9d7c", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["14b94a68e0ef9d7c", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["bf6d20649b537a3b", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["bf6d20649b537a3b", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["1db42102b6fd3e0", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["1db42102b6fd3e0", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["f5cdeb57f58fe22e", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["f5cdeb57f58fe22e", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["86b345cb01766263", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["86b345cb01766263", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_bNoiseEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.5 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#000000" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.5 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_HDRColorTint", "value": "#ffffff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 10, "y": 10 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationLuminanceMinMax", "value": { "x": 7, "y": 15 } } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"86b345cb01766263",
+				{ "SetPropertyValue": { "property_name": "m_fHDRExposureMeteringSize", "value": 0.20000000298023224 } }
+			]
+		},
+		{ "SubEntityOperation": ["d0ee131d45db8c4", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["d0ee131d45db8c4", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["c0b7e11b7aa90635", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["c0b7e11b7aa90635", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{
+			"SubEntityOperation": [
+				"137a8f795544ea99",
+				{ "SetPropertyValue": { "property_name": "m_diffuseColor", "value": "#fff5ed" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"137a8f795544ea99",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"137a8f795544ea99",
+				{ "AddProperty": ["m_fLightSimplificationDistance", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"137a8f795544ea99",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 10 }] }
+			]
+		},
+		{ "SubEntityOperation": ["128c91e54c12c299", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["128c91e54c12c299", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{ "SubEntityOperation": ["7e49244dc3743919", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
+		{ "SubEntityOperation": ["7e49244dc3743919", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
+		{
+			"RemovePropertyOverride": {
+				"entities": [
+					{
+						"ref": "5c1d8c296adfc09",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				],
+				"properties": { "m_fWaterReflectionAndRefractionCullDistance": { "type": "float32", "value": 500 } }
+			}
+		},
+		{
+			"AddPropertyOverride": {
+				"entities": [
+					{
+						"ref": "5c1d8c296adfc09",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				],
+				"properties": {
+					"m_fWaterReflectionAndRefractionCullDistance": { "type": "float32", "value": 500 },
+					"m_fProjectedAreaCullingShadows": { "type": "float32", "value": 0.009999999776482582 }
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

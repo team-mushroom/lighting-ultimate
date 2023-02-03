@@ -1,1 +1,10 @@
-{"tempHash":"00D0EA44F6999F2B","tbluHash":"003CE705029D3125","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00D0EA44F6999F2B",
+	"tbluHash": "003CE705029D3125",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/salty/mission_seagull/lighting_overrides_seagull.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}
