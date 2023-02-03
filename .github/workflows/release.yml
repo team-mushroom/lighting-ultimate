@@ -45,7 +45,7 @@ jobs:
             - uses: mukunku/tag-exists-action@v1.2.0
               id: checkTag
               with:
-                tag: "0.1.0"
+                  tag: "0.1.0"
 
             - name: Create tag
               if: ${{ steps.checkTag.outputs.exists == 'false' }}
