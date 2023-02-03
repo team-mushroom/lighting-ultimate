@@ -226,21 +226,21 @@
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
-			"group": "Marrakesh - A House Built on Sand",
+			"group": "Marrakesh - A House Built On Sand",
 			"contentFolders": ["classic/marrakesh_python"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
-			"group": "Marrakesh - A House Built on Sand",
+			"group": "Marrakesh - A House Built On Sand",
 			"contentFolders": ["vanilla+ s1/marrakesh_python"]
 		},
 		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
-			"group": "Marrakesh - A House Built on Sand"
+			"group": "Marrakesh - A House Built On Sand"
 		},
 		{
 			"name": "Classic Pack",
