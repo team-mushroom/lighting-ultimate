@@ -1,1 +1,45 @@
-{"tempHash":"008283CF0906D94D","tbluHash":"004C67BF2BDC5B03","patch":[{"SubEntityOperation":["44d38d70457571b1",{"SetPropertyValue":{"property_name":"m_bHDRLensFlareEnabled","value":false}}]},{"SubEntityOperation":["44d38d70457571b1",{"SetPropertyValue":{"property_name":"m_fHDRBloomScale","value":0.2}}]},{"SubEntityOperation":["44d38d70457571b1",{"SetPropertyValue":{"property_name":"m_bVignetteEnabled","value":false}}]}],"patchVersion":6}
+{
+	"tempHash": "008283CF0906D94D",
+	"tbluHash": "004C67BF2BDC5B03",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"44d38d70457571b1",
+				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"44d38d70457571b1",
+				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.2 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"44d38d70457571b1",
+				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
+			]
+		},
+        {
+			"AddEntity": [
+				"dd12ce2010d39d31",
+				{
+					"parent": "6a581227a64ab720",
+					"name": "BoxReflectionCache",
+					"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+					"properties": {
+						"m_pBoxReflectionCache": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/bangkok/_scene_mission_tiger.boxc].pc_boxc",
+								"flag": "5F"
+							}
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

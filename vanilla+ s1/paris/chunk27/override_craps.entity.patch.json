@@ -41,7 +41,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fHDRBloomScale",
-						"value": 0.2
+						"value": 0.1
 					}
 				}
 			]

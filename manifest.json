@@ -4,9 +4,9 @@
 	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
 	"authors": ["musicalmushr00m"],
 	"frameworkVersion": "2.0.0",
-	"version": "2.2.1",
+	"version": "2.3.0",
 	"updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
-	"loadAfter": ["KevinRudd.TODChange"],
+	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
 	"options": [
 		{
 			"name": "Vanilla+",
@@ -226,21 +226,21 @@
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
-			"group": "Marrakesh - AHBOS",
+			"group": "Marrakesh - A House Built On Sand",
 			"contentFolders": ["classic/marrakesh_python"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
-			"group": "Marrakesh - AHBOS",
+			"group": "Marrakesh - A House Built On Sand",
 			"contentFolders": ["vanilla+ s1/marrakesh_python"]
 		},
 		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
-			"group": "Marrakesh - AHBOS"
+			"group": "Marrakesh - A House Built On Sand"
 		},
 		{
 			"name": "Classic Pack",
@@ -287,34 +287,21 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["classic/colorado_bull"]
+			"contentFolders": ["classic/colorado_bull", "_shared/colorado"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["goty/colorado_bull"]
+			"contentFolders": ["goty/colorado_bull", "_shared/colorado"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["vanilla+ s1/colorado_bull"]
-		},
-		{
-			"name": "TOD Change - Night",
-			"tooltip": "tod change night",
-			"type": "select",
-			"group": "Colorado - Freedom Fighters",
-			"dependencies": [
-				{
-					"runtimeID": "00DBD0E72CCCB165",
-					"toChunk": 21
-				}
-			],
-			"contentFolders": ["tod_change/bull_night"]
+			"contentFolders": ["vanilla+ s1/colorado_bull", "_shared/colorado"]
 		},
 		{
 			"name": "Off",
@@ -347,14 +334,14 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"contentFolders": ["classic/hokkaido_snowcrane"]
+			"contentFolders": ["classic/hokkaido_snowcrane", "_shared/hokkaido"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"contentFolders": ["vanilla+ s1/hokkaido_snowcrane"]
+			"contentFolders": ["vanilla+ s1/hokkaido_snowcrane", "_shared/hokkaido"]
 		},
 		{
 			"name": "Off",
@@ -550,7 +537,7 @@
 			"type": "select",
 			"group": "Berlin",
 			"contentFolders": ["hollywood/edgy", "_shared/edgy"]
-		},		
+		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
@@ -570,7 +557,7 @@
 			"type": "select",
 			"group": "Chongqing",
 			"contentFolders": ["hollywood/wet", "_shared/wet"]
-		},		
+		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
