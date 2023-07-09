@@ -151,14 +151,14 @@
 		{ "SubEntityOperation": ["7e49244dc3743919", { "RemovePropertyByName": "m_vAngularAttenuation" }] },
 		{ "SubEntityOperation": ["7e49244dc3743919", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
 		{
-		    "RemovePropertyOverrideConnection": {
-		        "entity": {
-		            "ref": "5c1d8c296adfc09",
-		            "externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
-		        },
-		        "propertyName": "m_fProjectedAreaCullingShadows",
-		        "propertyOverride": { "type": "float32", "value": 0.009999999776482582 }
-		    }
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "5c1d8c296adfc09",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fProjectedAreaCullingShadows",
+				"propertyOverride": { "type": "float32", "value": 0.009999999776482582 }
+			}
 		}
 	],
 	"patchVersion": 6
