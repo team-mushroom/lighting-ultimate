@@ -1,3 +1,10 @@
+# Season 1
+
+```
+007AF9C738F53486.TEMP  [assembly:/_pro/scenes/missions/marrakesh/lighting_overrides_python.brick].pc_entitytype
+00FA4319BCEF7BC5.TBLU  [assembly:/_pro/scenes/missions/marrakesh/lighting_overrides_python.brick].pc_entityblueprint
+```
+
 # Sniper Assassin
 
 ```

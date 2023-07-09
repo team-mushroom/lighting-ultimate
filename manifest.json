@@ -3,7 +3,7 @@
 	"name": "Lighting Ultimate",
 	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
 	"authors": ["musicalmushr00m"],
-	"frameworkVersion": "2.0.0",
+	"frameworkVersion": "2.30.0",
 	"version": "2.3.0",
 	"updateCheck": "https://musicalmushr00m.github.io/musicalmushr00m.LightingUltimate.json",
 	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
@@ -123,6 +123,13 @@
 			"contentFolders": ["goty/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
+			"name": "H2 Pre-Patch Pack",
+			"tooltip": "Faithfully restores the lighting from the original release of HITMAN 2 (2018), before version 2.14",
+			"type": "select",
+			"group": "Sapienza - World of Tomorrow",
+			"contentFolders": ["h2 old s1/coastaltown_octopus"]
+		},
+		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
@@ -161,6 +168,13 @@
 			"type": "select",
 			"group": "Sapienza - Landslide",
 			"contentFolders": ["classic/coastaltown_mamba", "_shared/coastaltown"]
+		},
+		{
+			"name": "H2 Pre-Patch Pack",
+			"tooltip": "Faithfully restores the lighting from the original release of HITMAN 2 (2018), before version 2.14",
+			"type": "select",
+			"group": "Sapienza - Landslide",
+			"contentFolders": ["h2 old s1/coastaltown_mamba"]
 		},
 		{
 			"name": "Vanilla+",
@@ -227,14 +241,14 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - A House Built On Sand",
-			"contentFolders": ["classic/marrakesh_python"]
+			"contentFolders": ["classic/marrakesh_python", "_shared/marrakesh_python"]
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Marrakesh - A House Built On Sand",
-			"contentFolders": ["vanilla+ s1/marrakesh_python"]
+			"contentFolders": ["vanilla+ s1/marrakesh_python", "_shared/marrakesh_python"]
 		},
 		{
 			"name": "Off",
@@ -275,6 +289,13 @@
 			"type": "select",
 			"group": "Bangkok - The Source",
 			"contentFolders": ["goty/bangkok_zika"]
+		},
+		{
+			"name": "H2 Pre-Patch Pack",
+			"tooltip": "Faithfully restores the lighting from the original release of HITMAN 2 (2018), before version 2.14",
+			"type": "select",
+			"group": "Bangkok - The Source",
+			"contentFolders": ["h2 old s1/bangkok_zika"]
 		},
 		{
 			"name": "Off",
