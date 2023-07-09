@@ -1,0 +1,8 @@
+{
+	"tempHash": "00CDA4F4AA40871A",
+	"tbluHash": "00DEB3FD94EB9DB3",
+	"patch": [
+		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/marrakesh/lighting_overrides_python.brick].pc_entitytype" }
+	],
+	"patchVersion": 6
+}

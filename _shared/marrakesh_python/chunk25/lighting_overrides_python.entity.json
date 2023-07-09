@@ -1,0 +1,82 @@
+{
+	"tempHash": "007AF9C738F53486",
+	"tbluHash": "00FA4319BCEF7BC5",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "2ea4f2652bd89c8d",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "f868a662402e2af0",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "f2854044bd5f110c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "7629b66fb1cc3251",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bEnabled": { "type": "bool", "value": false },
+				"m_bVisible": { "type": "bool", "value": false }
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "6a62955c5280428f",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": -180 },
+						"position": { "x": 20.437, "y": 52.655, "z": 2.692 }
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "cfe4dce2378fc586",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": -180 },
+						"position": { "x": 13.068, "y": 52.331, "z": 2.692 }
+					}
+				}
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
