@@ -1,1 +1,10 @@
-{"tempHash":"00939786A2259BA0","tbluHash":"00409C7DE7A4CF05","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00939786A2259BA0",
+	"tbluHash": "00409C7DE7A4CF05",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/caged/mission_falcon/lighting_overrides_falcon.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,1 +1,51 @@
-{"tempHash":"002F78824FA0133F","tbluHash":"0020282BA8300C29","rootEntity":"fffffffffffffffe","entities":{"fffffffffffffffe":{"parent":null,"name":"Scene","factory":"[modules:/zspatialentity.class].pc_entitytype","blueprint":"[modules:/zspatialentity.class].pc_entityblueprint"}},"propertyOverrides":[{"entities":[{"ref":"a8edc7c77deeac65","externalScene":"[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"}],"properties":{"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_bNoiseEnabled":{"type":"bool","value":false},"m_bVignetteEnabled":{"type":"bool","value":false}}},{"entities":[{"ref":"b6b8906bf871c2a5","externalScene":"[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"}],"properties":{"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_bNoiseEnabled":{"type":"bool","value":false},"m_bVignetteEnabled":{"type":"bool","value":false},"m_fHDRBloomScale":{"type":"float32","value":0.2}}}],"overrideDeletes":[],"pinConnectionOverrides":[],"pinConnectionOverrideDeletes":[],"externalScenes":["[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"],"subType":"brick","quickEntityVersion":3.1,"extraFactoryDependencies":[],"extraBlueprintDependencies":[],"comments":[]}
+{
+	"tempHash": "002F78824FA0133F",
+	"tbluHash": "0020282BA8300C29",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "a8edc7c77deeac65",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_bNoiseEnabled": { "type": "bool", "value": false },
+				"m_bVignetteEnabled": { "type": "bool", "value": false }
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "b6b8906bf871c2a5",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_bNoiseEnabled": { "type": "bool", "value": false },
+				"m_bVignetteEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomScale": { "type": "float32", "value": 0.2 }
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

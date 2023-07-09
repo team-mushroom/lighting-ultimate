@@ -1,1 +1,8 @@
-{"tempHash":"00B91E821FD1D373","tbluHash":"0013A8BAB5744E94","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/theark/lighting_overrides_magpie.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00B91E821FD1D373",
+	"tbluHash": "0013A8BAB5744E94",
+	"patch": [
+		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/theark/lighting_overrides_magpie.brick].pc_entitytype" }
+	],
+	"patchVersion": 6
+}

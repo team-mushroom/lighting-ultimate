@@ -1,1 +1,8 @@
-{"tempHash":"00DCAD025C52A18F","tbluHash":"0056A0DB63283922","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/miami/lighting_overrides_flamingo.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00DCAD025C52A18F",
+	"tbluHash": "0056A0DB63283922",
+	"patch": [
+		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/miami/lighting_overrides_flamingo.brick].pc_entitytype" }
+	],
+	"patchVersion": 6
+}

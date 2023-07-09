@@ -1,1 +1,142 @@
-{"tempHash":"007320FB8D53170A","tbluHash":"00E2C5CD265E9B0F","rootEntity":"fffffffffffffffe","entities":{"ca14ebc54ab5ffb9":{"parent":{"ref":"da2e17618bcbc115","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"},"name":"Sky_Sunset_C","factory":"[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_c.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_c.entitytemplate].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":43.0000005604686},"position":{"x":14.277950286865234,"y":72.90376281738281,"z":20.046009063720703}}},"ConstantVector1D_07_Value":{"type":"float32","value":2},"m_bVisible":{"type":"bool","value":true},"ColorModulate":{"type":"SColorRGB","value":"#facaca"},"ConstantVector1D_02_Value":{"type":"float32","value":0.8999999761581421},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}},"fffffffffffffffe":{"parent":null,"name":"Scene","factory":"[modules:/zspatialentity.class].pc_entitytype","blueprint":"[modules:/zspatialentity.class].pc_entityblueprint"}},"propertyOverrides":[{"entities":[{"ref":"c2d23cf2759dd1fd","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"},{"ref":"2f8ea54af286365","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"}],"properties":{"BillboardTexture":{"type":"ZRuntimeResourceID","value":{"resource":"00E65AB3BD8C2901","flag":"5F"}},"m_bColorCorrectionEnabled":{"type":"bool","value":true}}},{"entities":[{"ref":"35f3a62b8a4c2814","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"}],"properties":{"m_bVisible":{"type":"bool","value":false}}},{"entities":[{"ref":"b826924694c353a8","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"}],"properties":{"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":5},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":5},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#adbeff"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#adbeff"}}},{"entities":[{"ref":"59054ad16583f56a","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"}],"properties":{"m_diffuseColor":{"type":"SColorRGB","value":"#ffabab"},"m_fShadowBlurWidth":{"type":"float32","value":0.5},"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":-2.7024069631210206,"y":76.34941025618431,"z":-43.95738745922201},"position":{"x":-9.293318748474121,"y":43.4874382019043,"z":14.850159645080566}}},"m_vBoxFadeNeg":{"type":"SVector3","value":{"x":0,"y":0,"z":0}},"m_vBoxFadePos":{"type":"SVector3","value":{"x":0,"y":0,"z":0}},"m_vBoxSize":{"type":"SVector3","value":{"x":104.91690063476563,"y":334.5450134277344,"z":303.65899658203125}}}},{"entities":[{"ref":"e539e8b481c559db","externalScene":"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"}],"properties":{"m_fAmbientInscatterFraction":{"type":"float32","value":0.5},"m_fFakeMultipleScattering":{"type":"float32","value":0.6000000238418579},"m_fInscatterIntensity":{"type":"float32","value":0.10000000149011612},"m_fMieAnisotropy":{"type":"float32","value":0},"m_fShadowedInscatterIntensity":{"type":"float32","value":4},"m_fShadowedMieDepthScale":{"type":"float32","value":1},"m_fShadowedRange":{"type":"float32","value":20},"m_fShadowedRayleighDepthScale":{"type":"float32","value":4},"m_fSunIntensityScale":{"type":"float32","value":200},"m_fWorldScale":{"type":"float32","value":15},"m_MieColor":{"type":"SColorRGB","value":"#ffffff"},"m_RayleighColor":{"type":"SColorRGB","value":"#78acff"}}}],"overrideDeletes":[],"pinConnectionOverrides":[],"pinConnectionOverrideDeletes":[],"externalScenes":["[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype","[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"],"subType":"brick","quickEntityVersion":3.1,"extraFactoryDependencies":[{"resource":"00E65AB3BD8C2901","flag":"5F"},{"resource":"00E65AB3BD8C2901","flag":"5F"}],"extraBlueprintDependencies":[],"comments":[]}
+{
+	"tempHash": "007320FB8D53170A",
+	"tbluHash": "00E2C5CD265E9B0F",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"ca14ebc54ab5ffb9": {
+			"parent": {
+				"ref": "da2e17618bcbc115",
+				"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+			},
+			"name": "Sky_Sunset_C",
+			"factory": "[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 43.0000005604686 },
+						"position": { "x": 14.277950286865234, "y": 72.90376281738281, "z": 20.046009063720703 }
+					}
+				},
+				"ConstantVector1D_07_Value": { "type": "float32", "value": 2 },
+				"m_bVisible": { "type": "bool", "value": true },
+				"ColorModulate": { "type": "SColorRGB", "value": "#facaca" },
+				"ConstantVector1D_02_Value": { "type": "float32", "value": 0.8999999761581421 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			}
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "c2d23cf2759dd1fd",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+				},
+				{
+					"ref": "2f8ea54af286365",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": { "resource": "00E65AB3BD8C2901", "flag": "5F" }
+				},
+				"m_bColorCorrectionEnabled": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "35f3a62b8a4c2814",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+				}
+			],
+			"properties": { "m_bVisible": { "type": "bool", "value": false } }
+		},
+		{
+			"entities": [
+				{
+					"ref": "b826924694c353a8",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 5 },
+				"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 5 },
+				"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#adbeff" },
+				"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#adbeff" }
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "59054ad16583f56a",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#ffabab" },
+				"m_fShadowBlurWidth": { "type": "float32", "value": 0.5 },
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -2.7024069631210206, "y": 76.34941025618431, "z": -43.95738745922201 },
+						"position": { "x": -9.293318748474121, "y": 43.4874382019043, "z": 14.850159645080566 }
+					}
+				},
+				"m_vBoxFadeNeg": { "type": "SVector3", "value": { "x": 0, "y": 0, "z": 0 } },
+				"m_vBoxFadePos": { "type": "SVector3", "value": { "x": 0, "y": 0, "z": 0 } },
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": { "x": 104.91690063476563, "y": 334.5450134277344, "z": 303.65899658203125 }
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "e539e8b481c559db",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fAmbientInscatterFraction": { "type": "float32", "value": 0.5 },
+				"m_fFakeMultipleScattering": { "type": "float32", "value": 0.6000000238418579 },
+				"m_fInscatterIntensity": { "type": "float32", "value": 0.10000000149011612 },
+				"m_fMieAnisotropy": { "type": "float32", "value": 0 },
+				"m_fShadowedInscatterIntensity": { "type": "float32", "value": 4 },
+				"m_fShadowedMieDepthScale": { "type": "float32", "value": 1 },
+				"m_fShadowedRange": { "type": "float32", "value": 20 },
+				"m_fShadowedRayleighDepthScale": { "type": "float32", "value": 4 },
+				"m_fSunIntensityScale": { "type": "float32", "value": 200 },
+				"m_fWorldScale": { "type": "float32", "value": 15 },
+				"m_MieColor": { "type": "SColorRGB", "value": "#ffffff" },
+				"m_RayleighColor": { "type": "SColorRGB", "value": "#78acff" }
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		"[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
+	],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [
+		{ "resource": "00E65AB3BD8C2901", "flag": "5F" },
+		{ "resource": "00E65AB3BD8C2901", "flag": "5F" }
+	],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

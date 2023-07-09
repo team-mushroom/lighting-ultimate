@@ -56,7 +56,7 @@
 				{ "SetPropertyValue": { "property_name": "m_bVignetteEnabled", "value": false } }
 			]
 		},
-        {
+		{
 			"AddEntity": [
 				"7cf77d186e9107d0",
 				{

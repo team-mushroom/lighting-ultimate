@@ -1,1 +1,10 @@
-{"tempHash":"00CB3A6734232790","tbluHash":"00755B16C36D8E88","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/opulent/mission_stingray/lighting_overrides_stingray.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00CB3A6734232790",
+	"tbluHash": "00755B16C36D8E88",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/lighting_overrides_stingray.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

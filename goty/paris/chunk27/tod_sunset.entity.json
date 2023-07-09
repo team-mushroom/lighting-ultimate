@@ -1,1 +1,2476 @@
-{"tempHash":"00F68F0EE29F8B98","tbluHash":"00EA44E1BE6E1220","rootEntity":"fffffffffffffffe","entities":{"769208efcfc77ae0":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light11","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":1.4579816901141087,"y":67.58511451120155,"z":54.16764709066186},"position":{"x":-104.72509765625,"y":12.667180061340332,"z":-0.9121170043945313}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.5020909905433655,"y":0.7609609961509705}},"m_fDiffusePower":{"type":"float32","value":5},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"6936c54076d07d76":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Main_00","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":179.24303337956624,"y":-68.56017723745447,"z":-87.96511503572792},"position":{"x":-106.02429962158203,"y":7.92081880569458,"z":-0.7892749905586243}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":5.309500217437744,"y":8.417099952697754}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":10},"m_bCastShadows":{"type":"bool","value":true},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.19057700037956238,"y":0.45539799332618713}},"m_fShadowFadeLength":{"type":"float32","value":15},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"fb4514655da6e433":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light12","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.078493049898369,"y":82.16133017788633,"z":125.67989051442423},"position":{"x":-105.26419830322266,"y":12.761360168457031,"z":-0.9462260007858276}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7249860167503357}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"b2ffb77f38df0bb8":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light09","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.077654758925696,"y":82.16133017788638,"z":-130.79755410716294},"position":{"x":-105.26419830322266,"y":16.9431095123291,"z":-0.9462260007858276}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7249860167503357}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"365492fd8a38448c":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light10","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":1.457384597684796,"y":67.58526676713375,"z":-63.28227284536194},"position":{"x":-104.685302734375,"y":17.045480728149414,"z":-0.9121170043945313}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.5020909905433655,"y":0.7609609961509705}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"dda0e8c734ed6539":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spor_Water_06","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":8.210756763168055,"y":-71.7633375992147,"z":-99.96429374225019},"position":{"x":-108.17430114746094,"y":21.247859954833984,"z":-0.7825750112533569}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":5,"y":7.579400062561035}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":10},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.09217099845409393,"y":0.5487920045852661}},"m_fAspectXByY":{"type":"float32","value":2.809999942779541},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"69ea3637e93c4ed8":{"parent":"4694f4c1aca4d875","name":"Camera_Lighting_FlyThrough","factory":"[modules:/zcameraentity.class].pc_entitytype","blueprint":"[modules:/zcameraentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":0},"position":{"x":-280.49359130859375,"y":71.19892883300781,"z":3.8253190517425537}}},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}},"dc74d69e98086bcb":{"parent":"959bc24a70ca93a1","name":"ActiveCameraItem","factory":"[modules:/zsingleactivecamerasource.class].pc_entitytype","blueprint":"[modules:/zsingleactivecamerasource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":0}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":21390950}},"m_pCamera":{"type":"SEntityTemplateReference","value":"69ea3637e93c4ed8"}}},"53832c34fad6dd00":{"parent":"c0e8ee62f868d32e","name":"RenderAtmosphericScattering","factory":"[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype","blueprint":"[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":0},"position":{"x":-75.41925048828125,"y":26.297319412231445,"z":15.754590034484863}}},"m_fSunRadiusScale":{"type":"float32","value":2.700000047683716},"m_fSunIntensityScale":{"type":"float32","value":300},"m_fRayleighHeightScale":{"type":"float32","value":6000},"m_fWorldScale":{"type":"float32","value":20},"m_RayleighColor":{"type":"SColorRGB","value":"#79addb"},"m_MieColor":{"type":"SColorRGB","value":"#ffffff"},"m_fInscatterIntensity":{"type":"float32","value":1.5},"m_fShadowedInscatterIntensity":{"type":"float32","value":1},"m_fShadowedMieDepthScale":{"type":"float32","value":2},"m_fFakeMultipleScattering":{"type":"float32","value":0.10000000149011612},"m_fAmbientInscatterFraction":{"type":"float32","value":0},"m_fMieHeightScale":{"type":"float32","value":2200},"m_fShadowedRange":{"type":"float32","value":15},"m_fShadowedRayleighDepthScale":{"type":"float32","value":1},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}},"9975b17a529466bb":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spor_Water_05","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":12.378257349525471,"y":-71.40208441369373,"z":-61.58423564630625},"position":{"x":-103.99320220947266,"y":21.231000900268555,"z":-0.7920380234718323}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":5,"y":7.579400062561035}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":10},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.09217099845409393,"y":0.5487920045852661}},"m_fAspectXByY":{"type":"float32","value":2.809999942779541},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"ad0f490e22598c86":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Reflected_01","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":24.85805330357013,"y":88.38953806548035,"z":-107.51768565803027},"position":{"x":-105.48259735107422,"y":15.741629600524902,"z":0.002372999908402562}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":2.7969601154327393,"y":15.409000396728516}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":2.334420919418335,"y":2.391200065612793}},"m_diffuseColor":{"type":"SColorRGB","value":"#a9b996"},"m_fDiffusePower":{"type":"float32","value":7},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.0010000000474974513,"y":0.2827410101890564}},"m_fShadowFadeLength":{"type":"float32","value":5},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_fAspectXByY":{"type":"float32","value":80},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"220aa14ed2e971e9":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light03","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":-179.96474746178887,"y":-64.89989257295953,"z":-105.02789684891856},"position":{"x":-103.96510314941406,"y":8.36268424987793,"z":-1.035794973373413}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.23567399382591248,"y":0.303523987531662}},"m_fDiffusePower":{"type":"float32","value":50},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"8c5bd9082c8599ff":{"parent":"5b2360b5a04b122c","name":"PostfilterParameters_Street","factory":"[modules:/zrenderpostfilterparametersentity.class].pc_entitytype","blueprint":"[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint","properties":{"m_bColorCorrectionEnabled":{"type":"bool","value":true},"m_bDistortionBarrelEnabled":{"type":"bool","value":false},"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_fHDRBloomFalloff":{"type":"float32","value":1.5},"m_bNoiseEnabled":{"type":"bool","value":true},"m_bHDRGlareEnabled":{"type":"bool","value":true},"m_eHDRGlareType":{"type":"ZRenderPostfilterParametersEntity.EHDRGlareType","value":"eCinecamVerticalSlits"},"m_bSSAOEnabled":{"type":"bool","value":true},"m_bFogEnabled":{"type":"bool","value":false},"m_fDistortionBarrelScale":{"type":"float32","value":0.5},"m_fFogDensity":{"type":"float32","value":0.10000000149011612},"m_FogColor":{"type":"SColorRGB","value":"#30251b"},"m_bVignetteEnabled":{"type":"bool","value":true},"m_bDepthOfFieldEnabled":{"type":"bool","value":true},"m_fDepthOfFieldFocalDistance":{"type":"float32","value":10},"m_fLensBlur":{"type":"float32","value":0},"m_bGaussianBlurEnabled":{"type":"bool","value":false},"m_fGaussianBlurriness":{"type":"float32","value":0.05000000074505806},"m_fSpatialBlurriness":{"type":"float32","value":0.4000000059604645},"m_fDepthOfFieldFocusEnd":{"type":"float32","value":50},"m_fDepthOfFieldFocalFadeNear":{"type":"float32","value":0.5},"m_bRadialBlurEnabled":{"type":"bool","value":false},"m_bSpatialBlurEnabled":{"type":"bool","value":false},"m_fHDRBloomScale":{"type":"float32","value":1.5},"m_fDepthOfFieldFocalFadeFar":{"type":"float32","value":25},"m_bDistortionWobbleEnabled":{"type":"bool","value":false},"m_fDistortionWobbleScale":{"type":"float32","value":1.100000023841858},"m_vDistortionWobbleSpeed":{"type":"SVector2","value":{"x":1,"y":2}},"m_fNoiseIntensity":{"type":"float32","value":0.05000000074505806},"m_fNoiseScale":{"type":"float32","value":0.800000011920929},"m_bFogGlobal":{"type":"bool","value":true},"m_VignetteColor":{"type":"SColorRGB","value":"#7394ba"},"m_fVignetteStrength":{"type":"float32","value":0.6000000238418579},"m_bDepthOfFieldUseNew":{"type":"bool","value":true},"m_fDepthOfFieldAperture":{"type":"float32","value":3},"m_vDistortionBarrel":{"type":"SVector2","value":{"x":0.11999999731779099,"y":0.05999999865889549}},"m_bForegroundBlur":{"type":"bool","value":false},"m_eBlurQuality":{"type":"ZRenderPostfilterParametersEntity.EDOFBlurType","value":"eLowRezLensBlurSoft"},"m_fHDRLensFlareAttenuation":{"type":"float32","value":1},"m_vFogNearDistances":{"type":"SVector2","value":{"x":0,"y":200}},"m_bFogUseQuarterRes":{"type":"bool","value":false},"m_vFogTurbulenceNearScale":{"type":"SVector3","value":{"x":500,"y":500,"z":500}},"m_fFogTurbulenceOpacity":{"type":"float32","value":0.800000011920929},"m_fRadialBlurStart":{"type":"float32","value":5.659999847412109},"m_fRadialBlurriness":{"type":"float32","value":1},"m_fRadialBlurFadeFactor":{"type":"float32","value":0.27000001072883606},"m_vVignetteGradientLightColor":{"type":"SColorRGB","value":"#5c5c5c"},"m_fVignetteGradientLightSize":{"type":"float32","value":0.699999988079071},"m_fVignetteGradientLightStrength":{"type":"float32","value":0},"m_fDepthOfFieldBlurriness":{"type":"float32","value":1},"m_vFogTurbulenceVelocity":{"type":"SVector3","value":{"x":3,"y":1,"z":2}},"m_vHDRAdaptationMiddleGrayMinMax":{"type":"SVector2","value":{"x":0.029999999329447746,"y":0.05000000074505806}},"m_eHDRToneMapType":{"type":"ZRenderPostfilterParametersEntity.EHDRToneMapType","value":"eFilmicRGB"},"m_fFogTurbulenceChaos":{"type":"float32","value":0.5},"m_bHDREnabled":{"type":"bool","value":true},"m_fDepthOfFieldFocusStart":{"type":"float32","value":1},"m_fSSAOOcclusionRange":{"type":"float32","value":1},"m_HDRColorTint":{"type":"SColorRGB","value":"#ffefe6"},"m_fHDRWhitePoint":{"type":"float32","value":20},"m_fHDRBrightPassThreshold":{"type":"float32","value":3},"m_nParameterId":{"type":"int32","value":1},"BillboardTexture":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/_pro/effects/textures/lut/lut_e3_paris_grade.texture?/diffuse_a.tex](ascolormap).pc_tex","flag":"5F"}},"m_vSSAOStrengthNearFar":{"type":"SVector2","value":{"x":0,"y":15}},"m_vSSAOScreenSpaceRadiusLimits":{"type":"SVector2","value":{"x":15,"y":100}},"m_vSSAODistanceNearFar":{"type":"SVector2","value":{"x":0,"y":15}},"m_fLabsDofAnamorphic":{"type":"float32","value":0},"m_fLabsDofSwirl":{"type":"float32","value":0},"m_vHDRAdaptationSpeed":{"type":"SVector2","value":{"x":2,"y":2}},"m_HDRAdaptionMiddleGrayCurveEntity":{"type":"SEntityTemplateReference","value":"1627c500928a17f2","postInit":true}}},"8d540c9099b1b5ed":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem01","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":20971520}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-270.0896911621094,0,0,0,0,-3.083648681640625,-270.0896911621094],[1,-273.17333984375,0,0,0,0,0,-273.17333984375]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-87.2080307006836,0,0,0,0,0,-87.2080307006836],[1,-87.2080307006836,0,0,0,0,0,-87.2080307006836]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,54.70056915283203,0,0,0,0,-1.6401023864746094,54.70056915283203],[1,53.06046676635742,0,0,0,0,0,53.06046676635742]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,0,0,0,0,0,0,0],[1,0,0,0,0,0,0,0]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,9.753847122192383,0,0,0,0,-0.17035865783691406,9.753847122192383],[1,9.583488464355469,0,0,0,0,0,9.583488464355469]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,-118.43659973144531,0,0,0,0,0.00017547607421875,-118.43659973144531],[1,-118.4364242553711,0,0,0,0,0,-118.4364242553711]]}}}},"36606bd5dd21db6e":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light07","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.074332158762234,"y":82.1613301778862,"z":-91.70297615527376},"position":{"x":-105.96910095214844,"y":16.709260940551758,"z":-0.9462260007858276}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7249860167503357}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"3e0ea85f9e0f1499":{"parent":"5b2360b5a04b122c","name":"TimerSimple","factory":"[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entityblueprint","properties":{"Delay time (ms)":{"type":"int32","value":5000}},"events":{"Out":{"Pause":["4752f697f6080c18"]}}},"1627c500928a17f2":{"parent":"5b2360b5a04b122c","name":"MiddleGrayCurve","factory":"[modules:/zmiddlegraycurveentity.class].pc_entitytype","blueprint":"[modules:/zmiddlegraycurveentity.class].pc_entityblueprint","properties":{"m_Remap":{"type":"ZCurve","value":{"data":[[-6,0.004874347243458033,0,0,0,0,0.001703733461908996,0.004874347243458033],[-4.002769947052002,0.0065780808217823505,0,0,0,0,0.0036961089354008436,0.0065780808217823505],[-3.0107123851776123,0.01027418952435255,0,0,0,0,0.013886833563446999,0.01027418952435255],[-1.9621422290802002,0.024161022156476974,0,0,0,0,0.017321141436696053,0.024161022156476974],[-1.432363748550415,0.041482165455818176,0,0,0,0,0.020392918959259987,0.041482165455818176],[-0.9885783791542053,0.061875082552433014,0,0,0,0,0.05382251366972923,0.061875082552433014],[0.00736115500330925,0.11569759994745255,0,0,0,0,0.06281179189682007,0.11569759994745255],[0.9863947629928589,0.17850938439369202,0,0,0,0,0.0145752327516675,0.17850938439369202],[1.8051707744598389,0.19308462738990784,0,0,0,0,0.002119481796398759,0.19308462738990784],[2.9473683834075928,0.19520410895347595,0,0,0,0,0,0.19520410895347595]]}}}},"eed42fa22d6f32dd":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light15","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.075170462816149,"y":82.16133017788644,"z":-154.0143815650332},"position":{"x":-107.56559753417969,"y":15.737799644470215,"z":-0.946457028388977}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7661679983139038}},"m_fDiffusePower":{"type":"float32","value":5},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"60fb106513203dd0":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light16","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.076846675410631,"y":82.16133017788633,"z":147.03411012679896},"position":{"x":-107.56670379638672,"y":13.887980461120605,"z":-0.946457028388977}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7661679983139038}},"m_fDiffusePower":{"type":"float32","value":5},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"1e551969859d6487":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem10","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":47185920}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-6.260777950286865,0,0,0,0,-3.9626822471618652,-6.260777950286865],[1,-10.22346019744873,0,0,0,0,0,-10.22346019744873]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-86.67439270019531,0,0,0,0,0,-86.67439270019531],[1,-86.67439270019531,0,0,0,0,0,-86.67439270019531]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,9.33734130859375,0,0,0,0,1.188248634338379,9.33734130859375],[1,10.525589942932129,0,0,0,0,0,10.525589942932129]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,-180,0,0,0,0,0,-180],[1,-180,0,0,0,0,0,-180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,0.5370479822158813,0,0,0,0,0.21798163652420044,0.5370479822158813],[1,0.7550296187400818,0,0,0,0,0,0.7550296187400818]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,104.03193664550781,0,0,0,0,0,104.03193664550781],[1,104.03193664550781,0,0,0,0,0,104.03193664550781]]}}}},"9a1ed12027b84ddb":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light01","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":167.97289337244266,"y":-65.8851074653007,"z":96.82839287790632},"position":{"x":-104,"y":21.178030014038086,"z":-1.0538949966430664}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.26187700033187866,"y":0.303523987531662}},"m_fDiffusePower":{"type":"float32","value":50},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"52ce5e795b437c19":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light14","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.08603563861099,"y":82.16133017788633,"z":38.07148074071639},"position":{"x":-106.6332015991211,"y":12.886980056762695,"z":-0.9462260007858276}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7249860167503357}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"902678cc57296776":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Main_01","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":179.2433468541259,"y":-68.56017723745447,"z":89.29962356088113},"position":{"x":-106.02429962158203,"y":21.731159210205078,"z":-0.7892749905586243}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":5.309500217437744,"y":8.417099952697754}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":10},"m_bCastShadows":{"type":"bool","value":true},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.19057700037956238,"y":0.45539799332618713}},"m_fShadowFadeLength":{"type":"float32","value":15},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"150b46bf8a9388db":{"parent":"5b2360b5a04b122c","name":"PostfilterParameters_Indoor_HighContrast","factory":"[modules:/zrenderpostfilterparametersentity.class].pc_entitytype","blueprint":"[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint","properties":{"m_bColorCorrectionEnabled":{"type":"bool","value":true},"m_bDistortionBarrelEnabled":{"type":"bool","value":false},"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_fHDRBloomFalloff":{"type":"float32","value":1.5},"m_bNoiseEnabled":{"type":"bool","value":true},"m_bHDRGlareEnabled":{"type":"bool","value":true},"m_eHDRGlareType":{"type":"ZRenderPostfilterParametersEntity.EHDRGlareType","value":"eCinecamVerticalSlits"},"m_bSSAOEnabled":{"type":"bool","value":true},"m_bFogEnabled":{"type":"bool","value":true},"m_fDistortionBarrelScale":{"type":"float32","value":0.5},"m_fFogDensity":{"type":"float32","value":0.10000000149011612},"m_FogColor":{"type":"SColorRGB","value":"#141414"},"m_bVignetteEnabled":{"type":"bool","value":true},"m_bDepthOfFieldEnabled":{"type":"bool","value":true},"m_fDepthOfFieldFocalDistance":{"type":"float32","value":10},"m_fLensBlur":{"type":"float32","value":0},"m_bGaussianBlurEnabled":{"type":"bool","value":false},"m_fGaussianBlurriness":{"type":"float32","value":0.05000000074505806},"m_fSpatialBlurriness":{"type":"float32","value":0.4000000059604645},"m_fDepthOfFieldFocusEnd":{"type":"float32","value":50},"m_fDepthOfFieldFocalFadeNear":{"type":"float32","value":0.5},"m_bRadialBlurEnabled":{"type":"bool","value":false},"m_bSpatialBlurEnabled":{"type":"bool","value":false},"m_fHDRBloomScale":{"type":"float32","value":1.5},"m_fDepthOfFieldBlurriness":{"type":"float32","value":1},"m_bDistortionWobbleEnabled":{"type":"bool","value":false},"m_fDistortionWobbleScale":{"type":"float32","value":1.100000023841858},"m_vDistortionWobbleSpeed":{"type":"SVector2","value":{"x":1,"y":2}},"m_fNoiseIntensity":{"type":"float32","value":0.05000000074505806},"m_fNoiseScale":{"type":"float32","value":0.800000011920929},"m_bFogGlobal":{"type":"bool","value":false},"m_VignetteColor":{"type":"SColorRGB","value":"#606e7d"},"m_fVignetteStrength":{"type":"float32","value":0.6000000238418579},"m_bDepthOfFieldUseNew":{"type":"bool","value":true},"m_fDepthOfFieldAperture":{"type":"float32","value":3},"m_vDistortionBarrel":{"type":"SVector2","value":{"x":0.11999999731779099,"y":0.05999999865889549}},"m_bForegroundBlur":{"type":"bool","value":false},"m_eBlurQuality":{"type":"ZRenderPostfilterParametersEntity.EDOFBlurType","value":"eLowRezLensBlurSoft"},"m_fHDRLensFlareAttenuation":{"type":"float32","value":1},"m_vFogNearDistances":{"type":"SVector2","value":{"x":0,"y":1000}},"m_bFogUseQuarterRes":{"type":"bool","value":false},"m_vFogTurbulenceNearScale":{"type":"SVector3","value":{"x":500,"y":500,"z":500}},"m_fFogTurbulenceOpacity":{"type":"float32","value":0.800000011920929},"m_fRadialBlurStart":{"type":"float32","value":5.659999847412109},"m_fRadialBlurriness":{"type":"float32","value":1},"m_fRadialBlurFadeFactor":{"type":"float32","value":0.27000001072883606},"m_vVignetteGradientLightColor":{"type":"SColorRGB","value":"#999999"},"m_fVignetteGradientLightSize":{"type":"float32","value":0.699999988079071},"m_fVignetteGradientLightStrength":{"type":"float32","value":0},"m_vFogTurbulenceVelocity":{"type":"SVector3","value":{"x":3,"y":1,"z":2}},"m_vHDRAdaptationLuminanceMinMax":{"type":"SVector2","value":{"x":0.0010000000474974513,"y":1000}},"m_vHDRAdaptationMiddleGrayMinMax":{"type":"SVector2","value":{"x":0.18000000715255737,"y":0.18000000715255737}},"m_fHDRBrightPassThreshold":{"type":"float32","value":3},"m_eHDRToneMapType":{"type":"ZRenderPostfilterParametersEntity.EHDRToneMapType","value":"eFilmicRGB"},"m_fHDRWhitePoint":{"type":"float32","value":20},"m_fFogTurbulenceChaos":{"type":"float32","value":0.5},"m_fDepthOfFieldFocusStart":{"type":"float32","value":1},"m_fDepthOfFieldFocalFadeFar":{"type":"float32","value":25},"m_fSSAOOcclusionRange":{"type":"float32","value":1},"m_HDRAdaptionMiddleGrayCurveEntity":{"type":"SEntityTemplateReference","value":"1627c500928a17f2"},"m_nParameterId":{"type":"int32","value":3},"BillboardTexture":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/_pro/effects/textures/lut/lut_e3_paris_grade.texture?/diffuse_b_highcontrast.tex](ascolormap).pc_tex","flag":"5F"}},"m_vRadialBlurCenter":{"type":"SVector2","value":{"x":0.5,"y":0.5}},"m_vSpatialBlurCenter":{"type":"SVector3","value":{"x":0,"y":0,"z":0}},"m_fSpatialBlurStart":{"type":"float32","value":0},"m_fSpatialBlurFade":{"type":"float32","value":10},"m_bDistortionBarrelUseRealTime":{"type":"bool","value":false},"m_vDistortionWobbleWaveLength":{"type":"SVector2","value":{"x":0.029999999329447746,"y":0.029999999329447746}},"m_bDistortionWobbleUseRealTime":{"type":"bool","value":false},"m_bDoubleVisionEnabled":{"type":"bool","value":false},"m_fDoubleVisionStrength":{"type":"float32","value":0.10000000149011612},"m_fDoubleVisionSpeed":{"type":"float32","value":0.10000000149011612},"m_fDoubleVisionEyeSeparation":{"type":"float32","value":0},"m_fDoubleVisionSpeed1":{"type":"float32","value":147},"m_fDoubleVisionSpeed2":{"type":"float32","value":109},"m_fDoubleVisionScaleSpeed1":{"type":"float32","value":121},"m_fDoubleVisionScaleSpeed2":{"type":"float32","value":97},"m_fDoubleVisionMinScale":{"type":"float32","value":0.07000000029802322},"m_fDoubleVisionMaxScale":{"type":"float32","value":0.09000000357627869},"m_fDoubleVisionBlendSpeed":{"type":"float32","value":80},"m_fDoubleVisionBlendStrength":{"type":"float32","value":0.20000000298023224},"m_fDoubleVisionTrailStrength":{"type":"float32","value":0.05000000074505806},"m_bHDREnabled":{"type":"bool","value":true},"m_vHDRAdaptationSpeed":{"type":"SVector2","value":{"x":2,"y":2}},"m_HDRColorTint":{"type":"SColorRGB","value":"#ffffff"},"m_HDRLensFlareColorA":{"type":"SColorRGB","value":"#808cf0"},"m_fHDRLensFlareThresholdA":{"type":"float32","value":0.550000011920929},"m_HDRLensFlareColorB":{"type":"SColorRGB","value":"#806633"},"m_fHDRLensFlareThresholdB":{"type":"float32","value":0.5},"m_HDRLensFlareColorC":{"type":"SColorRGB","value":"#6633cc"},"m_fHDRLensFlareThresholdC":{"type":"float32","value":0.44999998807907104},"m_HDRLensFlareColorD":{"type":"SColorRGB","value":"#66664d"},"m_fHDRLensFlareThresholdD":{"type":"float32","value":0.4000000059604645},"m_fSSAOAngleOffset":{"type":"float32","value":0.30000001192092896},"m_vSSAOStrengthNearFar":{"type":"SVector2","value":{"x":0,"y":15}},"m_vSSAOScreenSpaceRadiusLimits":{"type":"SVector2","value":{"x":15,"y":100}},"m_vSSAODistanceNearFar":{"type":"SVector2","value":{"x":0,"y":15}},"m_fLabsDofAnamorphic":{"type":"float32","value":0},"m_fLabsDofSwirl":{"type":"float32","value":0}}},"e0002ea9c6f9072a":{"parent":"5b2360b5a04b122c","name":"EventChannelTransmitter_bool","factory":"[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entityblueprint","properties":{"m_rChannelToken":{"type":"SEntityTemplateReference","value":"3907629dc3f07e03","postInit":true}}},"5b2360b5a04b122c":{"parent":"c0e8ee62f868d32e","name":"Postfilters","factory":"[modules:/zentity.class].pc_entitytype","blueprint":"[modules:/zentity.class].pc_entityblueprint"},"9defab639e30df3c":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spor_Water_04","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":8.614699858349892,"y":-71.74375919896877,"z":83.563486115211},"position":{"x":-103.93299865722656,"y":8.274938583374023,"z":-0.8017780184745789}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":5,"y":7.579400062561035}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":10},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.09217099845409393,"y":0.5487920045852661}},"m_fAspectXByY":{"type":"float32","value":2.809999942779541},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"a3fe97462dbce186":{"parent":"5b2360b5a04b122c","name":"PostfilterAreaBox","factory":"[modules:/zpostfilterareaboxentity.class].pc_entitytype","blueprint":"[modules:/zpostfilterareaboxentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":0},"position":{"x":-141.87359619140625,"y":14.92158031463623,"z":3.3827569484710693}}},"m_PostfilterParametersID":{"type":"int32","value":0},"m_vGlobalSize":{"type":"SVector3","value":{"x":8.459790229797363,"y":10.68690013885498,"z":8.556739807128906}},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}},"d8d3bb13ca425576":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":-176.40961042002812,"y":-66.3111827530298,"z":75.3013165714218},"position":{"x":-108.1708984375,"y":21.222660064697266,"z":-1.0593299865722656}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.23567399382591248,"y":0.303523987531662}},"m_fDiffusePower":{"type":"float32","value":50},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"a1d15133d6b1df19":{"parent":"4694f4c1aca4d875","name":"EntityTrack_ Camera","factory":"[modules:/zentitygroup.class].pc_entitytype","blueprint":"[modules:/zentitygroup.class].pc_entityblueprint","properties":{"m_targetEntity":{"type":"SEntityTemplateReference","value":"69ea3637e93c4ed8"},"m_aTracksAndGroups":{"type":"TArray<SEntityTemplateReference>","value":["d420cac58df00dae"],"postInit":true}}},"933f588c65feac4d":{"parent":"c0e8ee62f868d32e","name":"GlobalLight","factory":"[modules:/zgloballightentity.class].pc_entitytype","blueprint":"[modules:/zgloballightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":0,"y":0,"z":0},"position":{"x":-87.16488647460938,"y":12.760069847106934,"z":0.15403009951114655}}},"m_fGlobalLightFrontIntensity":{"type":"float32","value":0.004999999888241291},"m_fGlobalLightBackIntensity":{"type":"float32","value":0.003000000026077032},"m_GlobalLightFrontColor":{"type":"SColorRGB","value":"#e0f4ff"},"m_GlobalLightBackColor":{"type":"SColorRGB","value":"#e0f4ff"},"m_bVisibleInBoxReflection":{"type":"bool","value":true},"m_bVisible":{"type":"bool","value":true},"m_bForceVisible":{"type":"bool","value":false},"m_vGlobalLightDirection":{"type":"SVector3","value":{"x":1,"y":1,"z":1}},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe","postInit":true}}},"af12226fc346a2e":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem07","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":31457280}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-190.10899353027344,0,0,0,0,-1.265411376953125,-190.10899353027344],[1,-191.37440490722656,0,0,0,0,0,-191.37440490722656]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-85.8897705078125,0,0,0,0,0,-85.8897705078125],[1,-85.8897705078125,0,0,0,0,0,-85.8897705078125]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,90.68914794921875,0,0,0,0,0.45581817626953125,90.68914794921875],[1,91.14496612548828,0,0,0,0,0,91.14496612548828]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,0,0,0,0,0,180],[1,180,0,0,0,0,0,180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,0.8244950175285339,0,0,0,0,0.00000095367431640625,0.8244950175285339],[1,0.8244959712028503,0,0,0,0,0,0.8244959712028503]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,19.83798599243164,0,0,0,0,0,19.83798599243164],[1,19.83798599243164,0,0,0,0,0,19.83798599243164]]}}}},"6fddfa6b6d3d8f4":{"parent":"4752f697f6080c18","name":"EntityTrack_ PostfilterParameters_Street","factory":"[modules:/zentitygroup.class].pc_entitytype","blueprint":"[modules:/zentitygroup.class].pc_entityblueprint","properties":{"m_targetEntity":{"type":"SEntityTemplateReference","value":"8c5bd9082c8599ff"},"m_aTracksAndGroups":{"type":"TArray<SEntityTemplateReference>","value":["58f980464fe667fc"],"postInit":true}}},"5d7cc0944177e78f":{"parent":"c0e8ee62f868d32e","name":"TimeOfDayConfig","factory":"[modules:/ztimeofdayconfig.class].pc_entitytype","blueprint":"[modules:/ztimeofdayconfig.class].pc_entityblueprint","properties":{"m_fTimeOfDay":{"type":"float32","value":22}}},"d420cac58df00dae":{"parent":"a1d15133d6b1df19","name":"TrajectoryTrack","factory":"[modules:/ztrajectorytrack.class].pc_entitytype","blueprint":"[modules:/ztrajectorytrack.class].pc_entityblueprint","properties":{"m_entityGroup":{"type":"SEntityTemplateReference","value":"a1d15133d6b1df19"},"m_aItems":{"type":"TArray<SEntityTemplateReference>","value":["561ce743236ec9b1","8929b7393efb7b1f","5808189e0508a12","d73b6d662873905e","8d540c9099b1b5ed","adea8dc55015bbc9","af12226fc346a2e","a894f7d662810d88","cc47c24a54366cbb","1e551969859d6487","a272fda24841df9b"],"postInit":true}}},"959bc24a70ca93a1":{"parent":"4694f4c1aca4d875","name":"Active Camera Track","factory":"[modules:/zrenderdestinationtrack.class].pc_entitytype","blueprint":"[modules:/zrenderdestinationtrack.class].pc_entityblueprint","properties":{"m_aItems":{"type":"TArray<SEntityTemplateReference>","value":["dc74d69e98086bcb"]}}},"5c97b88ad154ac38":{"parent":"5b2360b5a04b122c","name":"TokenID_Firework_Postfilter02","factory":"[modules:/ztokenidentity.class].pc_entitytype","blueprint":"[modules:/ztokenidentity.class].pc_entityblueprint","properties":{"m_sName":{"type":"ZString","value":"TokenID_Firework_Postfilter"}}},"9f12105e05baba18":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light02","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":162.93623756013866,"y":-66.10466958552416,"z":-87.60883875615099},"position":{"x":-108.14689636230469,"y":8.418184280395508,"z":-1.0456370115280151}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.23567399382591248,"y":0.303523987531662}},"m_fDiffusePower":{"type":"float32","value":50},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"4a0bac6cc35f7dc0":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Reflected_00","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":24.860762243385157,"y":88.38953806548103,"z":72.47780894013738},"position":{"x":-105.82260131835938,"y":13.812910079956055,"z":0.04338600113987923}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":2.7969601154327393,"y":15.409000396728516}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":2.334420919418335,"y":2.391200065612793}},"m_diffuseColor":{"type":"SColorRGB","value":"#a9b996"},"m_fDiffusePower":{"type":"float32","value":7},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.0010000000474974513,"y":0.2827410101890564}},"m_fShadowFadeLength":{"type":"float32","value":5},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_fAspectXByY":{"type":"float32","value":80},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"561ce743236ec9b1":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":0}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-238.13079833984375,0,0,0,0,-4.517486572265625,-238.13079833984375],[1,-242.64828491210938,0,0,0,0,0,-242.64828491210938]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-84.99430084228516,0,0,0,0,0,-84.99430084228516],[1,-84.99430084228516,0,0,0,0,0,-84.99430084228516]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,100.84449768066406,0,0,0,0,-3.9301681518554688,100.84449768066406],[1,96.9143295288086,0,0,0,0,0,96.9143295288086]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,0,0,0,0,0,0,0],[1,0,0,0,0,0,0,0]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,19.443859100341797,0,0,0,0,-0.5244827270507813,19.443859100341797],[1,18.919376373291016,0,0,0,0,0,18.919376373291016]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,-131.02285766601563,0,0,0,0,0,-131.02285766601563],[1,-131.02285766601563,0,0,0,0,0,-131.02285766601563]]}}}},"1b0b69237e760a91":{"parent":"58f980464fe667fc","name":"CurveItem","factory":"[modules:/zfloatcurvesource.class].pc_entitytype","blueprint":"[modules:/zfloatcurvesource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":0}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":10464788}},"m_curve":{"type":"ZCurve","value":{"data":[[0,0.20000000298023224,0.07334671169519424,-0.3716934323310852,0.823346734046936,-0.675000011920929,0,0.20000000298023224],[0.3977956175804138,0.05000000074505806,0.000000000000000023560180068847736,-0.0000000000000000400653102234511,0.000000000000000009566237905057358,0.000000000000000018646692488697025,-0.000000000000000009375011945408574,0.05000000074505806],[0.6012024283409119,0.05000000074505806,-0.22590182721614838,0.4527054727077484,-0.5277054905891418,0.4509018361568451,-0.000000000000000027755575615628914,0.05000000074505806],[1,0.20000000298023224,0,0,0,0,0,0.20000000298023224]]}}}},"fffffffffffffffe":{"parent":null,"name":"Scene","factory":"[modules:/zspatialentity.class].pc_entitytype","blueprint":"[modules:/zspatialentity.class].pc_entityblueprint"},"94f84a1fdc30b263":{"parent":"5b2360b5a04b122c","name":"EventChannelReceiver_bool","factory":"[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelreceiver_bool.entitytemplate].pc_entitytype","blueprint":"[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelreceiver_bool.entitytemplate].pc_entityblueprint","properties":{"m_rChannelToken":{"type":"SEntityTemplateReference","value":"5c97b88ad154ac38"}},"events":{"OnTrue":{"Start":["4752f697f6080c18"],"In":["3e0ea85f9e0f1499"]},"OnFalse":{"Unpause":["4752f697f6080c18"]}}},"5808189e0508a12":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem03","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":10485760}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-116.6227035522461,0,0,0,0,-1.5639495849609375,-116.6227035522461],[1,-118.18665313720703,0,0,0,0,0,-118.18665313720703]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-86.22301483154297,0,0,0,0,-0.159942626953125,-86.22301483154297],[1,-86.3829574584961,0,0,0,0,0,-86.3829574584961]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,-63.63459014892578,0,0,0,0,2.6906280517578125,-63.63459014892578],[1,-60.94396209716797,0,0,0,0,0,-60.94396209716797]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,0,0,0,0,0,180],[1,180,0,0,0,0,0,180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,3.9594430923461914,0,0,0,0,0.20311784744262695,3.9594430923461914],[1,4.162560939788818,0,0,0,0,0,4.162560939788818]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,138.5292205810547,0,0,0,0,0.1602020263671875,138.5292205810547],[1,138.68942260742188,0,0,0,0,0,138.68942260742188]]}}}},"70e27a65379324ca":{"parent":"5b2360b5a04b122c","name":"MiddleGrayCurve_BackUp","factory":"[modules:/zmiddlegraycurveentity.class].pc_entitytype","blueprint":"[modules:/zmiddlegraycurveentity.class].pc_entityblueprint","properties":{"m_Remap":{"type":"ZCurve","value":{"data":[[-6,0.004874347243458033,0,0,0,0,0.0011221279855817556,0.004874347243458033],[-4.002769947052002,0.005996475461870432,0,0,0,0,0.0036961089354008436,0.005996475461870432],[-3.0107123851776123,0.009692584164440632,0,0,0,0,0.013886833563446999,0.009692584164440632],[-1.9621422290802002,0.023579416796565056,0,0,0,0,0.017321141436696053,0.023579416796565056],[-1.432363748550415,0.04090055823326111,0,0,0,0,0.020392918959259987,0.04090055823326111],[-0.9885783791542053,0.061293479055166245,0,0,0,0,0.05382251366972923,0.061293479055166245],[0.00736115500330925,0.11511599272489548,0,0,0,0,0.06281179189682007,0.11511599272489548],[0.9863947629928589,0.17792779207229614,0,0,0,0,0.0145752327516675,0.17792779207229614],[1.8051707744598389,0.19250302016735077,0,0,0,0,0.002119481796398759,0.19250302016735077],[2.9473683834075928,0.19462250173091888,0,0,0,0,0,0.19462250173091888]]}}}},"c0e8ee62f868d32e":{"parent":"fffffffffffffffe","name":"TOD_Sunset","factory":"[modules:/zentity.class].pc_entitytype","blueprint":"[modules:/zentity.class].pc_entityblueprint"},"f9390322feb50a0c":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Reflected_02","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":24.872724916802664,"y":88.38953806548035,"z":162.46808511816644},"position":{"x":-106.61699676513672,"y":14.947290420532227,"z":0.04338600113987923}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":2.7969601154327393,"y":24.759300231933594}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":2.334420919418335,"y":2.391200065612793}},"m_diffuseColor":{"type":"SColorRGB","value":"#a9b996"},"m_fDiffusePower":{"type":"float32","value":7},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.0010000000474974513,"y":0.2827410101890564}},"m_fShadowFadeLength":{"type":"float32","value":5},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_fAspectXByY":{"type":"float32","value":80},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"ec51b54bd7af6702":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light13","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.078911804463789,"y":82.16133017788628,"z":82.48755871637732},"position":{"x":-105.99449920654297,"y":12.930480003356934,"z":-0.9462260007858276}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7249860167503357}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"4d696036d1a10374":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Top_01","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":-180,"y":-56.918290859652345,"z":93.71114673966916},"position":{"x":-105.88349914550781,"y":17.78388023376465,"z":3.6943349838256836}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":1.4268499612808228,"y":3.414330005645752}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":15},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.28194698691368103,"y":0.5169439911842346}},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"adea8dc55015bbc9":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem05","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":26214400}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-112.69329833984375,0,0,0,0,-0.6727828979492188,-112.69329833984375],[1,-113.36608123779297,0,0,0,0,0,-113.36608123779297]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-86.37750244140625,0,0,0,0,0,-86.37750244140625],[1,-86.37750244140625,0,0,0,0,0,-86.37750244140625]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,-33.39305114746094,0,0,0,0,0.7759513854980469,-33.39305114746094],[1,-32.61709976196289,0,0,0,0,0,-32.61709976196289]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,0,0,0,0,0,180],[1,180,0,0,0,0,0,180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,0.280366986989975,0,0,0,0,-0.005109995603561401,0.280366986989975],[1,0.2752569913864136,0,0,0,0,0,0.2752569913864136]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,49.094295501708984,0,0,0,0,0.0006866455078125,49.094295501708984],[1,49.0949821472168,0,0,0,0,0,49.0949821472168]]}}}},"f9902dacbcd8a2ea":{"parent":"5b2360b5a04b122c","name":"PostfilterParameters_Indoor_Neutral","factory":"[modules:/zrenderpostfilterparametersentity.class].pc_entitytype","blueprint":"[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint","properties":{"m_bColorCorrectionEnabled":{"type":"bool","value":true},"m_bDistortionBarrelEnabled":{"type":"bool","value":false},"m_bHDRLensFlareEnabled":{"type":"bool","value":false},"m_fHDRBloomFalloff":{"type":"float32","value":1.5},"m_bNoiseEnabled":{"type":"bool","value":true},"m_bHDRGlareEnabled":{"type":"bool","value":true},"m_eHDRGlareType":{"type":"ZRenderPostfilterParametersEntity.EHDRGlareType","value":"eCinecamVerticalSlits"},"m_bSSAOEnabled":{"type":"bool","value":true},"m_bFogEnabled":{"type":"bool","value":true},"m_fDistortionBarrelScale":{"type":"float32","value":0.5},"m_fFogDensity":{"type":"float32","value":0.10000000149011612},"m_FogColor":{"type":"SColorRGB","value":"#141414"},"m_bVignetteEnabled":{"type":"bool","value":true},"m_bDepthOfFieldEnabled":{"type":"bool","value":true},"m_fDepthOfFieldFocalDistance":{"type":"float32","value":10},"m_fLensBlur":{"type":"float32","value":0},"m_bGaussianBlurEnabled":{"type":"bool","value":false},"m_fGaussianBlurriness":{"type":"float32","value":0.05000000074505806},"m_fSpatialBlurriness":{"type":"float32","value":0.4000000059604645},"m_fDepthOfFieldFocusEnd":{"type":"float32","value":50},"m_fDepthOfFieldFocalFadeNear":{"type":"float32","value":0.5},"m_bRadialBlurEnabled":{"type":"bool","value":false},"m_bSpatialBlurEnabled":{"type":"bool","value":false},"m_fHDRBloomScale":{"type":"float32","value":1.5},"m_fDepthOfFieldBlurriness":{"type":"float32","value":1},"m_bDistortionWobbleEnabled":{"type":"bool","value":false},"m_fDistortionWobbleScale":{"type":"float32","value":1.100000023841858},"m_vDistortionWobbleSpeed":{"type":"SVector2","value":{"x":1,"y":2}},"m_fNoiseIntensity":{"type":"float32","value":0.05000000074505806},"m_fNoiseScale":{"type":"float32","value":0.800000011920929},"m_bFogGlobal":{"type":"bool","value":false},"m_VignetteColor":{"type":"SColorRGB","value":"#606e7d"},"m_fVignetteStrength":{"type":"float32","value":0.6000000238418579},"m_bDepthOfFieldUseNew":{"type":"bool","value":true},"m_fDepthOfFieldAperture":{"type":"float32","value":3},"m_vDistortionBarrel":{"type":"SVector2","value":{"x":0.11999999731779099,"y":0.05999999865889549}},"m_bForegroundBlur":{"type":"bool","value":false},"m_eBlurQuality":{"type":"ZRenderPostfilterParametersEntity.EDOFBlurType","value":"eLowRezLensBlurSoft"},"m_fHDRLensFlareAttenuation":{"type":"float32","value":1},"m_vFogNearDistances":{"type":"SVector2","value":{"x":0,"y":1000}},"m_bFogUseQuarterRes":{"type":"bool","value":false},"m_vFogTurbulenceNearScale":{"type":"SVector3","value":{"x":500,"y":500,"z":500}},"m_fFogTurbulenceOpacity":{"type":"float32","value":0.800000011920929},"m_fRadialBlurStart":{"type":"float32","value":5.659999847412109},"m_fRadialBlurriness":{"type":"float32","value":1},"m_fRadialBlurFadeFactor":{"type":"float32","value":0.27000001072883606},"m_vVignetteGradientLightColor":{"type":"SColorRGB","value":"#999999"},"m_fVignetteGradientLightSize":{"type":"float32","value":0.699999988079071},"m_fVignetteGradientLightStrength":{"type":"float32","value":0},"m_fDepthOfFieldFocusStart":{"type":"float32","value":1},"m_vFogTurbulenceVelocity":{"type":"SVector3","value":{"x":3,"y":1,"z":2}},"m_fHDRBrightPassThreshold":{"type":"float32","value":3},"m_eHDRToneMapType":{"type":"ZRenderPostfilterParametersEntity.EHDRToneMapType","value":"eFilmicRGB"},"m_fHDRWhitePoint":{"type":"float32","value":20},"m_fFogTurbulenceChaos":{"type":"float32","value":0.5},"m_fDepthOfFieldFocalFadeFar":{"type":"float32","value":25},"m_fSSAOOcclusionRange":{"type":"float32","value":1},"m_HDRAdaptionMiddleGrayCurveEntity":{"type":"SEntityTemplateReference","value":"1627c500928a17f2"},"m_nParameterId":{"type":"int32","value":0},"BillboardTexture":{"type":"ZRuntimeResourceID","value":{"resource":"[assembly:/_pro/effects/textures/lut/lut_paris_night.texture?/diffuse_a.tex](ascolormap).pc_tex","flag":"5F"}},"m_bHDREnabled":{"type":"bool","value":true},"m_vSSAOStrengthNearFar":{"type":"SVector2","value":{"x":0,"y":15}},"m_vSSAOScreenSpaceRadiusLimits":{"type":"SVector2","value":{"x":15,"y":100}},"m_vSSAODistanceNearFar":{"type":"SVector2","value":{"x":0,"y":15}},"m_fLabsDofAnamorphic":{"type":"float32","value":0},"m_fLabsDofSwirl":{"type":"float32","value":0},"m_vHDRAdaptationSpeed":{"type":"SVector2","value":{"x":2,"y":2}}}},"31b57211740acfe9":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light06","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.074332158762268,"y":82.16133017788624,"z":-34.42392128869621},"position":{"x":-104.30879974365234,"y":15.789340019226074,"z":-0.9463610053062439}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.8590790033340454}},"m_fDiffusePower":{"type":"float32","value":5},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"4752f697f6080c18":{"parent":"5b2360b5a04b122c","name":"Fireworks_Postfilter","factory":"[modules:/zsequenceentity.class].pc_entitytype","blueprint":"[modules:/zsequenceentity.class].pc_entityblueprint","properties":{"m_aTracksAndGroups":{"type":"TArray<SEntityTemplateReference>","value":["6fddfa6b6d3d8f4"]},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":10464788}}}},"a894f7d662810d88":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem08","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":36700160}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-134.40350341796875,0,0,0,0,-2.17449951171875,-134.40350341796875],[1,-136.5780029296875,0,0,0,0,0,-136.5780029296875]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-86.687255859375,0,0,0,0,0.687286376953125,-86.687255859375],[1,-85.99996948242188,0,0,0,0,0,-85.99996948242188]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,80.79060363769531,0,0,0,0,2.1402740478515625,80.79060363769531],[1,82.93087768554688,0,0,0,0,0,82.93087768554688]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,0,0,0,0,0,180],[1,180,0,0,0,0,0,180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,0.9634389877319336,0,0,0,0,-0.23488599061965942,0.9634389877319336],[1,0.7285529971122742,0,0,0,0,0,0.7285529971122742]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,50.245079040527344,0,0,0,0,-8.938316345214844,50.245079040527344],[1,41.3067626953125,0,0,0,0,0,41.3067626953125]]}}}},"3907629dc3f07e03":{"parent":"5b2360b5a04b122c","name":"TokenID_Firework_Postfilter01","factory":"[modules:/ztokenidentity.class].pc_entitytype","blueprint":"[modules:/ztokenidentity.class].pc_entityblueprint","properties":{"m_sName":{"type":"ZString","value":"TokenID_Firework_Postfilter"}}},"d73b6d662873905e":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem04","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":15728640}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-128.88360595703125,0,0,0,0,-1.07989501953125,-128.88360595703125],[1,-129.9635009765625,0,0,0,0,0,-129.9635009765625]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-88.94038391113281,0,0,0,0,0.16115570068359375,-88.94038391113281],[1,-88.77922821044922,0,0,0,0,0,-88.77922821044922]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,-52.330631256103516,0,0,0,0,0.19850921630859375,-52.330631256103516],[1,-52.13212203979492,0,0,0,0,0,-52.13212203979492]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,0,0,0,0,0,180],[1,180,0,0,0,0,0,180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,0.6040229797363281,0,0,0,0,0.016228020191192627,0.6040229797363281],[1,0.6202509999275208,0,0,0,0,0,0.6202509999275208]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,54.37049865722656,0,0,0,0,-0.001102447509765625,54.37049865722656],[1,54.3693962097168,0,0,0,0,0,54.3693962097168]]}}}},"58f980464fe667fc":{"parent":"6fddfa6b6d3d8f4","name":"Blurriness Track","factory":"[modules:/zentitypropertytrack.class].pc_entitytype","blueprint":"[modules:/zentitypropertytrack.class].pc_entityblueprint","properties":{"m_sPropertyName":{"type":"ZString","value":"m_fDepthOfFieldBlurriness"},"m_entityGroup":{"type":"SEntityTemplateReference","value":"6fddfa6b6d3d8f4"},"m_aItems":{"type":"TArray<SEntityTemplateReference>","value":["1b0b69237e760a91"]}}},"a272fda24841df9b":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem11","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":52428800}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-7.420662879943848,0,0,0,0,-16.500240325927734,-7.420662879943848],[1,-23.9209041595459,0,0,0,0,0,-23.9209041595459]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-87.56353759765625,0,0,0,0,0,-87.56353759765625],[1,-87.56353759765625,0,0,0,0,0,-87.56353759765625]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,18.8050594329834,0,0,0,0,-3.2814464569091797,18.8050594329834],[1,15.523612976074219,0,0,0,0,0,15.523612976074219]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,0,0,0,0,0,0,0],[1,0,0,0,0,0,0,0]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,23.110549926757813,0,0,0,0,-0.7158374786376953,23.110549926757813],[1,22.394712448120117,0,0,0,0,0,22.394712448120117]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,-101.24781799316406,0,0,0,0,0,-101.24781799316406],[1,-101.24781799316406,0,0,0,0,0,-101.24781799316406]]}}}},"54693415e9ec5827":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Top_00","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":179.99979006152475,"y":-56.9182908596523,"z":-87.94468195642384},"position":{"x":-106.17150115966797,"y":11.989219665527344,"z":3.6943349838256836}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":1.4268499612808228,"y":3.414330005645752}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":15},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.28194698691368103,"y":0.5169439911842346}},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"2e9cc19263368063":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light08","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":4.07807390463062,"y":82.16133017788628,"z":-48.72538974690047},"position":{"x":-106.70189666748047,"y":16.89875030517578,"z":-0.9462260007858276}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.7249860167503357}},"m_fDiffusePower":{"type":"float32","value":10},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"4694f4c1aca4d875":{"parent":"c0e8ee62f868d32e","name":"Sequence_Lighting_FlyThrough","factory":"[modules:/zsequenceentity.class].pc_entitytype","blueprint":"[modules:/zsequenceentity.class].pc_entityblueprint","properties":{"m_duration":{"type":"ZGameTime","value":{"m_nTicks":57671680}},"m_aTracksAndGroups":{"type":"TArray<SEntityTemplateReference>","value":["a1d15133d6b1df19","959bc24a70ca93a1"]}}},"f19173562282a497":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spot_Reflected_03","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":24.86274896061452,"y":88.38953806548058,"z":-17.522906241836722},"position":{"x":-104.68830108642578,"y":14.607279777526855,"z":0.002372999908402562}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":2.7969601154327393,"y":15.409000396728516}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":2.334420919418335,"y":2.391200065612793}},"m_diffuseColor":{"type":"SColorRGB","value":"#a9b996"},"m_fDiffusePower":{"type":"float32","value":7},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.0010000000474974513,"y":0.2827410101890564}},"m_fShadowFadeLength":{"type":"float32","value":5},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_fAspectXByY":{"type":"float32","value":80},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"8bb694537d7a5659":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light_Spor_Water_03","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":8.614699858349875,"y":-71.74375919896882,"z":114.23720152365264},"position":{"x":-108.18789672851563,"y":8.30348014831543,"z":-0.8017780184745789}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_SQUARESPOT"},"m_fCapsuleHeight":{"type":"float32","value":8.672553062438965},"m_vFarAttenuation":{"type":"SVector2","value":{"x":5,"y":7.579400062561035}},"m_vNearAttenuation":{"type":"SVector2","value":{"x":0.5844209790229797,"y":1.1211999654769897}},"m_diffuseColor":{"type":"SColorRGB","value":"#f2ca96"},"m_fDiffusePower":{"type":"float32","value":10},"m_bCastShadows":{"type":"bool","value":false},"m_bCrowdCastShadows":{"type":"bool","value":false},"m_vAngularAttenuation":{"type":"SVector2","value":{"x":0.09217099845409393,"y":0.5487920045852661}},"m_fAspectXByY":{"type":"float32","value":2.809999942779541},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":70},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"f6c81b20cfe44cc6":{"parent":"c0e8ee62f868d32e","name":"Light_Directional_CSM","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":16.465016218599835,"y":80.36979102488995,"z":-90.40517307115113},"position":{"x":-231.66099548339844,"y":-11.507840156555176,"z":3.3210461139678955}}},"m_diffuseColor":{"type":"SColorRGB","value":"#fff6eb"},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_DIRECTIONAL"},"m_vBoxSize":{"type":"SVector3","value":{"x":78.73370361328125,"y":480.4209899902344,"z":573.1199951171875}},"m_fDiffusePower":{"type":"float32","value":2},"m_bCastCSMShadows":{"type":"bool","value":true},"m_bCastShadows":{"type":"bool","value":true},"m_bVisible":{"type":"bool","value":true},"m_vProjectorMapTiling":{"type":"SVector2","value":{"x":1,"y":1}},"m_vProjectorMapOffset":{"type":"SVector2","value":{"x":0,"y":0}},"m_eRoomBehaviour":{"type":"ZSpatialEntity.ERoomBehaviour","value":"ROOM_STATIC_OUTSIDE_CLIENT"},"m_fShadowBlurWidth":{"type":"float32","value":0.38999998569488525},"m_bCrowdCastShadows":{"type":"bool","value":true},"m_eidParent":{"type":"SEntityTemplateReference","value":"fffffffffffffffe"}}},"cc47c24a54366cbb":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem09","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":41943040}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-257.0071105957031,0,0,0,0,-0.360931396484375,-257.0071105957031],[1,-257.3680419921875,0,0,0,0,0,-257.3680419921875]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-81.06197357177734,0,0,0,0,0.5148544311523438,-81.06197357177734],[1,-80.547119140625,0,0,0,0,0,-80.547119140625]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,67.61135864257813,0,0,0,0,0.1055908203125,67.61135864257813],[1,67.71694946289063,0,0,0,0,0,67.71694946289063]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,0,0,0,0,-3.2667694091796875,180],[1,176.7332305908203,0,0,0,0,0,176.7332305908203]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,1.3580260276794434,0,0,0,0,-0.04623305797576904,1.3580260276794434],[1,1.3117929697036743,0,0,0,0,0,1.3117929697036743]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,21.363813400268555,0,0,0,0,-1.5638599395751953,21.363813400268555],[1,19.79995346069336,0,0,0,0,0,19.79995346069336]]}}}},"591844b8d2be27e":{"parent":{"ref":"5a8f40fde10e4b2f","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"},"name":"Light05","factory":"[modules:/zlightentity.class].pc_entitytype","blueprint":"[modules:/zlightentity.class].pc_entityblueprint","properties":{"m_mTransform":{"type":"SMatrix43","value":{"rotation":{"x":-12.99077507555364,"y":82.16133017788638,"z":41.59484894111249},"position":{"x":-104.35549926757813,"y":13.88782024383545,"z":-0.9460999965667725}}},"m_eLightType":{"type":"ILightEntity.ELightType","value":"LT_AREA_QUAD"},"m_vAreaQuadSize":{"type":"SVector2","value":{"x":0.4102669954299927,"y":0.8093119859695435}},"m_fDiffusePower":{"type":"float32","value":5},"m_diffuseColor":{"type":"SColorRGB","value":"#fffeb0"},"m_bEnableLightFade":{"type":"bool","value":true},"m_fLightFadeDistance":{"type":"float32","value":20},"m_fLightFadeLength":{"type":"float32","value":10},"m_eidParent":{"type":"SEntityTemplateReference","value":{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}}}},"8929b7393efb7b1f":{"parent":"d420cac58df00dae","name":"CurveTrajectoryItem02","factory":"[modules:/zeulerangletrajectorysource.class].pc_entitytype","blueprint":"[modules:/zeulerangletrajectorysource.class].pc_entityblueprint","properties":{"m_startTime":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_duration":{"type":"ZGameTime","value":{"m_nTicks":5242880}},"m_CurveX":{"type":"ZCurve","value":{"data":[[0,-186.74049377441406,0,0,0,0,0.551788330078125,-186.74049377441406],[1,-186.18870544433594,0,0,0,0,0,-186.18870544433594]]}},"m_CurveRotX":{"type":"ZCurve","value":{"data":[[0,-85.10719299316406,0,0,0,0,0,-85.10719299316406],[1,-85.10719299316406,0,0,0,0,0,-85.10719299316406]]}},"m_CurveY":{"type":"ZCurve","value":{"data":[[0,-1.9063400030136108,0,0,0,0,-0.8005520105361938,-1.9063400030136108],[1,-2.7068920135498047,0,0,0,0,0,-2.7068920135498047]]}},"m_CurveRotY":{"type":"ZCurve","value":{"data":[[0,180,1.2928931713104248,-1.5857864618301392,0.2928932309150696,0,0,180],[1,180,0,0,0,0,0,180]]}},"m_CurveZ":{"type":"ZCurve","value":{"data":[[0,8.820836067199707,0,0,0,0,0.08045291900634766,8.820836067199707],[1,8.901288986206055,0,0,0,0,0,8.901288986206055]]}},"m_CurveRotZ":{"type":"ZCurve","value":{"data":[[0,-19.711074829101563,0,0,0,0,-0.000049591064453125,-19.711074829101563],[1,-19.711124420166016,0,0,0,0,0,-19.711124420166016]]}}}}},"propertyOverrides":[{"entities":[{"ref":"e6081d9b8398583d","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":0.029999999329447746},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":0.029999999329447746},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#ffb48f"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#ffd88f"},"m_vGlobalLightOverrideDirection":{"type":"SVector3","value":{"x":-0.20000000298023224,"y":1.2000000476837158,"z":1}}}},{"entities":[{"ref":"7e6db811b82cef18","externalScene":"[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"}],"properties":{"m_bGlobalLightOverrideEnable":{"type":"bool","value":true},"m_fGlobalLightOverrideBackIntensity":{"type":"float32","value":0.20000000298023224},"m_fGlobalLightOverrideFrontIntensity":{"type":"float32","value":0.30000001192092896},"m_GlobalLightOverrideBackColor":{"type":"SColorRGB","value":"#fff0d6"},"m_GlobalLightOverrideFrontColor":{"type":"SColorRGB","value":"#d1eeff"},"m_vGlobalLightOverrideDirection":{"type":"SVector3","value":{"x":0.5,"y":-1,"z":1}}}}],"overrideDeletes":[],"pinConnectionOverrides":[],"pinConnectionOverrideDeletes":[],"externalScenes":["[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"],"subType":"brick","quickEntityVersion":3.1,"extraFactoryDependencies":[],"extraBlueprintDependencies":[],"comments":[]}
+{
+	"tempHash": "00F68F0EE29F8B98",
+	"tbluHash": "00EA44E1BE6E1220",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"769208efcfc77ae0": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light11",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 1.4579816901141087, "y": 67.58511451120155, "z": 54.16764709066186 },
+						"position": { "x": -104.72509765625, "y": 12.667180061340332, "z": -0.9121170043945313 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.5020909905433655, "y": 0.7609609961509705 } },
+				"m_fDiffusePower": { "type": "float32", "value": 5 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"6936c54076d07d76": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Main_00",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 179.24303337956624, "y": -68.56017723745447, "z": -87.96511503572792 },
+						"position": { "x": -106.02429962158203, "y": 7.92081880569458, "z": -0.7892749905586243 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 5.309500217437744, "y": 8.417099952697754 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.19057700037956238, "y": 0.45539799332618713 }
+				},
+				"m_fShadowFadeLength": { "type": "float32", "value": 15 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"fb4514655da6e433": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light12",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.078493049898369, "y": 82.16133017788633, "z": 125.67989051442423 },
+						"position": { "x": -105.26419830322266, "y": 12.761360168457031, "z": -0.9462260007858276 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7249860167503357 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"b2ffb77f38df0bb8": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light09",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.077654758925696, "y": 82.16133017788638, "z": -130.79755410716294 },
+						"position": { "x": -105.26419830322266, "y": 16.9431095123291, "z": -0.9462260007858276 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7249860167503357 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"365492fd8a38448c": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light10",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 1.457384597684796, "y": 67.58526676713375, "z": -63.28227284536194 },
+						"position": { "x": -104.685302734375, "y": 17.045480728149414, "z": -0.9121170043945313 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.5020909905433655, "y": 0.7609609961509705 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"dda0e8c734ed6539": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spor_Water_06",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 8.210756763168055, "y": -71.7633375992147, "z": -99.96429374225019 },
+						"position": { "x": -108.17430114746094, "y": 21.247859954833984, "z": -0.7825750112533569 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 5, "y": 7.579400062561035 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.09217099845409393, "y": 0.5487920045852661 }
+				},
+				"m_fAspectXByY": { "type": "float32", "value": 2.809999942779541 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"69ea3637e93c4ed8": {
+			"parent": "4694f4c1aca4d875",
+			"name": "Camera_Lighting_FlyThrough",
+			"factory": "[modules:/zcameraentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcameraentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": -280.49359130859375, "y": 71.19892883300781, "z": 3.8253190517425537 }
+					}
+				},
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			}
+		},
+		"dc74d69e98086bcb": {
+			"parent": "959bc24a70ca93a1",
+			"name": "ActiveCameraItem",
+			"factory": "[modules:/zsingleactivecamerasource.class].pc_entitytype",
+			"blueprint": "[modules:/zsingleactivecamerasource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 0 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 21390950 } },
+				"m_pCamera": { "type": "SEntityTemplateReference", "value": "69ea3637e93c4ed8" }
+			}
+		},
+		"53832c34fad6dd00": {
+			"parent": "c0e8ee62f868d32e",
+			"name": "RenderAtmosphericScattering",
+			"factory": "[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": -75.41925048828125, "y": 26.297319412231445, "z": 15.754590034484863 }
+					}
+				},
+				"m_fSunRadiusScale": { "type": "float32", "value": 2.700000047683716 },
+				"m_fSunIntensityScale": { "type": "float32", "value": 300 },
+				"m_fRayleighHeightScale": { "type": "float32", "value": 6000 },
+				"m_fWorldScale": { "type": "float32", "value": 20 },
+				"m_RayleighColor": { "type": "SColorRGB", "value": "#79addb" },
+				"m_MieColor": { "type": "SColorRGB", "value": "#ffffff" },
+				"m_fInscatterIntensity": { "type": "float32", "value": 1.5 },
+				"m_fShadowedInscatterIntensity": { "type": "float32", "value": 1 },
+				"m_fShadowedMieDepthScale": { "type": "float32", "value": 2 },
+				"m_fFakeMultipleScattering": { "type": "float32", "value": 0.10000000149011612 },
+				"m_fAmbientInscatterFraction": { "type": "float32", "value": 0 },
+				"m_fMieHeightScale": { "type": "float32", "value": 2200 },
+				"m_fShadowedRange": { "type": "float32", "value": 15 },
+				"m_fShadowedRayleighDepthScale": { "type": "float32", "value": 1 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			}
+		},
+		"9975b17a529466bb": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spor_Water_05",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 12.378257349525471, "y": -71.40208441369373, "z": -61.58423564630625 },
+						"position": { "x": -103.99320220947266, "y": 21.231000900268555, "z": -0.7920380234718323 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 5, "y": 7.579400062561035 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.09217099845409393, "y": 0.5487920045852661 }
+				},
+				"m_fAspectXByY": { "type": "float32", "value": 2.809999942779541 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"ad0f490e22598c86": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Reflected_01",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 24.85805330357013, "y": 88.38953806548035, "z": -107.51768565803027 },
+						"position": { "x": -105.48259735107422, "y": 15.741629600524902, "z": 0.002372999908402562 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 2.7969601154327393, "y": 15.409000396728516 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 2.334420919418335, "y": 2.391200065612793 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#a9b996" },
+				"m_fDiffusePower": { "type": "float32", "value": 7 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.0010000000474974513, "y": 0.2827410101890564 }
+				},
+				"m_fShadowFadeLength": { "type": "float32", "value": 5 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_fAspectXByY": { "type": "float32", "value": 80 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"220aa14ed2e971e9": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light03",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -179.96474746178887, "y": -64.89989257295953, "z": -105.02789684891856 },
+						"position": { "x": -103.96510314941406, "y": 8.36268424987793, "z": -1.035794973373413 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.23567399382591248, "y": 0.303523987531662 } },
+				"m_fDiffusePower": { "type": "float32", "value": 50 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"8c5bd9082c8599ff": {
+			"parent": "5b2360b5a04b122c",
+			"name": "PostfilterParameters_Street",
+			"factory": "[modules:/zrenderpostfilterparametersentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint",
+			"properties": {
+				"m_bColorCorrectionEnabled": { "type": "bool", "value": true },
+				"m_bDistortionBarrelEnabled": { "type": "bool", "value": false },
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomFalloff": { "type": "float32", "value": 1.5 },
+				"m_bNoiseEnabled": { "type": "bool", "value": true },
+				"m_bHDRGlareEnabled": { "type": "bool", "value": true },
+				"m_eHDRGlareType": {
+					"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+					"value": "eCinecamVerticalSlits"
+				},
+				"m_bSSAOEnabled": { "type": "bool", "value": true },
+				"m_bFogEnabled": { "type": "bool", "value": false },
+				"m_fDistortionBarrelScale": { "type": "float32", "value": 0.5 },
+				"m_fFogDensity": { "type": "float32", "value": 0.10000000149011612 },
+				"m_FogColor": { "type": "SColorRGB", "value": "#30251b" },
+				"m_bVignetteEnabled": { "type": "bool", "value": true },
+				"m_bDepthOfFieldEnabled": { "type": "bool", "value": true },
+				"m_fDepthOfFieldFocalDistance": { "type": "float32", "value": 10 },
+				"m_fLensBlur": { "type": "float32", "value": 0 },
+				"m_bGaussianBlurEnabled": { "type": "bool", "value": false },
+				"m_fGaussianBlurriness": { "type": "float32", "value": 0.05000000074505806 },
+				"m_fSpatialBlurriness": { "type": "float32", "value": 0.4000000059604645 },
+				"m_fDepthOfFieldFocusEnd": { "type": "float32", "value": 50 },
+				"m_fDepthOfFieldFocalFadeNear": { "type": "float32", "value": 0.5 },
+				"m_bRadialBlurEnabled": { "type": "bool", "value": false },
+				"m_bSpatialBlurEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomScale": { "type": "float32", "value": 1.5 },
+				"m_fDepthOfFieldFocalFadeFar": { "type": "float32", "value": 25 },
+				"m_bDistortionWobbleEnabled": { "type": "bool", "value": false },
+				"m_fDistortionWobbleScale": { "type": "float32", "value": 1.100000023841858 },
+				"m_vDistortionWobbleSpeed": { "type": "SVector2", "value": { "x": 1, "y": 2 } },
+				"m_fNoiseIntensity": { "type": "float32", "value": 0.05000000074505806 },
+				"m_fNoiseScale": { "type": "float32", "value": 0.800000011920929 },
+				"m_bFogGlobal": { "type": "bool", "value": true },
+				"m_VignetteColor": { "type": "SColorRGB", "value": "#7394ba" },
+				"m_fVignetteStrength": { "type": "float32", "value": 0.6000000238418579 },
+				"m_bDepthOfFieldUseNew": { "type": "bool", "value": true },
+				"m_fDepthOfFieldAperture": { "type": "float32", "value": 3 },
+				"m_vDistortionBarrel": {
+					"type": "SVector2",
+					"value": { "x": 0.11999999731779099, "y": 0.05999999865889549 }
+				},
+				"m_bForegroundBlur": { "type": "bool", "value": false },
+				"m_eBlurQuality": {
+					"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+					"value": "eLowRezLensBlurSoft"
+				},
+				"m_fHDRLensFlareAttenuation": { "type": "float32", "value": 1 },
+				"m_vFogNearDistances": { "type": "SVector2", "value": { "x": 0, "y": 200 } },
+				"m_bFogUseQuarterRes": { "type": "bool", "value": false },
+				"m_vFogTurbulenceNearScale": { "type": "SVector3", "value": { "x": 500, "y": 500, "z": 500 } },
+				"m_fFogTurbulenceOpacity": { "type": "float32", "value": 0.800000011920929 },
+				"m_fRadialBlurStart": { "type": "float32", "value": 5.659999847412109 },
+				"m_fRadialBlurriness": { "type": "float32", "value": 1 },
+				"m_fRadialBlurFadeFactor": { "type": "float32", "value": 0.27000001072883606 },
+				"m_vVignetteGradientLightColor": { "type": "SColorRGB", "value": "#5c5c5c" },
+				"m_fVignetteGradientLightSize": { "type": "float32", "value": 0.699999988079071 },
+				"m_fVignetteGradientLightStrength": { "type": "float32", "value": 0 },
+				"m_fDepthOfFieldBlurriness": { "type": "float32", "value": 1 },
+				"m_vFogTurbulenceVelocity": { "type": "SVector3", "value": { "x": 3, "y": 1, "z": 2 } },
+				"m_vHDRAdaptationMiddleGrayMinMax": {
+					"type": "SVector2",
+					"value": { "x": 0.029999999329447746, "y": 0.05000000074505806 }
+				},
+				"m_eHDRToneMapType": { "type": "ZRenderPostfilterParametersEntity.EHDRToneMapType", "value": "eFilmicRGB" },
+				"m_fFogTurbulenceChaos": { "type": "float32", "value": 0.5 },
+				"m_bHDREnabled": { "type": "bool", "value": true },
+				"m_fDepthOfFieldFocusStart": { "type": "float32", "value": 1 },
+				"m_fSSAOOcclusionRange": { "type": "float32", "value": 1 },
+				"m_HDRColorTint": { "type": "SColorRGB", "value": "#ffefe6" },
+				"m_fHDRWhitePoint": { "type": "float32", "value": 20 },
+				"m_fHDRBrightPassThreshold": { "type": "float32", "value": 3 },
+				"m_nParameterId": { "type": "int32", "value": 1 },
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_e3_paris_grade.texture?/diffuse_a.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"m_vSSAOStrengthNearFar": { "type": "SVector2", "value": { "x": 0, "y": 15 } },
+				"m_vSSAOScreenSpaceRadiusLimits": { "type": "SVector2", "value": { "x": 15, "y": 100 } },
+				"m_vSSAODistanceNearFar": { "type": "SVector2", "value": { "x": 0, "y": 15 } },
+				"m_fLabsDofAnamorphic": { "type": "float32", "value": 0 },
+				"m_fLabsDofSwirl": { "type": "float32", "value": 0 },
+				"m_vHDRAdaptationSpeed": { "type": "SVector2", "value": { "x": 2, "y": 2 } },
+				"m_HDRAdaptionMiddleGrayCurveEntity": {
+					"type": "SEntityTemplateReference",
+					"value": "1627c500928a17f2",
+					"postInit": true
+				}
+			}
+		},
+		"8d540c9099b1b5ed": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem01",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 20971520 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -270.0896911621094, 0, 0, 0, 0, -3.083648681640625, -270.0896911621094],
+							[1, -273.17333984375, 0, 0, 0, 0, 0, -273.17333984375]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -87.2080307006836, 0, 0, 0, 0, 0, -87.2080307006836],
+							[1, -87.2080307006836, 0, 0, 0, 0, 0, -87.2080307006836]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 54.70056915283203, 0, 0, 0, 0, -1.6401023864746094, 54.70056915283203],
+							[1, 53.06046676635742, 0, 0, 0, 0, 0, 53.06046676635742]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0, 0, 0, 0, 0, 0, 0],
+							[1, 0, 0, 0, 0, 0, 0, 0]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 9.753847122192383, 0, 0, 0, 0, -0.17035865783691406, 9.753847122192383],
+							[1, 9.583488464355469, 0, 0, 0, 0, 0, 9.583488464355469]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -118.43659973144531, 0, 0, 0, 0, 0.00017547607421875, -118.43659973144531],
+							[1, -118.4364242553711, 0, 0, 0, 0, 0, -118.4364242553711]
+						]
+					}
+				}
+			}
+		},
+		"36606bd5dd21db6e": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light07",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.074332158762234, "y": 82.1613301778862, "z": -91.70297615527376 },
+						"position": { "x": -105.96910095214844, "y": 16.709260940551758, "z": -0.9462260007858276 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7249860167503357 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"3e0ea85f9e0f1499": {
+			"parent": "5b2360b5a04b122c",
+			"name": "TimerSimple",
+			"factory": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entityblueprint",
+			"properties": { "Delay time (ms)": { "type": "int32", "value": 5000 } },
+			"events": { "Out": { "Pause": ["4752f697f6080c18"] } }
+		},
+		"1627c500928a17f2": {
+			"parent": "5b2360b5a04b122c",
+			"name": "MiddleGrayCurve",
+			"factory": "[modules:/zmiddlegraycurveentity.class].pc_entitytype",
+			"blueprint": "[modules:/zmiddlegraycurveentity.class].pc_entityblueprint",
+			"properties": {
+				"m_Remap": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[-6, 0.004874347243458033, 0, 0, 0, 0, 0.001703733461908996, 0.004874347243458033],
+							[
+								-4.002769947052002, 0.0065780808217823505, 0, 0, 0, 0, 0.0036961089354008436,
+								0.0065780808217823505
+							],
+							[
+								-3.0107123851776123, 0.01027418952435255, 0, 0, 0, 0, 0.013886833563446999,
+								0.01027418952435255
+							],
+							[
+								-1.9621422290802002, 0.024161022156476974, 0, 0, 0, 0, 0.017321141436696053,
+								0.024161022156476974
+							],
+							[
+								-1.432363748550415, 0.041482165455818176, 0, 0, 0, 0, 0.020392918959259987,
+								0.041482165455818176
+							],
+							[
+								-0.9885783791542053, 0.061875082552433014, 0, 0, 0, 0, 0.05382251366972923,
+								0.061875082552433014
+							],
+							[0.00736115500330925, 0.11569759994745255, 0, 0, 0, 0, 0.06281179189682007, 0.11569759994745255],
+							[0.9863947629928589, 0.17850938439369202, 0, 0, 0, 0, 0.0145752327516675, 0.17850938439369202],
+							[1.8051707744598389, 0.19308462738990784, 0, 0, 0, 0, 0.002119481796398759, 0.19308462738990784],
+							[2.9473683834075928, 0.19520410895347595, 0, 0, 0, 0, 0, 0.19520410895347595]
+						]
+					}
+				}
+			}
+		},
+		"eed42fa22d6f32dd": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light15",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.075170462816149, "y": 82.16133017788644, "z": -154.0143815650332 },
+						"position": { "x": -107.56559753417969, "y": 15.737799644470215, "z": -0.946457028388977 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7661679983139038 } },
+				"m_fDiffusePower": { "type": "float32", "value": 5 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"60fb106513203dd0": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light16",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.076846675410631, "y": 82.16133017788633, "z": 147.03411012679896 },
+						"position": { "x": -107.56670379638672, "y": 13.887980461120605, "z": -0.946457028388977 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7661679983139038 } },
+				"m_fDiffusePower": { "type": "float32", "value": 5 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"1e551969859d6487": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem10",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 47185920 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -6.260777950286865, 0, 0, 0, 0, -3.9626822471618652, -6.260777950286865],
+							[1, -10.22346019744873, 0, 0, 0, 0, 0, -10.22346019744873]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -86.67439270019531, 0, 0, 0, 0, 0, -86.67439270019531],
+							[1, -86.67439270019531, 0, 0, 0, 0, 0, -86.67439270019531]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 9.33734130859375, 0, 0, 0, 0, 1.188248634338379, 9.33734130859375],
+							[1, 10.525589942932129, 0, 0, 0, 0, 0, 10.525589942932129]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -180, 0, 0, 0, 0, 0, -180],
+							[1, -180, 0, 0, 0, 0, 0, -180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0.5370479822158813, 0, 0, 0, 0, 0.21798163652420044, 0.5370479822158813],
+							[1, 0.7550296187400818, 0, 0, 0, 0, 0, 0.7550296187400818]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 104.03193664550781, 0, 0, 0, 0, 0, 104.03193664550781],
+							[1, 104.03193664550781, 0, 0, 0, 0, 0, 104.03193664550781]
+						]
+					}
+				}
+			}
+		},
+		"9a1ed12027b84ddb": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light01",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 167.97289337244266, "y": -65.8851074653007, "z": 96.82839287790632 },
+						"position": { "x": -104, "y": 21.178030014038086, "z": -1.0538949966430664 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.26187700033187866, "y": 0.303523987531662 } },
+				"m_fDiffusePower": { "type": "float32", "value": 50 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"52ce5e795b437c19": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light14",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.08603563861099, "y": 82.16133017788633, "z": 38.07148074071639 },
+						"position": { "x": -106.6332015991211, "y": 12.886980056762695, "z": -0.9462260007858276 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7249860167503357 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"902678cc57296776": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Main_01",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 179.2433468541259, "y": -68.56017723745447, "z": 89.29962356088113 },
+						"position": { "x": -106.02429962158203, "y": 21.731159210205078, "z": -0.7892749905586243 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 5.309500217437744, "y": 8.417099952697754 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.19057700037956238, "y": 0.45539799332618713 }
+				},
+				"m_fShadowFadeLength": { "type": "float32", "value": 15 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"150b46bf8a9388db": {
+			"parent": "5b2360b5a04b122c",
+			"name": "PostfilterParameters_Indoor_HighContrast",
+			"factory": "[modules:/zrenderpostfilterparametersentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint",
+			"properties": {
+				"m_bColorCorrectionEnabled": { "type": "bool", "value": true },
+				"m_bDistortionBarrelEnabled": { "type": "bool", "value": false },
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomFalloff": { "type": "float32", "value": 1.5 },
+				"m_bNoiseEnabled": { "type": "bool", "value": true },
+				"m_bHDRGlareEnabled": { "type": "bool", "value": true },
+				"m_eHDRGlareType": {
+					"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+					"value": "eCinecamVerticalSlits"
+				},
+				"m_bSSAOEnabled": { "type": "bool", "value": true },
+				"m_bFogEnabled": { "type": "bool", "value": true },
+				"m_fDistortionBarrelScale": { "type": "float32", "value": 0.5 },
+				"m_fFogDensity": { "type": "float32", "value": 0.10000000149011612 },
+				"m_FogColor": { "type": "SColorRGB", "value": "#141414" },
+				"m_bVignetteEnabled": { "type": "bool", "value": true },
+				"m_bDepthOfFieldEnabled": { "type": "bool", "value": true },
+				"m_fDepthOfFieldFocalDistance": { "type": "float32", "value": 10 },
+				"m_fLensBlur": { "type": "float32", "value": 0 },
+				"m_bGaussianBlurEnabled": { "type": "bool", "value": false },
+				"m_fGaussianBlurriness": { "type": "float32", "value": 0.05000000074505806 },
+				"m_fSpatialBlurriness": { "type": "float32", "value": 0.4000000059604645 },
+				"m_fDepthOfFieldFocusEnd": { "type": "float32", "value": 50 },
+				"m_fDepthOfFieldFocalFadeNear": { "type": "float32", "value": 0.5 },
+				"m_bRadialBlurEnabled": { "type": "bool", "value": false },
+				"m_bSpatialBlurEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomScale": { "type": "float32", "value": 1.5 },
+				"m_fDepthOfFieldBlurriness": { "type": "float32", "value": 1 },
+				"m_bDistortionWobbleEnabled": { "type": "bool", "value": false },
+				"m_fDistortionWobbleScale": { "type": "float32", "value": 1.100000023841858 },
+				"m_vDistortionWobbleSpeed": { "type": "SVector2", "value": { "x": 1, "y": 2 } },
+				"m_fNoiseIntensity": { "type": "float32", "value": 0.05000000074505806 },
+				"m_fNoiseScale": { "type": "float32", "value": 0.800000011920929 },
+				"m_bFogGlobal": { "type": "bool", "value": false },
+				"m_VignetteColor": { "type": "SColorRGB", "value": "#606e7d" },
+				"m_fVignetteStrength": { "type": "float32", "value": 0.6000000238418579 },
+				"m_bDepthOfFieldUseNew": { "type": "bool", "value": true },
+				"m_fDepthOfFieldAperture": { "type": "float32", "value": 3 },
+				"m_vDistortionBarrel": {
+					"type": "SVector2",
+					"value": { "x": 0.11999999731779099, "y": 0.05999999865889549 }
+				},
+				"m_bForegroundBlur": { "type": "bool", "value": false },
+				"m_eBlurQuality": {
+					"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+					"value": "eLowRezLensBlurSoft"
+				},
+				"m_fHDRLensFlareAttenuation": { "type": "float32", "value": 1 },
+				"m_vFogNearDistances": { "type": "SVector2", "value": { "x": 0, "y": 1000 } },
+				"m_bFogUseQuarterRes": { "type": "bool", "value": false },
+				"m_vFogTurbulenceNearScale": { "type": "SVector3", "value": { "x": 500, "y": 500, "z": 500 } },
+				"m_fFogTurbulenceOpacity": { "type": "float32", "value": 0.800000011920929 },
+				"m_fRadialBlurStart": { "type": "float32", "value": 5.659999847412109 },
+				"m_fRadialBlurriness": { "type": "float32", "value": 1 },
+				"m_fRadialBlurFadeFactor": { "type": "float32", "value": 0.27000001072883606 },
+				"m_vVignetteGradientLightColor": { "type": "SColorRGB", "value": "#999999" },
+				"m_fVignetteGradientLightSize": { "type": "float32", "value": 0.699999988079071 },
+				"m_fVignetteGradientLightStrength": { "type": "float32", "value": 0 },
+				"m_vFogTurbulenceVelocity": { "type": "SVector3", "value": { "x": 3, "y": 1, "z": 2 } },
+				"m_vHDRAdaptationLuminanceMinMax": {
+					"type": "SVector2",
+					"value": { "x": 0.0010000000474974513, "y": 1000 }
+				},
+				"m_vHDRAdaptationMiddleGrayMinMax": {
+					"type": "SVector2",
+					"value": { "x": 0.18000000715255737, "y": 0.18000000715255737 }
+				},
+				"m_fHDRBrightPassThreshold": { "type": "float32", "value": 3 },
+				"m_eHDRToneMapType": { "type": "ZRenderPostfilterParametersEntity.EHDRToneMapType", "value": "eFilmicRGB" },
+				"m_fHDRWhitePoint": { "type": "float32", "value": 20 },
+				"m_fFogTurbulenceChaos": { "type": "float32", "value": 0.5 },
+				"m_fDepthOfFieldFocusStart": { "type": "float32", "value": 1 },
+				"m_fDepthOfFieldFocalFadeFar": { "type": "float32", "value": 25 },
+				"m_fSSAOOcclusionRange": { "type": "float32", "value": 1 },
+				"m_HDRAdaptionMiddleGrayCurveEntity": { "type": "SEntityTemplateReference", "value": "1627c500928a17f2" },
+				"m_nParameterId": { "type": "int32", "value": 3 },
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_e3_paris_grade.texture?/diffuse_b_highcontrast.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"m_vRadialBlurCenter": { "type": "SVector2", "value": { "x": 0.5, "y": 0.5 } },
+				"m_vSpatialBlurCenter": { "type": "SVector3", "value": { "x": 0, "y": 0, "z": 0 } },
+				"m_fSpatialBlurStart": { "type": "float32", "value": 0 },
+				"m_fSpatialBlurFade": { "type": "float32", "value": 10 },
+				"m_bDistortionBarrelUseRealTime": { "type": "bool", "value": false },
+				"m_vDistortionWobbleWaveLength": {
+					"type": "SVector2",
+					"value": { "x": 0.029999999329447746, "y": 0.029999999329447746 }
+				},
+				"m_bDistortionWobbleUseRealTime": { "type": "bool", "value": false },
+				"m_bDoubleVisionEnabled": { "type": "bool", "value": false },
+				"m_fDoubleVisionStrength": { "type": "float32", "value": 0.10000000149011612 },
+				"m_fDoubleVisionSpeed": { "type": "float32", "value": 0.10000000149011612 },
+				"m_fDoubleVisionEyeSeparation": { "type": "float32", "value": 0 },
+				"m_fDoubleVisionSpeed1": { "type": "float32", "value": 147 },
+				"m_fDoubleVisionSpeed2": { "type": "float32", "value": 109 },
+				"m_fDoubleVisionScaleSpeed1": { "type": "float32", "value": 121 },
+				"m_fDoubleVisionScaleSpeed2": { "type": "float32", "value": 97 },
+				"m_fDoubleVisionMinScale": { "type": "float32", "value": 0.07000000029802322 },
+				"m_fDoubleVisionMaxScale": { "type": "float32", "value": 0.09000000357627869 },
+				"m_fDoubleVisionBlendSpeed": { "type": "float32", "value": 80 },
+				"m_fDoubleVisionBlendStrength": { "type": "float32", "value": 0.20000000298023224 },
+				"m_fDoubleVisionTrailStrength": { "type": "float32", "value": 0.05000000074505806 },
+				"m_bHDREnabled": { "type": "bool", "value": true },
+				"m_vHDRAdaptationSpeed": { "type": "SVector2", "value": { "x": 2, "y": 2 } },
+				"m_HDRColorTint": { "type": "SColorRGB", "value": "#ffffff" },
+				"m_HDRLensFlareColorA": { "type": "SColorRGB", "value": "#808cf0" },
+				"m_fHDRLensFlareThresholdA": { "type": "float32", "value": 0.550000011920929 },
+				"m_HDRLensFlareColorB": { "type": "SColorRGB", "value": "#806633" },
+				"m_fHDRLensFlareThresholdB": { "type": "float32", "value": 0.5 },
+				"m_HDRLensFlareColorC": { "type": "SColorRGB", "value": "#6633cc" },
+				"m_fHDRLensFlareThresholdC": { "type": "float32", "value": 0.44999998807907104 },
+				"m_HDRLensFlareColorD": { "type": "SColorRGB", "value": "#66664d" },
+				"m_fHDRLensFlareThresholdD": { "type": "float32", "value": 0.4000000059604645 },
+				"m_fSSAOAngleOffset": { "type": "float32", "value": 0.30000001192092896 },
+				"m_vSSAOStrengthNearFar": { "type": "SVector2", "value": { "x": 0, "y": 15 } },
+				"m_vSSAOScreenSpaceRadiusLimits": { "type": "SVector2", "value": { "x": 15, "y": 100 } },
+				"m_vSSAODistanceNearFar": { "type": "SVector2", "value": { "x": 0, "y": 15 } },
+				"m_fLabsDofAnamorphic": { "type": "float32", "value": 0 },
+				"m_fLabsDofSwirl": { "type": "float32", "value": 0 }
+			}
+		},
+		"e0002ea9c6f9072a": {
+			"parent": "5b2360b5a04b122c",
+			"name": "EventChannelTransmitter_bool",
+			"factory": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rChannelToken": { "type": "SEntityTemplateReference", "value": "3907629dc3f07e03", "postInit": true }
+			}
+		},
+		"5b2360b5a04b122c": {
+			"parent": "c0e8ee62f868d32e",
+			"name": "Postfilters",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"9defab639e30df3c": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spor_Water_04",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 8.614699858349892, "y": -71.74375919896877, "z": 83.563486115211 },
+						"position": { "x": -103.93299865722656, "y": 8.274938583374023, "z": -0.8017780184745789 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 5, "y": 7.579400062561035 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.09217099845409393, "y": 0.5487920045852661 }
+				},
+				"m_fAspectXByY": { "type": "float32", "value": 2.809999942779541 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"a3fe97462dbce186": {
+			"parent": "5b2360b5a04b122c",
+			"name": "PostfilterAreaBox",
+			"factory": "[modules:/zpostfilterareaboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpostfilterareaboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": -141.87359619140625, "y": 14.92158031463623, "z": 3.3827569484710693 }
+					}
+				},
+				"m_PostfilterParametersID": { "type": "int32", "value": 0 },
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": { "x": 8.459790229797363, "y": 10.68690013885498, "z": 8.556739807128906 }
+				},
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			}
+		},
+		"d8d3bb13ca425576": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -176.40961042002812, "y": -66.3111827530298, "z": 75.3013165714218 },
+						"position": { "x": -108.1708984375, "y": 21.222660064697266, "z": -1.0593299865722656 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.23567399382591248, "y": 0.303523987531662 } },
+				"m_fDiffusePower": { "type": "float32", "value": 50 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"a1d15133d6b1df19": {
+			"parent": "4694f4c1aca4d875",
+			"name": "EntityTrack_ Camera",
+			"factory": "[modules:/zentitygroup.class].pc_entitytype",
+			"blueprint": "[modules:/zentitygroup.class].pc_entityblueprint",
+			"properties": {
+				"m_targetEntity": { "type": "SEntityTemplateReference", "value": "69ea3637e93c4ed8" },
+				"m_aTracksAndGroups": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d420cac58df00dae"],
+					"postInit": true
+				}
+			}
+		},
+		"933f588c65feac4d": {
+			"parent": "c0e8ee62f868d32e",
+			"name": "GlobalLight",
+			"factory": "[modules:/zgloballightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zgloballightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": -87.16488647460938, "y": 12.760069847106934, "z": 0.15403009951114655 }
+					}
+				},
+				"m_fGlobalLightFrontIntensity": { "type": "float32", "value": 0.004999999888241291 },
+				"m_fGlobalLightBackIntensity": { "type": "float32", "value": 0.003000000026077032 },
+				"m_GlobalLightFrontColor": { "type": "SColorRGB", "value": "#e0f4ff" },
+				"m_GlobalLightBackColor": { "type": "SColorRGB", "value": "#e0f4ff" },
+				"m_bVisibleInBoxReflection": { "type": "bool", "value": true },
+				"m_bVisible": { "type": "bool", "value": true },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_vGlobalLightDirection": { "type": "SVector3", "value": { "x": 1, "y": 1, "z": 1 } },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			}
+		},
+		"af12226fc346a2e": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem07",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 31457280 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -190.10899353027344, 0, 0, 0, 0, -1.265411376953125, -190.10899353027344],
+							[1, -191.37440490722656, 0, 0, 0, 0, 0, -191.37440490722656]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -85.8897705078125, 0, 0, 0, 0, 0, -85.8897705078125],
+							[1, -85.8897705078125, 0, 0, 0, 0, 0, -85.8897705078125]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 90.68914794921875, 0, 0, 0, 0, 0.45581817626953125, 90.68914794921875],
+							[1, 91.14496612548828, 0, 0, 0, 0, 0, 91.14496612548828]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 0, 0, 0, 0, 0, 180],
+							[1, 180, 0, 0, 0, 0, 0, 180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0.8244950175285339, 0, 0, 0, 0, 0.00000095367431640625, 0.8244950175285339],
+							[1, 0.8244959712028503, 0, 0, 0, 0, 0, 0.8244959712028503]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 19.83798599243164, 0, 0, 0, 0, 0, 19.83798599243164],
+							[1, 19.83798599243164, 0, 0, 0, 0, 0, 19.83798599243164]
+						]
+					}
+				}
+			}
+		},
+		"6fddfa6b6d3d8f4": {
+			"parent": "4752f697f6080c18",
+			"name": "EntityTrack_ PostfilterParameters_Street",
+			"factory": "[modules:/zentitygroup.class].pc_entitytype",
+			"blueprint": "[modules:/zentitygroup.class].pc_entityblueprint",
+			"properties": {
+				"m_targetEntity": { "type": "SEntityTemplateReference", "value": "8c5bd9082c8599ff" },
+				"m_aTracksAndGroups": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["58f980464fe667fc"],
+					"postInit": true
+				}
+			}
+		},
+		"5d7cc0944177e78f": {
+			"parent": "c0e8ee62f868d32e",
+			"name": "TimeOfDayConfig",
+			"factory": "[modules:/ztimeofdayconfig.class].pc_entitytype",
+			"blueprint": "[modules:/ztimeofdayconfig.class].pc_entityblueprint",
+			"properties": { "m_fTimeOfDay": { "type": "float32", "value": 22 } }
+		},
+		"d420cac58df00dae": {
+			"parent": "a1d15133d6b1df19",
+			"name": "TrajectoryTrack",
+			"factory": "[modules:/ztrajectorytrack.class].pc_entitytype",
+			"blueprint": "[modules:/ztrajectorytrack.class].pc_entityblueprint",
+			"properties": {
+				"m_entityGroup": { "type": "SEntityTemplateReference", "value": "a1d15133d6b1df19" },
+				"m_aItems": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"561ce743236ec9b1",
+						"8929b7393efb7b1f",
+						"5808189e0508a12",
+						"d73b6d662873905e",
+						"8d540c9099b1b5ed",
+						"adea8dc55015bbc9",
+						"af12226fc346a2e",
+						"a894f7d662810d88",
+						"cc47c24a54366cbb",
+						"1e551969859d6487",
+						"a272fda24841df9b"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"959bc24a70ca93a1": {
+			"parent": "4694f4c1aca4d875",
+			"name": "Active Camera Track",
+			"factory": "[modules:/zrenderdestinationtrack.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderdestinationtrack.class].pc_entityblueprint",
+			"properties": { "m_aItems": { "type": "TArray<SEntityTemplateReference>", "value": ["dc74d69e98086bcb"] } }
+		},
+		"5c97b88ad154ac38": {
+			"parent": "5b2360b5a04b122c",
+			"name": "TokenID_Firework_Postfilter02",
+			"factory": "[modules:/ztokenidentity.class].pc_entitytype",
+			"blueprint": "[modules:/ztokenidentity.class].pc_entityblueprint",
+			"properties": { "m_sName": { "type": "ZString", "value": "TokenID_Firework_Postfilter" } }
+		},
+		"9f12105e05baba18": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light02",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 162.93623756013866, "y": -66.10466958552416, "z": -87.60883875615099 },
+						"position": { "x": -108.14689636230469, "y": 8.418184280395508, "z": -1.0456370115280151 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.23567399382591248, "y": 0.303523987531662 } },
+				"m_fDiffusePower": { "type": "float32", "value": 50 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"4a0bac6cc35f7dc0": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Reflected_00",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 24.860762243385157, "y": 88.38953806548103, "z": 72.47780894013738 },
+						"position": { "x": -105.82260131835938, "y": 13.812910079956055, "z": 0.04338600113987923 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 2.7969601154327393, "y": 15.409000396728516 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 2.334420919418335, "y": 2.391200065612793 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#a9b996" },
+				"m_fDiffusePower": { "type": "float32", "value": 7 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.0010000000474974513, "y": 0.2827410101890564 }
+				},
+				"m_fShadowFadeLength": { "type": "float32", "value": 5 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_fAspectXByY": { "type": "float32", "value": 80 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"561ce743236ec9b1": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 0 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -238.13079833984375, 0, 0, 0, 0, -4.517486572265625, -238.13079833984375],
+							[1, -242.64828491210938, 0, 0, 0, 0, 0, -242.64828491210938]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -84.99430084228516, 0, 0, 0, 0, 0, -84.99430084228516],
+							[1, -84.99430084228516, 0, 0, 0, 0, 0, -84.99430084228516]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 100.84449768066406, 0, 0, 0, 0, -3.9301681518554688, 100.84449768066406],
+							[1, 96.9143295288086, 0, 0, 0, 0, 0, 96.9143295288086]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0, 0, 0, 0, 0, 0, 0],
+							[1, 0, 0, 0, 0, 0, 0, 0]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 19.443859100341797, 0, 0, 0, 0, -0.5244827270507813, 19.443859100341797],
+							[1, 18.919376373291016, 0, 0, 0, 0, 0, 18.919376373291016]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -131.02285766601563, 0, 0, 0, 0, 0, -131.02285766601563],
+							[1, -131.02285766601563, 0, 0, 0, 0, 0, -131.02285766601563]
+						]
+					}
+				}
+			}
+		},
+		"1b0b69237e760a91": {
+			"parent": "58f980464fe667fc",
+			"name": "CurveItem",
+			"factory": "[modules:/zfloatcurvesource.class].pc_entitytype",
+			"blueprint": "[modules:/zfloatcurvesource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 0 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 10464788 } },
+				"m_curve": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[
+								0, 0.20000000298023224, 0.07334671169519424, -0.3716934323310852, 0.823346734046936,
+								-0.675000011920929, 0, 0.20000000298023224
+							],
+							[
+								0.3977956175804138, 0.05000000074505806, 0.000000000000000023560180068847736,
+								-0.0000000000000000400653102234511, 0.000000000000000009566237905057358,
+								0.000000000000000018646692488697025, -0.000000000000000009375011945408574,
+								0.05000000074505806
+							],
+							[
+								0.6012024283409119, 0.05000000074505806, -0.22590182721614838, 0.4527054727077484,
+								-0.5277054905891418, 0.4509018361568451, -0.000000000000000027755575615628914,
+								0.05000000074505806
+							],
+							[1, 0.20000000298023224, 0, 0, 0, 0, 0, 0.20000000298023224]
+						]
+					}
+				}
+			}
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"94f84a1fdc30b263": {
+			"parent": "5b2360b5a04b122c",
+			"name": "EventChannelReceiver_bool",
+			"factory": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelreceiver_bool.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelreceiver_bool.entitytemplate].pc_entityblueprint",
+			"properties": { "m_rChannelToken": { "type": "SEntityTemplateReference", "value": "5c97b88ad154ac38" } },
+			"events": {
+				"OnTrue": { "Start": ["4752f697f6080c18"], "In": ["3e0ea85f9e0f1499"] },
+				"OnFalse": { "Unpause": ["4752f697f6080c18"] }
+			}
+		},
+		"5808189e0508a12": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem03",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 10485760 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -116.6227035522461, 0, 0, 0, 0, -1.5639495849609375, -116.6227035522461],
+							[1, -118.18665313720703, 0, 0, 0, 0, 0, -118.18665313720703]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -86.22301483154297, 0, 0, 0, 0, -0.159942626953125, -86.22301483154297],
+							[1, -86.3829574584961, 0, 0, 0, 0, 0, -86.3829574584961]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -63.63459014892578, 0, 0, 0, 0, 2.6906280517578125, -63.63459014892578],
+							[1, -60.94396209716797, 0, 0, 0, 0, 0, -60.94396209716797]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 0, 0, 0, 0, 0, 180],
+							[1, 180, 0, 0, 0, 0, 0, 180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 3.9594430923461914, 0, 0, 0, 0, 0.20311784744262695, 3.9594430923461914],
+							[1, 4.162560939788818, 0, 0, 0, 0, 0, 4.162560939788818]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 138.5292205810547, 0, 0, 0, 0, 0.1602020263671875, 138.5292205810547],
+							[1, 138.68942260742188, 0, 0, 0, 0, 0, 138.68942260742188]
+						]
+					}
+				}
+			}
+		},
+		"70e27a65379324ca": {
+			"parent": "5b2360b5a04b122c",
+			"name": "MiddleGrayCurve_BackUp",
+			"factory": "[modules:/zmiddlegraycurveentity.class].pc_entitytype",
+			"blueprint": "[modules:/zmiddlegraycurveentity.class].pc_entityblueprint",
+			"properties": {
+				"m_Remap": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[-6, 0.004874347243458033, 0, 0, 0, 0, 0.0011221279855817556, 0.004874347243458033],
+							[
+								-4.002769947052002, 0.005996475461870432, 0, 0, 0, 0, 0.0036961089354008436,
+								0.005996475461870432
+							],
+							[
+								-3.0107123851776123, 0.009692584164440632, 0, 0, 0, 0, 0.013886833563446999,
+								0.009692584164440632
+							],
+							[
+								-1.9621422290802002, 0.023579416796565056, 0, 0, 0, 0, 0.017321141436696053,
+								0.023579416796565056
+							],
+							[-1.432363748550415, 0.04090055823326111, 0, 0, 0, 0, 0.020392918959259987, 0.04090055823326111],
+							[
+								-0.9885783791542053, 0.061293479055166245, 0, 0, 0, 0, 0.05382251366972923,
+								0.061293479055166245
+							],
+							[0.00736115500330925, 0.11511599272489548, 0, 0, 0, 0, 0.06281179189682007, 0.11511599272489548],
+							[0.9863947629928589, 0.17792779207229614, 0, 0, 0, 0, 0.0145752327516675, 0.17792779207229614],
+							[1.8051707744598389, 0.19250302016735077, 0, 0, 0, 0, 0.002119481796398759, 0.19250302016735077],
+							[2.9473683834075928, 0.19462250173091888, 0, 0, 0, 0, 0, 0.19462250173091888]
+						]
+					}
+				}
+			}
+		},
+		"c0e8ee62f868d32e": {
+			"parent": "fffffffffffffffe",
+			"name": "TOD_Sunset",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"f9390322feb50a0c": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Reflected_02",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 24.872724916802664, "y": 88.38953806548035, "z": 162.46808511816644 },
+						"position": { "x": -106.61699676513672, "y": 14.947290420532227, "z": 0.04338600113987923 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 2.7969601154327393, "y": 24.759300231933594 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 2.334420919418335, "y": 2.391200065612793 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#a9b996" },
+				"m_fDiffusePower": { "type": "float32", "value": 7 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.0010000000474974513, "y": 0.2827410101890564 }
+				},
+				"m_fShadowFadeLength": { "type": "float32", "value": 5 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_fAspectXByY": { "type": "float32", "value": 80 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"ec51b54bd7af6702": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light13",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.078911804463789, "y": 82.16133017788628, "z": 82.48755871637732 },
+						"position": { "x": -105.99449920654297, "y": 12.930480003356934, "z": -0.9462260007858276 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7249860167503357 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"4d696036d1a10374": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Top_01",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -180, "y": -56.918290859652345, "z": 93.71114673966916 },
+						"position": { "x": -105.88349914550781, "y": 17.78388023376465, "z": 3.6943349838256836 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 1.4268499612808228, "y": 3.414330005645752 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 15 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.28194698691368103, "y": 0.5169439911842346 }
+				},
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"adea8dc55015bbc9": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem05",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 26214400 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -112.69329833984375, 0, 0, 0, 0, -0.6727828979492188, -112.69329833984375],
+							[1, -113.36608123779297, 0, 0, 0, 0, 0, -113.36608123779297]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -86.37750244140625, 0, 0, 0, 0, 0, -86.37750244140625],
+							[1, -86.37750244140625, 0, 0, 0, 0, 0, -86.37750244140625]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -33.39305114746094, 0, 0, 0, 0, 0.7759513854980469, -33.39305114746094],
+							[1, -32.61709976196289, 0, 0, 0, 0, 0, -32.61709976196289]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 0, 0, 0, 0, 0, 180],
+							[1, 180, 0, 0, 0, 0, 0, 180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0.280366986989975, 0, 0, 0, 0, -0.005109995603561401, 0.280366986989975],
+							[1, 0.2752569913864136, 0, 0, 0, 0, 0, 0.2752569913864136]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 49.094295501708984, 0, 0, 0, 0, 0.0006866455078125, 49.094295501708984],
+							[1, 49.0949821472168, 0, 0, 0, 0, 0, 49.0949821472168]
+						]
+					}
+				}
+			}
+		},
+		"f9902dacbcd8a2ea": {
+			"parent": "5b2360b5a04b122c",
+			"name": "PostfilterParameters_Indoor_Neutral",
+			"factory": "[modules:/zrenderpostfilterparametersentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint",
+			"properties": {
+				"m_bColorCorrectionEnabled": { "type": "bool", "value": true },
+				"m_bDistortionBarrelEnabled": { "type": "bool", "value": false },
+				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomFalloff": { "type": "float32", "value": 1.5 },
+				"m_bNoiseEnabled": { "type": "bool", "value": true },
+				"m_bHDRGlareEnabled": { "type": "bool", "value": true },
+				"m_eHDRGlareType": {
+					"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+					"value": "eCinecamVerticalSlits"
+				},
+				"m_bSSAOEnabled": { "type": "bool", "value": true },
+				"m_bFogEnabled": { "type": "bool", "value": true },
+				"m_fDistortionBarrelScale": { "type": "float32", "value": 0.5 },
+				"m_fFogDensity": { "type": "float32", "value": 0.10000000149011612 },
+				"m_FogColor": { "type": "SColorRGB", "value": "#141414" },
+				"m_bVignetteEnabled": { "type": "bool", "value": true },
+				"m_bDepthOfFieldEnabled": { "type": "bool", "value": true },
+				"m_fDepthOfFieldFocalDistance": { "type": "float32", "value": 10 },
+				"m_fLensBlur": { "type": "float32", "value": 0 },
+				"m_bGaussianBlurEnabled": { "type": "bool", "value": false },
+				"m_fGaussianBlurriness": { "type": "float32", "value": 0.05000000074505806 },
+				"m_fSpatialBlurriness": { "type": "float32", "value": 0.4000000059604645 },
+				"m_fDepthOfFieldFocusEnd": { "type": "float32", "value": 50 },
+				"m_fDepthOfFieldFocalFadeNear": { "type": "float32", "value": 0.5 },
+				"m_bRadialBlurEnabled": { "type": "bool", "value": false },
+				"m_bSpatialBlurEnabled": { "type": "bool", "value": false },
+				"m_fHDRBloomScale": { "type": "float32", "value": 1.5 },
+				"m_fDepthOfFieldBlurriness": { "type": "float32", "value": 1 },
+				"m_bDistortionWobbleEnabled": { "type": "bool", "value": false },
+				"m_fDistortionWobbleScale": { "type": "float32", "value": 1.100000023841858 },
+				"m_vDistortionWobbleSpeed": { "type": "SVector2", "value": { "x": 1, "y": 2 } },
+				"m_fNoiseIntensity": { "type": "float32", "value": 0.05000000074505806 },
+				"m_fNoiseScale": { "type": "float32", "value": 0.800000011920929 },
+				"m_bFogGlobal": { "type": "bool", "value": false },
+				"m_VignetteColor": { "type": "SColorRGB", "value": "#606e7d" },
+				"m_fVignetteStrength": { "type": "float32", "value": 0.6000000238418579 },
+				"m_bDepthOfFieldUseNew": { "type": "bool", "value": true },
+				"m_fDepthOfFieldAperture": { "type": "float32", "value": 3 },
+				"m_vDistortionBarrel": {
+					"type": "SVector2",
+					"value": { "x": 0.11999999731779099, "y": 0.05999999865889549 }
+				},
+				"m_bForegroundBlur": { "type": "bool", "value": false },
+				"m_eBlurQuality": {
+					"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+					"value": "eLowRezLensBlurSoft"
+				},
+				"m_fHDRLensFlareAttenuation": { "type": "float32", "value": 1 },
+				"m_vFogNearDistances": { "type": "SVector2", "value": { "x": 0, "y": 1000 } },
+				"m_bFogUseQuarterRes": { "type": "bool", "value": false },
+				"m_vFogTurbulenceNearScale": { "type": "SVector3", "value": { "x": 500, "y": 500, "z": 500 } },
+				"m_fFogTurbulenceOpacity": { "type": "float32", "value": 0.800000011920929 },
+				"m_fRadialBlurStart": { "type": "float32", "value": 5.659999847412109 },
+				"m_fRadialBlurriness": { "type": "float32", "value": 1 },
+				"m_fRadialBlurFadeFactor": { "type": "float32", "value": 0.27000001072883606 },
+				"m_vVignetteGradientLightColor": { "type": "SColorRGB", "value": "#999999" },
+				"m_fVignetteGradientLightSize": { "type": "float32", "value": 0.699999988079071 },
+				"m_fVignetteGradientLightStrength": { "type": "float32", "value": 0 },
+				"m_fDepthOfFieldFocusStart": { "type": "float32", "value": 1 },
+				"m_vFogTurbulenceVelocity": { "type": "SVector3", "value": { "x": 3, "y": 1, "z": 2 } },
+				"m_fHDRBrightPassThreshold": { "type": "float32", "value": 3 },
+				"m_eHDRToneMapType": { "type": "ZRenderPostfilterParametersEntity.EHDRToneMapType", "value": "eFilmicRGB" },
+				"m_fHDRWhitePoint": { "type": "float32", "value": 20 },
+				"m_fFogTurbulenceChaos": { "type": "float32", "value": 0.5 },
+				"m_fDepthOfFieldFocalFadeFar": { "type": "float32", "value": 25 },
+				"m_fSSAOOcclusionRange": { "type": "float32", "value": 1 },
+				"m_HDRAdaptionMiddleGrayCurveEntity": { "type": "SEntityTemplateReference", "value": "1627c500928a17f2" },
+				"m_nParameterId": { "type": "int32", "value": 0 },
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_paris_night.texture?/diffuse_a.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"m_bHDREnabled": { "type": "bool", "value": true },
+				"m_vSSAOStrengthNearFar": { "type": "SVector2", "value": { "x": 0, "y": 15 } },
+				"m_vSSAOScreenSpaceRadiusLimits": { "type": "SVector2", "value": { "x": 15, "y": 100 } },
+				"m_vSSAODistanceNearFar": { "type": "SVector2", "value": { "x": 0, "y": 15 } },
+				"m_fLabsDofAnamorphic": { "type": "float32", "value": 0 },
+				"m_fLabsDofSwirl": { "type": "float32", "value": 0 },
+				"m_vHDRAdaptationSpeed": { "type": "SVector2", "value": { "x": 2, "y": 2 } }
+			}
+		},
+		"31b57211740acfe9": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light06",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.074332158762268, "y": 82.16133017788624, "z": -34.42392128869621 },
+						"position": { "x": -104.30879974365234, "y": 15.789340019226074, "z": -0.9463610053062439 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.8590790033340454 } },
+				"m_fDiffusePower": { "type": "float32", "value": 5 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"4752f697f6080c18": {
+			"parent": "5b2360b5a04b122c",
+			"name": "Fireworks_Postfilter",
+			"factory": "[modules:/zsequenceentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsequenceentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aTracksAndGroups": { "type": "TArray<SEntityTemplateReference>", "value": ["6fddfa6b6d3d8f4"] },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 10464788 } }
+			}
+		},
+		"a894f7d662810d88": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem08",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 36700160 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -134.40350341796875, 0, 0, 0, 0, -2.17449951171875, -134.40350341796875],
+							[1, -136.5780029296875, 0, 0, 0, 0, 0, -136.5780029296875]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -86.687255859375, 0, 0, 0, 0, 0.687286376953125, -86.687255859375],
+							[1, -85.99996948242188, 0, 0, 0, 0, 0, -85.99996948242188]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 80.79060363769531, 0, 0, 0, 0, 2.1402740478515625, 80.79060363769531],
+							[1, 82.93087768554688, 0, 0, 0, 0, 0, 82.93087768554688]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 0, 0, 0, 0, 0, 180],
+							[1, 180, 0, 0, 0, 0, 0, 180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0.9634389877319336, 0, 0, 0, 0, -0.23488599061965942, 0.9634389877319336],
+							[1, 0.7285529971122742, 0, 0, 0, 0, 0, 0.7285529971122742]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 50.245079040527344, 0, 0, 0, 0, -8.938316345214844, 50.245079040527344],
+							[1, 41.3067626953125, 0, 0, 0, 0, 0, 41.3067626953125]
+						]
+					}
+				}
+			}
+		},
+		"3907629dc3f07e03": {
+			"parent": "5b2360b5a04b122c",
+			"name": "TokenID_Firework_Postfilter01",
+			"factory": "[modules:/ztokenidentity.class].pc_entitytype",
+			"blueprint": "[modules:/ztokenidentity.class].pc_entityblueprint",
+			"properties": { "m_sName": { "type": "ZString", "value": "TokenID_Firework_Postfilter" } }
+		},
+		"d73b6d662873905e": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem04",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 15728640 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -128.88360595703125, 0, 0, 0, 0, -1.07989501953125, -128.88360595703125],
+							[1, -129.9635009765625, 0, 0, 0, 0, 0, -129.9635009765625]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -88.94038391113281, 0, 0, 0, 0, 0.16115570068359375, -88.94038391113281],
+							[1, -88.77922821044922, 0, 0, 0, 0, 0, -88.77922821044922]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -52.330631256103516, 0, 0, 0, 0, 0.19850921630859375, -52.330631256103516],
+							[1, -52.13212203979492, 0, 0, 0, 0, 0, -52.13212203979492]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 0, 0, 0, 0, 0, 180],
+							[1, 180, 0, 0, 0, 0, 0, 180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0.6040229797363281, 0, 0, 0, 0, 0.016228020191192627, 0.6040229797363281],
+							[1, 0.6202509999275208, 0, 0, 0, 0, 0, 0.6202509999275208]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 54.37049865722656, 0, 0, 0, 0, -0.001102447509765625, 54.37049865722656],
+							[1, 54.3693962097168, 0, 0, 0, 0, 0, 54.3693962097168]
+						]
+					}
+				}
+			}
+		},
+		"58f980464fe667fc": {
+			"parent": "6fddfa6b6d3d8f4",
+			"name": "Blurriness Track",
+			"factory": "[modules:/zentitypropertytrack.class].pc_entitytype",
+			"blueprint": "[modules:/zentitypropertytrack.class].pc_entityblueprint",
+			"properties": {
+				"m_sPropertyName": { "type": "ZString", "value": "m_fDepthOfFieldBlurriness" },
+				"m_entityGroup": { "type": "SEntityTemplateReference", "value": "6fddfa6b6d3d8f4" },
+				"m_aItems": { "type": "TArray<SEntityTemplateReference>", "value": ["1b0b69237e760a91"] }
+			}
+		},
+		"a272fda24841df9b": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem11",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 52428800 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -7.420662879943848, 0, 0, 0, 0, -16.500240325927734, -7.420662879943848],
+							[1, -23.9209041595459, 0, 0, 0, 0, 0, -23.9209041595459]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -87.56353759765625, 0, 0, 0, 0, 0, -87.56353759765625],
+							[1, -87.56353759765625, 0, 0, 0, 0, 0, -87.56353759765625]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 18.8050594329834, 0, 0, 0, 0, -3.2814464569091797, 18.8050594329834],
+							[1, 15.523612976074219, 0, 0, 0, 0, 0, 15.523612976074219]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 0, 0, 0, 0, 0, 0, 0],
+							[1, 0, 0, 0, 0, 0, 0, 0]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 23.110549926757813, 0, 0, 0, 0, -0.7158374786376953, 23.110549926757813],
+							[1, 22.394712448120117, 0, 0, 0, 0, 0, 22.394712448120117]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -101.24781799316406, 0, 0, 0, 0, 0, -101.24781799316406],
+							[1, -101.24781799316406, 0, 0, 0, 0, 0, -101.24781799316406]
+						]
+					}
+				}
+			}
+		},
+		"54693415e9ec5827": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Top_00",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 179.99979006152475, "y": -56.9182908596523, "z": -87.94468195642384 },
+						"position": { "x": -106.17150115966797, "y": 11.989219665527344, "z": 3.6943349838256836 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 1.4268499612808228, "y": 3.414330005645752 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 15 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.28194698691368103, "y": 0.5169439911842346 }
+				},
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"2e9cc19263368063": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light08",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 4.07807390463062, "y": 82.16133017788628, "z": -48.72538974690047 },
+						"position": { "x": -106.70189666748047, "y": 16.89875030517578, "z": -0.9462260007858276 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.7249860167503357 } },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"4694f4c1aca4d875": {
+			"parent": "c0e8ee62f868d32e",
+			"name": "Sequence_Lighting_FlyThrough",
+			"factory": "[modules:/zsequenceentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsequenceentity.class].pc_entityblueprint",
+			"properties": {
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 57671680 } },
+				"m_aTracksAndGroups": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["a1d15133d6b1df19", "959bc24a70ca93a1"]
+				}
+			}
+		},
+		"f19173562282a497": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spot_Reflected_03",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 24.86274896061452, "y": 88.38953806548058, "z": -17.522906241836722 },
+						"position": { "x": -104.68830108642578, "y": 14.607279777526855, "z": 0.002372999908402562 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 2.7969601154327393, "y": 15.409000396728516 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 2.334420919418335, "y": 2.391200065612793 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#a9b996" },
+				"m_fDiffusePower": { "type": "float32", "value": 7 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.0010000000474974513, "y": 0.2827410101890564 }
+				},
+				"m_fShadowFadeLength": { "type": "float32", "value": 5 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_fAspectXByY": { "type": "float32", "value": 80 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"8bb694537d7a5659": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light_Spor_Water_03",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 8.614699858349875, "y": -71.74375919896882, "z": 114.23720152365264 },
+						"position": { "x": -108.18789672851563, "y": 8.30348014831543, "z": -0.8017780184745789 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_SQUARESPOT" },
+				"m_fCapsuleHeight": { "type": "float32", "value": 8.672553062438965 },
+				"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 5, "y": 7.579400062561035 } },
+				"m_vNearAttenuation": { "type": "SVector2", "value": { "x": 0.5844209790229797, "y": 1.1211999654769897 } },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#f2ca96" },
+				"m_fDiffusePower": { "type": "float32", "value": 10 },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_bCrowdCastShadows": { "type": "bool", "value": false },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.09217099845409393, "y": 0.5487920045852661 }
+				},
+				"m_fAspectXByY": { "type": "float32", "value": 2.809999942779541 },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 70 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"f6c81b20cfe44cc6": {
+			"parent": "c0e8ee62f868d32e",
+			"name": "Light_Directional_CSM",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 16.465016218599835, "y": 80.36979102488995, "z": -90.40517307115113 },
+						"position": { "x": -231.66099548339844, "y": -11.507840156555176, "z": 3.3210461139678955 }
+					}
+				},
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fff6eb" },
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_DIRECTIONAL" },
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": { "x": 78.73370361328125, "y": 480.4209899902344, "z": 573.1199951171875 }
+				},
+				"m_fDiffusePower": { "type": "float32", "value": 2 },
+				"m_bCastCSMShadows": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"m_bVisible": { "type": "bool", "value": true },
+				"m_vProjectorMapTiling": { "type": "SVector2", "value": { "x": 1, "y": 1 } },
+				"m_vProjectorMapOffset": { "type": "SVector2", "value": { "x": 0, "y": 0 } },
+				"m_eRoomBehaviour": { "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_STATIC_OUTSIDE_CLIENT" },
+				"m_fShadowBlurWidth": { "type": "float32", "value": 0.38999998569488525 },
+				"m_bCrowdCastShadows": { "type": "bool", "value": true },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe" }
+			}
+		},
+		"cc47c24a54366cbb": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem09",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 41943040 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -257.0071105957031, 0, 0, 0, 0, -0.360931396484375, -257.0071105957031],
+							[1, -257.3680419921875, 0, 0, 0, 0, 0, -257.3680419921875]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -81.06197357177734, 0, 0, 0, 0, 0.5148544311523438, -81.06197357177734],
+							[1, -80.547119140625, 0, 0, 0, 0, 0, -80.547119140625]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 67.61135864257813, 0, 0, 0, 0, 0.1055908203125, 67.61135864257813],
+							[1, 67.71694946289063, 0, 0, 0, 0, 0, 67.71694946289063]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 0, 0, 0, 0, -3.2667694091796875, 180],
+							[1, 176.7332305908203, 0, 0, 0, 0, 0, 176.7332305908203]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 1.3580260276794434, 0, 0, 0, 0, -0.04623305797576904, 1.3580260276794434],
+							[1, 1.3117929697036743, 0, 0, 0, 0, 0, 1.3117929697036743]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 21.363813400268555, 0, 0, 0, 0, -1.5638599395751953, 21.363813400268555],
+							[1, 19.79995346069336, 0, 0, 0, 0, 0, 19.79995346069336]
+						]
+					}
+				}
+			}
+		},
+		"591844b8d2be27e": {
+			"parent": {
+				"ref": "5a8f40fde10e4b2f",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+			},
+			"name": "Light05",
+			"factory": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -12.99077507555364, "y": 82.16133017788638, "z": 41.59484894111249 },
+						"position": { "x": -104.35549926757813, "y": 13.88782024383545, "z": -0.9460999965667725 }
+					}
+				},
+				"m_eLightType": { "type": "ILightEntity.ELightType", "value": "LT_AREA_QUAD" },
+				"m_vAreaQuadSize": { "type": "SVector2", "value": { "x": 0.4102669954299927, "y": 0.8093119859695435 } },
+				"m_fDiffusePower": { "type": "float32", "value": 5 },
+				"m_diffuseColor": { "type": "SColorRGB", "value": "#fffeb0" },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": { "type": "float32", "value": 20 },
+				"m_fLightFadeLength": { "type": "float32", "value": 10 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "7e6db811b82cef18",
+						"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"8929b7393efb7b1f": {
+			"parent": "d420cac58df00dae",
+			"name": "CurveTrajectoryItem02",
+			"factory": "[modules:/zeulerangletrajectorysource.class].pc_entitytype",
+			"blueprint": "[modules:/zeulerangletrajectorysource.class].pc_entityblueprint",
+			"properties": {
+				"m_startTime": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_duration": { "type": "ZGameTime", "value": { "m_nTicks": 5242880 } },
+				"m_CurveX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -186.74049377441406, 0, 0, 0, 0, 0.551788330078125, -186.74049377441406],
+							[1, -186.18870544433594, 0, 0, 0, 0, 0, -186.18870544433594]
+						]
+					}
+				},
+				"m_CurveRotX": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -85.10719299316406, 0, 0, 0, 0, 0, -85.10719299316406],
+							[1, -85.10719299316406, 0, 0, 0, 0, 0, -85.10719299316406]
+						]
+					}
+				},
+				"m_CurveY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -1.9063400030136108, 0, 0, 0, 0, -0.8005520105361938, -1.9063400030136108],
+							[1, -2.7068920135498047, 0, 0, 0, 0, 0, -2.7068920135498047]
+						]
+					}
+				},
+				"m_CurveRotY": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 180, 1.2928931713104248, -1.5857864618301392, 0.2928932309150696, 0, 0, 180],
+							[1, 180, 0, 0, 0, 0, 0, 180]
+						]
+					}
+				},
+				"m_CurveZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, 8.820836067199707, 0, 0, 0, 0, 0.08045291900634766, 8.820836067199707],
+							[1, 8.901288986206055, 0, 0, 0, 0, 0, 8.901288986206055]
+						]
+					}
+				},
+				"m_CurveRotZ": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[0, -19.711074829101563, 0, 0, 0, 0, -0.000049591064453125, -19.711074829101563],
+							[1, -19.711124420166016, 0, 0, 0, 0, 0, -19.711124420166016]
+						]
+					}
+				}
+			}
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "e6081d9b8398583d",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+				"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 0.029999999329447746 },
+				"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 0.029999999329447746 },
+				"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#ffb48f" },
+				"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ffd88f" },
+				"m_vGlobalLightOverrideDirection": {
+					"type": "SVector3",
+					"value": { "x": -0.20000000298023224, "y": 1.2000000476837158, "z": 1 }
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "7e6db811b82cef18",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
+				"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 0.20000000298023224 },
+				"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 0.30000001192092896 },
+				"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fff0d6" },
+				"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#d1eeff" },
+				"m_vGlobalLightOverrideDirection": { "type": "SVector3", "value": { "x": 0.5, "y": -1, "z": 1 } }
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

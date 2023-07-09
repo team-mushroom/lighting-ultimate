@@ -47,6 +47,7 @@
 ```
 
 # Season 3
+
 Dubai uses its own postfilter brick, so as with S1 there is no lighting_overides brick necessary.
 
 ```

@@ -1,1 +1,6 @@
-{"tempHash":"0070618948D80BB7","tbluHash":"00D28C5094B34EF9","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/sheep/lighting_overrides_sheep.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "0070618948D80BB7",
+	"tbluHash": "00D28C5094B34EF9",
+	"patch": [{ "AddExternalScene": "[assembly:/_pro/scenes/missions/sheep/lighting_overrides_sheep.brick].pc_entitytype" }],
+	"patchVersion": 6
+}

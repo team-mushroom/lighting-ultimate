@@ -1,1 +1,6 @@
-{"tempHash":"00C18C63D3E2E1E1","tbluHash":"0010AFE7E85F2D38","patch":[{"AddExternalScene":"[assembly:/_pro/scenes/missions/skunk/lighting_overrides_skunk.brick].pc_entitytype"}],"patchVersion":6}
+{
+	"tempHash": "00C18C63D3E2E1E1",
+	"tbluHash": "0010AFE7E85F2D38",
+	"patch": [{ "AddExternalScene": "[assembly:/_pro/scenes/missions/skunk/lighting_overrides_skunk.brick].pc_entitytype" }],
+	"patchVersion": 6
+}
