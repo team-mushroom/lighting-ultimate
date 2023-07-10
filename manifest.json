@@ -4,7 +4,7 @@
 	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
 	"authors": ["musicalmushr00m"],
 	"frameworkVersion": "2.30.3",
-	"version": "2.4.0",
+	"version": "2.4.1",
 	"updateCheck": "https://github.com/team-mushroom/lighting-ultimate/releases/latest/download/updates.json",
 	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
 	"options": [
