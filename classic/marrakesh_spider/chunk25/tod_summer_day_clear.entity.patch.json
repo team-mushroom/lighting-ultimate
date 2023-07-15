@@ -325,171 +325,171 @@
 				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
 			]
 		},
-		{ "SubEntityOperation": ["53922f63e425b2f", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
-		{ "SubEntityOperation": ["53922f63e425b2f", { "RemovePropertyByName": "m_fHDRStarScale" }] },
-		{ "SubEntityOperation": ["53922f63e425b2f", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{ "SubEntityOperation": ["053922f63e425b2f", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["053922f63e425b2f", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["053922f63e425b2f", { "RemovePropertyByName": "m_fVignetteMax" }] },
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"53922f63e425b2f",
+				"053922f63e425b2f",
 				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
 			]
 		},
-		{ "SubEntityOperation": ["5e285d21184576b", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
-		{ "SubEntityOperation": ["5e285d21184576b", { "RemovePropertyByName": "m_fHDRStarScale" }] },
-		{ "SubEntityOperation": ["5e285d21184576b", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{ "SubEntityOperation": ["05e285d21184576b", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["05e285d21184576b", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["05e285d21184576b", { "RemovePropertyByName": "m_fVignetteMax" }] },
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_eHDRGlareType", "value": "eFilterSunnyCross" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 0.30000001192092896 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 4, "y": 8 } } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"5e285d21184576b",
+				"05e285d21184576b",
 				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
 			]
 		},
@@ -582,239 +582,823 @@
 			]
 		},
 		{
-			"RemovePropertyOverride": {
-				"entities": [
-					{
-						"ref": "ddd55188deb67384",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "29bb6fd0ed43d46",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 5 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 5 },
-					"m_fMiddleGrayMultiplier": { "type": "float32", "value": 0.5 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "ddd55188deb67384",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 5 }
 			}
 		},
 		{
-			"RemovePropertyOverride": {
-				"entities": [
-					{
-						"ref": "a42f2866421edd1b",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "76e1d47cf1174dc",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "dd72bcda1b81bed4",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "6b1586e13971b28c",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "204f2e8193d8ef5b",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": { "GlowPower": { "type": "float32", "value": 300 } }
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "ddd55188deb67384",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 5 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "ddd55188deb67384",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "25b06edc7ff9b77c",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "29bb6fd0ed43d46",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "dc9dc12f840ddf01",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					},
-					{
-						"ref": "158426225ad4ec5c",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 50 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "ddd55188deb67384",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fMiddleGrayMultiplier",
+				"propertyOverride": { "type": "float32", "value": 0.5 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "dd0a896b2028ebe5",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_vGlobalLightOverrideDirection": { "type": "SVector3", "value": { "x": 0.5, "y": -0.5, "z": 2 } },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ffd9cc" },
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 10 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "029bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "9e7ff32767dc846e",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" },
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 30 }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "029bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 5 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "ac4a8e214a71dd08",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 20 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ffccfb" },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "029bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 5 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "1e3d0be489846c60",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 1 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 1 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#ff6a57" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ff7d7d" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "029bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fMiddleGrayMultiplier",
+				"propertyOverride": { "type": "float32", "value": 0.5 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "dc2c4dac9db6e725",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 0.5 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 0.5 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#b1dffa" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#ccfff1" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "029bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "d1fdefee43f92296",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 20 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "029bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "99f7d088ea8a6765",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 10 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 10 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "a42f2866421edd1b",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "GlowPower",
+				"propertyOverride": { "type": "float32", "value": 300 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "4df975b10a48c20c",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 10 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "076e1d47cf1174dc",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "GlowPower",
+				"propertyOverride": { "type": "float32", "value": 300 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "20adbdaeee3cf5ba",
-						"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 5 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 20 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#fae2b1" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#cceeff" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd72bcda1b81bed4",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "GlowPower",
+				"propertyOverride": { "type": "float32", "value": 300 }
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "6b1586e13971b28c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "GlowPower",
+				"propertyOverride": { "type": "float32", "value": 300 }
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "204f2e8193d8ef5b",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "GlowPower",
+				"propertyOverride": { "type": "float32", "value": 300 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ddd55188deb67384",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 50 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ddd55188deb67384",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "25b06edc7ff9b77c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "25b06edc7ff9b77c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 50 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "25b06edc7ff9b77c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "25b06edc7ff9b77c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "25b06edc7ff9b77c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "29bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "29bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 50 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "29bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "29bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "29bb6fd0ed43d46",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc9dc12f840ddf01",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc9dc12f840ddf01",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 50 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc9dc12f840ddf01",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc9dc12f840ddf01",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc9dc12f840ddf01",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "158426225ad4ec5c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "158426225ad4ec5c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 50 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "158426225ad4ec5c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "158426225ad4ec5c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "158426225ad4ec5c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd0a896b2028ebe5",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_vGlobalLightOverrideDirection",
+				"propertyOverride": { "type": "SVector3", "value": { "x": 0.5, "y": -0.5, "z": 2 } }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd0a896b2028ebe5",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd0a896b2028ebe5",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#ffd9cc" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd0a896b2028ebe5",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd0a896b2028ebe5",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dd0a896b2028ebe5",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 20 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "9e7ff32767dc846e",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 20 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "9e7ff32767dc846e",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "9e7ff32767dc846e",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "9e7ff32767dc846e",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "9e7ff32767dc846e",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 30 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ac4a8e214a71dd08",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ac4a8e214a71dd08",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 20 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ac4a8e214a71dd08",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ac4a8e214a71dd08",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#ffccfb" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ac4a8e214a71dd08",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "1e3d0be489846c60",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "1e3d0be489846c60",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 1 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "1e3d0be489846c60",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 1 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "1e3d0be489846c60",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#ff6a57" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "1e3d0be489846c60",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#ff7d7d" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc2c4dac9db6e725",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc2c4dac9db6e725",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 0.5 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc2c4dac9db6e725",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 0.5 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc2c4dac9db6e725",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#b1dffa" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "dc2c4dac9db6e725",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#ccfff1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d1fdefee43f92296",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d1fdefee43f92296",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 20 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d1fdefee43f92296",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d1fdefee43f92296",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d1fdefee43f92296",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "99f7d088ea8a6765",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "99f7d088ea8a6765",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "99f7d088ea8a6765",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "99f7d088ea8a6765",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "99f7d088ea8a6765",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4df975b10a48c20c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4df975b10a48c20c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 10 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4df975b10a48c20c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 20 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4df975b10a48c20c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4df975b10a48c20c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "20adbdaeee3cf5ba",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_bGlobalLightOverrideEnable",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "20adbdaeee3cf5ba",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideBackIntensity",
+				"propertyOverride": { "type": "float32", "value": 5 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "20adbdaeee3cf5ba",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fGlobalLightOverrideFrontIntensity",
+				"propertyOverride": { "type": "float32", "value": 20 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "20adbdaeee3cf5ba",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideBackColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#fae2b1" }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "20adbdaeee3cf5ba",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_GlobalLightOverrideFrontColor",
+				"propertyOverride": { "type": "SColorRGB", "value": "#cceeff" }
 			}
 		}
 	],

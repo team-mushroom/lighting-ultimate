@@ -25,38 +25,33 @@
 		{ "SubEntityOperation": ["5d317f75e193b983", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
 		{ "SubEntityOperation": ["1e99e648416328b5", { "RemoveAllSubsetsFor": "AudioEmitters" }] },
 		{
-			"RemovePropertyOverride": {
-				"entities": [
-					{
-						"ref": "4e576d7635bac92f",
-						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"DiffusePower": { "type": "float32", "value": 40 },
-					"GlowPower": { "type": "float32", "value": 1000 },
-					"LightCastShadows": { "type": "bool", "value": true },
-					"m_fShadowFadeDistance": { "type": "float32", "value": 5 },
-					"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 3, "y": 15.979999542236328 } }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "4e576d7635bac92f",
+					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_vFarAttenuation",
+				"propertyOverride": { "type": "SVector2", "value": { "x": 3.0, "y": 15.979999542236328 } }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "4e576d7635bac92f",
-						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"DiffusePower": { "type": "float32", "value": 40 },
-					"GlowPower": { "type": "float32", "value": 1000 },
-					"LightCastShadows": { "type": "bool", "value": true },
-					"m_fShadowFadeDistance": { "type": "float32", "value": 5 },
-					"m_vFarAttenuation": { "type": "SVector2", "value": { "x": 3, "y": 15.979999542236328 } },
-					"m_vAngularAttenuation": { "type": "SVector2", "value": { "x": 1, "y": 1.2000000476837158 } }
-				}
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4e576d7635bac92f",
+					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_vFarAttenuation",
+				"propertyOverride": { "type": "SVector2", "value": { "x": 3, "y": 15.979999542236328 } }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "4e576d7635bac92f",
+					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_vAngularAttenuation",
+				"propertyOverride": { "type": "SVector2", "value": { "x": 1, "y": 1.2000000476837158 } }
 			}
 		}
 	],

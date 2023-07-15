@@ -179,116 +179,116 @@
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
 			]
 		},
-		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_eHDRGlareType" }] },
-		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
-		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fHDRStarScale" }] },
-		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fVignetteMin" }] },
-		{ "SubEntityOperation": ["2f8ea54af286365", { "RemovePropertyByName": "m_fVignetteMax" }] },
+		{ "SubEntityOperation": ["02f8ea54af286365", { "RemovePropertyByName": "m_eHDRGlareType" }] },
+		{ "SubEntityOperation": ["02f8ea54af286365", { "RemovePropertyByName": "m_fHDRExposureMeteringSize" }] },
+		{ "SubEntityOperation": ["02f8ea54af286365", { "RemovePropertyByName": "m_fHDRStarScale" }] },
+		{ "SubEntityOperation": ["02f8ea54af286365", { "RemovePropertyByName": "m_fVignetteMin" }] },
+		{ "SubEntityOperation": ["02f8ea54af286365", { "RemovePropertyByName": "m_fVignetteMax" }] },
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_bHDRLensFlareEnabled", "value": false } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fHDRBloomFalloff", "value": 2 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_bDepthOfFieldEnabled", "value": true } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fHDRBloomScale", "value": 1 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fNoiseIntensity", "value": 0.10000000149011612 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_VignetteColor", "value": "#0d0d0d" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fVignetteStrength", "value": 0.20000000298023224 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareAttenuation", "value": 0.5699999928474426 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fHDRBrightPassMaxPercentage", "value": 10 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_HDRColorTint", "value": "#ffffff" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_vHDRAdaptationSpeed", "value": { "x": 10, "y": 10 } } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorA", "value": "#808cf0" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorB", "value": "#806633" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorC", "value": "#9361ff" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdC", "value": 0.23999999463558197 } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_HDRLensFlareColorD", "value": "#66664d" } }
 			]
 		},
 		{
 			"SubEntityOperation": [
-				"2f8ea54af286365",
+				"02f8ea54af286365",
 				{ "SetPropertyValue": { "property_name": "m_fHDRLensFlareThresholdD", "value": 0.10000000149011612 } }
 			]
 		},
@@ -336,64 +336,53 @@
 		},
 		{ "SubEntityOperation": ["e539e8b481c559db", { "RemovePlatformSpecificPropertiesForPlatform": "VR_PS4" }] },
 		{
-			"RemovePropertyOverride": {
-				"entities": [
-					{
-						"ref": "ba2995a5e1b8c035",
-						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"DiffusePower": { "type": "float32", "value": 90 },
-					"GlowPower": { "type": "float32", "value": 20 }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "ba2995a5e1b8c035",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				"propertyName": "DiffusePower",
+				"propertyOverride": { "type": "float32", "value": 90 }
 			}
 		},
 		{
-			"RemovePropertyOverride": {
-				"entities": [
-					{
-						"ref": "dbdec10bc3601b28",
-						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
-					}
-				],
-				"properties": { "m_fDiffusePower": { "type": "float32", "value": 500 } }
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "ba2995a5e1b8c035",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				"propertyName": "GlowPower",
+				"propertyOverride": { "type": "float32", "value": 20 }
 			}
 		},
 		{
-			"RemovePropertyOverride": {
-				"entities": [
-					{
-						"ref": "b826924694c353a8",
-						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 1 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 1 },
-					"m_fMiddleGrayMultiplier": { "type": "float32", "value": 1 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#e8f4ff" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#e8f4ff" }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "dbdec10bc3601b28",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fDiffusePower",
+				"propertyOverride": { "type": "float32", "value": 500 }
 			}
 		},
 		{
-			"AddPropertyOverride": {
-				"entities": [
-					{
-						"ref": "b826924694c353a8",
-						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
-					}
-				],
-				"properties": {
-					"m_fMiddleGrayMultiplier": { "type": "float32", "value": 1.100000023841858 },
-					"m_fGlobalLightOverrideFrontIntensity": { "type": "float32", "value": 1 },
-					"m_GlobalLightOverrideBackColor": { "type": "SColorRGB", "value": "#e8f4ff" },
-					"m_GlobalLightOverrideFrontColor": { "type": "SColorRGB", "value": "#e8f4ff" },
-					"m_bGlobalLightOverrideEnable": { "type": "bool", "value": true },
-					"m_fGlobalLightOverrideBackIntensity": { "type": "float32", "value": 1 }
-				}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "b826924694c353a8",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fMiddleGrayMultiplier",
+				"propertyOverride": { "type": "float32", "value": 1 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "b826924694c353a8",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_fMiddleGrayMultiplier",
+				"propertyOverride": { "type": "float32", "value": 1.100000023841858 }
 			}
 		}
 	],
