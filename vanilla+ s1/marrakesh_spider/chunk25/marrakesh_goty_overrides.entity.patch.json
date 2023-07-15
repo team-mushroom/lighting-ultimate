@@ -1,1 +1,27 @@
-{"tempHash":"00FA603C4A255FFF","tbluHash":"00CF72CC35CFA8DB","patch":[{"RemovePropertyOverrideConnection":{"entity":{"ref":"96e26137a20c330d","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/tod_summer_day_clear.brick].pc_entitytype"},"propertyName":"m_bColorCorrectionEnabled","propertyOverride":{"type":"bool","value":true}}},{"AddPropertyOverrideConnection":{"entity":{"ref":"96e26137a20c330d","externalScene":"[assembly:/_pro/scenes/missions/marrakesh/tod_summer_day_clear.brick].pc_entitytype"},"propertyName":"m_bColorCorrectionEnabled","propertyOverride":{"type":"bool","value":false}}}],"patchVersion":6}
+{
+	"tempHash": "00FA603C4A255FFF",
+	"tbluHash": "00CF72CC35CFA8DB",
+	"patch": [
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "96e26137a20c330d",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/tod_summer_day_clear.brick].pc_entitytype"
+				},
+				"propertyName": "m_bColorCorrectionEnabled",
+				"propertyOverride": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "96e26137a20c330d",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/tod_summer_day_clear.brick].pc_entitytype"
+				},
+				"propertyName": "m_bColorCorrectionEnabled",
+				"propertyOverride": { "type": "bool", "value": false }
+			}
+		}
+	],
+	"patchVersion": 6
+}
