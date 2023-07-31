@@ -3,172 +3,202 @@
 	"tbluHash": "00AE87315CD24E96",
 	"patch": [
 		{
-			"op": "replace",
-			"path": "/entities/1ed332627621f88c/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/1ed332627621f88c/properties/m_bVisible" },
-		{
-			"op": "replace",
-			"path": "/entities/26ebfe0ea53413d/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/26ebfe0ea53413d/properties/m_bVisible" },
-		{
-			"op": "replace",
-			"path": "/entities/36eafb9d0a0b3bd0/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/36eafb9d0a0b3bd0/properties/m_bVisible" },
-		{
-			"op": "add",
-			"path": "/entities/3d413b3b575fd3e0/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": true }
+			"SubEntityOperation": [
+				"f4368b6d0478ce81",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": true }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/3d413b3b575fd3e0/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"f4368b6d0478ce81",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{ "SubEntityOperation": ["1ed332627621f88c", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"1ed332627621f88c",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
 		},
 		{
-			"op": "replace",
-			"path": "/entities/46bfd1b2d466266/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/46bfd1b2d466266/properties/m_bVisible" },
-		{
-			"op": "add",
-			"path": "/entities/51f29b67568cdd30/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": true }
+			"SubEntityOperation": [
+				"e1072dc9f99c5d99",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/51f29b67568cdd30/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"e1072dc9f99c5d99",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
 		},
 		{
-			"op": "replace",
-			"path": "/entities/57690852f62bdd62/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/57690852f62bdd62/properties/m_bVisible" },
-		{
-			"op": "replace",
-			"path": "/entities/655d4672b55928a9/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/655d4672b55928a9/properties/m_bVisible" },
-		{
-			"op": "replace",
-			"path": "/entities/7ccca4004d5da8c4/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/7ccca4004d5da8c4/properties/m_bVisible" },
-		{
-			"op": "add",
-			"path": "/entities/8e39857f9460be22/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": false }
+			"SubEntityOperation": [
+				"8e39857f9460be22",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/8e39857f9460be22/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"8e39857f9460be22",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{ "SubEntityOperation": ["655d4672b55928a9", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"655d4672b55928a9",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		},
+		{ "SubEntityOperation": ["c6fcfb8ec2755256", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"c6fcfb8ec2755256",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/9212a6c487dbd70a/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": false }
+			"SubEntityOperation": [
+				"51f29b67568cdd30",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": true }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/9212a6c487dbd70a/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"51f29b67568cdd30",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{ "SubEntityOperation": ["b18a64d01eec057e", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"b18a64d01eec057e",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		},
+		{ "SubEntityOperation": ["eedf09f56172edd9", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"eedf09f56172edd9",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/a3c177e71e2e98ed/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": false }
+			"SubEntityOperation": [
+				"9212a6c487dbd70a",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/a3c177e71e2e98ed/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"9212a6c487dbd70a",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{ "SubEntityOperation": ["7ccca4004d5da8c4", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"7ccca4004d5da8c4",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
 		},
 		{
-			"op": "replace",
-			"path": "/entities/b18a64d01eec057e/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/b18a64d01eec057e/properties/m_bVisible" },
-		{
-			"op": "add",
-			"path": "/entities/bf80628647f55673/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": false }
+			"SubEntityOperation": [
+				"3d413b3b575fd3e0",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": true }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/bf80628647f55673/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"3d413b3b575fd3e0",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/c210893893d4a155/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": true }
+			"SubEntityOperation": [
+				"bf80628647f55673",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/c210893893d4a155/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"bf80628647f55673",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
+		},
+		{ "SubEntityOperation": ["eaafe26f4534d390", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"eaafe26f4534d390",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		},
+		{ "SubEntityOperation": ["c9a6235f5c7c4ad3", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"c9a6235f5c7c4ad3",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		},
+		{ "SubEntityOperation": ["026ebfe0ea53413d", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"026ebfe0ea53413d",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		},
+		{ "SubEntityOperation": ["36eafb9d0a0b3bd0", { "RemovePropertyByName": "m_bVisible" }] },
+		{
+			"SubEntityOperation": [
+				"36eafb9d0a0b3bd0",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		},
+		{ "SubEntityOperation": ["fc00547a0646c18d", { "RemovePropertyByName": "m_bGlobalLightOverrideEnable" }] },
+		{ "SubEntityOperation": ["fc00547a0646c18d", { "RemovePropertyByName": "m_fGlobalLightOverrideFrontIntensity" }] },
+		{ "SubEntityOperation": ["fc00547a0646c18d", { "RemovePropertyByName": "m_fGlobalLightOverrideBackIntensity" }] },
+		{ "SubEntityOperation": ["fc00547a0646c18d", { "RemovePropertyByName": "m_GlobalLightOverrideFrontColor" }] },
+		{ "SubEntityOperation": ["fc00547a0646c18d", { "RemovePropertyByName": "m_GlobalLightOverrideBackColor" }] },
+		{
+			"SubEntityOperation": [
+				"a3c177e71e2e98ed",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": false }] }
+			]
 		},
 		{
-			"op": "replace",
-			"path": "/entities/c6fcfb8ec2755256/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
+			"SubEntityOperation": [
+				"a3c177e71e2e98ed",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
 		},
-		{ "op": "remove", "path": "/entities/c6fcfb8ec2755256/properties/m_bVisible" },
+		{ "SubEntityOperation": ["046bfd1b2d466266", { "RemovePropertyByName": "m_bVisible" }] },
 		{
-			"op": "replace",
-			"path": "/entities/c9a6235f5c7c4ad3/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/c9a6235f5c7c4ad3/properties/m_bVisible" },
-		{
-			"op": "add",
-			"path": "/entities/e1072dc9f99c5d99/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": false }
+			"SubEntityOperation": [
+				"046bfd1b2d466266",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
 		},
 		{
-			"op": "add",
-			"path": "/entities/e1072dc9f99c5d99/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
+			"SubEntityOperation": [
+				"c210893893d4a155",
+				{ "AddProperty": ["m_bEnableLightSimplification", { "type": "bool", "value": true }] }
+			]
 		},
 		{
-			"op": "replace",
-			"path": "/entities/eaafe26f4534d390/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
+			"SubEntityOperation": [
+				"c210893893d4a155",
+				{ "AddProperty": ["m_fLightSimplificationLength", { "type": "float32", "value": 0 }] }
+			]
 		},
-		{ "op": "remove", "path": "/entities/eaafe26f4534d390/properties/m_bVisible" },
+		{ "SubEntityOperation": ["57690852f62bdd62", { "RemovePropertyByName": "m_bVisible" }] },
 		{
-			"op": "replace",
-			"path": "/entities/eedf09f56172edd9/properties/m_fDiffusePower/value",
-			"value": 0.699999988079071
-		},
-		{ "op": "remove", "path": "/entities/eedf09f56172edd9/properties/m_bVisible" },
-		{
-			"op": "add",
-			"path": "/entities/f4368b6d0478ce81/properties/m_bEnableLightSimplification",
-			"value": { "type": "bool", "value": true }
-		},
-		{
-			"op": "add",
-			"path": "/entities/f4368b6d0478ce81/properties/m_fLightSimplificationLength",
-			"value": { "type": "float32", "value": 0 }
-		},
-		{ "op": "remove", "path": "/entities/fc00547a0646c18d/properties/m_GlobalLightOverrideBackColor" },
-		{ "op": "remove", "path": "/entities/fc00547a0646c18d/properties/m_GlobalLightOverrideFrontColor" },
-		{ "op": "remove", "path": "/entities/fc00547a0646c18d/properties/m_bGlobalLightOverrideEnable" },
-		{ "op": "remove", "path": "/entities/fc00547a0646c18d/properties/m_fGlobalLightOverrideBackIntensity" },
-		{ "op": "remove", "path": "/entities/fc00547a0646c18d/properties/m_fGlobalLightOverrideFrontIntensity" }
+			"SubEntityOperation": [
+				"57690852f62bdd62",
+				{ "SetPropertyValue": { "property_name": "m_fDiffusePower", "value": 0.699999988079071 } }
+			]
+		}
 	],
-	"patchVersion": 5
+	"patchVersion": 6
 }
