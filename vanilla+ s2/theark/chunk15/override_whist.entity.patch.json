@@ -1,6 +1,6 @@
 {
-	"tempHash": "00E93DD7EEFB7481",
-	"tbluHash": "007F7F1F671DAA1E",
+	"tempHash": "000DC47AA2A17BFC",
+	"tbluHash": "0064D2D9AE247E8B",
 	"patch": [
 		{
 			"AddExternalScene": "[assembly:/_pro/scenes/missions/theark/lighting_overrides_magpie.brick].pc_entitytype"
