@@ -119,7 +119,8 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["classic/coastaltown_octopus", "_shared/coastaltown"]
+			"contentFolders": ["classic/coastaltown_octopus", "_shared/coastaltown"],
+			"blobsFolders": ["_blobs/classic/coastaltown/blobs"]
 		},
 		{
 			"name": "Classic Pack+",
