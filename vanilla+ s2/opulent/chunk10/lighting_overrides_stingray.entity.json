@@ -19,9 +19,22 @@
 				}
 			],
 			"properties": {
-				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
-				"m_bNoiseEnabled": { "type": "bool", "value": false },
-				"m_bVignetteEnabled": { "type": "bool", "value": false }
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"ColorCorrectionTextureHDR": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
 			}
 		},
 		{
@@ -32,10 +45,26 @@
 				}
 			],
 			"properties": {
-				"m_bHDRLensFlareEnabled": { "type": "bool", "value": false },
-				"m_bNoiseEnabled": { "type": "bool", "value": false },
-				"m_bVignetteEnabled": { "type": "bool", "value": false },
-				"m_fHDRBloomScale": { "type": "float32", "value": 0.2 }
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bNoiseEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVignetteEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fHDRBloomScale": {
+					"type": "float32",
+					"value": 0.2
+				},
+				"ColorCorrectionTextureHDR": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
 			}
 		},
 		{
@@ -45,7 +74,42 @@
 					"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
 				}
 			],
-			"properties": { "m_bColorCorrectionHDR": { "type": "bool", "value": false } }
+			"properties": {
+				"m_bColorCorrectionHDR": {
+					"type": "bool",
+					"value": false
+				},
+				"ColorCorrectionTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "cdc86efd19dea3c0",
+					"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_fMieAnisotropy": {
+					"type": "float32",
+					"value": 0.8
+				},
+				"m_fSunRadiusScale": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fSunIntensityScale": {
+					"type": "float32",
+					"value": 1000
+				},
+				"m_fShadowedInscatterIntensity": {
+					"type": "float32",
+					"value": 12.5
+				}
+			}
 		}
 	],
 	"overrideDeletes": [],
