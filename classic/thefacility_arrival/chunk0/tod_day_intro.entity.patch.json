@@ -21,7 +21,7 @@
 		{
 			"SubEntityOperation": [
 				"aa8cb6a592f1ed22",
-				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0 } }
 			]
 		},
 		{
