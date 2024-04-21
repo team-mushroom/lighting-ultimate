@@ -3,8 +3,8 @@
 	"name": "Lighting Ultimate",
 	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
 	"authors": ["musicalmushr00m"],
-	"frameworkVersion": "2.33.6",
-	"version": "2.4.4",
+	"frameworkVersion": "2.33.9",
+	"version": "2.5.0",
 	"updateCheck": "https://github.com/team-mushroom/lighting-ultimate/releases/latest/download/updates.json",
 	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
 	"options": [
@@ -21,7 +21,7 @@
 			"group": "Safehouse",
 			"contentFolders": ["vanilla+ s3/snug"]
 		},
-				{
+		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
@@ -141,13 +141,13 @@
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
 			"contentFolders": ["h2 old s1/coastaltown_octopus"]
-		},	
+		},
 		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Sapienza - The Icon"
-		},	
+		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
@@ -421,7 +421,7 @@
 			"type": "select",
 			"group": "Santa Fortuna",
 			"contentFolders": ["vanilla+ s2/colombia"]
-		},		
+		},
 		{
 			"name": "Off",
 			"type": "select",
