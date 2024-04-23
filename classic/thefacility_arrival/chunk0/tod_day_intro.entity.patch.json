@@ -2,7 +2,6 @@
 	"tempHash": "0090F15A1A9C276C",
 	"tbluHash": "00B6FA8BA14ABDFC",
 	"patch": [
-		{ "RemoveEntityByID": "db039c6e42d49791" },
 		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_eHDRGlareType" }] },
 		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_fHDRStarScale" }] },
 		{ "SubEntityOperation": ["aa8cb6a592f1ed22", { "RemovePropertyByName": "m_HDRColorTint" }] },
@@ -22,7 +21,7 @@
 		{
 			"SubEntityOperation": [
 				"aa8cb6a592f1ed22",
-				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0.75 } }
+				{ "SetPropertyValue": { "property_name": "m_fNoiseScale", "value": 0 } }
 			]
 		},
 		{
