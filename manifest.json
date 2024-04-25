@@ -133,6 +133,12 @@
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
+			"dependencies": [
+				{
+					"runtimeID": "006764EA8372ADBA",
+					"toChunk": 26
+				}
+			],
 			"contentFolders": ["goty/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
