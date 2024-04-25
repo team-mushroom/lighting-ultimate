@@ -377,6 +377,13 @@
 			"contentFolders": ["classic/hokkaido_snowcrane", "_shared/hokkaido"]
 		},
 		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Hokkaido - Situs Inversus",
+			"contentFolders": ["goty/hokkaido_snowcrane", "_shared/hokkaido"]
+		},
+		{
 			"name": "Off",
 			"type": "select",
 			"enabledByDefault": true,
