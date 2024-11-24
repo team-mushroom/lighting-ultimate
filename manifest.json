@@ -6,7 +6,7 @@
 	"frameworkVersion": "2.33.20",
 	"version": "2.6.0",
 	"updateCheck": "https://github.com/team-mushroom/lighting-ultimate/releases/latest/download/updates.json",
-	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
+	"loadBefore": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
 	"options": [
 		{
 			"name": "Off",
