@@ -6,4 +6,4 @@ Significantly improves visual clarity, accessibility, and aesthetic choices.
 
 ---
 
-`musicalmushr00m.LightingUltimate` v2.5.0, by musicalmushr00m. This README was automatically generated from the mod's manifest.
+`musicalmushr00m.LightingUltimate` v2.6.0, by musicalmushr00m. This README was automatically generated from the mod's manifest.

@@ -3,8 +3,8 @@
 	"name": "Lighting Ultimate",
 	"description": "Significantly improves visual clarity, accessibility, and aesthetic choices.",
 	"authors": ["musicalmushr00m"],
-	"frameworkVersion": "2.33.9",
-	"version": "2.5.0",
+	"frameworkVersion": "2.33.20",
+	"version": "2.6.0",
 	"updateCheck": "https://github.com/team-mushroom/lighting-ultimate/releases/latest/download/updates.json",
 	"loadAfter": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
 	"options": [
