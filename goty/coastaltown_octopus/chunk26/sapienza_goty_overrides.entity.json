@@ -9,8 +9,8 @@
 				"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].pc_entitytype"
 			},
 			"name": "Sky_Clear_B",
-			"factory": "[assembly:/_pro/environment/templates/backdrop/sky/sky_clear.template?/sky_clear_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/backdrop/sky/sky_clear.template?/sky_clear_b.entitytemplate].pc_entityblueprint",
+			"factory": "[assembly:/_pro/environment/templates/backdrop/sky/sky_clear.template?/sky_clear_b_goty_sapienza.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/backdrop/sky/sky_clear.template?/sky_clear_b_goty_sapienza.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",

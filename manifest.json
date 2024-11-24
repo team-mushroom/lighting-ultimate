@@ -133,6 +133,12 @@
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
+			"dependencies": [
+				{
+					"runtimeID": "006764EA8372ADBA",
+					"toChunk": 26
+				}
+			],
 			"contentFolders": ["goty/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
@@ -274,14 +280,14 @@
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"contentFolders": ["classic/bangkok_tiger"]
+			"contentFolders": ["classic/bangkok_tiger", "_shared/bangkok"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"contentFolders": ["goty/bangkok_tiger"]
+			"contentFolders": ["goty/bangkok_tiger", "_shared/bangkok"]
 		},
 		{
 			"name": "Off",
@@ -369,6 +375,13 @@
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
 			"contentFolders": ["classic/hokkaido_snowcrane", "_shared/hokkaido"]
+		},
+		{
+			"name": "GOTY Pack",
+			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
+			"type": "select",
+			"group": "Hokkaido - Situs Inversus",
+			"contentFolders": ["goty/hokkaido_snowcrane", "_shared/hokkaido"]
 		},
 		{
 			"name": "Off",

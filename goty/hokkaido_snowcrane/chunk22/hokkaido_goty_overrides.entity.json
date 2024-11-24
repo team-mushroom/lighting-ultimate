@@ -1,0 +1,123 @@
+{
+	"tempHash": "00986EC89AD52F67",
+	"tbluHash": "001BB09B03995AB6",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "23c462dd5b442be2",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].pc_entitytype"
+				},
+				{
+					"ref": "01da7c4f7375506d",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].pc_entitytype"
+				},
+				{
+					"ref": "7b16737ef646d48e",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "007BE9EAE845E573",
+						"flag": "5F"
+					}
+				}
+			}
+		}
+	],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].pc_entitytype"],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [
+		{
+			"resource": "007BE9EAE845E573",
+			"flag": "5F"
+		},
+		"[modules:/zentity.class].pc_entitytype",
+		"[modules:/ztimeofdayconfig.class].pc_entitytype",
+		"[modules:/zlightentity.class].pc_entitytype",
+		{
+			"resource": "00AA69A1DD1FE89D",
+			"flag": "5F"
+		},
+		"[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype",
+		"[modules:/zgloballightentity.class].pc_entitytype",
+		"[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/backdrop/sky/sky_snowcrane.template?/sky_snowcrane_a_00.entitytemplate].entitytype,[modules:/zhighrestextureentity.class].entitytype).pc_entitytype",
+		"[modules:/zcompositeentity.class].pc_entitytype",
+		"00410FF4E12ED361",
+		{
+			"resource": "00ED87F4DC44BD01",
+			"flag": "5F"
+		},
+		"0023A494E707E07E",
+		{
+			"resource": "00C08D258528611D",
+			"flag": "5F"
+		},
+		"005BE72C03DCCE90",
+		{
+			"resource": "006DEB253376CE5D",
+			"flag": "5F"
+		},
+		"0074A59879550A79",
+		{
+			"resource": "002442FDAF30888B",
+			"flag": "5F"
+		},
+		"0036357441006119",
+		{
+			"resource": "0049FD0446756ED4",
+			"flag": "5F"
+		},
+		"00451F160F80956A",
+		{
+			"resource": "00DA683C35E66801",
+			"flag": "5F"
+		},
+		"00655F8B8E590372",
+		{
+			"resource": "00648A6F24961AD9",
+			"flag": "5F"
+		},
+		"00E76BB714619839",
+		"[modules:/zmiddlegraycurveentity.class].pc_entitytype",
+		"[modules:/zrenderpostfilterparametersentity.class].pc_entitytype",
+		{
+			"resource": "[assembly:/_pro/effects/textures/lut/lut_snowcrane.texture?/diffuse_a.tex](ascolormap).pc_tex",
+			"flag": "5F"
+		},
+		{
+			"resource": "00C19E3AD6BD4CDC",
+			"flag": "5F"
+		}
+	],
+	"extraBlueprintDependencies": [
+		"[modules:/zentity.class].pc_entityblueprint",
+		"[modules:/ztimeofdayconfig.class].pc_entityblueprint",
+		"[modules:/zlightentity.class].pc_entityblueprint",
+		"[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint",
+		"[modules:/zgloballightentity.class].pc_entityblueprint",
+		"[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/backdrop/sky/sky_snowcrane.template?/sky_snowcrane_a_00.entitytemplate].entitytype,[modules:/zhighrestextureentity.class].entitytype).pc_entityblueprint",
+		"[modules:/zcompositeentity.class].pc_entityblueprint",
+		"[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+		"[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zhighrestextureentity.class].entitytype).pc_entityblueprint",
+		"[modules:/zmiddlegraycurveentity.class].pc_entityblueprint",
+		"[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint"
+	],
+	"comments": []
+}

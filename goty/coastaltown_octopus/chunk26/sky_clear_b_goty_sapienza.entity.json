@@ -1,0 +1,488 @@
+{
+	"tempHash": "00079A80B23B5FA2",
+	"tbluHash": "0099486B0ABC1AA2",
+	"rootEntity": "824138e4cf206f6c",
+	"entities": {
+		"d22b26e6668f0190": {
+			"parent": "824138e4cf206f6c",
+			"name": "sky_clear_B",
+			"factory": "[assembly:/_pro/environment/materials/backdrop/sky/sky_sunset_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/backdrop/sky/sky_sunset_a.mi].pc_entityblueprint",
+			"properties": {
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantVector1D_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_08_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_08_Value": {
+					"type": "float32",
+					"value": 0.009999999776482582
+				},
+				"Texture2DNormal_02_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantVector1D_12_Value": {
+					"type": "float32",
+					"value": 0.47999998927116394
+				},
+				"ConstantVector1D_12_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector3D_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_14_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_15_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_14_Value": {
+					"type": "float32",
+					"value": -1.100000023841858
+				},
+				"ConstantVector1D_15_Value": {
+					"type": "float32",
+					"value": 1.2999999523162842
+				},
+				"ConstantVector3D_02_Value": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.000699999975040555,
+						"y": 0.0005000000237487257,
+						"z": 0.0005000000237487257
+					}
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2D_04": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "001618979B048570",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantVector1D_11_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_11_Value": {
+					"type": "float32",
+					"value": 0.004999999888241291
+				},
+				"ConstantVector3D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector3D_01_Value": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": -0.019999999552965164,
+						"z": -0.009999999776482582
+					}
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_10_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_10_Value": {
+					"type": "float32",
+					"value": 1.0
+				},
+				"ConstantVector1D_05_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 1.0
+				},
+				"ConstantVector1D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 1.0
+				},
+				"Texture2D_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00A071229CE33DDD",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_01_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2D_03": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "0092C2A795FEB5C7",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_03_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_03_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"Texture2D_02_enab": {
+					"type": "bool",
+					"value": false
+				},
+				"ConstantVector1D_02_Value": {
+					"type": "float32",
+					"value": 0.949999988079071
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 1.0
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"ConstantColorRGB_03_Value": {
+					"type": "SColorRGB",
+					"value": "#dfe3e6"
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#f0f5fa"
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"8ed2e1b28aaae6ab",
+						"4a9b6a1665e0303b",
+						"e1d834d7b7da202c",
+						"035301c23ccca48b",
+						"2fd9aa0222994489"
+					],
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "824138e4cf206f6c",
+					"postInit": true
+				}
+			}
+		},
+		"4a9b6a1665e0303b": {
+			"parent": "824138e4cf206f6c",
+			"name": "sky_generic_128_20f5",
+			"factory": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_20f5.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -1859.5419921875,
+							"y": 1901.175048828125,
+							"z": 0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "824138e4cf206f6c",
+					"postInit": true
+				}
+			}
+		},
+		"e1d834d7b7da202c": {
+			"parent": "824138e4cf206f6c",
+			"name": "sky_generic_128_40f5",
+			"factory": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_40f5.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": 1926.873046875,
+							"y": -1780.958984375,
+							"z": 0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "824138e4cf206f6c",
+					"postInit": true
+				}
+			}
+		},
+		"035301c23ccca48b": {
+			"parent": "824138e4cf206f6c",
+			"name": "sky_generic_128_30f5",
+			"factory": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_30f5.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": 2259.2109375,
+							"y": 1939.333984375,
+							"z": 0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "824138e4cf206f6c",
+					"postInit": true
+				}
+			}
+		},
+		"8ed2e1b28aaae6ab": {
+			"parent": "824138e4cf206f6c",
+			"name": "sky_generic_128_10f5",
+			"factory": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_10f5.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -0.007324219215661287,
+							"y": 0.009765625,
+							"z": 1932.5489501953125
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "824138e4cf206f6c",
+					"postInit": true
+				}
+			}
+		},
+		"2fd9aa0222994489": {
+			"parent": "824138e4cf206f6c",
+			"name": "sky_generic_128_50f5",
+			"factory": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_50f5.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -1913.550048828125,
+							"y": -1834.720947265625,
+							"z": 0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "824138e4cf206f6c",
+					"postInit": true
+				}
+			}
+		},
+		"824138e4cf206f6c": {
+			"parent": null,
+			"name": "Sky_Clear_B",
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -805.0230102539062,
+							"y": 108.2770004272461,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_02_Value": {
+					"type": "float32",
+					"value": 0.949999988079071
+				}
+			},
+			"propertyAliases": {
+				"ConstantColorRGB_01_Value": [
+					{
+						"originalProperty": "ConstantColorRGB_01_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantColorRGB_02_Value": [
+					{
+						"originalProperty": "ConstantColorRGB_02_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantColorRGB_03_Value": [
+					{
+						"originalProperty": "ConstantColorRGB_03_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantVector1D_01_Value": [
+					{
+						"originalProperty": "ConstantVector1D_01_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantVector1D_02_Value": [
+					{
+						"originalProperty": "ConstantVector1D_02_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantVector1D_05_Value": [
+					{
+						"originalProperty": "ConstantVector1D_05_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantVector1D_07_Value": [
+					{
+						"originalProperty": "ConstantVector1D_07_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				],
+				"ConstantVector1D_10_Value": [
+					{
+						"originalProperty": "ConstantVector1D_10_Value",
+						"originalEntity": "d22b26e6668f0190"
+					}
+				]
+			}
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "template",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [
+		{
+			"resource": "[assembly:/_pro/effects/textures/misc/fx_noise.texture?/normal_a.tex](asnormalmap).pc_tex",
+			"flag": "5F"
+		},
+		{
+			"resource": "007061821497BE2F",
+			"flag": "5F"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_10f5.prim].pc_prim",
+			"flag": "5F"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_20f5.prim].pc_prim",
+			"flag": "5F"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_30f5.prim].pc_prim",
+			"flag": "5F"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_40f5.prim].pc_prim",
+			"flag": "5F"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/backdrop/sky/sky_generic_128.wl2?/sky_generic_128_50f5.prim].pc_prim",
+			"flag": "5F"
+		}
+	],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

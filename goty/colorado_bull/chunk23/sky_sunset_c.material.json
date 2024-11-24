@@ -1,0 +1,261 @@
+{
+	"$schema": "https://glaciermodding.org/schemas/material.schema.json",
+	"MATI": "[assembly:/_pro/environment/materials/backdrop/sky/sky_sunset_c.mi].pc_mi",
+	"MATT": "[assembly:/_pro/environment/materials/backdrop/sky/sky_sunset_c.mi].pc_entitytype",
+	"MATB": "[assembly:/_pro/environment/materials/backdrop/sky/sky_sunset_c.mi].pc_entityblueprint",
+	"MATE": "[[assembly:/_pro/environment/materialclasses/backdrop/sky/sky_premultiplied.materialclass].fx](dx11).pc_mate",
+	"ERES": "",
+	"TYPE": "Standard",
+	"Material": {
+		"Instance": [
+			{
+				"Name": "sky_sunset_c.mi",
+				"Tags": "",
+				"Binder": [
+					{
+						"Render State": [
+							{
+								"Name": "RenderState",
+								"Enabled": 1,
+								"Blend Mode": "TRANS_PREMULTIPLIED_ALPHA",
+								"Opacity": 1.0,
+								"Blend Enabled": 1,
+								"Decal Blend Diffuse": 0,
+								"Decal Blend Normal": 0,
+								"Decal Blend Specular": 0,
+								"Decal Blend Roughness": 0,
+								"Decal Blend Emission": 0,
+								"Alpha Test Enabled": 0,
+								"Alpha Reference": 255,
+								"Fog Enabled": 1,
+								"Culling Mode": "DontCare",
+								"Z Bias": 0,
+								"Z Offset": 0.0,
+								"Subsurface Red": 0.0,
+								"Subsurface Green": 0.0,
+								"Subsurface Blue": 0.0,
+								"Subsurface Value": 0.0
+							}
+						],
+						"Color": [
+							{
+								"Name": "ConstantColorRGB_01_Value",
+								"Enabled": 1,
+								"Value": [1.0, 1.0, 1.0]
+							},
+							{
+								"Name": "ConstantColorRGB_03_Value",
+								"Enabled": 1,
+								"Value": [1.0, 1.0, 1.0]
+							},
+							{
+								"Name": "ConstantColorRGB_02_Value",
+								"Enabled": 1,
+								"Value": [1.0, 1.0, 1.0]
+							}
+						],
+						"Float Value": [
+							{
+								"Name": "ConstantVector1D_07_Value",
+								"Enabled": 1,
+								"Value": 1.0
+							},
+							{
+								"Name": "ConstantVector1D_08_Value",
+								"Enabled": 1,
+								"Value": 0.05000000074505806
+							},
+							{
+								"Name": "ConstantVector1D_12_Value",
+								"Enabled": 1,
+								"Value": 1.0
+							},
+							{
+								"Name": "ConstantVector1D_11_Value",
+								"Enabled": 1,
+								"Value": 1.0
+							},
+							{
+								"Name": "ConstantVector1D_14_Value",
+								"Enabled": 1,
+								"Value": 0.20000000298023224
+							},
+							{
+								"Name": "ConstantVector1D_15_Value",
+								"Enabled": 1,
+								"Value": 0.800000011920929
+							},
+							{
+								"Name": "ConstantVector3D_02_Value",
+								"Enabled": 1,
+								"Value": [0.0010000000474974513, 0.0010000000474974513, 0.0010000000474974513]
+							},
+							{
+								"Name": "ConstantVector3D_01_Value",
+								"Enabled": 1,
+								"Value": [0.004999999888241291, 0.0, 0.004999999888241291]
+							},
+							{
+								"Name": "ConstantVector1D_09_Value",
+								"Enabled": 1,
+								"Value": 0.009999999776482582
+							},
+							{
+								"Name": "gm_mTransform2D_01",
+								"Enabled": 1,
+								"Value": [1.0, -0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0]
+							},
+							{
+								"Name": "ConstantVector1D_10_Value",
+								"Enabled": 1,
+								"Value": 1.0
+							},
+							{
+								"Name": "ConstantVector1D_05_Value",
+								"Enabled": 1,
+								"Value": 1.0
+							},
+							{
+								"Name": "gm_mTransform2D_03",
+								"Enabled": 1,
+								"Value": [1.0, -0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0]
+							},
+							{
+								"Name": "ConstantVector1D_01_Value",
+								"Enabled": 1,
+								"Value": 0.0
+							},
+							{
+								"Name": "ConstantVector1D_02_Value",
+								"Enabled": 1,
+								"Value": 1.0
+							},
+							{
+								"Name": "ConstantVector1D_03_Value",
+								"Enabled": 1,
+								"Value": 0.5
+							}
+						],
+						"Texture": [
+							{
+								"Name": "mapTexture2D_04",
+								"Enabled": 1,
+								"Texture Id": "[assembly:/_pro/environment/textures/backdrop/sky/sky_sunset_c.texture?/emissive_a.tex](ascolormap).pc_tex",
+								"Tiling U": "",
+								"Tiling V": "",
+								"Type": "AsColorMap"
+							},
+							{
+								"Name": "mapTexture2DNormal_02",
+								"Enabled": 1,
+								"Texture Id": "[assembly:/_pro/effects/textures/misc/fx_noise.texture?/normal_a.tex](asnormalmap).pc_tex",
+								"Tiling U": "",
+								"Tiling V": "",
+								"Type": "AsNormalMap"
+							},
+							{
+								"Name": "mapTexture2D_03",
+								"Enabled": 1,
+								"Texture Id": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
+								"Tiling U": "",
+								"Tiling V": "",
+								"Type": "AsColorMap"
+							},
+							{
+								"Name": "mapTexture2D_02",
+								"Enabled": 1,
+								"Texture Id": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
+								"Tiling U": "",
+								"Tiling V": "",
+								"Type": "AsColorMap"
+							},
+							{
+								"Name": "mapTexture2D_01",
+								"Enabled": 1,
+								"Texture Id": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
+								"Tiling U": "",
+								"Tiling V": "",
+								"Type": "AsColorMap"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"Overrides": {
+		"Color": {
+			"ConstantColorRGB_01_Value": [1.0, 1.0, 1.0],
+			"ConstantColorRGB_03_Value": [1.0, 1.0, 1.0],
+			"ConstantColorRGB_02_Value": [1.0, 1.0, 1.0]
+		},
+		"ConstantVector1D_07_Value": 1.0,
+		"Texture": {
+			"Texture2D_04": "[assembly:/_pro/environment/textures/backdrop/sky/sky_sunset_c.texture?/emissive_a.tex](ascolormap).pc_tex",
+			"Texture2DNormal_02": "[assembly:/_pro/effects/textures/misc/fx_noise.texture?/normal_a.tex](asnormalmap).pc_tex",
+			"Texture2D_03": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
+			"Texture2D_02": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
+			"Texture2D_01": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex"
+		},
+		"ConstantVector1D_08_Value": 0.05000000074505806,
+		"ConstantVector1D_12_Value": 1.0,
+		"ConstantVector1D_11_Value": 1.0,
+		"ConstantVector1D_14_Value": 0.20000000298023224,
+		"ConstantVector1D_15_Value": 0.800000011920929,
+		"ConstantVector3D_02_Value": [0.0010000000474974513, 0.0010000000474974513, 0.0010000000474974513],
+		"ConstantVector3D_01_Value": [0.004999999888241291, 0.0, 0.004999999888241291],
+		"ConstantVector1D_09_Value": 0.009999999776482582,
+		"ConstantVector1D_10_Value": 1.0,
+		"ConstantVector1D_05_Value": 1.0,
+		"ConstantVector1D_01_Value": 0.0,
+		"ConstantVector1D_02_Value": 1.0,
+		"ConstantVector1D_03_Value": 0.5
+	},
+	"Flags": {
+		"Class": {
+			"REFLECTION2D": false,
+			"REFRACTION2D": false,
+			"LIGHTING": false,
+			"EMISSIVE": true,
+			"DISCARD": false,
+			"LM_SKIN": false,
+			"PRIMCLASS_STANDARD": true,
+			"PRIMCLASS_LINKED": false,
+			"PRIMCLASS_WEIGHTED": false,
+			"DOFOVERRIDE": false,
+			"USES_DEFAULT_VS": false,
+			"USES_SPRITE_SA_VS": false,
+			"USES_SPRITE_AO_VS": false,
+			"ALPHA": true,
+			"USES_SIMPLE_SHADER": true,
+			"DISABLE_INSTANCING": false,
+			"LM_HAIR": false,
+			"SAMPLE_LIGHTING": false,
+			"HORIZONMAPPING": false,
+			"UNKNOWN_3": false,
+			"UNKNOWN_4": false,
+			"UNKNOWN_5": false
+		},
+		"Instance": {
+			"OPAQUE_EMISSIVE": false,
+			"TRANS_EMISSIVE": true,
+			"TRANSADD_EMISSIVE": false,
+			"TRANSALL": false,
+			"OPAQUE_LIT": true,
+			"TRANS_LIT": false,
+			"DECAL": false,
+			"REFRACTIVE": false,
+			"LM_SKIN": false,
+			"LM_HAIR": false,
+			"FORCE_EMISSIVE": false,
+			"DISABLE_SHADER_LOD": true,
+			"DISCARD": false,
+			"DECAL_EMISSIVE": false,
+			"DECAL_ALL": false,
+			"WATER_CLIPPING": false,
+			"SAMPLE_LIGHTING": false,
+			"EXCLUDE_GLOBAL_SHADOWS": false,
+			"ALL": false
+		}
+	}
+}
