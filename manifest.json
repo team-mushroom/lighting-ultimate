@@ -19,7 +19,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Safehouse",
-			"contentFolders": ["vanilla+ s3/snug"]
+			"contentFolders": ["vanilla+/s3/snug"]
 		},
 		{
 			"name": "Off",
@@ -71,11 +71,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["vanilla+ s1/paris"]
+			"contentFolders": ["vanilla+/s1/paris"]
 		},
 		{
 			"name": "Vintage Pack",
-			"tooltip": "A modern take on the original art direction of the 2015 HITMAN Closed Alpha.",
+			"tooltip": "A modern take on the appearance of the July 2015 HITMAN Closed Alpha.",
 			"type": "select",
 			"group": "Paris",
 			"contentFolders": ["alpha/paris", "_shared/paris"]
@@ -105,11 +105,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["vanilla+ s1/coastaltown_octopus", "_shared/coastaltown"]
+			"contentFolders": ["vanilla+/s1/coastaltown_octopus", "_shared/coastaltown"]
 		},
 		{
 			"name": "Vintage Pack",
-			"tooltip": "A modern take on the original art direction of the 2015 HITMAN Closed Alpha.",
+			"tooltip": "A modern take on the appearance of the July 2015 HITMAN Closed Alpha.",
 			"type": "select",
 			"group": "Sapienza - World of Tomorrow",
 			"contentFolders": ["alpha/coastaltown_octopus", "_shared/coastaltown"]
@@ -159,7 +159,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - The Icon",
-			"contentFolders": ["vanilla+ s1/coastaltown_copperhead", "_shared/coastaltown"]
+			"contentFolders": ["vanilla+/s1/coastaltown_copperhead", "_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack",
@@ -179,7 +179,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"contentFolders": ["vanilla+ s1/coastaltown_mamba", "_shared/coastaltown"]
+			"contentFolders": ["vanilla+/s1/coastaltown_mamba", "_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack",
@@ -206,7 +206,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - The Author",
-			"contentFolders": ["vanilla+ s1/coastaltown_ebola", "_shared/coastaltown"]
+			"contentFolders": ["vanilla+/s1/coastaltown_ebola", "_shared/coastaltown"]
 		},
 		{
 			"name": "GOTY Pack",
@@ -226,7 +226,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
-			"contentFolders": ["vanilla+ s1/marrakesh_spider"]
+			"contentFolders": ["vanilla+/s1/marrakesh_spider"]
 		},
 		{
 			"name": "Classic Pack",
@@ -253,7 +253,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Marrakesh - A House Built On Sand",
-			"contentFolders": ["vanilla+ s1/marrakesh_python", "_shared/marrakesh_python"]
+			"contentFolders": ["vanilla+/s1/marrakesh_python", "_shared/marrakesh_python"]
 		},
 		{
 			"name": "Classic Pack",
@@ -273,7 +273,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"contentFolders": ["vanilla+ s1/bangkok_tiger"]
+			"contentFolders": ["vanilla+/s1/bangkok_tiger"]
 		},
 		{
 			"name": "Classic Pack",
@@ -320,7 +320,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["vanilla+ s1/colorado_bull", "_shared/colorado"]
+			"contentFolders": ["vanilla+/s1/colorado_bull", "_shared/colorado"]
 		},
 		{
 			"name": "Classic Pack",
@@ -347,7 +347,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Colorado - The Vector",
-			"contentFolders": ["vanilla+ s1/colorado_rabies"]
+			"contentFolders": ["vanilla+/s1/colorado_rabies"]
 		},
 		{
 			"name": "GOTY Pack",
@@ -367,7 +367,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"contentFolders": ["vanilla+ s1/hokkaido_snowcrane", "_shared/hokkaido"]
+			"contentFolders": ["vanilla+/s1/hokkaido_snowcrane", "_shared/hokkaido"]
 		},
 		{
 			"name": "Classic Pack",
@@ -407,7 +407,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Hawke's Bay",
-			"contentFolders": ["vanilla+ s2/sheep"]
+			"contentFolders": ["vanilla+/s2/sheep"]
 		},
 		{
 			"name": "Off",
@@ -420,7 +420,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Miami",
-			"contentFolders": ["vanilla+ s2/miami"]
+			"contentFolders": ["vanilla+/s2/miami"]
 		},
 		{
 			"name": "Off",
@@ -433,7 +433,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Santa Fortuna",
-			"contentFolders": ["vanilla+ s2/colombia"]
+			"contentFolders": ["vanilla+/s2/colombia"]
 		},
 		{
 			"name": "Off",
@@ -446,7 +446,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Mumbai",
-			"contentFolders": ["vanilla+ s2/mumbai"]
+			"contentFolders": ["vanilla+/s2/mumbai"]
 		},
 		{
 			"name": "Off",
@@ -459,7 +459,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Whittleton Creek",
-			"contentFolders": ["vanilla+ s2/skunk"]
+			"contentFolders": ["vanilla+/s2/skunk"]
 		},
 		{
 			"name": "Off",
@@ -472,7 +472,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Isle of Sgail",
-			"contentFolders": ["vanilla+ s2/theark"]
+			"contentFolders": ["vanilla+/s2/theark"]
 		},
 		{
 			"name": "Off",
@@ -485,7 +485,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "New York",
-			"contentFolders": ["vanilla+ s2/greedy"]
+			"contentFolders": ["vanilla+/s2/greedy"]
 		},
 		{
 			"name": "Off",
@@ -498,7 +498,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Haven Island",
-			"contentFolders": ["vanilla+ s2/opulent"]
+			"contentFolders": ["vanilla+/s2/opulent"]
 		},
 		{
 			"name": "Off",
@@ -511,7 +511,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Himmelstein",
-			"contentFolders": ["vanilla+ sniper/hawk"]
+			"contentFolders": ["vanilla+/sniper/hawk"]
 		},
 		{
 			"name": "Off",
@@ -524,7 +524,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Hantu Port",
-			"contentFolders": ["vanilla+ sniper/salty"]
+			"contentFolders": ["vanilla+/sniper/salty"]
 		},
 		{
 			"name": "Off",
@@ -537,7 +537,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Siberia",
-			"contentFolders": ["vanilla+ sniper/caged"]
+			"contentFolders": ["vanilla+/sniper/caged"]
 		},
 		{
 			"name": "Off",
@@ -550,7 +550,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Dubai",
-			"contentFolders": ["vanilla+ s3/golden"]
+			"contentFolders": ["vanilla+/s3/golden"]
 		},
 		{
 			"name": "Off",
@@ -563,7 +563,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Dartmoor",
-			"contentFolders": ["vanilla+ s3/ancestral"]
+			"contentFolders": ["vanilla+/s3/ancestral"]
 		},
 		{
 			"name": "Off",
@@ -576,7 +576,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Berlin",
-			"contentFolders": ["vanilla+ s3/edgy", "_shared/edgy"]
+			"contentFolders": ["vanilla+/s3/edgy", "_shared/edgy"]
 		},
 		{
 			"name": "Hollywood",
@@ -596,7 +596,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Chongqing",
-			"contentFolders": ["vanilla+ s3/wet", "_shared/wet"]
+			"contentFolders": ["vanilla+/s3/wet", "_shared/wet"]
 		},
 		{
 			"name": "Hollywood",
@@ -616,7 +616,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Mendoza",
-			"contentFolders": ["vanilla+ s3/elegant"]
+			"contentFolders": ["vanilla+/s3/elegant"]
 		},
 		{
 			"name": "Off",
@@ -629,7 +629,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Carpathian Mountains",
-			"contentFolders": ["vanilla+ s3/trapped"]
+			"contentFolders": ["vanilla+/s3/trapped"]
 		},
 		{
 			"name": "Off",
@@ -642,7 +642,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Ambrose Island",
-			"contentFolders": ["vanilla+ s3/rocky"]
+			"contentFolders": ["vanilla+/s3/rocky"]
 		}
 	]
 }
