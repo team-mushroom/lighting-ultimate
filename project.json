@@ -37,6 +37,10 @@
 		"[assembly:/_pro/scenes/missions/trapped/lighting_overrides_wolverine.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/missions/trapped/lighting_overrides_wolverine.brick].pc_entityblueprint",
 		"[assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entityblueprint"
+		"[assembly:/_pro/scenes/missions/rocky/lighting_overrides_dugong.brick].pc_entityblueprint",
+		"[assembly:/_pro/scenes/missions/coastaltown/screenshot_cams_dev.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/coastaltown/screenshot_cams_dev.brick].pc_entityblueprint",
+		"[assembly:/_pro/scenes/missions/paris/screenshot_cams_dev.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/paris/screenshot_cams_dev.brick].pc_entityblueprint"
 	]
 }

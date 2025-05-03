@@ -1,0 +1,134 @@
+{
+	"tempHash": "00CA3304C5683D85",
+	"tbluHash": "0069E9F22A3B6C39",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"cafe175d8f63321d": {
+			"parent": "fffffffffffffffe",
+			"name": "Cameras",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cafed45fd14c4d08": {
+			"parent": "cafe175d8f63321d",
+			"name": "DestinationCam Classic",
+			"factory": "[modules:/zcameraentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcameraentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -90, "y": 0, "z": 121.8 },
+						"position": { "x": -153, "y": 124.1, "z": 13.9 }
+					}
+				},
+				"m_fFovYDeg": { "type": "float32", "value": 55 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			}
+		},
+		"cafe70bd13f47087": {
+			"parent": "cafe175d8f63321d",
+			"name": "DestinationCam Modern",
+			"factory": "[modules:/zcameraentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcameraentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -93.2, "y": 0, "z": 110.5 },
+						"position": { "x": -248, "y": 108, "z": 1.9 }
+					}
+				},
+				"m_fFovYDeg": { "type": "float32", "value": 30.4 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			}
+		},
+		"cafec16bb9516700": {
+			"parent": "cafe175d8f63321d",
+			"name": "OptionsCam_Outdoor",
+			"factory": "[modules:/zcameraentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcameraentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -77.1, "y": 0, "z": -168.7 },
+						"position": { "x": -71.9, "y": 92, "z": 27.1 }
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				},
+				"m_fFovYDeg": { "type": "float32", "value": 40.0 }
+			}
+		},
+		"cafe749677be458b": {
+			"parent": "cafe175d8f63321d",
+			"name": "OptionsCam_Caves",
+			"factory": "[modules:/zcameraentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcameraentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -80, "y": 0.0, "z": 180 },
+						"position": { "x": -64.2, "y": -23, "z": 10.7 }
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				},
+				"m_fFovYDeg": { "type": "float32", "value": 45.0 }
+			}
+		},
+		"cafe828cec1a2bcc": {
+			"parent": "cafe175d8f63321d",
+			"name": "OptionsCam_Labs",
+			"factory": "[modules:/zcameraentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcameraentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -76.5, "y": 0, "z": 100.5 },
+						"position": { "x": -52.4, "y": -57.8, "z": 4.5 }
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				},
+				"m_fFovYDeg": { "type": "float32", "value": 42.0 }
+			}
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/coastaltown/location.brick].pc_entitytype"],
+	"subType": "scene",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

@@ -1,0 +1,10 @@
+{
+	"tempHash": "0011E323C2A9568F",
+	"tbluHash": "001EAE67E7BAA6CC",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/paris/screenshot_cams_dev.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

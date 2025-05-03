@@ -1,0 +1,10 @@
+{
+	"tempHash": "003FCA2D355765F6",
+	"tbluHash": "0054408EDD396721",
+	"patch": [
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/coastaltown/screenshot_cams_dev.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}

@@ -7,9 +7,11 @@
 	"version": "2.6.1",
 	"updateCheck": "https://github.com/team-mushroom/lighting-ultimate/releases/latest/download/updates.json",
 	"loadBefore": ["KevinRudd.TODChange", "KevinRudd.FreelancerVariations"],
+	"contentFolders": ["content/packs/_dev"],
 	"options": [
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Safehouse"
@@ -19,10 +21,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Safehouse",
-			"contentFolders": ["vanilla+/s3/snug"]
+			"contentFolders": ["content/packs/vanilla+/s3/snug"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Prologue - Arrival"
@@ -32,10 +35,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Prologue - Arrival",
-			"contentFolders": ["classic/thefacility_arrival"]
+			"contentFolders": ["content/packs/retro/classic/thefacility_arrival"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Prologue - Training"
@@ -45,10 +49,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Prologue - Training",
-			"contentFolders": ["classic/thefacility_yacht"]
+			"contentFolders": ["content/packs/retro/classic/thefacility_yacht"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Prologue - The Final Test"
@@ -58,10 +63,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Prologue - The Final Test",
-			"contentFolders": ["classic/thefacility_hangar"]
+			"contentFolders": ["content/packs/retro/classic/thefacility_hangar"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Paris"
@@ -71,68 +77,82 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["vanilla+/s1/paris"]
+			"contentFolders": ["content/packs/vanilla+/s1/paris"]
+		},
+		{
+			"name": "Silent War Pack",
+			"tooltip": "A modern take on the appearance of the January 2015 build of HITMAN: Silent War.",
+			"type": "select",
+			"group": "Paris",
+			"contentFolders": ["content/packs/retro/silentwar/paris", "content/packs/_shared/paris"]
 		},
 		{
 			"name": "Vintage Pack",
 			"tooltip": "A modern take on the appearance of the July 2015 HITMAN Closed Alpha.",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["alpha/paris", "_shared/paris"]
+			"contentFolders": ["content/packs/retro/alpha/paris", "content/packs/_shared/paris"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["classic/paris", "_shared/paris"]
+			"contentFolders": ["content/packs/retro/classic/paris", "content/packs/_shared/paris"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Paris",
-			"contentFolders": ["goty/paris"]
+			"contentFolders": ["content/packs/retro/goty/paris"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
+			"image": "content/options/s1/coastaltown_octopus/disabled.jpg",
 			"group": "Sapienza - World of Tomorrow"
 		},
 		{
 			"name": "Vanilla+",
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
+			"image": "content/options/s1/coastaltown_octopus/vanilla+.jpg",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["vanilla+/s1/coastaltown_octopus", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/vanilla+/s1/coastaltown_octopus", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "Vintage Pack",
 			"tooltip": "A modern take on the appearance of the July 2015 HITMAN Closed Alpha.",
 			"type": "select",
+			"image": "content/options/s1/coastaltown_octopus/alpha.jpg",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["alpha/coastaltown_octopus", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/retro/alpha/coastaltown_octopus", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
+			"image": "content/options/s1/coastaltown_octopus/classic.jpg",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["classic/coastaltown_octopus", "_shared/coastaltown"],
-			"blobsFolders": ["_blobs/classic/coastaltown/blobs"]
+			"contentFolders": ["content/packs/retro/classic/coastaltown_octopus", "content/packs/_shared/coastaltown"],
+			"blobsFolders": ["content/blobs/classic/coastaltown/blobs"]
 		},
 		{
 			"name": "Classic Pack+",
 			"tooltip": "EXPERIMENTAL - An enhanced and updated version of the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
+			"image": "content/options/s1/coastaltown_octopus/classic+.jpg",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["classic+ s1/coastaltown_octopus", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/retro/classic+/coastaltown_octopus", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
+			"image": "content/options/s1/coastaltown_octopus/goty.jpg",
 			"group": "Sapienza - World of Tomorrow",
 			"dependencies": [
 				{
@@ -140,17 +160,19 @@
 					"toChunk": 26
 				}
 			],
-			"contentFolders": ["goty/coastaltown_octopus", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/retro/goty/coastaltown_octopus", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "H2 Pre-Patch Pack",
 			"tooltip": "Faithfully restores the lighting from the original release of HITMAN 2 (2018), before version 2.14",
 			"type": "select",
+			"image": "content/options/s1/coastaltown_octopus/h2.jpg",
 			"group": "Sapienza - World of Tomorrow",
-			"contentFolders": ["h2 old s1/coastaltown_octopus"]
+			"contentFolders": ["content/packs/retro/h2/coastaltown_octopus"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Sapienza - The Icon"
@@ -160,17 +182,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - The Icon",
-			"contentFolders": ["vanilla+/s1/coastaltown_copperhead", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/vanilla+/s1/coastaltown_copperhead", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Icon",
-			"contentFolders": ["classic/coastaltown_copperhead", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/retro/classic/coastaltown_copperhead", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Sapienza - Landslide"
@@ -180,24 +203,25 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"contentFolders": ["vanilla+/s1/coastaltown_mamba", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/vanilla+/s1/coastaltown_mamba", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"contentFolders": ["classic/coastaltown_mamba", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/retro/classic/coastaltown_mamba", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "H2 Pre-Patch Pack",
 			"tooltip": "Faithfully restores the lighting from the original release of HITMAN 2 (2018), before version 2.14",
 			"type": "select",
 			"group": "Sapienza - Landslide",
-			"contentFolders": ["h2 old s1/coastaltown_mamba"]
+			"contentFolders": ["content/packs/retro/h2/coastaltown_mamba"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Sapienza - The Author"
@@ -207,17 +231,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Sapienza - The Author",
-			"contentFolders": ["vanilla+/s1/coastaltown_ebola", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/vanilla+/s1/coastaltown_ebola", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Sapienza - The Author",
-			"contentFolders": ["goty/coastaltown_ebola", "_shared/coastaltown"]
+			"contentFolders": ["content/packs/retro/goty/coastaltown_ebola", "content/packs/_shared/coastaltown"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Marrakesh - A Gilded Cage"
@@ -227,24 +252,25 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
-			"contentFolders": ["vanilla+/s1/marrakesh_spider"]
+			"contentFolders": ["content/packs/vanilla+/s1/marrakesh_spider"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
-			"contentFolders": ["classic/marrakesh_spider"]
+			"contentFolders": ["content/packs/retro/classic/marrakesh_spider"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - A Gilded Cage",
-			"contentFolders": ["goty/marrakesh_spider"]
+			"contentFolders": ["content/packs/retro/goty/marrakesh_spider"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Marrakesh - A House Built On Sand"
@@ -254,17 +280,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Marrakesh - A House Built On Sand",
-			"contentFolders": ["vanilla+/s1/marrakesh_python", "_shared/marrakesh_python"]
+			"contentFolders": ["content/packs/vanilla+/s1/marrakesh_python", "content/packs/_shared/marrakesh_python"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Marrakesh - A House Built On Sand",
-			"contentFolders": ["classic/marrakesh_python", "_shared/marrakesh_python"]
+			"contentFolders": ["content/packs/retro/classic/marrakesh_python", "content/packs/_shared/marrakesh_python"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Bangkok - Club 27"
@@ -274,24 +301,25 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"contentFolders": ["vanilla+/s1/bangkok_tiger"]
+			"contentFolders": ["content/packs/vanilla+/s1/bangkok_tiger"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"contentFolders": ["classic/bangkok_tiger", "_shared/bangkok"]
+			"contentFolders": ["content/packs/retro/classic/bangkok_tiger", "content/packs/_shared/bangkok"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Bangkok - Club 27",
-			"contentFolders": ["goty/bangkok_tiger", "_shared/bangkok"]
+			"contentFolders": ["content/packs/retro/goty/bangkok_tiger", "content/packs/_shared/bangkok"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Bangkok - The Source"
@@ -301,17 +329,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Bangkok - The Source",
-			"contentFolders": ["goty/bangkok_zika"]
+			"contentFolders": ["content/packs/retro/goty/bangkok_zika"]
 		},
 		{
 			"name": "H2 Pre-Patch Pack",
 			"tooltip": "Faithfully restores the lighting from the original release of HITMAN 2 (2018), before version 2.14",
 			"type": "select",
 			"group": "Bangkok - The Source",
-			"contentFolders": ["h2 old s1/bangkok_zika"]
+			"contentFolders": ["content/packs/retro/h2/bangkok_zika"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Colorado - Freedom Fighters"
@@ -321,24 +350,25 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["vanilla+/s1/colorado_bull", "_shared/colorado"]
+			"contentFolders": ["content/packs/vanilla+/s1/colorado_bull", "content/packs/_shared/colorado"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["classic/colorado_bull", "_shared/colorado"]
+			"contentFolders": ["content/packs/retro/classic/colorado_bull", "content/packs/_shared/colorado"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - Freedom Fighters",
-			"contentFolders": ["goty/colorado_bull", "_shared/colorado"]
+			"contentFolders": ["content/packs/retro/goty/colorado_bull", "content/packs/_shared/colorado"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Colorado - The Vector"
@@ -348,17 +378,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Colorado - The Vector",
-			"contentFolders": ["vanilla+/s1/colorado_rabies"]
+			"contentFolders": ["content/packs/vanilla+/s1/colorado_rabies"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Colorado - The Vector",
-			"contentFolders": ["goty/colorado_rabies"]
+			"contentFolders": ["content/packs/retro/goty/colorado_rabies"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Hokkaido - Situs Inversus"
@@ -368,24 +399,25 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"contentFolders": ["vanilla+/s1/hokkaido_snowcrane", "_shared/hokkaido"]
+			"contentFolders": ["content/packs/vanilla+/s1/hokkaido_snowcrane", "content/packs/_shared/hokkaido"]
 		},
 		{
 			"name": "Classic Pack",
 			"tooltip": "Faithfully restores the classic lighting from the original release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"contentFolders": ["classic/hokkaido_snowcrane", "_shared/hokkaido"]
+			"contentFolders": ["content/packs/retro/classic/hokkaido_snowcrane", "content/packs/_shared/hokkaido"]
 		},
 		{
 			"name": "GOTY Pack",
 			"tooltip": "Faithfully restores the classic lighting from the GOTY release of HITMAN (2016)",
 			"type": "select",
 			"group": "Hokkaido - Situs Inversus",
-			"contentFolders": ["goty/hokkaido_snowcrane", "_shared/hokkaido"]
+			"contentFolders": ["content/packs/retro/goty/hokkaido_snowcrane", "content/packs/_shared/hokkaido"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Hokkaido - Patient Zero"
@@ -395,10 +427,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting from the legacy updates",
 			"type": "select",
 			"group": "Hokkaido - Patient Zero",
-			"contentFolders": ["goty/hokkaido_flu"]
+			"contentFolders": ["content/packs/retro/goty/hokkaido_flu"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Hawke's Bay"
@@ -408,10 +441,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Hawke's Bay",
-			"contentFolders": ["vanilla+/s2/sheep"]
+			"contentFolders": ["content/packs/vanilla+/s2/sheep"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Miami"
@@ -421,10 +455,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Miami",
-			"contentFolders": ["vanilla+/s2/miami"]
+			"contentFolders": ["content/packs/vanilla+/s2/miami"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Santa Fortuna"
@@ -434,10 +469,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Santa Fortuna",
-			"contentFolders": ["vanilla+/s2/colombia"]
+			"contentFolders": ["content/packs/vanilla+/s2/colombia"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Mumbai"
@@ -447,10 +483,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Mumbai",
-			"contentFolders": ["vanilla+/s2/mumbai"]
+			"contentFolders": ["content/packs/vanilla+/s2/mumbai"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Whittleton Creek"
@@ -460,10 +497,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Whittleton Creek",
-			"contentFolders": ["vanilla+/s2/skunk"]
+			"contentFolders": ["content/packs/vanilla+/s2/skunk"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Isle of Sgail"
@@ -473,10 +511,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Isle of Sgail",
-			"contentFolders": ["vanilla+/s2/theark"]
+			"contentFolders": ["content/packs/vanilla+/s2/theark"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "New York"
@@ -486,10 +525,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "New York",
-			"contentFolders": ["vanilla+/s2/greedy"]
+			"contentFolders": ["content/packs/vanilla+/s2/greedy"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Haven Island"
@@ -499,10 +539,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Haven Island",
-			"contentFolders": ["vanilla+/s2/opulent"]
+			"contentFolders": ["content/packs/vanilla+/s2/opulent"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Himmelstein"
@@ -512,10 +553,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Himmelstein",
-			"contentFolders": ["vanilla+/sniper/hawk"]
+			"contentFolders": ["content/packs/vanilla+/sniper/hawk"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Hantu Port"
@@ -525,10 +567,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Hantu Port",
-			"contentFolders": ["vanilla+/sniper/salty"]
+			"contentFolders": ["content/packs/vanilla+/sniper/salty"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Siberia"
@@ -538,10 +581,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Siberia",
-			"contentFolders": ["vanilla+/sniper/caged"]
+			"contentFolders": ["content/packs/vanilla+/sniper/caged"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Dubai"
@@ -551,10 +595,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Dubai",
-			"contentFolders": ["vanilla+/s3/golden"]
+			"contentFolders": ["content/packs/vanilla+/s3/golden"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Dartmoor"
@@ -564,10 +609,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Dartmoor",
-			"contentFolders": ["vanilla+/s3/ancestral"]
+			"contentFolders": ["content/packs/vanilla+/s3/ancestral"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Berlin"
@@ -577,17 +623,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Berlin",
-			"contentFolders": ["vanilla+/s3/edgy", "_shared/edgy"]
+			"contentFolders": ["content/packs/vanilla+/s3/edgy", "content/packs/_shared/edgy"]
 		},
 		{
 			"name": "Hollywood",
 			"tooltip": "A more intense and cinematic setting, taking inspiration from classic and modern movies, including emulation of 35mm film stock.",
 			"type": "select",
 			"group": "Berlin",
-			"contentFolders": ["hollywood/edgy", "_shared/edgy"]
+			"contentFolders": ["content/packs/hollywood/edgy", "content/packs/_shared/edgy"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Chongqing"
@@ -597,17 +644,18 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Chongqing",
-			"contentFolders": ["vanilla+/s3/wet", "_shared/wet"]
+			"contentFolders": ["content/packs/vanilla+/s3/wet", "content/packs/_shared/wet"]
 		},
 		{
 			"name": "Hollywood",
 			"tooltip": "A more intense and cinematic setting, taking inspiration from classic and modern movies, including emulation of 35mm film stock.",
 			"type": "select",
 			"group": "Chongqing",
-			"contentFolders": ["hollywood/wet", "_shared/wet"]
+			"contentFolders": ["content/packs/hollywood/wet", "content/packs/_shared/wet"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Mendoza"
@@ -617,10 +665,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Mendoza",
-			"contentFolders": ["vanilla+/s3/elegant"]
+			"contentFolders": ["content/packs/vanilla+/s3/elegant"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Carpathian Mountains"
@@ -630,10 +679,11 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Carpathian Mountains",
-			"contentFolders": ["vanilla+/s3/trapped"]
+			"contentFolders": ["content/packs/vanilla+/s3/trapped"]
 		},
 		{
 			"name": "Off",
+			"tooltip": "Disabled",
 			"type": "select",
 			"enabledByDefault": true,
 			"group": "Ambrose Island"
@@ -643,7 +693,7 @@
 			"tooltip": "A cleaner and clearer version of the vanilla lighting",
 			"type": "select",
 			"group": "Ambrose Island",
-			"contentFolders": ["vanilla+/s3/rocky"]
+			"contentFolders": ["content/packs/vanilla+/s3/rocky"]
 		}
 	]
 }

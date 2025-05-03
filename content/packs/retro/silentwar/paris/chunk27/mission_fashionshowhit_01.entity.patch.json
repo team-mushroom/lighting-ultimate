@@ -1,0 +1,10 @@
+{
+	"tempHash": "005A0810DBF0C2D0",
+	"tbluHash": "000F7CA5C9AC4EF4",
+	"patch": [
+		{
+			"RemoveExternalScene": "[assembly:/_pro/scenes/missions/paris/lighting_newlook.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}
